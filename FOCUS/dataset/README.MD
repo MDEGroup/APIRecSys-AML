@@ -1,2 +1,2 @@
-# The dataset strucure
-A brief description here
+# The dataset structure
+Here a brief description
