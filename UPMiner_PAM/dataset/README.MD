@@ -1,12 +1,10 @@
 # The dataset structure
 
-This folder contains the datasets employed to perform the experiments using the parameter settings. As discussed in the paper, we used three main paramenters to build the datasets:
-
- - alpha: is the ratio of projects injected with fake APIs (%);
- - omega: is the number of fake APIs injected to each declaration;
- - beta: is the ratio of methods in a project getting fake APIs (%)
-
-Thus, we resemble this structure in the definition of the different dataset. We report just the structure of the *AML_alpha_5* folder as explanatory example.
+This folder contains the datasets employed to perform the experiments using the parameter settings. As discussed in the paper, we used three main parameters to build the datasets:
+alpha: is the ratio of projects injected with fake APIs (%);
+omega: is the number of fake APIs injected into each declaration;
+beta: is the ratio of methods in a project getting fake APIs (%)
+Thus, we resemble this structure in the definition of the different datasets. We report just the structure of the AML_alpha_5 folder as an explanatory example.
 
 ```
 ARFF_fake_datasets
