@@ -1,14 +1,14 @@
-##  How to generate infected datasets
+#  How to generate infected datasets
 
 This subpackage containts the needed functions to replicate the study conducted in the paper. To insert fake API invocations in the ARFF file format, you have to install **liac-arff** library in your Python environment available [here](https://github.com/renatopp/liac-arff). 
-# Code structure
+## Code structure
 The **injector.py** file contains the following utility functions: 
 
  - *generate_fake_content(declaration, api_fake)*: It injects a fake API in a given declaration;
  - *inject_system(arff_obj, half_decl,api, api2)*: It makes used of the previous function to modify the specified ratio of ARFF file
  - *hit_ratio(file, num_rec, fake_1, fake_2)*: It computes the hit ratio value for a certain number of recommendation	
 
-# Running example
+## Running example
 	
 To replicate the results obtained, you to run the following main functions on the prepared dataset described [here](https://github.com/ASE2021-AML/APIRecSys/tree/master/UPMiner_PAM/dataset).	
 The two main functions are the following:
