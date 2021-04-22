@@ -1,0 +1,24 @@
+android/database/Cursor/getColumnIndex(java.lang.String), java/util/ArrayList/ArrayList(), de/freewarepoint/whohasmystuff/AddObject/getApplicationContext(), java/lang/String/trim(), android/database/Cursor/close(), java/util/Collections/sort(java.util.List), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,10000
+android/content/Intent/getExtras(), de/freewarepoint/whohasmystuff/ListLentObjects/setArguments(android.os.Bundle), de/freewarepoint/whohasmystuff/MainActivity/findViewById(int), de/freewarepoint/whohasmystuff/MainActivity/getIntent(), android/app/FragmentTransaction/commit(), de/freewarepoint/whohasmystuff/MainActivity/getFragmentManager(), android/app/FragmentManager/beginTransaction(  0,05000
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/text/SimpleDateFormat/SimpleDateFormat(java.lang.String  0,05000
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Date/Date(long), android/widget/Button/setVisibility(int), java/text/DateFormat/getDateInstance(int), android/widget/Button/setText(int), de/freewarepoint/whohasmystuff/AddObject/getString(int  0,05000
+java/lang/StringBuilder/append(int), android/database/Cursor/getColumnIndexOrThrow(java.lang.String), java/lang/StringBuilder/append(long), java/text/DateFormat/parse(java.lang.String)  0,05000
+java/lang/Long/parseLong(java.lang.String), org/xml/sax/Attributes/getLength(), org/xml/sax/Attributes/getLocalName(int), org/xml/sax/Attributes/getValue(int), java/lang/String/equals(java.lang.Object), android/net/Uri/parse(java.lang.String), java/util/Date/Date(long), java/lang/Integer/parseInt(java.lang.String), java/util/List/add(java.lang.Object  0,05000
+java.util.Calendar)  0,05000
+android/os/Bundle/putString(java.lang.String  0,05000
+android/database/sqlite/SQLiteDatabase/insert(java.lang.String  0,05000
+android.content.ContentValues)  0,05000
+android/widget/TextView/setText(java.lang.CharSequence), java/text/DateFormat/format(java.util.Date), android/os/Bundle/getString(java.lang.String), de/freewarepoint/whohasmystuff/AddObject/setTitle(int), java/lang/StringBuilder/toString(), java/lang/Long/valueOf(long), android/os/Bundle/getLong(java.lang.String), android/os/Bundle/getInt(java.lang.String), android/widget/Spinner/setSelection(int), android/widget/AutoCompleteTextView/setText(java.lang.CharSequence)  0,05000
+android/app/FragmentTransaction/commit(), android/content/Intent/Intent(android.content.Context  0,05000
+de/freewarepoint/whohasmystuff/AddObject/getIntent(), de/freewarepoint/whohasmystuff/AddObject/setTitle(int), de/freewarepoint/whohasmystuff/AddObject/findViewById(int), android/widget/ArrayAdapter/setDropDownViewResource(int), android/widget/CheckBox/setVisibility(int), android/widget/ArrayAdapter/createFromResource(android.content.Context  0,05000
+android/os/Bundle/containsKey(java.lang.String), android/widget/ImageButton/setOnClickListener(android.view.View$OnClickListener), android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter), java/util/Date/getTime()  0,05000
+int  0,05000
+long)  0,05000
+android/app/Activity/setTitle(int), de/freewarepoint/whohasmystuff/AbstractListFragment/getActivity(), de/freewarepoint/whohasmystuff/AbstractListFragment/setHasOptionsMenu(boolean), android/content/res/Resources/getString(int), de/freewarepoint/whohasmystuff/AlertDialogFragment/show(android.app.FragmentManager  0,05000
+java/io/BufferedWriter/BufferedWriter(java.io.Writer), java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream  0,05000
+android/app/Activity/checkSelfPermission(java.lang.String), android/app/Activity/getPreferences(int), de/freewarepoint/whohasmystuff/AbstractListFragment/getFragmentManager(), android/content/SharedPreferences$Editor/apply()  0,05000
+android.database.Cursor  0,05000
+android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), de/freewarepoint/whohasmystuff/AlertDialogFragment/getActivity(), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,05000
+android/os/Environment/getExternalStorageState()  0,05000
+java/io/Reader/close(), java/util/Iterator/hasNext(), org/xml/sax/helpers/XMLReaderFactory/createXMLReader(), java/io/IOException/getMessage(), org/xml/sax/SAXException/getMessage(), java/util/Iterator/next(), android/util/Log/e(java.lang.String  0,05000
+android/content/res/Resources/getString(int), de/freewarepoint/whohasmystuff/AlertDialogFragment/show(android.app.FragmentManager  0,05000

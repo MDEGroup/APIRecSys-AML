@@ -1,0 +1,105 @@
+prob: 0,10526
+[java.lang.String]
+
+prob: 0,07895
+[java.io.FileDescriptor]
+
+prob: 0,05263
+[int)]
+
+prob: 0,05263
+[java/util/ArrayList/iterator(), android/util/Log/v(java.lang.String]
+
+prob: 0,05263
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int]
+
+prob: 0,05263
+[android/util/Log/v(java.lang.String]
+
+prob: 0,02632
+[java/util/WeakHashMap/WeakHashMap(), java/util/ArrayList/remove(int), java/util/ArrayList/isEmpty(), java/util/WeakHashMap/put(java.lang.Object]
+
+prob: 0,02632
+[android/view/ViewGroup/removeViewAt(int), android/util/Log/v(java.lang.String]
+
+prob: 0,02632
+[int]
+
+prob: 0,02632
+[androidx.fragment.app.a)]
+
+prob: 0,02632
+[java/util/ArrayList/size()]
+
+prob: 0,02632
+[java/util/HashSet/iterator(), java/util/Iterator/hasNext(), java/lang/System/identityHashCode(java.lang.Object), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(java.lang.Object), java/util/HashMap/keySet(), java/lang/Integer/toHexString(int), java/lang/StringBuilder/StringBuilder(java.lang.String]
+
+prob: 0,02632
+[androidx.fragment.app.Fragment]
+
+prob: 0,02632
+[android/graphics/drawable/Drawable/setBounds(int]
+
+prob: 0,02632
+[android.content.ComponentName)]
+
+prob: 0,02632
+[java.util.ArrayList]
+
+prob: 0,02632
+[java/lang/String/valueOf(java.lang.Object), android/graphics/Bitmap/getWidth(), java/lang/String/format(java.lang.String]
+
+prob: 0,02632
+[android/widget/ExpandableListView/getPackedPositionType(long), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02632
+[android.view.View]
+
+prob: 0,02632
+[androidx.lifecycle.a$b]
+
+prob: 0,02632
+[java.lang.reflect.Method[])]
+
+prob: 0,02632
+[java.io.PrintWriter]
+
+prob: 0,02632
+[java/lang/reflect/Constructor/newInstance(java.lang.Object[]), java/lang/IllegalStateException/IllegalStateException(java.lang.String]
+
+prob: 0,02632
+[android/content/ComponentName/getClassName(), android/app/Activity/getPackageManager(), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,02632
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Dialog/setContentView(android.view.View), android/app/Dialog/setCancelable(boolean), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(]
+
+prob: 0,02632
+[java.lang.StringBuilder)]
+
+prob: 0,02632
+[android.view.KeyEvent)]
+
+prob: 0,02632
+[java/lang/reflect/Constructor/setAccessible(boolean), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/Class/forName(java.lang.String), java/lang/Package/getName(), java/lang/Class/getPackage(), java/lang/reflect/Constructor/isAccessible(]
+
+prob: 0,02632
+[java/lang/RuntimeException/RuntimeException(java.lang.Throwable), java/lang/String/length(), java/lang/Class/getCanonicalName(), java/lang/Class/getDeclaredConstructor(java.lang.Class[]), java/lang/String/isEmpty(), java/lang/String/substring(int)]
+
+prob: 0,02632
+[java/lang/Class/getInterfaces(), java/lang/Class/getCanonicalName(), java/util/List/addAll(java.util.Collection), java/util/Collections/singletonList(java.lang.Object), java/util/Map/put(java.lang.Object]
+
+prob: 0,02632
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,02632
+[android.view.LayoutInflater$Factory2)]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)]
+
+prob: 0,02632
+[java/lang/StringBuilder/StringBuilder()]
+

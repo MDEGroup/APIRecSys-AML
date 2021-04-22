@@ -1,0 +1,27 @@
+prob: 0,30000
+[java.lang.String)]
+
+prob: 0,10000
+[java/lang/String/valueOf(java.lang.Object), java/util/ArrayList/size(]
+
+prob: 0,10000
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), android/content/Context/getSharedPreferences(java.lang.String]
+
+prob: 0,10000
+[mobi/omegacentauri/FastLaunch/GetApps/publishProgress(java.lang.Object[]), android/util/Log/v(java.lang.String]
+
+prob: 0,10000
+[mobi/omegacentauri/FastLaunch/Popup/requestWindowFeature(int), mobi/omegacentauri/FastLaunch/Popup/getLayoutInflater(), android/view/LayoutInflater/inflate(int]
+
+prob: 0,10000
+[int]
+
+prob: 0,10000
+[java/util/Iterator/hasNext(), android/view/View/setVisibility(int), java/util/Map/get(java.lang.Object), java/util/Set/toArray(), mobi/omegacentauri/FastLaunch/Popup/getSharedPreferences(java.lang.String]
+
+prob: 0,10000
+[java/io/BufferedWriter/BufferedWriter(java.io.Writer), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), java/io/FileWriter/FileWriter(java.lang.String), java/io/BufferedWriter/close(), java/io/BufferedWriter/write(java.lang.String)]
+
+prob: 0,10000
+[android.view.View]
+

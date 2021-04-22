@@ -1,0 +1,37 @@
+java/lang/StringBuilder/toString()  0,16667
+com/selbie/wrek/AboutActivity/findViewById(int), java/lang/StringBuilder/StringBuilder()  0,11111
+java/util/Iterator/hasNext()  0,11111
+java/lang/StringBuilder/append(java.lang.String)  0,11111
+java/net/URL/URL(java.lang.String), java/lang/StringBuilder/append(char[  0,05556
+java/net/HttpURLConnection/setConnectTimeout(int)  0,05556
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/next(), java/util/Map$Entry/getKey(), java/lang/StringBuilder/StringBuilder(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(  0,05556
+java/util/LinkedHashMap/entrySet(), java/lang/Class/getName(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object), java/lang/StringBuilder/append(java.lang.String)  0,05556
+java/util/Set/iterator()  0,05556
+java/lang/StringBuilder/append(java.lang.String), java/net/ServerSocket/getLocalPort(), java/net/ServerSocket/getLocalSocketAddress(), java/net/InetSocketAddress/getAddress(), java/net/InetAddress/getHostAddress(), java/net/ServerSocket/setSoTimeout(int), java/net/ServerSocket/ServerSocket(int  0,05556
+java/util/ArrayList/iterator(), java/util/ArrayList/ArrayList(), java/net/Socket/getInputStream(), java/util/Iterator/next(), java/util/ArrayList/size(), java/util/StringTokenizer/StringTokenizer(java.lang.String), java/util/StringTokenizer/hasMoreTokens(), java/util/ArrayList/get(int), java/lang/String/equals(java.lang.Object), java/util/ArrayList/add(java.lang.Object), android/util/Log/d(java.lang.String  0,05556
+java/util/ArrayList/iterator(), android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable), java/lang/Object/equals(java.lang.Object), java/util/Iterator/hasNext(), com/koushikdutta/urlimageviewhelper/DrawableCache/put(java.lang.Object  0,05556
+java/util/ArrayList/iterator(), java/net/HttpURLConnection/getHeaderField(java.lang.String), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/addRequestProperty(java.lang.String  0,05556
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/content/res/Resources/getString(int), com/selbie/wrek/AboutActivity/setContentView(int), android/text/Html/fromHtml(java.lang.String), android/text/method/LinkMovementMethod/getInstance(), com/selbie/wrek/AboutActivity/getResources(), android/os/Bundle/getInt(java.lang.String  0,05556
+android/app/Activity/onCreate(android.os.Bundle)  0,05556
+android/widget/TextView/setOnClickListener(android.view.View$OnClickListener)  0,05556
+com/selbie/wrek/AboutActivity/getString(int)  0,05556
+android/content/res/Resources/getDisplayMetrics(), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), com/selbie/wrek/AboutActivity/getPackageName(), java/lang/StringBuilder/toString(  0,05556
+android/util/DisplayMetrics/toString(), java/lang/StringBuilder/append(int), com/selbie/wrek/AboutActivity/getResources()  0,05556
+java/net/HttpURLConnection/getInputStream()  0,05556
+org/apache/http/NameValuePair/getName()  0,05556
+java/lang/Throwable/printStackTrace()  0,05556
+android/media/MediaPlayer/prepareAsync(), java/lang/StringBuilder/append(int)  0,05556
+android/media/MediaPlayer/setDataSource(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,05556
+java/util/Iterator/hasNext(), java/net/HttpURLConnection/setInstanceFollowRedirects(boolean)  0,05556
+java/net/InetAddress/getHostAddress(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,05556
+android.widget.ImageView  0,05556
+java.lang.String  0,05556
+long)  0,05556
+android.view.View  0,05556
+android/util/Log/w(java.lang.String  0,05556
+boolean  0,05556
+android/app/Notification$Builder/setLargeIcon(android.graphics.Bitmap), android/app/Notification$Builder/build(), android/graphics/BitmapFactory/decodeResource(android.content.res.Resources  0,05556
+java/net/URL/openConnection(), java/net/HttpURLConnection/setReadTimeout(int), java/lang/StringBuilder/append(int), android/util/Log/wtf(java.lang.String  0,05556
+java/net/URL/openConnection()  0,05556
+java/util/Iterator/next()  0,05556
+java/lang/StringBuilder/append(int)  0,05556

@@ -1,0 +1,6 @@
+android/content/SharedPreferences/getBoolean(java.lang.String,boolean
+java/lang/StringBuilder/append(java.lang.String)
+it/simoneloru/ctmdroid/activities/MainActivity/setContentView(int)
+android/content/Context/getResources(
+java/io/InputStream/available()
+java/io/ByteArrayOutputStream/toString(

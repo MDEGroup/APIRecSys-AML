@@ -1,0 +1,13 @@
+org.api.fake  0,25000
+android.database.sqlite.SQLiteDatabase)  0,12500
+android/widget/EditText/setError(java.lang.CharSequence), com/chrisheald/flexauth/AddToken/findViewById(int), com/chrisheald/flexauth/AddToken/setResult(int  0,06250
+android.view.View  0,06250
+android.content.Intent)  0,06250
+com/chrisheald/flexauth/FlexAuth/getSharedPreferences(java.lang.String  0,06250
+java/net/HttpURLConnection/disconnect(), java/io/InputStream/read(byte[), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/getResponseCode(), java/lang/Integer/parseInt(java.lang.String), java/net/HttpURLConnection/getHeaderField(java.lang.String), java/math/BigInteger/longValue(), java/net/HttpURLConnection/getInputStream(), java/lang/System/currentTimeMillis(), java/net/HttpURLConnection/setDoInput(boolean), java/net/HttpURLConnection/setDoOutput(boolean), java/net/HttpURLConnection/setUseCaches(boolean), java/net/URL/openConnection(), java/net/HttpURLConnection/setAllowUserInteraction(boolean), java/lang/String/format(java.lang.String  0,06250
+java/net/HttpURLConnection/disconnect(), java/io/InputStream/read(byte[), java/net/HttpURLConnection/getOutputStream(), java/math/BigInteger/valueOf(long), java/math/BigInteger/modPow(java.math.BigInteger  0,06250
+int[)  0,06250
+android/os/Bundle/getInt(java.lang.String  0,06250
+android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), android/view/MenuItem/getItemId(), android/content/res/AssetManager/open(java.lang.String), java/io/InputStreamReader/InputStreamReader(java.io.InputStream  0,06250
+java/lang/String/toLowerCase()  0,06250
+java/security/InvalidKeyException/InvalidKeyException(), java/nio/ByteBuffer/put(byte[), javax/crypto/spec/SecretKeySpec/SecretKeySpec(byte[  0,06250

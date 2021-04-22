@@ -1,0 +1,5 @@
+java/lang/StringBuilder/toString()
+android/database/Cursor/getColumnIndex(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org.api.fake
+java/lang/StringBuilder/StringBuilder()

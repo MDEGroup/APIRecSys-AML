@@ -1,0 +1,21 @@
+android.view.View  0,11111
+android/content/SharedPreferences/getString(java.lang.String  0,05556
+char)  0,05556
+java/util/ArrayList/ArrayList(), java/io/FileInputStream/read(byte[), java/io/IOException/printStackTrace(), java/io/FileInputStream/available(), java/io/FileInputStream/read(), java/util/ArrayList/add(java.lang.Object), java/lang/String/String(byte[), java/io/File/length(), java/io/FileInputStream/skip(long), java/lang/System/arraycopy(java.lang.Object  0,05556
+java/util/ArrayList/ArrayList(), java/io/File/getParent(), java/io/File/isDirectory(), java/io/File/isHidden(), java/io/File/canRead(), java/util/List/addAll(java.util.Collection), java/util/Collections/sort(java.util.List  0,05556
+org/mariotaku/anokicert/activity/DeviceSelectorActivity/finish(), android/bluetooth/BluetoothAdapter/getBondedDevices(), android/app/ListActivity/onCreate(android.os.Bundle  0,05556
+int)  0,05556
+java/security/cert/CertificateFactory/generateCertificate(java.io.InputStream), java/security/cert/X509Certificate/getSubjectX500Principal(), java/lang/String/substring(int), javax/security/auth/x500/X500Principal/getName(java.lang.String), java/lang/String/startsWith(java.lang.String), java/security/cert/CertificateException/getMessage(), javax/security/auth/x500/X500Principal/getName(), java/lang/StringBuilder/toString(), java/lang/String/split(java.lang.String), java/security/cert/X509Certificate/getIssuerX500Principal(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/trim(), java/security/cert/CertificateFactory/getInstance(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String  0,05556
+android/bluetooth/BluetoothAdapter/isEnabled(), java/util/Iterator/hasNext(), org/mariotaku/anokicert/activity/DeviceSelectorActivity/setContentView(int), java/util/Iterator/next(), android/bluetooth/BluetoothAdapter/getDefaultAdapter(), java/util/Set/iterator(), org/mariotaku/anokicert/activity/DeviceSelectorActivity/setListAdapter(android.widget.ListAdapter)  0,05556
+java.lang.String  0,05556
+java.io.File)  0,05556
+java/io/InputStream/read(byte[), java/lang/System/arraycopy(java.lang.Object  0,05556
+java/lang/StringBuilder/append(int), java/io/IOException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,05556
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/substring(int  0,05556
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Base64/decode(java.lang.String  0,05556
+java/lang/String/length()  0,05556
+android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int  0,05556
+android/view/View/setVisibility(int), android/os/Bundle/getSerializable(java.lang.String), android/os/Bundle/getParcelable(java.lang.String), org/mariotaku/anokicert/activity/MainActivity/requestWindowFeature(int), java/io/File/isFile(), org/mariotaku/anokicert/activity/MainActivity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), org/mariotaku/anokicert/activity/MainActivity/getFragmentManager(), org/mariotaku/anokicert/activity/MainActivity/getActionBar(  0,05556
+int  0,05556
+android/app/AlertDialog$Builder/setPositiveButton(int  0,05556
+android/bluetooth/BluetoothAdapter/getDefaultAdapter()  0,05556

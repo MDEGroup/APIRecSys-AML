@@ -1,0 +1,97 @@
+java.io.File  0,11429
+int  0,05714
+android.net.Uri)  0,05714
+java.lang.String)  0,05714
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,05714
+java/lang/StringBuilder/StringBuilder()  0,05714
+java/lang/StringBuilder/append(java.lang.String)  0,05714
+java.lang.String  0,04286
+java.io.File)  0,04286
+java/io/IOException/IOException(java.lang.String), java/io/File/isDirectory(), java/io/File/exists(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(  0,04286
+java/util/Iterator/hasNext()  0,04286
+android.view.View  0,02857
+java/util/List/size()  0,02857
+android/content/Intent/putExtra(java.lang.String  0,01429
+org.apache.http.protocol.HttpContext)  0,01429
+java/lang/Object/getClass()  0,01429
+java/io/File/getPath()  0,01429
+java/lang/Object/toString()  0,01429
+java/lang/Class/getSimpleName(  0,01429
+java.lang.Object[)  0,01429
+java/nio/ByteBuffer/compact(), java/lang/String/equals(java.lang.Object), java/nio/charset/CharsetDecoder/decode(java.nio.ByteBuffer  0,01429
+java/nio/ByteBuffer/compact(), java/nio/CharBuffer/remaining(), java/nio/CharBuffer/position(int), java/nio/ByteBuffer/flip(), java/nio/charset/CharsetEncoder/encode(java.nio.CharBuffer  0,01429
+java/util/Map/get(java.lang.Object)  0,01429
+java/lang/Iterable/iterator()  0,01429
+java/util/Set/add(java.lang.Object)  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/RecordingSendActivity/a(java.lang.String), kaljurand_at_gmail_dot_com/diktofon/activity/RecordingSendActivity/finish(), android/os/Bundle/get(java.lang.String), java/lang/String/format(java.lang.String  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/a/onCreate(android.os.Bundle)  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/TagSelectorActivity/finish(), android/content/Intent/getExtras(), java/util/HashSet/HashSet(), java/util/HashSet/HashSet(java.util.Collection), android/widget/ListView/setAdapter(android.widget.ListAdapter), java/util/ArrayList/ArrayList(), android/os/Bundle/getStringArrayList(java.lang.String), android/os/Bundle/getBoolean(java.lang.String), android/view/View/setOnClickListener(android.view.View$OnClickListener), kaljurand_at_gmail_dot_com/diktofon/activity/TagSelectorActivity/findViewById(int  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/TagSelectorActivity/setContentView(int)  0,01429
+android/app/Activity/onCreate(android.os.Bundle)  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/TagSelectorActivity/getIntent()  0,01429
+android/widget/ListView/setAdapter(android.widget.ListAdapter), android/widget/ListView/setFastScrollEnabled(boolean), kaljurand_at_gmail_dot_com/diktofon/activity/SpeakerListActivity/registerForContextMenu(android.view.View), kaljurand_at_gmail_dot_com/diktofon/activity/SpeakerListActivity/managedQuery(android.net.Uri  0,01429
+java/util/ArrayList/ArrayList(), java/util/ArrayList/toArray(java.lang.Object[), java/lang/StringBuilder/append(char), java/lang/String/toCharArray(), java/lang/StringBuilder/length(), java/lang/StringBuilder/toString(  0,01429
+long  0,01429
+java/util/Iterator/hasNext(), java/util/Set/iterator(), java/util/Map/keySet(), java/lang/Long/longValue(  0,01429
+java/util/Iterator/hasNext(), java/lang/String/substring(int  0,01429
+java/util/Iterator/hasNext(), java/io/IOException/getMessage(), java/util/Iterator/next(), java/util/HashSet/HashSet(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(  0,01429
+boolean  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/SpeakerListActivity/getString(int), kaljurand_at_gmail_dot_com/diktofon/activity/b/onCreate(android.os.Bundle), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), kaljurand_at_gmail_dot_com/diktofon/activity/SpeakerListActivity/getListView()  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/b/onContextItemSelected(android.view.MenuItem)  0,01429
+org/w3c/dom/NodeList/getLength(), java/util/Map/put(java.lang.Object  0,01429
+org/w3c/dom/Element/getElementsByTagName(java.lang.String), org/w3c/dom/NodeList/item(int), org/w3c/dom/Node/getAttributes(), org/w3c/dom/NamedNodeMap/getNamedItem(java.lang.String), org/w3c/dom/Node/getNodeValue()  0,01429
+java/lang/StringBuilder/setLength(int), java/util/ArrayList/size(), java/lang/String/indexOf(int)  0,01429
+java/util/ArrayList/add(java.lang.Object)  0,01429
+android/app/Notification$Builder/build(), android/app/Notification$Builder/setContentText(java.lang.CharSequence), android/app/Notification$Builder/Notification$Builder(android.content.Context), android/app/Notification$Builder/setAutoCancel(boolean), kaljurand_at_gmail_dot_com/diktofon/service/PlayerService/a(android.app.Notification  0,01429
+long)  0,01429
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/nio/CharBuffer/position(), java/nio/ByteBuffer/limit(int  0,01429
+android/database/Cursor/getColumnIndex(java.lang.String), kaljurand_at_gmail_dot_com/diktofon/activity/SpeakerListActivity/getListView(), kaljurand_at_gmail_dot_com/diktofon/activity/SpeakerListActivity/getString(int), android/database/Cursor/getLong(int), android/app/AlertDialog/show(), android/widget/ListView/getItemAtPosition(int), android/database/Cursor/getString(int), android/view/MenuItem/getMenuInfo(), android/view/MenuItem/getItemId(), java/lang/String/format(java.lang.String  0,01429
+android/database/Cursor/getColumnIndex(java.lang.String), java/util/Map/put(java.lang.Object  0,01429
+android/widget/ScrollView/getScrollY(), kaljurand_at_gmail_dot_com/diktofon/activity/a/onStop(), android/content/SharedPreferences$Editor/apply(), java/lang/String/format(java.lang.String  0,01429
+android/content/SharedPreferences/edit()  0,01429
+java/nio/CharBuffer/rewind(), java/nio/charset/CharsetEncoder/reset(), java/lang/StringBuilder/append(int), java/nio/ByteBuffer/rewind(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,01429
+b.a.a.a.a.c  0,01429
+android/text/method/LinkMovementMethod/getInstance(), java/io/IOException/getMessage(), java/io/File/File(java.lang.String), android/widget/TextView/setTextColor(int), java/lang/StringBuilder/toString(), android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/content/res/Resources/getColor(int), android/widget/ScrollView/post(java.lang.Runnable), kaljurand_at_gmail_dot_com/diktofon/activity/TransActivity/getString(int), android/content/SharedPreferences/getInt(java.lang.String  0,01429
+android/widget/TextView/setText(java.lang.CharSequence)  0,01429
+org/xml/sax/SAXException/getMessage()  0,01429
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), java/lang/String/format(java.lang.String  0,01429
+java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getAction(), java/lang/String/equals(java.lang.Object), android/provider/SearchRecentSuggestions/SearchRecentSuggestions(android.content.Context  0,01429
+java/lang/StringBuilder/append(java.lang.String), java/io/File/listFiles()  0,01429
+java/lang/StringBuilder/append(java.lang.String), java/io/File/delete()  0,01429
+java/lang/StringBuilder/append(java.lang.String), java/io/FileInputStream/FileInputStream(java.io.File)  0,01429
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/math/BigInteger/valueOf(long), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/TransActivity/startService(android.content.Intent), android/content/Intent/Intent(android.content.Context  0,01429
+java.lang.ClassLoader)  0,01429
+java/io/File/isDirectory(), java/lang/StringBuilder/append(java.lang.Object), java/io/File/length(  0,01429
+java/nio/charset/Charset/decode(java.nio.ByteBuffer), java/nio/ByteBuffer/clear(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int), java/lang/Integer/parseInt(java.lang.String  0,01429
+java/nio/ByteBuffer/allocate(int), java/nio/ByteBuffer/put(byte), java/nio/charset/Charset/newDecoder(), java/nio/CharBuffer/allocate(int)  0,01429
+java/nio/ByteBuffer/position()  0,01429
+java/nio/ByteBuffer/position(int)  0,01429
+java/lang/String/length()  0,01429
+boolean)  0,01429
+java/io/File/canRead(), java/io/FileNotFoundException/FileNotFoundException(java.lang.String)  0,01429
+java.lang.String[  0,01429
+android.content.ContentValues)  0,01429
+android.content.ContentValues  0,01429
+org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient(), org/apache/http/client/methods/HttpPost/HttpPost(java.lang.String), org/apache/http/client/HttpClient/getConnectionManager(), org/apache/http/client/HttpClient/getParams(), org/apache/http/conn/ClientConnectionManager/shutdown(), org/apache/http/client/methods/HttpPost/setEntity(org.apache.http.HttpEntity), b/a/a/a/b/a(org.apache.http.client.methods.HttpUriRequest), org/apache/http/HttpResponse/getFirstHeader(java.lang.String  0,01429
+java/util/Iterator/remove(), java/lang/String/equalsIgnoreCase(java.lang.String), java/util/Iterator/next(), java/util/List/clear(), java/util/List/add(java.lang.Object), java/util/List/add(int  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/AboutActivity/findViewById(int)  0,01429
+java/util/Collections/enumeration(java.util.Collection), java/util/Iterator/next(), java/io/SequenceInputStream/SequenceInputStream(java.util.Enumeration), java/util/ArrayList/ArrayList(int), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[  0,01429
+java/io/File/listFiles(java.io.FilenameFilter), java/lang/StringBuilder/append(java.lang.String), kaljurand_at_gmail_dot_com/diktofon/activity/RecordingListActivity$a/execute(java.lang.Object[), java/lang/StringBuilder/append(java.lang.Object), kaljurand_at_gmail_dot_com/diktofon/activity/RecordingListActivity/getString(int  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/RecordingListActivity/getApplicationContext()  0,01429
+kaljurand_at_gmail_dot_com/diktofon/activity/RecordingListActivity/a(java.lang.String)  0,01429
+java/lang/StringBuilder/append(char)  0,01429
+android/widget/ListView/setFastScrollEnabled(boolean)  0,01429
+android/content/Intent/Intent(android.content.Context  0,01429
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,01429
+java/nio/ByteBuffer/allocate(int)  0,01429
+java/nio/ByteBuffer/put(byte)  0,01429
+java/nio/ByteBuffer/flip()  0,01429
+java/lang/String/indexOf(int)  0,01429
+java/io/FileNotFoundException/FileNotFoundException(java.lang.String)  0,01429
+java/lang/StringBuilder/append(int)  0,01429
+java/util/List/add(java.lang.Object)  0,01429
+java/io/File/exists()  0,01429
+java/util/Iterator/next()  0,01429
+java/lang/StringBuilder/append(java.lang.Object)  0,01429
+java/lang/StringBuilder/toString()  0,01429

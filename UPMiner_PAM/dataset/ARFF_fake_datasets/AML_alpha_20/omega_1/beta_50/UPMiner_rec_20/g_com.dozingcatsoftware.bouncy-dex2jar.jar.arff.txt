@@ -1,0 +1,13 @@
+com/badlogic/gdx/jnigen/BuildTarget/newDefaultTarget(com.badlogic.gdx.jnigen.BuildTarget$TargetOs,boolean)
+com/badlogic/gdx/scenes/scene2d/ui/Container/clipEnd(
+java/lang/StringBuilder/toString(
+java/io/FileOutputStream/FileOutputStream(java.io.File
+java/lang/StringBuilder/toString()
+com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/drawDebugBounds(com.badlogic.gdx.graphics.glutils.ShapeRenderer)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/length()
+org.api.fake
+java/util/Iterator/hasNext()
+com/badlogic/gdx/graphics/g2d/ParticleEmitter$SpriteMode/valueOf(java.lang.String)
+java/lang/Math/min(int,int

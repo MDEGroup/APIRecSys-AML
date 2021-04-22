@@ -1,0 +1,15 @@
+android/view/VelocityTracker/obtain(
+android/support/v4/app/FragmentActivity/getClassLoader()
+android/view/MotionEvent/getY(
+java/lang/StringBuilder/append(java.lang.String)
+android/view/View/measure(int,int
+android/view/ViewGroup/getBottom(
+java/util/Map$Entry/getValue(
+org.api.fake
+android/widget/ShareActionProvider/setShareHistoryFileName(java.lang.String
+android/widget/TabWidget/setId(int
+java/util/ArrayList/size()
+android/view/View/getRight()
+android/util/Log/v(java.lang.String,java.lang.String)
+java/lang/Math/min(int,int
+android/support/v4/widget/DrawerLayout/getWidth()

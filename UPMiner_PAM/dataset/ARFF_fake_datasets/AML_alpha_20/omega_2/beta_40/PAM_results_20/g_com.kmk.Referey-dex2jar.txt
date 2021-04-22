@@ -1,0 +1,72 @@
+prob: 0,10000
+[int]
+
+prob: 0,05000
+[java/lang/StringBuilder/append(java.lang.String), android/content/Intent/setDataAndType(android.net.Uri]
+
+prob: 0,05000
+[java/lang/StringBuilder/append(java.lang.String), android/widget/LinearLayout/addView(android.view.View), android/app/ProgressDialog/setOwnerActivity(android.app.Activity), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/equals(java.lang.Object), com/kmk/Referey/list_db/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence), android/app/ProgressDialog/show(android.content.Context]
+
+prob: 0,05000
+[com/kmk/Referey/Sort/getIntent(), android/content/Intent/getExtras(), android/os/Bundle/getBoolean(java.lang.String), com/kmk/Referey/Sort/findViewById(int), com/kmk/Referey/Sort/setTheme(int), java/lang/String/equals(java.lang.Object]
+
+prob: 0,05000
+[android/app/Activity/onCreate(android.os.Bundle), android/widget/RadioGroup/check(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/os/Bundle/getString(java.lang.String), com/kmk/Referey/Sort/setContentView(int), android/widget/CheckBox/setChecked(boolean)]
+
+prob: 0,05000
+[com/kmk/Referey/list_db/stopManagingCursor(android.database.Cursor), com/kmk/Referey/StateButton/setEnabled(boolean), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,05000
+[int)]
+
+prob: 0,05000
+[android/text/SpannableStringBuilder/append(java.lang.CharSequence), android/text/SpannableStringBuilder/SpannableStringBuilder(), java/lang/String/equals(java.lang.Object), android/text/TextUtils/split(java.lang.String]
+
+prob: 0,05000
+[java/util/ArrayList/ArrayList(java.util.Collection), android/app/ProgressDialog/isShowing(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,05000
+[android/app/ProgressDialog/isShowing(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,05000
+[android/graphics/drawable/AnimationDrawable/start(), com/kmk/Referey/StateButton/setEnabled(boolean), android/graphics/drawable/AnimationDrawable/stop(), com/kmk/Referey/StateButton/setBackgroundResource(int), com/kmk/Referey/list_db$GetFilterLists/execute(java.lang.Object[]), com/kmk/Referey/StateButton/setOnLongClickListener(android.view.View$OnLongClickListener), com/kmk/Referey/StateButton/setOnClickListener(android.view.View$OnClickListener), com/kmk/Referey/list_db$GetFilterLists/getStatus(]
+
+prob: 0,05000
+[com/kmk/Referey/StateButton/getBackground()]
+
+prob: 0,05000
+[com/kmk/Referey/list_db/getBaseContext(), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,05000
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,05000
+[android/content/Intent/setClassName(java.lang.String]
+
+prob: 0,05000
+[android/database/Cursor/getColumnIndex(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,05000
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteStatement/bindString(int]
+
+prob: 0,05000
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,05000
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), com/kmk/Referey/list_db/stopManagingCursor(android.database.Cursor)]
+
+prob: 0,05000
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,05000
+[android/widget/ListView/getCheckedItemPositions(), android/content/Intent/putStringArrayListExtra(java.lang.String]
+
+prob: 0,05000
+[android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence]
+
+prob: 0,05000
+[android/preference/CheckBoxPreference/setOnPreferenceClickListener(android.preference.Preference$OnPreferenceClickListener), com/kmk/Referey/Preferences/setTheme(int), android/preference/PreferenceActivity/onCreate(android.os.Bundle), android/content/Intent/getExtras(), android/os/Bundle/getBoolean(java.lang.String), com/kmk/Referey/Preferences/findPreference(java.lang.CharSequence]
+
+prob: 0,05000
+[android/preference/Preference/setEnabled(boolean), android/preference/CheckBoxPreference/isChecked(), com/kmk/Referey/Preferences/addPreferencesFromResource(int), com/kmk/Referey/Preferences/getIntent()]
+

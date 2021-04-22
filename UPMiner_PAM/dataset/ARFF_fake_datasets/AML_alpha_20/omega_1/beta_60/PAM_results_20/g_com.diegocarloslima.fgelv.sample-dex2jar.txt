@@ -1,0 +1,21 @@
+prob: 0,22222
+[int)]
+
+prob: 0,22222
+[org.api.fake]
+
+prob: 0,11111
+[android/widget/ExpandableListView/dispatchDraw(android.graphics.Canvas), android/graphics/Canvas/save(), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getPaddingRight(), android/graphics/Canvas/clipRect(int]
+
+prob: 0,11111
+[android/view/View/getRight(), android/widget/ExpandableListView/dispatchTouchEvent(android.view.MotionEvent), android/view/View/setPressed(boolean), android/view/MotionEvent/getRawY(), android/view/MotionEvent/getAction(), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/setPressed(boolean), android/view/View/dispatchTouchEvent(android.view.MotionEvent), android/graphics/RectF/RectF(float]
+
+prob: 0,11111
+[com/diegocarloslima/fgelv/sample/SampleActivity/setContentView(int), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/expandGroup(int), android/view/LayoutInflater/inflate(int]
+
+prob: 0,11111
+[com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getPackedPositionForGroup(int), android/view/ViewGroup/getChildMeasureSpec(int]
+
+prob: 0,11111
+[com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/isPressed(), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getPaddingTop(), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getHeight(), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getDrawableState(), android/graphics/Canvas/save(), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getPaddingRight(), android/graphics/Canvas/clipRect(int]
+

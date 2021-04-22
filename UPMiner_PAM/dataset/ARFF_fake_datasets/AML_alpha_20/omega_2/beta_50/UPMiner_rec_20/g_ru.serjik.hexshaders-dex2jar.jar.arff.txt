@@ -1,0 +1,10 @@
+java/lang/Thread/currentThread()
+ru/serjik/hexshaders/HexShadersSettings/findViewById(int
+ru/serjik/preferences/controllers/RGBController/a(int)
+java/lang/Class/getCanonicalName(
+android/view/View/setVisibility(int)
+java/lang/Package/getName()
+android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int,int
+ru/serjik/hexshaders/HexShadersSettings/getAssets()
+java/util/ArrayList/ArrayList(
+java/lang/StackTraceElement/getClassName(

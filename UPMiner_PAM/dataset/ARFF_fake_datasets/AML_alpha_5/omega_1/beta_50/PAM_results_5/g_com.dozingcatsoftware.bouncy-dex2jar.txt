@@ -1,0 +1,342 @@
+prob: 0,08791
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,05495
+[float)]
+
+prob: 0,04396
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/Iterator/next(), java/util/Map/keySet(]
+
+prob: 0,04396
+[java/lang/StringBuilder/append(int), java/util/Map/get(java.lang.Object), java/util/Set/iterator()]
+
+prob: 0,03297
+[boolean)]
+
+prob: 0,03297
+[int]
+
+prob: 0,03297
+[float]
+
+prob: 0,03297
+[java/lang/StringBuilder/toString()]
+
+prob: 0,02198
+[com.badlogic.gdx.graphics.Pixmap)]
+
+prob: 0,02198
+[java.lang.String)]
+
+prob: 0,02198
+[java.lang.String]
+
+prob: 0,02198
+[java/nio/ByteBuffer/order(java.nio.ByteOrder)]
+
+prob: 0,02198
+[java/nio/ShortBuffer/position(), java/nio/ShortBuffer/flip(), java/nio/ShortBuffer/clear(), java/nio/ShortBuffer/position(int), java/nio/ShortBuffer/limit(), java/nio/ByteBuffer/limit(int), java/nio/ByteBuffer/limit(]
+
+prob: 0,02198
+[java/nio/ByteBuffer/position(int), java/nio/ShortBuffer/put(java.nio.ShortBuffer)]
+
+prob: 0,02198
+[java.lang.Class]
+
+prob: 0,02198
+[com.dozingcatsoftware.bouncy.elements.FieldElementCollection)]
+
+prob: 0,02198
+[com/badlogic/gdx/jnigen/BuildTarget/newDefaultTarget(com.badlogic.gdx.jnigen.BuildTarget$TargetOs]
+
+prob: 0,02198
+[java/io/DataInputStream/readInt()]
+
+prob: 0,02198
+[java/util/Iterator/next()]
+
+prob: 0,02198
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01099
+[java/io/DataInputStream/readFloat(), java/net/ServerSocket/accept(), java/net/Socket/setTcpNoDelay(boolean]
+
+prob: 0,01099
+[java/net/Socket/setSoTimeout(int), java/io/DataInputStream/readBoolean(), java/lang/StringBuilder/append(java.lang.String), java/io/DataInputStream/readChar()]
+
+prob: 0,01099
+[com/badlogic/gdx/graphics/g2d/ParticleEmitter$Particle/setScale(float]
+
+prob: 0,01099
+[java/util/ArrayList/ArrayList(), com/dozingcatsoftware/bouncy/BouncyActivity/getBaseContext(), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01099
+[android/view/View/getVisibility(), java/lang/Long/longValue(), java/util/List/get(int), android/widget/Button/setVisibility(int), android/view/View/setVisibility(int), java/lang/Long/valueOf(long), android/widget/CheckBox/setVisibility(int), java/lang/System/currentTimeMillis(]
+
+prob: 0,01099
+[java.util.List)]
+
+prob: 0,01099
+[com/dozingcatsoftware/bouncy/BouncyActivity/requestWindowFeature(int), android/util/Log/i(java.lang.String]
+
+prob: 0,01099
+[java/util/zip/InflaterInputStream/InflaterInputStream(java.io.InputStream), java/lang/StringBuilder/StringBuilder(), java/nio/ByteBuffer/position(int), java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream), java/lang/StringBuilder/append(java.lang.Object), java/nio/ByteBuffer/put(byte[]]
+
+prob: 0,01099
+[java/lang/String/substring(int]
+
+prob: 0,01099
+[java.io.Writer]
+
+prob: 0,01099
+[java/io/File/canWrite(), java/io/File/File(java.io.File]
+
+prob: 0,01099
+[java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String), java/io/File/exists(), java/io/File/File(java.lang.String), java/io/File/File(java.lang.String]
+
+prob: 0,01099
+[java.lang.Object[])]
+
+prob: 0,01099
+[java/lang/StringBuilder/setLength(int)]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/ui/Window/getRight(), com/badlogic/gdx/scenes/scene2d/ui/Window/getStage(), com/badlogic/gdx/scenes/scene2d/ui/Window/setPosition(float]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/ui/Table/drawDebugChildren(com.badlogic.gdx.graphics.glutils.ShapeRenderer), com/badlogic/gdx/scenes/scene2d/ui/Table/getWidth(), com/badlogic/gdx/scenes/scene2d/ui/Table/computeTransform(), com/badlogic/gdx/scenes/scene2d/ui/Table/resetTransform(com.badlogic.gdx.graphics.glutils.ShapeRenderer), com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/drawDebug(com.badlogic.gdx.graphics.glutils.ShapeRenderer), com/badlogic/gdx/scenes/scene2d/ui/Table/applyTransform(com.badlogic.gdx.graphics.glutils.ShapeRenderer]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/ui/Container/resetTransform(com.badlogic.gdx.graphics.glutils.ShapeRenderer), com/badlogic/gdx/scenes/scene2d/ui/Container/getHeight(), com/badlogic/gdx/scenes/scene2d/ui/Container/clipBegin(float]
+
+prob: 0,01099
+[com.badlogic.gdx.Net$HttpResponseListener)]
+
+prob: 0,01099
+[android/util/Log/v(java.lang.String]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/utils/TextureRegionDrawable/getBottomHeight(), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/setLeftWidth(float), com/badlogic/gdx/scenes/scene2d/utils/TextureRegionDrawable/getLeftWidth(), com/badlogic/gdx/scenes/scene2d/utils/TextureRegionDrawable/getMinWidth()]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/utils/TextureRegionDrawable/getMinHeight(), com/badlogic/gdx/scenes/scene2d/utils/TextureRegionDrawable/getTopHeight(), com/badlogic/gdx/scenes/scene2d/utils/TextureRegionDrawable/getRightWidth()]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/setLeftWidth(float), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/setTopHeight(float), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/setBottomHeight(float), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/setRightWidth(float]
+
+prob: 0,01099
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01099
+[com.badlogic.gdx.maps.MapObjects]
+
+prob: 0,01099
+[com/dozingcatsoftware/bouncy/ScoreView/getWidth(), java/lang/StringBuilder/append(int), java/lang/String/length(), java/lang/String/format(java.lang.String]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/ui/SelectBox$SelectBoxList/setY(float), com/badlogic/gdx/scenes/scene2d/ui/List/getHeight(), com/badlogic/gdx/scenes/scene2d/ui/SelectBox/getWidth(), java/lang/Math/max(float]
+
+prob: 0,01099
+[android/content/res/AssetManager/list(java.lang.String), java/lang/StringBuilder/append(int), java/util/Arrays/asList(java.lang.Object[])]
+
+prob: 0,01099
+[java/lang/Class/getResourceAsStream(java.lang.String), java/io/File/exists(), java/lang/String/replace(char]
+
+prob: 0,01099
+[java/io/File/isDirectory()]
+
+prob: 0,01099
+[java/nio/ByteOrder/nativeOrder(), java/nio/channels/FileChannel/map(java.nio.channels.FileChannel$MapMode]
+
+prob: 0,01099
+[java/nio/ByteOrder/nativeOrder(), java/nio/IntBuffer/put(int), java/nio/IntBuffer/position(int), java/nio/IntBuffer/get(int), java/nio/ByteBuffer/allocateDirect(int), java/nio/ByteBuffer/asIntBuffer(]
+
+prob: 0,01099
+[javax.microedition.khronos.egl.EGLConfig)]
+
+prob: 0,01099
+[int)]
+
+prob: 0,01099
+[com.dozingcatsoftware.bouncy.elements.FieldElementCollection]
+
+prob: 0,01099
+[java/io/BufferedReader/close(), java/lang/Float/parseFloat(java.lang.String), java/lang/String/split(java.lang.String), java/io/BufferedReader/BufferedReader(java.io.Reader]
+
+prob: 0,01099
+[java/lang/String/toLowerCase(), java/lang/String/length(), java/lang/String/equals(java.lang.Object), java/io/InputStreamReader/InputStreamReader(java.io.InputStream)]
+
+prob: 0,01099
+[java.util.Locale]
+
+prob: 0,01099
+[java/util/Locale/getVariant(), java/util/ArrayList/ArrayList(int), java/util/Locale/Locale(java.lang.String), java/util/Locale/getCountry(), java/util/Locale/getLanguage(), java/util/Locale/Locale(java.lang.String]
+
+prob: 0,01099
+[java/lang/Integer/intValue(), com/dozingcatsoftware/bouncy/AboutActivity/getString(int), java/lang/StringBuilder/append(int), android/widget/TextView/setText(java.lang.CharSequence), android/app/Activity/onCreate(android.os.Bundle), com/dozingcatsoftware/bouncy/AboutActivity/requestWindowFeature(int), java/lang/String/replace(java.lang.CharSequence]
+
+prob: 0,01099
+[java/lang/StringBuilder/toString(), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(int), java/io/DataInputStream/DataInputStream(java.io.InputStream)]
+
+prob: 0,01099
+[android/content/res/AssetManager/open(java.lang.String), android/content/Context/getAssets(]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/getHeight(), com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/getParent(), com/badlogic/gdx/scenes/scene2d/Group/getHeight(), com/badlogic/gdx/scenes/scene2d/Group/getParent(), com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/getStage(), com/badlogic/gdx/scenes/scene2d/Group/getWidth(), com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/setHeight(float), com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/getWidth(), com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/setWidth(float]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/getMinHeight(), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/getBottomHeight(), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/getLeftWidth(), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/getRightWidth(), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/getMinWidth(), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/getTopHeight()]
+
+prob: 0,01099
+[java/io/InputStream/close()]
+
+prob: 0,01099
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int)]
+
+prob: 0,01099
+[java/lang/RuntimeException/RuntimeException(java.lang.Throwable)]
+
+prob: 0,01099
+[java/util/zip/GZIPInputStream/GZIPInputStream(java.io.InputStream), java/nio/ByteBuffer/put(byte[]]
+
+prob: 0,01099
+[java/nio/ByteBuffer/position(), java/nio/ByteBuffer/getInt(int), java/io/DataInputStream/readInt(), java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/DataInputStream/read(byte[]), java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01099
+[java/nio/ByteBuffer/getInt()]
+
+prob: 0,01099
+[java/nio/ByteBuffer/wrap(byte[])]
+
+prob: 0,01099
+[java/nio/ByteBuffer/order()]
+
+prob: 0,01099
+[java/nio/ByteBuffer/put(java.nio.ByteBuffer)]
+
+prob: 0,01099
+[java/nio/ByteBuffer/isDirect()]
+
+prob: 0,01099
+[java/nio/ByteBuffer/capacity()]
+
+prob: 0,01099
+[java/nio/ByteBuffer/get()]
+
+prob: 0,01099
+[java/nio/FloatBuffer/position(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/nio/FloatBuffer/position(int]
+
+prob: 0,01099
+[java/nio/FloatBuffer/flip(), java/lang/StringBuilder/append(int), java/nio/FloatBuffer/limit(int), java/lang/StringBuilder/toString()]
+
+prob: 0,01099
+[java/io/BufferedReader/BufferedReader(java.io.Reader)]
+
+prob: 0,01099
+[java/io/BufferedReader/readLine(), java/lang/String/String(java.lang.String), java/lang/String/charAt(int), java/lang/String/trim()]
+
+prob: 0,01099
+[java/nio/ShortBuffer/put(java.nio.ShortBuffer), java/nio/ShortBuffer/limit(int), java/nio/ShortBuffer/remaining(), java/nio/ByteBuffer/position(int]
+
+prob: 0,01099
+[java/lang/Class/isArray(), java/util/Iterator/hasNext(), com/badlogic/gdx/utils/OrderedMap$OrderedMapValues/iterator(), java/util/Iterator/next(), java/util/Arrays/deepEquals(java.lang.Object[]]
+
+prob: 0,01099
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/util/Set/iterator(), java/lang/StringBuilder/length(), java/util/Map/keySet(), java/lang/StringBuilder/deleteCharAt(int]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int), java/io/InputStreamReader/read(char[]), java/io/InputStreamReader/InputStreamReader(java.io.InputStream]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Math/max(int]
+
+prob: 0,01099
+[java/util/Iterator/next(), java/lang/StringBuilder/append(boolean), com/badlogic/gdx/graphics/g2d/ParticleEmitter$SpriteMode/toString(), java/lang/StringBuilder/toString()]
+
+prob: 0,01099
+[java.io.Reader)]
+
+prob: 0,01099
+[java/io/IOException/IOException(java.lang.String), java/lang/Number/doubleValue(), java/lang/Number/intValue(), java/lang/Number/byteValue(), java/lang/Number/floatValue(), java/lang/Number/shortValue(), java/lang/Object/toString(), java/lang/Character/charValue(), java/lang/Number/longValue(]
+
+prob: 0,01099
+[java/io/DataOutputStream/write(byte[]]
+
+prob: 0,01099
+[com.badlogic.gdx.files.FileHandle]
+
+prob: 0,01099
+[com.badlogic.gdx.files.FileHandle)]
+
+prob: 0,01099
+[com.badlogic.gdx.utils.XmlReader$Element)]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(int), java/io/BufferedReader/readLine(), java/lang/StringBuilder/toString()]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(int), java/util/Iterator/hasNext(), java/io/Writer/write(java.lang.String]
+
+prob: 0,01099
+[java/util/List/size(), java/util/Iterator/next(), java/util/Iterator/hasNext(), java/util/List/contains(java.lang.Object]
+
+prob: 0,01099
+[java/util/List/clear(), java/util/List/add(java.lang.Object), java/util/List/get(int), java/util/List/iterator(), java/util/List/remove(java.lang.Object)]
+
+prob: 0,01099
+[char)]
+
+prob: 0,01099
+[java/lang/String/length(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int), java/lang/Integer/parseInt(java.lang.String]
+
+prob: 0,01099
+[java/lang/String/charAt(int), java/lang/StringBuilder/append(char), java/lang/StringBuilder/length(), java/lang/CharSequence/toString(), java/lang/StringBuilder/StringBuilder(int), java/lang/String/replace(char]
+
+prob: 0,01099
+[com.badlogic.gdx.graphics.g2d.PixmapPacker]
+
+prob: 0,01099
+[com.badlogic.gdx.utils.XmlReader$Element]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/drawDebugBounds(com.badlogic.gdx.graphics.glutils.ShapeRenderer), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getHeight(), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getOriginX(), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getScaleX(), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getX(), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getY(), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getRotation(), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getWidth(), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getDebug(), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getOriginY(), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getScaleY(), com/badlogic/gdx/scenes/scene2d/ui/HorizontalGroup/getStage(]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/drawDebugBounds(com.badlogic.gdx.graphics.glutils.ShapeRenderer), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getX(), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getY(), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getStage(), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getRotation(), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getWidth(), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getHeight(), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getScaleY(), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getOriginX(), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getScaleX(), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getOriginY(), com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getDebug(]
+
+prob: 0,01099
+[com/badlogic/gdx/graphics/g2d/ParticleEmitter$SpriteMode/valueOf(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/io/BufferedReader/readLine(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/trim(), com/badlogic/gdx/graphics/g2d/ParticleEmitter$ScaledNumericValue/setActive(boolean), java/lang/String/isEmpty(), java/lang/String/startsWith(java.lang.String), java/lang/RuntimeException/RuntimeException(java.lang.String]
+
+prob: 0,01099
+[java/io/DataInputStream/read(byte[])]
+
+prob: 0,01099
+[com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/setTopHeight(float), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/setBottomHeight(float), com/badlogic/gdx/scenes/scene2d/utils/SpriteDrawable/setRightWidth(float]
+
+prob: 0,01099
+[java/io/InputStreamReader/InputStreamReader(java.io.InputStream)]
+
+prob: 0,01099
+[java/util/List/size()]
+
+prob: 0,01099
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01099
+[java/nio/ShortBuffer/position(), java/nio/ShortBuffer/flip(), java/nio/ShortBuffer/clear(), java/nio/ShortBuffer/position(int), java/nio/ShortBuffer/limit(), java/nio/ByteBuffer/limit(int)]
+
+prob: 0,01099
+[java/nio/ByteBuffer/position(int)]
+
+prob: 0,01099
+[java/lang/String/length()]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(java.lang.String)]
+

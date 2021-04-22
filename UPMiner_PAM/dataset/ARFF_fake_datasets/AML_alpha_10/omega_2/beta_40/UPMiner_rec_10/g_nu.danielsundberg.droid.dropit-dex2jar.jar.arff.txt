@@ -1,0 +1,2 @@
+java/util/Iterator/hasNext()
+java/nio/FloatBuffer/clear()

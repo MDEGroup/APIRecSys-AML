@@ -1,0 +1,10 @@
+java/util/List/iterator(
+java/lang/Thread$UncaughtExceptionHandler/uncaughtException(java.lang.Thread,java.lang.Throwable
+java/lang/Math/min(long,long)
+android/view/Window/setFlags(int,int)
+java/lang/Error/Error(java.lang.String)
+java/security/MessageDigest/update(byte[],int,int
+android/view/Window/takeSurface(android.view.SurfaceHolder$Callback2
+android/location/LocationManager/getProvider(java.lang.String)
+android/widget/RelativeLayout$LayoutParams/RelativeLayout$LayoutParams(int,int
+android/widget/EditText/setLayoutParams(android.view.ViewGroup$LayoutParams)

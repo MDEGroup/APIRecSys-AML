@@ -1,0 +1,27 @@
+prob: 0,30000
+[int)]
+
+prob: 0,25000
+[android.content.res.Resources]
+
+prob: 0,15000
+[org.xmlpull.v1.XmlPullParser]
+
+prob: 0,05000
+[org.api.fake]
+
+prob: 0,05000
+[org.rand.api]
+
+prob: 0,05000
+[android/graphics/PathMeasure/getPosTan(float]
+
+prob: 0,05000
+[java.lang.String)]
+
+prob: 0,05000
+[int]
+
+prob: 0,05000
+[android.animation.ObjectAnimator]
+

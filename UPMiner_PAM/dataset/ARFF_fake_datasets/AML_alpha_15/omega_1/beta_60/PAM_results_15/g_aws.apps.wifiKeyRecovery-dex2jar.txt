@@ -1,0 +1,90 @@
+prob: 0,25714
+[org.api.fake]
+
+prob: 0,14286
+[java.lang.String)]
+
+prob: 0,08571
+[java.lang.String]
+
+prob: 0,05714
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,05714
+[java.io.File]
+
+prob: 0,05714
+[java/lang/Process/getErrorStream(), java/lang/Process/getInputStream(), java/lang/String/valueOf(java.lang.Object), java/lang/Runtime/getRuntime(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Runtime/exec(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,05714
+[java/io/BufferedReader/close(), java/io/DataOutputStream/close(), java/io/DataOutputStream/writeBytes(java.lang.String), java/io/IOException/getMessage(), java/io/DataInputStream/DataInputStream(java.io.InputStream)]
+
+prob: 0,02857
+[java/lang/String/valueOf(java.lang.Object), android/widget/EditText/setText(java.lang.CharSequence), android/util/Log/d(java.lang.String]
+
+prob: 0,02857
+[java/lang/String/valueOf(java.lang.Object), android/content/Context/getString(int), android/app/AlertDialog/show(), java/lang/StringBuffer/toString(), java/lang/StringBuffer/StringBuffer(), java/lang/StringBuilder/toString(]
+
+prob: 0,02857
+[java/lang/String/valueOf(java.lang.Object), aws/apps/wifiKeyRecovery/activities/MainActivity/getSystemService(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,02857
+[aws/apps/wifiKeyRecovery/activities/ExportActivity/findViewById(int)]
+
+prob: 0,02857
+[aws/apps/wifiKeyRecovery/activities/ExportActivity/getIntent()]
+
+prob: 0,02857
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuffer/append(java.lang.String)]
+
+prob: 0,02857
+[aws/apps/wifiKeyRecovery/activities/ExportActivity/getApplicationContext(), android/app/Activity/onCreate(android.os.Bundle)]
+
+prob: 0,02857
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/List/iterator(), java/lang/StringBuffer/append(java.lang.String]
+
+prob: 0,02857
+[java/lang/StringBuilder/append(int), java/lang/StringBuffer/toString(), java/lang/StringBuffer/StringBuffer()]
+
+prob: 0,02857
+[java/lang/Thread/sleep(long), android/os/Bundle/Bundle(), android/os/Bundle/clear(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/os/Bundle/putParcelableArrayList(java.lang.String]
+
+prob: 0,02857
+[android/os/Message/setData(android.os.Bundle), android/os/Handler/sendMessage(android.os.Message)]
+
+prob: 0,02857
+[java/util/ArrayList/toArray(java.lang.Object[]), java/util/HashMap/keySet(), java/util/Iterator/next(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,02857
+[android/widget/ListView/setDivider(android.graphics.drawable.Drawable), android/app/Activity/onCreate(android.os.Bundle), android/widget/ListView/setDividerHeight(int), aws/apps/wifiKeyRecovery/activities/MainActivity/setContentView(int), aws/apps/wifiKeyRecovery/activities/MainActivity/getResources(), aws/apps/wifiKeyRecovery/activities/MainActivity/findViewById(int), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/content/res/Resources/getDrawable(int), aws/apps/wifiKeyRecovery/activities/MainActivity/getString(int]
+
+prob: 0,02857
+[android/widget/ListView/setFastScrollEnabled(boolean)]
+
+prob: 0,02857
+[java/util/List/size(), java/util/ArrayList/add(java.lang.Object), java/util/Collections/sort(java.util.List), java/util/Set/iterator(), java/lang/Integer/valueOf(java.lang.String)]
+
+prob: 0,02857
+[android/text/ClipboardManager/setText(java.lang.CharSequence), java/lang/String/length()]
+
+prob: 0,02857
+[java/util/ArrayList/ArrayList(), java/util/List/size(), java/util/ArrayList/add(java.lang.Object), java/lang/String/contains(java.lang.CharSequence), java/lang/String/length(), java/lang/CharSequence/toString(]
+
+prob: 0,02857
+[android/widget/Filter$FilterResults/Filter$FilterResults(), java/lang/String/toLowerCase(), java/util/ArrayList/size(), java/util/List/get(int)]
+
+prob: 0,02857
+[android/view/View/setClickable(boolean), android/view/LayoutInflater/inflate(int]
+
+prob: 0,02857
+[android.graphics.drawable.Drawable]
+
+prob: 0,02857
+[int)]
+
+prob: 0,02857
+[android/widget/PopupWindow/setBackgroundDrawable(android.graphics.drawable.Drawable), android/widget/PopupWindow/setContentView(android.view.View), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/graphics/drawable/BitmapDrawable/BitmapDrawable(), android/widget/PopupWindow/setOutsideTouchable(boolean), android/widget/PopupWindow/setTouchable(boolean), android/widget/PopupWindow/setHeight(int), android/widget/PopupWindow/setFocusable(boolean), android/widget/PopupWindow/setWidth(int]
+
+prob: 0,02857
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+

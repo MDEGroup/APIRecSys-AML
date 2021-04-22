@@ -1,0 +1,6 @@
+android/content/res/Resources/getInteger(int)
+java/lang/StringBuilder/append(java.lang.String)
+android/widget/LinearLayout/setPadding(int,int,int,int)
+org.api.fake
+android/appwidget/AppWidgetManager/updateAppWidget(android.content.ComponentName,android.widget.RemoteViews)
+org.rand.api

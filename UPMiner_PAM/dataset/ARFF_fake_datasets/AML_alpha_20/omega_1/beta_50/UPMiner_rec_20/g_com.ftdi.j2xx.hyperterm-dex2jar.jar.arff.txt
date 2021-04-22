@@ -1,0 +1,14 @@
+java/lang/Object/getClass(
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/io/PrintWriter/print(boolean)
+java/lang/Class/getClassLoader(
+java/lang/StringBuilder/append(java.lang.String)
+java/util/ArrayList/ArrayList(
+android/support/v4/view/ViewPager/getPaddingBottom(
+java/util/ArrayList/add(java.lang.Object
+org.api.fake
+android/widget/Scroller/isFinished()
+java/util/ArrayList/size()
+java/lang/String/split(java.lang.String)
+android/view/View/getRight()
+java/lang/Math/min(int,int

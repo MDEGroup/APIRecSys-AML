@@ -1,0 +1,18 @@
+org/apache/http/HttpEntity/isRepeatable()
+java/lang/StringBuilder/toString(
+android/view/animation/Transformation/getMatrix()
+android/database/Cursor/getString(int
+java/lang/Object/toString()
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/toString()
+android/widget/ArrayAdapter/getItem(int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/Integer/Integer(int)
+java/io/DataInput/readInt(
+org.api.fake
+java/io/DataInput/readBoolean()
+android/widget/RadioGroup/getCheckedRadioButtonId(
+android/database/Cursor/getInt(int
+org.rand.api
+java/util/ArrayList/ArrayList()

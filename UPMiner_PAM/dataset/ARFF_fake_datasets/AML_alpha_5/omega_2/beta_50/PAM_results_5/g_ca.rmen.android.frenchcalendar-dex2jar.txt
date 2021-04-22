@@ -1,0 +1,78 @@
+prob: 0,23214
+[int]
+
+prob: 0,10714
+[ca.rmen.lfrc.FrenchRevolutionaryCalendarDate]
+
+prob: 0,08929
+[org.api.fake]
+
+prob: 0,08929
+[org.rand.api]
+
+prob: 0,07143
+[android.view.View]
+
+prob: 0,05357
+[float)]
+
+prob: 0,05357
+[android.content.Intent)]
+
+prob: 0,01786
+[android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), android/preference/PreferenceActivity/onStart(), android/preference/PreferenceScreen/findPreference(java.lang.CharSequence), android/preference/PreferenceCategory/removePreference(android.preference.Preference), android/preference/PreferenceCategory/findPreference(java.lang.CharSequence), ca/rmen/android/frccommon/prefs/FRCPreferenceActivity/getPreferenceScreen(), android/preference/PreferenceScreen/removeAll(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), ca/rmen/android/frccommon/prefs/FRCPreferenceActivity/addPreferencesFromResource(int]
+
+prob: 0,01786
+[android/content/pm/PackageManager$NameNotFoundException/getMessage(), ca/rmen/android/frccommon/FRCAboutActivity/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence), android/app/Activity/onCreate(android.os.Bundle), android/util/Log/e(java.lang.String]
+
+prob: 0,01786
+[java/lang/StringBuilder/append(java.lang.String), android/graphics/Color/green(int), java/lang/String/length(), android/graphics/Color/blue(int), android/graphics/Color/red(int), java/lang/StringBuilder/toString(), java/lang/Integer/toHexString(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/graphics/Color/alpha(int]
+
+prob: 0,01786
+[android/widget/LinearLayout/getPaddingTop(), android/widget/LinearLayout/removeViews(int]
+
+prob: 0,01786
+[android/widget/ArrayAdapter/setDropDownViewResource(int), android/app/Activity/onCreate(android.os.Bundle), java/util/Calendar/getTimeInMillis(), android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter), ca/rmen/android/frccommon/converter/FRCConverterActivity/setContentView(int), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,01786
+[android/widget/DatePicker/setMinDate(long), android/view/View/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,01786
+[android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/setAdapter(android.widget.ListAdapter]
+
+prob: 0,01786
+[android/view/ViewGroup/getChildAt(int), java/util/Iterator/hasNext(), android/view/ViewTreeObserver/removeOnGlobalLayoutListener(android.view.ViewTreeObserver$OnGlobalLayoutListener), android/view/View/getWidth(), android/view/ViewGroup/getWidth(), java/lang/Iterable/iterator(), ca/rmen/android/frccommon/converter/FRCDatePicker/getViewTreeObserver(), android/view/View/setScaleY(float), android/view/View/setScaleX(float), android/view/ViewGroup/getChildCount(), kotlin/ranges/RangesKt/until$6285b049(int]
+
+prob: 0,01786
+[android/graphics/Paint/setColor(int), android/graphics/LinearGradient/LinearGradient(float]
+
+prob: 0,01786
+[android/widget/EditText/getTextColors(), android/view/View/findViewById(int), android/widget/EditText/setInputType(int), net/margaritov/preference/colorpicker/ColorPickerPanelView/setOnClickListener(android.view.View$OnClickListener), java/lang/Math/round(float), net/margaritov/preference/colorpicker/ColorPickerPanelView/getParent(), android/view/LayoutInflater/inflate(int]
+
+prob: 0,01786
+[java.lang.String)]
+
+prob: 0,01786
+[android/widget/Toast/show(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01786
+[android.widget.TextView[])]
+
+prob: 0,01786
+[android/widget/TextView/getText(), android/widget/TextView/getTextSize(), android/text/TextPaint/TextPaint(), android/widget/TextView/getTypeface(), android/text/TextPaint/setTextSize(float), android/text/TextPaint/measureText(java.lang.String), java/lang/Object/toString(), android/text/StaticLayout/getHeight(), android/text/TextPaint/setTypeface(android.graphics.Typeface), android/text/StaticLayout/StaticLayout(java.lang.CharSequence]
+
+prob: 0,01786
+[ca/rmen/android/frccommon/converter/FRCLegacyConverterActivity/findViewById(int), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), android/widget/DatePicker/init(int]
+
+prob: 0,01786
+[int)]
+
+prob: 0,01786
+[android.appwidget.AppWidgetManager]
+
+prob: 0,01786
+[ca/rmen/android/frccommon/converter/FRCLegacyConverterActivity/getApplicationContext(), android/view/View/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,01786
+[java/lang/Throwable/setStackTrace(java.lang.StackTraceElement[]), java/lang/StackTraceElement/getClassName(), java/util/List/subList(int]
+

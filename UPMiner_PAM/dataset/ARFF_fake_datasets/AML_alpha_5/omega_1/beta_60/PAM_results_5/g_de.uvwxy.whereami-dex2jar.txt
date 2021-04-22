@@ -1,0 +1,219 @@
+prob: 0,10145
+[int]
+
+prob: 0,05797
+[java.lang.String]
+
+prob: 0,05797
+[java.io.FileDescriptor]
+
+prob: 0,05797
+[int)]
+
+prob: 0,04348
+[android.view.View]
+
+prob: 0,04348
+[android/util/Log/v(java.lang.String]
+
+prob: 0,02899
+[android/support/v4/widget/DrawerLayout/getWidth()]
+
+prob: 0,02899
+[android/view/View/getWidth()]
+
+prob: 0,02899
+[android/support/v4/widget/DrawerLayout/invalidate()]
+
+prob: 0,02899
+[android/view/View/getLayoutParams(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), android/view/View/getTop(]
+
+prob: 0,02899
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int]
+
+prob: 0,02899
+[float]
+
+prob: 0,02899
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,02899
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int]
+
+prob: 0,02899
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,02899
+[java/util/ArrayList/size()]
+
+prob: 0,02899
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01449
+[android.view.ViewGroup]
+
+prob: 0,01449
+[android.content.Context]
+
+prob: 0,01449
+[android.support.v4.view.ae)]
+
+prob: 0,01449
+[android/app/Activity/getString(int), android/location/Location/getLongitude(), android/location/Location/getLatitude(), android/location/Location/getAccuracy(), android/location/Location/getSpeed(), android/location/Location/getBearing(), java/lang/String/equals(java.lang.Object), android/util/Log/d(java.lang.String]
+
+prob: 0,01449
+[java/io/PrintWriter/PrintWriter(java.io.Writer), java/lang/StringBuilder/append(int), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,01449
+[java/util/ArrayList/toArray(java.lang.Object[]), java/util/ArrayList/size(), java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,01449
+[java.util.ArrayList)]
+
+prob: 0,01449
+[android.support.v4.app.b)]
+
+prob: 0,01449
+[boolean)]
+
+prob: 0,01449
+[de/uvwxy/e/f/a(), de/uvwxy/e/f/b(), java/lang/Double/valueOf(double), java/lang/String/format(java.lang.String]
+
+prob: 0,01449
+[java/lang/Double/valueOf(double), android/location/Location/getBearing(), android/graphics/Color/rgb(int]
+
+prob: 0,01449
+[android/location/Location/setBearing(float), android/location/Location/setProvider(java.lang.String), android/location/Location/setSpeed(float), android/location/Location/setLatitude(double), android/location/Location/setTime(long), android/location/Location/setAltitude(double), android/location/Location/Location(java.lang.String), android/location/Location/setAccuracy(float), android/location/Location/setLongitude(double]
+
+prob: 0,01449
+[java.lang.String)]
+
+prob: 0,01449
+[de/uvwxy/cardpager/ActivityLicenseDisplay/setContentView(android.view.View), android/webkit/WebView/setWebViewClient(android.webkit.WebViewClient), android/app/Activity/onCreate(android.os.Bundle), de/uvwxy/cardpager/ActivityLicenseDisplay/getIntent(), de/uvwxy/cardpager/ActivityLicenseDisplay/getApplicationContext(), android/webkit/WebView/loadUrl(java.lang.String), android/content/Intent/getStringExtra(java.lang.String), java/util/HashMap/get(java.lang.Object), de/uvwxy/cardpager/ActivityLicenseDisplay/setTitle(java.lang.CharSequence), android/webkit/WebView/WebView(android.content.Context]
+
+prob: 0,01449
+[java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/Object/toString(), android/graphics/Rect/Rect(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,01449
+[java.io.PrintWriter]
+
+prob: 0,01449
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,01449
+[boolean]
+
+prob: 0,01449
+[android/database/Cursor/getColumnIndex(java.lang.String), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(long), android/content/ContentValues/ContentValues(), java/lang/Integer/valueOf(int), android/database/Cursor/moveToFirst(), android/database/sqlite/SQLiteDatabase/update(java.lang.String]
+
+prob: 0,01449
+[java/util/Iterator/hasNext(), android/support/v4/c/a/a(int), java/util/Map$Entry/getKey(), java/util/Map/size(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), android/support/v4/c/a/put(java.lang.Object]
+
+prob: 0,01449
+[android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,01449
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)]
+
+prob: 0,01449
+[java.lang.StringBuilder)]
+
+prob: 0,01449
+[android/widget/Scroller/Scroller(android.content.Context]
+
+prob: 0,01449
+[android/graphics/Canvas/rotate(float), android/graphics/Canvas/translate(float]
+
+prob: 0,01449
+[android/view/SoundEffectConstants/getContantForFocusDirection(int), android/view/View/requestFocus(), java/lang/Class/getSimpleName(), android/view/ViewParent/getParent(), android/view/FocusFinder/getInstance(), android/support/v4/view/ViewPager/findFocus(), android/util/Log/e(java.lang.String]
+
+prob: 0,01449
+[android/support/v4/view/ViewPager/getPaddingLeft(), java/lang/Integer/toHexString(int), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Math/max(int]
+
+prob: 0,01449
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String]
+
+prob: 0,01449
+[java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), de/uvwxy/soundfinder/SoundFinder/getString(int), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01449
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), android/support/v4/view/ViewPager/getId()]
+
+prob: 0,01449
+[android/support/v4/view/ViewPager/getWindowToken(), android/support/v4/view/ViewPager/hasFocus()]
+
+prob: 0,01449
+[android/view/MotionEvent/getEdgeFlags(), android/widget/Scroller/abortAnimation(), android/view/VelocityTracker/obtain(), android/view/VelocityTracker/computeCurrentVelocity(int]
+
+prob: 0,01449
+[android.view.View)]
+
+prob: 0,01449
+[java/lang/Runnable/run(), android/os/Looper/myLooper(), java/util/ArrayList/get(int), android/os/Handler/removeCallbacks(java.lang.Runnable), android/os/Handler/getLooper(), java/util/ArrayList/clear(]
+
+prob: 0,01449
+[java/lang/Runnable/run(), android/widget/Scroller/abortAnimation(), android/support/v4/view/ViewPager/scrollTo(int]
+
+prob: 0,01449
+[java/util/ArrayList/size(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,01449
+[java/util/ArrayList/size(), android/widget/Scroller/getCurrY(), android/support/v4/view/ViewPager/getScrollY(), java/util/ArrayList/get(int)]
+
+prob: 0,01449
+[android/support/v4/view/ViewPager/getScrollX()]
+
+prob: 0,01449
+[android/widget/Scroller/getFinalX(), android/widget/Scroller/abortAnimation(), android/view/MotionEvent/getY(), android/view/VelocityTracker/obtain(]
+
+prob: 0,01449
+[android/view/VelocityTracker/recycle(), android/widget/Scroller/computeScrollOffset(), java/lang/Math/abs(float), android/view/MotionEvent/getX(), android/widget/Scroller/getCurrX()]
+
+prob: 0,01449
+[java/lang/Math/abs(int)]
+
+prob: 0,01449
+[android/view/MotionEvent/getAction()]
+
+prob: 0,01449
+[android/view/VelocityTracker/addMovement(android.view.MotionEvent)]
+
+prob: 0,01449
+[android/graphics/drawable/Drawable/setBounds(int]
+
+prob: 0,01449
+[android/view/View/getRight(), android/view/View/getBottom(), java/lang/Math/max(int]
+
+prob: 0,01449
+[android/view/View/getRight(), android/view/View/getBottom(), android/content/res/Resources/getResourcePackageName(int), android/view/View/willNotDraw(), android/content/res/Resources/getResourceTypeName(int), android/view/View/getVisibility(), android/view/View/isFocusable()]
+
+prob: 0,01449
+[android/support/v4/widget/SlidingPaneLayout/getPaddingLeft(), android/view/View/setVisibility(int), android/support/v4/widget/SlidingPaneLayout/getPaddingTop(), android/support/v4/widget/SlidingPaneLayout/getHeight(), android/support/v4/widget/SlidingPaneLayout/getWidth(), android/support/v4/widget/SlidingPaneLayout/getPaddingRight(), android/support/v4/widget/SlidingPaneLayout/getChildCount()]
+
+prob: 0,01449
+[android/view/View/isHorizontalScrollBarEnabled(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/System/identityHashCode(java.lang.Object), android/view/View/getResources(), android/view/View/isClickable(), android/view/View/isPressed(), android/content/res/Resources/getResourceEntryName(int), android/view/View/isVerticalScrollBarEnabled(), android/view/View/getTop(), android/view/View/getLeft(), android/view/View/isSelected(]
+
+prob: 0,01449
+[android/view/View/getId(), java/lang/Integer/toHexString(int), android/view/View/isFocused(), java/lang/StringBuilder/toString()]
+
+prob: 0,01449
+[java/lang/StringBuilder/StringBuilder(int), java/lang/Class/getName(), android/view/View/isEnabled(), java/lang/StringBuilder/append(char), android/view/View/isLongClickable(), java/lang/Object/getClass()]
+
+prob: 0,01449
+[android/content/ContentValues/put(java.lang.String]
+
+prob: 0,01449
+[java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int]
+
+prob: 0,01449
+[android/widget/Scroller/getCurrX()]
+
+prob: 0,01449
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,01449
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01449
+[java/util/ArrayList/get(int)]
+

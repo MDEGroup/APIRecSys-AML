@@ -1,0 +1,10 @@
+android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context
+java/io/Writer/write(java.lang.String
+android/graphics/drawable/Drawable/setBounds(int,int,int,int)
+java/util/Iterator/hasNext()
+android/content/res/Resources/getString(int)
+android/widget/CompoundButton/setClickable(boolean
+android/widget/TableRow/setVisibility(int
+android/view/View/setOnClickListener(android.view.View$OnClickListener)
+java/lang/Float/parseFloat(java.lang.String)
+android/view/View/getHeight(

@@ -1,0 +1,8 @@
+java/lang/String/contains(java.lang.CharSequence
+android/widget/TextView/setText(java.lang.CharSequence)
+java/lang/String/valueOf(int
+java/util/Calendar/getInstance(
+android/app/AlarmManager/set(int,long,android.app.PendingIntent)
+uk/co/bensproule/silentmeeting/dao/InstanceDao/save(uk.co.bensproule.silentmeeting.domain.Domain)
+android/os/Bundle/getString(java.lang.String
+android/widget/CheckBox/setOnClickListener(android.view.View$OnClickListener)

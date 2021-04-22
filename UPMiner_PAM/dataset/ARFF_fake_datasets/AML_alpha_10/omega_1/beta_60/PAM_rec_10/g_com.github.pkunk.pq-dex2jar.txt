@@ -1,0 +1,44 @@
+java/util/Iterator/next()  0,38095
+java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,19048
+java/util/List/add(java.lang.Object)  0,14286
+java.lang.String[  0,09524
+android/widget/TableLayout/getContext()  0,09524
+android/widget/TableLayout/addView(android.view.View)  0,09524
+android/widget/TextView/getTextSize(), android/widget/ImageView/ImageView(android.content.Context), com/github/pkunk/pq/ui/view/a/setBackgroundColor(int), android/widget/TextView/setTextColor(int), android/widget/RelativeLayout$LayoutParams/addRule(int  0,04762
+java/util/Iterator/hasNext(), java/util/List/toArray(java.lang.Object[), java/lang/String/indexOf(java.lang.String), java/util/Set/iterator(), java/util/List/add(java.lang.Object), java/util/Map/put(java.lang.Object  0,04762
+java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,04762
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/toLowerCase(java.util.Locale), java/lang/StringBuilder/StringBuilder()  0,04762
+java/util/Map$Entry/getKey(), java/lang/Integer/toString(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/Iterator/hasNext(), java/util/Iterator/next(  0,04762
+java/util/Map$Entry/getKey(), com/github/pkunk/pq/ui/PhoneGameplayActivity/findViewById(int), java/util/Map/entrySet(), java/util/Iterator/hasNext(), android/widget/TableLayout/removeAllViews(), android/widget/ScrollView/fullScroll(int), java/util/Set/iterator(  0,04762
+com/github/pkunk/pq/c/c/get(int), com/github/pkunk/pq/a/h/add(java.lang.Object), java/lang/Math/abs(int), com/github/pkunk/pq/a/h/size(), com/github/pkunk/pq/a/h/remove(), com/github/pkunk/pq/c/c/size(  0,04762
+java.lang.String  0,04762
+java/util/List/size()  0,04762
+java.lang.String)  0,04762
+java/util/ArrayList/ArrayList(int), java/util/Iterator/hasNext(), com/github/pkunk/pq/a/d/size(), java/util/Map$Entry/getValue(  0,04762
+java/util/ArrayList/ArrayList(int), java/util/Iterator/hasNext(), android/widget/RadioButton/setOnClickListener(android.view.View$OnClickListener), android/widget/RadioGroup/addView(android.view.View), android/view/ViewGroup/addView(android.view.View), java/util/List/add(java.lang.Object), com/github/pkunk/pq/c/c/iterator(  0,04762
+java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/hasNext(), java/util/Queue/iterator(), java/lang/StringBuilder/toString(  0,04762
+java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/append(int), java/util/Map$Entry/getValue(), java/util/Iterator/hasNext(), com/github/pkunk/pq/a/j/size(), java/util/Map$Entry/getKey(), com/github/pkunk/pq/a/j/entrySet(), java/util/Set/iterator(  0,04762
+java/lang/Integer/intValue(), java/util/Iterator/hasNext(), com/github/pkunk/pq/a/j/size(), java/util/Map$Entry/getValue(  0,04762
+java/lang/Integer/intValue(), java/util/Iterator/hasNext(), com/github/pkunk/pq/a/k/get(int), java/lang/String/equals(java.lang.Object), java/util/Set/iterator(), java/util/Map$Entry/getValue(), com/github/pkunk/pq/a/d/entrySet(), java/util/Map$Entry/getKey(  0,04762
+java/lang/Integer/intValue(), java/util/Iterator/hasNext(), java/lang/Integer/valueOf(java.lang.String), java/util/List/iterator(), java/lang/String/equals(java.lang.Object), java/util/LinkedList/LinkedList(  0,04762
+java/lang/Integer/intValue(), java/lang/Math/floor(double), java/lang/String/length(), com/github/pkunk/pq/a/d/size(), com/github/pkunk/pq/a/d/get(java.lang.Object), java/util/Queue/poll(), java/util/Queue/size(), java/lang/String/contains(java.lang.CharSequence), com/github/pkunk/pq/a/d/remove(java.lang.Object  0,04762
+com/github/pkunk/pq/c/c/size()  0,04762
+android.appwidget.AppWidgetManager  0,04762
+boolean  0,04762
+java/lang/String/split(java.lang.String)  0,04762
+com/github/pkunk/pq/a/k/get(int), java/util/Map$Entry/getKey(), com/github/pkunk/pq/a/j/entrySet(), java/util/Set/iterator(), java/lang/StringBuilder/append(java.lang.Object)  0,04762
+java/util/Queue/add(java.lang.Object)  0,04762
+android/widget/TabWidget/getChildAt(int), android/widget/TextView/setTextColor(int), android/view/View/findViewById(int), android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence), android/widget/TabHost/addTab(android.widget.TabHost$TabSpec), com/github/pkunk/pq/ui/PhoneGameplayActivity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), android/widget/TabHost/setCurrentTab(int), android/widget/TabHost/getTabWidget(  0,04762
+android/widget/TabWidget/getChildCount(), android/widget/TabHost/newTabSpec(java.lang.String), android/widget/TabHost$TabSpec/setContent(int)  0,04762
+java/lang/StringBuilder/append(java.lang.Object)  0,04762
+com/github/pkunk/pq/a/d/entrySet()  0,04762
+java/lang/StringBuilder/append(int)  0,04762
+com/github/pkunk/pq/ui/PhoneGameplayActivity/findViewById(int)  0,04762
+java/util/Map/entrySet()  0,04762
+android/widget/TableLayout/removeAllViews()  0,04762
+android/widget/ScrollView/fullScroll(int)  0,04762
+java/lang/String/equals(java.lang.Object)  0,04762
+java/util/Map$Entry/getValue()  0,04762
+java/util/Map$Entry/getKey()  0,04762
+java/util/Set/iterator()  0,04762
+java/lang/StringBuilder/StringBuilder()  0,04762

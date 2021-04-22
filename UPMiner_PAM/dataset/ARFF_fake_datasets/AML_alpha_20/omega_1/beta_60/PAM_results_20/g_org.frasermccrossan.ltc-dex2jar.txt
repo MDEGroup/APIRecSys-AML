@@ -1,0 +1,165 @@
+prob: 0,07317
+[android.view.View]
+
+prob: 0,04878
+[java.lang.String]
+
+prob: 0,04878
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,04878
+[android/widget/Spinner/getSelectedItemPosition(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,04878
+[java/util/Set/iterator()]
+
+prob: 0,02439
+[java/util/List/get(int), org/jsoup/helper/HttpConnection$Response/header(java.lang.String]
+
+prob: 0,02439
+[java/lang/Double/valueOf(double), java/lang/CharSequence/toString(), java/lang/StringBuilder/StringBuilder(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02439
+[java/util/HashMap/HashMap(int)]
+
+prob: 0,02439
+[java/lang/Integer/intValue(), android/app/Activity/onContextItemSelected(android.view.MenuItem), android/view/MenuItem/getMenuInfo(), java/lang/String/format(java.util.Locale]
+
+prob: 0,02439
+[android/content/SharedPreferences/contains(java.lang.String), org/frasermccrossan/ltc/FindStop/getPreferences(int), org/frasermccrossan/ltc/FindStop/startActivity(android.content.Intent), android/widget/ListView/setEmptyView(android.view.View), java/util/Calendar/getTimeInMillis(), android/content/SharedPreferences/getInt(java.lang.String]
+
+prob: 0,02439
+[java.lang.String)]
+
+prob: 0,02439
+[android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,02439
+[android/widget/ScrollView/getScrollY(), org/frasermccrossan/ltc/i/insert(java.lang.Object]
+
+prob: 0,02439
+[org.jsoup.helper.HttpConnection$Response)]
+
+prob: 0,02439
+[java.io.OutputStream)]
+
+prob: 0,02439
+[java/net/URL/openConnection(), java/net/HttpURLConnection/setReadTimeout(int), java/net/HttpURLConnection/addRequestProperty(java.lang.String]
+
+prob: 0,02439
+[java/util/Map$Entry/getKey(), java/net/HttpURLConnection/setConnectTimeout(int), java/util/Iterator/next()]
+
+prob: 0,02439
+[java/util/Iterator/hasNext(), java/net/URLEncoder/encode(java.lang.String]
+
+prob: 0,02439
+[java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Map/get(java.lang.Object), org/jsoup/safety/Whitelist$AttributeKey/toString(), java/util/Map/containsKey(java.lang.Object), org/jsoup/safety/Whitelist$AttributeValue/toString(]
+
+prob: 0,02439
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/Map$Entry/getValue(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(]
+
+prob: 0,02439
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Character/valueOf(char), java/lang/StringBuilder/toString(), java/util/Map/put(java.lang.Object]
+
+prob: 0,02439
+[org.jsoup.Connection$Response)]
+
+prob: 0,02439
+[int]
+
+prob: 0,02439
+[java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.Object), java/lang/String/split(java.lang.String), java/lang/CharSequence/length(), java/lang/String/toLowerCase(), java/lang/String/trim(), android/database/DatabaseUtils/sqlEscapeString(java.lang.String)]
+
+prob: 0,02439
+[java/util/ArrayList/ArrayList(), android/content/res/Resources/getString(int), android/database/sqlite/SQLiteDatabase/beginTransaction(), android/database/sqlite/SQLiteDatabase/setTransactionSuccessful(), android/content/ContentValues/put(java.lang.String]
+
+prob: 0,02439
+[java/util/ArrayList/ArrayList(), android/util/Log/e(java.lang.String]
+
+prob: 0,02439
+[org.jsoup.nodes.Attribute]
+
+prob: 0,02439
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), java/util/Iterator/hasNext(), java/lang/Long/valueOf(long), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,02439
+[java/util/ArrayList/ArrayList(int), java/util/Iterator/next(), java/util/List/add(java.lang.Object), java/util/Map$Entry/getValue()]
+
+prob: 0,02439
+[java/net/HttpURLConnection/disconnect(), java/net/URL/openConnection(), java/lang/StringBuilder/append(java.lang.String), java/net/URL/URL(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,02439
+[java/lang/Double/parseDouble(java.lang.String), org/json/JSONArray/getString(int), org/json/JSONException/getMessage(), java/lang/Integer/parseInt(java.lang.String), java/lang/Integer/valueOf(int), org/json/JSONArray/getJSONObject(int), java/util/ArrayList/add(java.lang.Object), org/json/JSONObject/getString(java.lang.String), org/json/JSONArray/JSONArray(java.lang.String)]
+
+prob: 0,02439
+[java/util/Set/iterator(), java/lang/StringBuilder/append(char), org/jsoup/Connection$Request/cookies(), java/util/Map/entrySet()]
+
+prob: 0,02439
+[java/lang/StringBuilder/substring(int), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/length(), java/lang/StringBuilder/toString(), java/lang/String/split(java.lang.String]
+
+prob: 0,02439
+[java/lang/String/length()]
+
+prob: 0,02439
+[java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,02439
+[android/os/Bundle/Bundle(android.os.Bundle), java/util/Iterator/hasNext(), android/app/Notification$Builder/build(), android/os/Bundle/putAll(android.os.Bundle), android/os/Bundle/remove(java.lang.String), android/os/Bundle/keySet(), android/os/Bundle/putSparseParcelableArray(java.lang.String]
+
+prob: 0,02439
+[org/jsoup/select/CombiningEvaluator$Or/rightMostEvaluator(), java/lang/StringBuilder/toString(), java/util/List/get(int]
+
+prob: 0,02439
+[java/util/List/size(), java/lang/StringBuilder/StringBuilder(java.lang.String), org/jsoup/select/CombiningEvaluator$Or/replaceRightMostEvaluator(org.jsoup.select.Evaluator), java/util/List/clear(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(char)]
+
+prob: 0,02439
+[java/util/LinkedHashMap/entrySet(), java/util/Iterator/hasNext(), java/util/Collections/unmodifiableList(java.util.List), java/util/LinkedHashMap/size(), java/util/Set/iterator(]
+
+prob: 0,02439
+[java/util/Collections/emptyList()]
+
+prob: 0,02439
+[java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getDeclaredField(java.lang.String), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object]
+
+prob: 0,02439
+[android/app/Notification$Builder/setTicker(java.lang.CharSequence]
+
+prob: 0,02439
+[org/frasermccrossan/ltc/DiagnoseProblems/setContentView(int), android/view/View/setVisibility(int), android/net/ConnectivityManager/getNetworkInfo(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/content/Context/getSystemService(java.lang.String), org/frasermccrossan/ltc/DiagnoseProblems/findViewById(int), android/app/Activity/onCreate(android.os.Bundle), android/net/NetworkInfo/isAvailable(), android/net/NetworkInfo/isConnected(]
+
+prob: 0,02439
+[boolean)]
+
+prob: 0,02439
+[java/util/Properties/Properties()]
+
+prob: 0,02439
+[java.nio.charset.CharsetEncoder]
+
+prob: 0,02439
+[android/widget/Spinner/getSelectedItemPosition(), android/widget/Spinner/setSelection(int), android/widget/SimpleAdapter/getCount(), java/util/List/clear(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02439
+[android/widget/Spinner/getSelectedItemPosition(), android/widget/Spinner/setSelection(int), android/app/Activity/requestPermissions(java.lang.String[]]
+
+prob: 0,02439
+[android/widget/Toast/show(), org/frasermccrossan/ltc/FindStop$b/isCancelled(), java/util/List/addAll(java.util.Collection)]
+
+prob: 0,02439
+[java/util/ArrayList/ArrayList(int)]
+
+prob: 0,02439
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,02439
+[java/util/Map/entrySet()]
+
+prob: 0,02439
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,02439
+[java/util/Map$Entry/getValue()]
+
+prob: 0,02439
+[java/util/Iterator/next()]
+

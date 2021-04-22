@@ -1,0 +1,483 @@
+prob: 0,15278
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,05556
+[float]
+
+prob: 0,05556
+[java/util/List/iterator()]
+
+prob: 0,05556
+[java/nio/ByteBuffer/limit()]
+
+prob: 0,05556
+[java/lang/StringBuilder/toString()]
+
+prob: 0,04167
+[int]
+
+prob: 0,04167
+[java.util.Map)]
+
+prob: 0,04167
+[java/nio/ByteBuffer/array()]
+
+prob: 0,04167
+[java/util/Set/iterator()]
+
+prob: 0,04167
+[java/nio/ByteBuffer/flip()]
+
+prob: 0,02778
+[java/lang/Class/getName(), java/lang/Object/getClass(]
+
+prob: 0,02778
+[java/nio/ByteBuffer/allocate(int), java/nio/ByteBuffer/mark(), java/nio/ByteBuffer/reset(), java/nio/ByteBuffer/remaining(), java/nio/ByteBuffer/position(int), java/lang/StringBuilder/toString()]
+
+prob: 0,02778
+[java/nio/ByteBuffer/allocate(int), java/nio/ByteBuffer/position(), java/nio/ByteBuffer/put(byte[]]
+
+prob: 0,02778
+[int)]
+
+prob: 0,02778
+[java.lang.String]
+
+prob: 0,02778
+[java/lang/Math/min(double]
+
+prob: 0,02778
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), java/util/Map/put(java.lang.Object]
+
+prob: 0,02778
+[java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)]
+
+prob: 0,02778
+[java/nio/ByteBuffer/put(java.nio.ByteBuffer)]
+
+prob: 0,02778
+[java/util/List/add(java.lang.Object)]
+
+prob: 0,02778
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,02778
+[java/util/Iterator/next()]
+
+prob: 0,02778
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01389
+[java.lang.Object]
+
+prob: 0,01389
+[java/lang/Double/parseDouble(java.lang.String), java/lang/Integer/valueOf(int), java/lang/Long/valueOf(long), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int), java/math/BigInteger/BigInteger(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,01389
+[java/lang/Double/valueOf(double)]
+
+prob: 0,01389
+[char[]]
+
+prob: 0,01389
+[java/nio/ByteBuffer/compact(), java/nio/channels/SocketChannel/read(java.nio.ByteBuffer), javax/net/ssl/SSLEngineResult/getHandshakeStatus(), java/util/Iterator/remove(), java/util/concurrent/Future/isDone(]
+
+prob: 0,01389
+[javax/net/ssl/SSLEngine/getSession(), java/nio/channels/SocketChannel/write(java.nio.ByteBuffer), java/lang/AssertionError/AssertionError(), java/nio/ByteBuffer/flip()]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(int), java/lang/String/substring(int), java/lang/Object/getClass(), java/lang/String/lastIndexOf(java.lang.String), java/lang/StringBuilder/toString(]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(int), java/util/Set/iterator(), java/util/Set/size(), android/media/SoundPool/autoPause(]
+
+prob: 0,01389
+[android/view/Window/setFlags(int]
+
+prob: 0,01389
+[android/media/MediaPlayer/setOnPreparedListener(android.media.MediaPlayer$OnPreparedListener), playn/android/AndroidSound/fail(java.lang.Throwable), java/lang/StringBuilder/StringBuilder(), android/content/res/AssetFileDescriptor/close(), android/content/res/AssetFileDescriptor/getFileDescriptor(), android/media/MediaPlayer/prepareAsync(), android/media/MediaPlayer/setOnErrorListener(android.media.MediaPlayer$OnErrorListener), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor]
+
+prob: 0,01389
+[android/content/res/AssetFileDescriptor/getStartOffset()]
+
+prob: 0,01389
+[java/lang/Class/getName(), java/lang/StringBuilder/append(float)]
+
+prob: 0,01389
+[java/util/Map$Entry/getKey()]
+
+prob: 0,01389
+[java/util/Map$Entry/getValue()]
+
+prob: 0,01389
+[org.java_websocket.WebSocket]
+
+prob: 0,01389
+[org/java_websocket/server/WebSocketServer$WebSocketWorker/interrupt()]
+
+prob: 0,01389
+[java/nio/channels/ServerSocketChannel/configureBlocking(boolean), java/nio/channels/SelectionKey/isValid(), java/util/Iterator/next(), java/lang/Class/getName(), java/util/List/add(java.lang.Object)]
+
+prob: 0,01389
+[java/nio/ByteBuffer/rewind(), java/nio/ByteBuffer/limit(int), java/nio/ByteBuffer/position(int]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(boolean), java/util/Arrays/toString(byte[]), java/lang/StringBuilder/append(int), java/lang/String/String(byte[]]
+
+prob: 0,01389
+[java/lang/Object/hashCode()]
+
+prob: 0,01389
+[android/media/SoundPool/autoResume(), java/util/HashSet/HashSet(java.util.Collection), java/lang/StringBuilder/append(java.lang.String]
+
+prob: 0,01389
+[playn/core/Keyboard$TextType/ordinal(), android/view/Window/setSoftInputMode(int), android/app/AlertDialog/getWindow(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,01389
+[java/lang/Integer/intValue(), playn/scene/GroupLayer/setTranslation(float]
+
+prob: 0,01389
+[pokeros/core/GameScreen/size(), tripleplay/ui/Group/add(tripleplay.ui.Element[]), tripleplay/ui/Label/addStyles(tripleplay.ui.Style$Binding[]), playn/scene/GroupLayer/setTranslation(float]
+
+prob: 0,01389
+[react/Signal/connect(react.SignalView$Listener)]
+
+prob: 0,01389
+[tripleplay/ui/layout/AxisLayout$Horizontal/gap(int)]
+
+prob: 0,01389
+[tripleplay/anim/Animation$Action/then(), tripleplay/anim/Animator/delay(float)]
+
+prob: 0,01389
+[tripleplay/anim/Animation$One/easeIn()]
+
+prob: 0,01389
+[pythagoras/f/Rectangle/centerX()]
+
+prob: 0,01389
+[pythagoras/f/Rectangle/centerY()]
+
+prob: 0,01389
+[tripleplay/anim/Animation$One/then()]
+
+prob: 0,01389
+[tripleplay/anim/Animation$One/in(float)]
+
+prob: 0,01389
+[tripleplay/anim/Animation$Delay/then()]
+
+prob: 0,01389
+[tripleplay/anim/Animation$Two/then()]
+
+prob: 0,01389
+[pokeros/core/GameScreen/game(]
+
+prob: 0,01389
+[java/io/BufferedReader/close(), java/lang/StringBuilder/StringBuilder(int), java/io/InputStream/close(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader)]
+
+prob: 0,01389
+[playn.android.AndroidAssets$BitmapOptions)]
+
+prob: 0,01389
+[java/lang/Long/Long(long), java/lang/StringBuilder/insert(int]
+
+prob: 0,01389
+[org.java_websocket.WebSocket$Role]
+
+prob: 0,01389
+[java/util/Collections/emptyList()]
+
+prob: 0,01389
+[java/nio/ByteBuffer/allocate(int), java/util/Arrays/equals(byte[]]
+
+prob: 0,01389
+[java/nio/ByteBuffer/allocate(int), java/nio/ByteBuffer/put(byte), java/nio/ByteBuffer/putInt(int)]
+
+prob: 0,01389
+[java/nio/ByteBuffer/allocate(int), java/lang/Thread/start()]
+
+prob: 0,01389
+[java/nio/ByteBuffer/put(byte), java/nio/ByteBuffer/get(byte[]), java/lang/StringBuilder/append(int), java/nio/ByteBuffer/array()]
+
+prob: 0,01389
+[java/lang/RuntimeException/RuntimeException(java.lang.String)]
+
+prob: 0,01389
+[java/nio/ByteBuffer/get(int)]
+
+prob: 0,01389
+[java/lang/AssertionError/AssertionError(int)]
+
+prob: 0,01389
+[java/util/Random/nextInt()]
+
+prob: 0,01389
+[java/nio/ByteBuffer/get()]
+
+prob: 0,01389
+[java/lang/AssertionError/AssertionError(]
+
+prob: 0,01389
+[java.lang.Object)]
+
+prob: 0,01389
+[java/nio/ByteBuffer/putShort(short), java/lang/StringBuilder/append(int), java/nio/ByteBuffer/getShort(]
+
+prob: 0,01389
+[react/AbstractValue/get(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01389
+[playn.core.QuadBatch]
+
+prob: 0,01389
+[java/nio/ByteBuffer/mark(), java/nio/ByteBuffer/duplicate(), java/util/LinkedList/LinkedList(), java/nio/ByteBuffer/limit()]
+
+prob: 0,01389
+[java/nio/ByteBuffer/remaining(), java/lang/StringBuilder/toString(), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(int), java/lang/String/String(byte[]]
+
+prob: 0,01389
+[java/nio/ByteBuffer/getInt()]
+
+prob: 0,01389
+[pokeros.core.Card)]
+
+prob: 0,01389
+[java/lang/Math/min(float]
+
+prob: 0,01389
+[java/net/InetSocketAddress/getPort()]
+
+prob: 0,01389
+[java/net/URI/getHost()]
+
+prob: 0,01389
+[java/lang/Exception/getMessage()]
+
+prob: 0,01389
+[java/net/InetSocketAddress/getHostName()]
+
+prob: 0,01389
+[java/nio/channels/SocketChannel/isOpen()]
+
+prob: 0,01389
+[java/net/InetSocketAddress/InetSocketAddress(java.lang.String]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), java/util/Set/isEmpty(), java/util/Set/clear(), java/util/Set/size()]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), react/RMap/checkMutate(), java/util/Map/clear(), java/util/HashSet/HashSet(java.util.Collection]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), tripleplay/anim/Animation$Two/in(float), java/lang/Integer/intValue(), java/lang/StringBuilder/append(int), java/util/Iterator/next(), tripleplay/anim/Animation$Two/easeInOut(), java/lang/StringBuilder/toString()]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), org/java_websocket/handshake/HandshakeImpl1Client/put(java.lang.String]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/concurrent/atomic/AtomicBoolean/compareAndSet(boolean]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/isEmpty(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), org/apache/http/params/HttpProtocolParams/setHttpElementCharset(org.apache.http.params.HttpParams]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/Throwable/getMessage(), java/util/List/size(), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), java/nio/ByteBuffer/limit(int]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), java/util/List/isEmpty(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01389
+[java/io/IOException/IOException(java.lang.String), java/lang/System/arraycopy(java.lang.Object]
+
+prob: 0,01389
+[java/lang/Runnable/run(), java/lang/StringBuilder/toString(]
+
+prob: 0,01389
+[java/util/List/size(), java/util/List/get(int), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01389
+[java/util/List/addAll(java.util.Collection)]
+
+prob: 0,01389
+[java/util/List/clear()]
+
+prob: 0,01389
+[java/lang/RuntimeException/getMessage()]
+
+prob: 0,01389
+[org/java_websocket/exceptions/InvalidDataException/getMessage()]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(java.lang.String), java/nio/channels/ServerSocketChannel/register(java.nio.channels.Selector]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/valueOf(char[]]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(java.lang.String), android/graphics/BitmapFactory/decodeStream(java.io.InputStream]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), org/java_websocket/handshake/ClientHandshakeBuilder/hasFieldValue(java.lang.String), java/util/Random/nextBytes(byte[]), org/java_websocket/handshake/ClientHandshakeBuilder/put(java.lang.String]
+
+prob: 0,01389
+[java/nio/ByteBuffer/flip(), java/nio/ByteBuffer/put(java.nio.ByteBuffer), java/nio/ByteBuffer/put(byte[]), java/nio/ByteBuffer/remaining()]
+
+prob: 0,01389
+[java/util/Iterator/next(), java/util/Map/entrySet()]
+
+prob: 0,01389
+[java/util/Iterator/next(), java/util/Iterator/hasNext()]
+
+prob: 0,01389
+[java/nio/ByteBuffer/wrap(byte[])]
+
+prob: 0,01389
+[java/util/concurrent/BlockingQueue/add(java.lang.Object)]
+
+prob: 0,01389
+[pythagoras/d/AbstractArc/height()]
+
+prob: 0,01389
+[pythagoras/d/AbstractArc/angleStart()]
+
+prob: 0,01389
+[java/lang/Math/toRadians(double)]
+
+prob: 0,01389
+[java/lang/Math/sin(double)]
+
+prob: 0,01389
+[pythagoras/d/AbstractArc/x()]
+
+prob: 0,01389
+[pythagoras/d/AbstractArc/y()]
+
+prob: 0,01389
+[org/java_websocket/util/Base64$InputStream/close()]
+
+prob: 0,01389
+[pythagoras/d/AbstractArc/angleExtent()]
+
+prob: 0,01389
+[java/lang/Math/cos(double)]
+
+prob: 0,01389
+[pythagoras/d/AbstractArc/width(]
+
+prob: 0,01389
+[double)]
+
+prob: 0,01389
+[org/apache/http/params/HttpConnectionParams/setStaleCheckingEnabled(org.apache.http.params.HttpParams]
+
+prob: 0,01389
+[org/apache/http/HttpResponse/getStatusLine()]
+
+prob: 0,01389
+[org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest)]
+
+prob: 0,01389
+[org/apache/http/util/EntityUtils/getContentCharSet(org.apache.http.HttpEntity)]
+
+prob: 0,01389
+[org/apache/http/client/methods/HttpPost/setEntity(org.apache.http.HttpEntity)]
+
+prob: 0,01389
+[org/apache/http/params/BasicHttpParams/BasicHttpParams()]
+
+prob: 0,01389
+[playn.core.Touch$Event$Kind)]
+
+prob: 0,01389
+[java/lang/StringBuilder/length()]
+
+prob: 0,01389
+[pythagoras/f/AbstractArc/height()]
+
+prob: 0,01389
+[pythagoras/f/AbstractArc/arcType()]
+
+prob: 0,01389
+[java/lang/Math/max(float]
+
+prob: 0,01389
+[float)]
+
+prob: 0,01389
+[java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream)]
+
+prob: 0,01389
+[java/util/HashMap/HashMap()]
+
+prob: 0,01389
+[playn.core.TextLayout]
+
+prob: 0,01389
+[playn.core.QuadBatch)]
+
+prob: 0,01389
+[java/lang/Long/parseLong(java.lang.String)]
+
+prob: 0,01389
+[java/lang/String/length()]
+
+prob: 0,01389
+[java/io/File/length()]
+
+prob: 0,01389
+[java/nio/ByteBuffer/rewind()]
+
+prob: 0,01389
+[java/lang/String/substring(int)]
+
+prob: 0,01389
+[pokeros/core/GameScreen/size()]
+
+prob: 0,01389
+[java/lang/String/lastIndexOf(java.lang.String)]
+
+prob: 0,01389
+[java/nio/ByteBuffer/allocate(int), java/nio/ByteBuffer/mark(), java/nio/ByteBuffer/capacity(), java/nio/ByteBuffer/remaining()]
+
+prob: 0,01389
+[java/io/IOException/IOException(java.lang.String)]
+
+prob: 0,01389
+[java/lang/AssertionError/AssertionError()]
+
+prob: 0,01389
+[java/nio/ByteBuffer/capacity()]
+
+prob: 0,01389
+[java/util/List/isEmpty()]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(int), java/lang/String/String(byte[]]
+
+prob: 0,01389
+[java/nio/ByteBuffer/reset()]
+
+prob: 0,01389
+[java/util/List/size()]
+
+prob: 0,01389
+[java/nio/ByteBuffer/position()]
+
+prob: 0,01389
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01389
+[java/nio/ByteBuffer/remaining()]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(java.lang.String)]
+

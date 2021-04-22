@@ -1,0 +1,45 @@
+android.view.View  0,06250
+android/content/Intent/Intent(android.content.Context  0,06250
+android/content/Intent/putExtra(java.lang.String  0,06250
+android/util/Log/w(java.lang.String  0,04167
+int  0,04167
+java/lang/StringBuilder/append(java.lang.String), android/util/Log/wtf(java.lang.String  0,04167
+java.lang.String)  0,04167
+android/database/SQLException/toString(), java/util/ArrayList/ArrayList(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,04167
+java.lang.String  0,04167
+uk/co/spookypeanut/wake_me_at/WakeMeAt/setVolumeControlStream(int), uk/co/spookypeanut/wake_me_at/WakeMeAt/setContentView(int), uk/co/spookypeanut/wake_me_at/WakeMeAt/getListView(), uk/co/spookypeanut/wake_me_at/WakeMeAt/registerForContextMenu(android.view.View), uk/co/spookypeanut/wake_me_at/WakeMeAt/setListAdapter(android.widget.ListAdapter), android/app/ListActivity/onCreate(android.os.Bundle  0,02083
+uk/co/spookypeanut/wake_me_at/Compass$CompassThread/start(), android/view/SurfaceView/getHeight(), android/util/Log/d(java.lang.String  0,02083
+android/os/Bundle/putString(java.lang.String  0,02083
+uk/co/spookypeanut/wake_me_at/GetLocationMap/getText(int), android/app/AlertDialog$Builder/setIcon(int), java/lang/StringBuilder/append(java.lang.String), android/location/Address/getMaxAddressLineIndex(), android/app/AlertDialog$Builder/setNegativeButton(int  0,02083
+uk/co/spookypeanut/wake_me_at/GetLocationMap/getText(int), com/google/android/maps/GeoPoint/getLongitudeE6(), java/lang/StringBuilder/append(java.lang.String), java/lang/Thread/start(), com/google/android/maps/GeoPoint/getLatitudeE6(), android/app/ProgressDialog/show(android.content.Context  0,02083
+android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setIcon(int), android/widget/ListView/setAdapter(android.widget.ListAdapter), android/app/AlertDialog$Builder/setPositiveButton(int  0,02083
+android/app/Dialog/setTitle(int), java/util/List/size(), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/app/Dialog/Dialog(android.content.Context), android/app/AlertDialog$Builder/setMessage(int), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context)  0,02083
+uk/co/spookypeanut/wake_me_at/GetLocationMap/findViewById(int), uk/co/spookypeanut/wake_me_at/GetLocationMap/getIntent(), android/os/Bundle/getBoolean(java.lang.String), android/location/Geocoder/Geocoder(android.content.Context  0,02083
+android/location/LocationManager/requestLocationUpdates(java.lang.String  0,02083
+android.content.Intent)  0,02083
+android/text/format/Time/setToNow(), android/util/Log/v(java.lang.String  0,02083
+android/text/format/Time/setToNow(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(long), android/util/Log/d(java.lang.String  0,02083
+android/text/format/Time/setToNow(), java/lang/Long/valueOf(long), uk/co/spookypeanut/wake_me_at/Alarm/getString(int), android/widget/TextView/setText(java.lang.CharSequence), android/text/format/Time/toMillis(boolean), uk/co/spookypeanut/wake_me_at/Alarm/findViewById(int), android/text/format/Time/Time(), android/os/Handler/removeCallbacks(java.lang.Runnable), android/os/Handler/postDelayed(java.lang.Runnable  0,02083
+android/os/PowerManager$WakeLock/acquire(), android/content/Intent/putExtra(java.lang.String  0,02083
+com.google.android.maps.MapView  0,02083
+uk/co/spookypeanut/wake_me_at/EditLocation/getSystemService(java.lang.String), uk/co/spookypeanut/wake_me_at/EditLocation/setVolumeControlStream(int), uk/co/spookypeanut/wake_me_at/EditLocation/setContentView(int), android/util/Log/d(java.lang.String  0,02083
+android/content/Intent/setClass(android.content.Context  0,02083
+java/lang/String/valueOf(java.lang.Object), android/content/res/Resources/getStringArray(int), android/media/Ringtone/getTitle(android.content.Context)  0,02083
+java/lang/Long/valueOf(long), android/database/SQLException/printStackTrace()  0,02083
+java/util/ArrayList/iterator(), java/lang/StringBuilder/toString(), java/util/Iterator/hasNext()  0,02083
+uk/co/spookypeanut/wake_me_at/Alarm/setVolumeControlStream(int), android/os/Bundle/getBoolean(java.lang.String), uk/co/spookypeanut/wake_me_at/Alarm/setContentView(int), uk/co/spookypeanut/wake_me_at/Alarm/getText(int), uk/co/spookypeanut/wake_me_at/Alarm/startActivityForResult(android.content.Intent  0,02083
+java/lang/StringBuilder/append(java.lang.String), uk/co/spookypeanut/wake_me_at/WakeMeAtService/getResources(), android/widget/Toast/makeText(android.content.Context  0,02083
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/RuntimeException/getMessage(), android/util/Log/d(java.lang.String  0,02083
+java/lang/IllegalArgumentException/printStackTrace(), android/media/MediaPlayer/start(), android/media/MediaPlayer/isPlaying(), android/media/MediaPlayer/setDataSource(android.content.Context  0,02083
+double  0,02083
+android/database/SQLException/toString(), java/util/ArrayList/ArrayList(), android/database/SQLException/printStackTrace(), android/database/Cursor/getLong(int), java/lang/StringBuilder/append(long), android/util/Log/e(java.lang.String  0,02083
+java/util/Iterator/next(), java/lang/StringBuilder/append(double)  0,02083
+java/nio/channels/FileChannel/transferFrom(java.nio.channels.ReadableByteChannel  0,02083
+java/io/File/canWrite(), android/widget/Toast/makeText(android.content.Context  0,02083
+android/os/Environment/getExternalStorageDirectory()  0,02083
+android/graphics/Paint/setColor(int), android/graphics/Canvas/drawText(java.lang.String  0,02083
+uk/co/spookypeanut/wake_me_at/Compass$CompassThread/join(), android/util/Log/d(java.lang.String  0,02083
+android/hardware/SensorManager/unregisterListener(android.hardware.SensorEventListener), uk/co/spookypeanut/wake_me_at/Compass$CompassThread/interrupt(), uk/co/spookypeanut/wake_me_at/Compass$CompassThread/getState()  0,02083
+android/graphics/Paint/setAntiAlias(boolean), android/graphics/Paint/setColor(int), android/graphics/Canvas/translate(float  0,02083
+android/graphics/Canvas/rotate(float), android/view/SurfaceView/onDraw(android.graphics.Canvas), android/graphics/Canvas/drawColor(int), android/location/Location/bearingTo(android.location.Location), android/graphics/Canvas/setMatrix(android.graphics.Matrix)  0,02083
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02083

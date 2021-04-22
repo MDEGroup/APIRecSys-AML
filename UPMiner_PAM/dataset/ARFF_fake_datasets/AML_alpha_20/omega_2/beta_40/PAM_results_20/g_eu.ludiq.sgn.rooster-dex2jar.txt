@@ -1,0 +1,66 @@
+prob: 0,10526
+[int)]
+
+prob: 0,05263
+[java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(]
+
+prob: 0,05263
+[eu/ludiq/sgn/rooster/SignInActivity/overridePendingTransition(int]
+
+prob: 0,05263
+[eu/ludiq/sgn/rooster/ChangesActivity/getIntent(), android/widget/ListView/ListView(android.content.Context), android/widget/ListView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/content/Intent/getStringArrayExtra(java.lang.String), eu/ludiq/sgn/rooster/ChangesActivity/finish()]
+
+prob: 0,05263
+[android/util/Log/w(java.lang.String]
+
+prob: 0,05263
+[android/widget/ScrollView/addView(android.view.View), eu/ludiq/sgn/rooster/debug/CrashActivity/getIntent(), android/widget/LinearLayout/addView(android.view.View), android/app/Activity/onCreate(android.os.Bundle), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,05263
+[android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/LinearLayout/setOrientation(int), eu/ludiq/sgn/rooster/debug/CrashActivity/setContentView(android.view.View)]
+
+prob: 0,05263
+[android/widget/Scroller/isFinished(), android/view/VelocityTracker/recycle(), android/view/MotionEvent/getAction(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/VelocityTracker/getXVelocity(), android/view/VelocityTracker/computeCurrentVelocity(int), android/view/VelocityTracker/obtain(), android/view/MotionEvent/getX(int), android/view/MotionEvent/getPointerId(int), android/view/MotionEvent/getX(), android/widget/Scroller/abortAnimation(), android/view/MotionEvent/findPointerIndex(int]
+
+prob: 0,05263
+[eu/ludiq/sgn/rooster/DateActivity/setTitle(java.lang.CharSequence), android/app/Activity/onCreate(android.os.Bundle), android/widget/EditText/addTextChangedListener(android.text.TextWatcher), android/content/res/Resources/getStringArray(int), eu/ludiq/sgn/rooster/DateActivity/setContentView(int), eu/ludiq/sgn/rooster/DateActivity/getIntent(]
+
+prob: 0,05263
+[eu/ludiq/sgn/rooster/DateActivity/findViewById(int), eu/ludiq/sgn/rooster/DateActivity/getResources(), android/content/Intent/getSerializableExtra(java.lang.String)]
+
+prob: 0,05263
+[android/content/res/Resources/getDisplayMetrics(), android/widget/ImageView/setClickable(boolean), android/widget/ImageView/setPadding(int]
+
+prob: 0,05263
+[android/view/View/getRight(), eu/ludiq/sgn/rooster/ui/MenuView/getChildAt(int), eu/ludiq/sgn/rooster/ui/MenuView/getHeight(), android/graphics/Canvas/drawRect(float]
+
+prob: 0,05263
+[eu.ludiq.sgn.rooster.Preferences]
+
+prob: 0,05263
+[eu/ludiq/sgn/rooster/scroll/ViewFlipperCompat/removeAllViews(), android/widget/ListView/setAdapter(android.widget.ListAdapter), eu/ludiq/sgn/rooster/scroll/ViewFlipperCompat/getContext(), android/widget/TextView/setText(java.lang.CharSequence), android/widget/TextView/setGravity(int), eu/ludiq/sgn/rooster/scroll/ViewFlipperCompat/addView(android.view.View]
+
+prob: 0,05263
+[java.lang.Throwable)]
+
+prob: 0,05263
+[android.view.View]
+
+prob: 0,05263
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,05263
+[java.util.HashMap)]
+
+prob: 0,05263
+[java.lang.String[])]
+
+prob: 0,05263
+[java/util/ArrayList/ArrayList(), android/content/res/Resources/getString(int), java/lang/String/format(java.lang.String]
+
+prob: 0,05263
+[android/app/Activity/onCreate(android.os.Bundle), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,05263
+[java/lang/StringBuilder/append(java.lang.String)]
+

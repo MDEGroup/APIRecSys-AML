@@ -1,0 +1,6 @@
+android/content/SharedPreferences/getBoolean(java.lang.String,boolean
+android/content/SharedPreferences/getString(java.lang.String,java.lang.String
+android/net/wifi/WifiManager/getWifiState()
+java/lang/StringBuilder/append(java.lang.String)
+javax/net/ssl/HttpsURLConnection/getResponseCode(
+it/ciopper90/unimorelogin/SetData/findViewById(int)

@@ -1,0 +1,180 @@
+prob: 0,12500
+[android.os.Parcel]
+
+prob: 0,12500
+[java.lang.String)]
+
+prob: 0,06250
+[java.lang.String]
+
+prob: 0,06250
+[long]
+
+prob: 0,06250
+[android.content.Intent)]
+
+prob: 0,06250
+[java/util/ArrayList/ArrayList(), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,06250
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,06250
+[android/util/Log/getStackTraceString(java.lang.Throwable)]
+
+prob: 0,06250
+[android/net/Uri/encode(java.lang.String)]
+
+prob: 0,03125
+[java/util/List/size(), java/io/BufferedReader/readLine(), java/util/List/get(int), java/util/logging/Logger/log(java.util.logging.Level]
+
+prob: 0,03125
+[java/util/List/size(), java/util/List/get(int), java/lang/StringBuilder/append(int), java/util/logging/Logger/log(java.util.logging.Level]
+
+prob: 0,03125
+[java/io/DataOutputStream/flush(), java/lang/StringBuilder/toString(), java/io/DataOutputStream/close()]
+
+prob: 0,03125
+[java.util.ArrayList]
+
+prob: 0,03125
+[java/lang/Double/toString(double), java/lang/StringBuilder/StringBuilder(), android/location/Location/getAltitude(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), android/location/Location/getTime(]
+
+prob: 0,03125
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/util/logging/LogRecord/getThrown(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/util/logging/Level/intValue(]
+
+prob: 0,03125
+[java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getParcelableExtra(java.lang.String), android/content/Intent/getAction()]
+
+prob: 0,03125
+[android/location/Location/getLongitude()]
+
+prob: 0,03125
+[android/location/Location/hasAltitude()]
+
+prob: 0,03125
+[java/lang/Float/toString(float)]
+
+prob: 0,03125
+[android/location/Location/getLatitude()]
+
+prob: 0,03125
+[java/util/ArrayList/ArrayList(int)]
+
+prob: 0,03125
+[android/location/Location/getProvider()]
+
+prob: 0,03125
+[android/location/Location/hasSpeed()]
+
+prob: 0,03125
+[android/location/Location/getAccuracy()]
+
+prob: 0,03125
+[android/location/Location/getSpeed()]
+
+prob: 0,03125
+[java/lang/Long/toString(long)]
+
+prob: 0,03125
+[android/location/Location/hasAccuracy()]
+
+prob: 0,03125
+[java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), android/os/HandlerThread/start(]
+
+prob: 0,03125
+[java.lang.CharSequence]
+
+prob: 0,03125
+[java.lang.String[]]
+
+prob: 0,03125
+[java.io.Reader)]
+
+prob: 0,03125
+[java.io.Writer]
+
+prob: 0,03125
+[long)]
+
+prob: 0,03125
+[java/util/ArrayList/ArrayList(), java/util/logging/Logger/log(java.util.logging.Level]
+
+prob: 0,03125
+[java/lang/String/getBytes()]
+
+prob: 0,03125
+[java/lang/Double/valueOf(double), java/lang/String/format(java.lang.String]
+
+prob: 0,03125
+[java/lang/Throwable/getMessage()]
+
+prob: 0,03125
+[java/lang/String/isEmpty()]
+
+prob: 0,03125
+[java/lang/Integer/toString(int)]
+
+prob: 0,03125
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,03125
+[java/lang/System/getProperty(java.lang.String)]
+
+prob: 0,03125
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,03125
+[java/lang/Class/forName(java.lang.String)]
+
+prob: 0,03125
+[java/lang/Integer/intValue()]
+
+prob: 0,03125
+[android/os/HandlerThread/HandlerThread(java.lang.String)]
+
+prob: 0,03125
+[org/projectmaxs/shared/module/MAXSModuleIntentService/getString(int)]
+
+prob: 0,03125
+[org/projectmaxs/shared/module/MAXSModuleIntentService/getPackageName()]
+
+prob: 0,03125
+[android/os/HandlerThread/getLooper()]
+
+prob: 0,03125
+[android/app/Service/onCreate()]
+
+prob: 0,03125
+[java/lang/Class/getField(java.lang.String)]
+
+prob: 0,03125
+[java/lang/reflect/Field/get(java.lang.Object)]
+
+prob: 0,03125
+[org/projectmaxs/shared/global/jul/JULHandler$1/formatMessage(java.util.logging.LogRecord)]
+
+prob: 0,03125
+[java/util/logging/LogRecord/getLevel()]
+
+prob: 0,03125
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,03125
+[int]
+
+prob: 0,03125
+[java/lang/String/split(java.lang.String)]
+
+prob: 0,03125
+[java/lang/String/indexOf(java.lang.String)]
+
+prob: 0,03125
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,03125
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03125
+[java/lang/StringBuilder/toString()]
+

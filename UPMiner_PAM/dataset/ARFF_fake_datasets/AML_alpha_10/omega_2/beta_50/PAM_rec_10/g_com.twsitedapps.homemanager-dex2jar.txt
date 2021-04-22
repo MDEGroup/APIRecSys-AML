@@ -1,0 +1,17 @@
+android.view.View  0,36364
+android/content/res/Resources/getString(int), android/widget/Toast/makeText(android.content.Context  0,09091
+android/content/SharedPreferences/edit(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/content/SharedPreferences$Editor/putString(java.lang.String  0,04545
+com/twsitedapps/homemanager/QuickSelectActivity/findViewById(int), android/app/Activity/onCreate(android.os.Bundle), java/lang/Exception/printStackTrace(), android/util/Log/e(java.lang.String  0,04545
+java/lang/RuntimeException/printStackTrace(), java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/clear(), java/lang/String/equals(java.lang.Object), android/content/pm/PackageManager/getApplicationIcon(java.lang.String), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,04545
+java/util/ArrayList/isEmpty(), android/content/pm/PackageManager/getApplicationLabel(android.content.pm.ApplicationInfo)  0,04545
+android/app/NotificationManager/cancelAll(), com/twsitedapps/homemanager/HomeManagerActivity/getIntent(), com/twsitedapps/homemanager/HomeManagerActivity/finish(), android/util/Log/e(java.lang.String  0,04545
+com/twsitedapps/homemanager/GetHomeActivity/setContentView(int), android/widget/ListView/setBackgroundColor(int), android/util/Log/e(java.lang.String  0,04545
+java/lang/String/equalsIgnoreCase(java.lang.String), android/content/res/Resources/getDisplayMetrics(), java/util/Locale/Locale(java.lang.String), java/lang/Exception/printStackTrace(), android/util/Log/e(java.lang.String  0,04545
+java/util/Iterator/hasNext(), android/util/Log/e(java.lang.String  0,04545
+android/app/ActivityManager/getMemoryInfo(android.app.ActivityManager$MemoryInfo), java/util/Iterator/hasNext(), java/lang/Integer/valueOf(int), android/app/ActivityManager/getRunningAppProcesses(), java/util/Iterator/next(), java/util/HashMap/HashMap(), java/util/HashMap/put(java.lang.Object  0,04545
+android/app/ActivityManager$MemoryInfo/ActivityManager$MemoryInfo()  0,04545
+android/content/Intent/putExtra(java.lang.String  0,04545
+android/widget/Toast/show(), android/widget/Toast/makeText(android.content.Context  0,04545
+android/content/res/Resources/getString(int), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), com/twsitedapps/homemanager/HomeManagerActivity/startActivity(android.content.Intent), java/lang/StringBuilder/toString()  0,04545
+android/content/res/Resources/getString(int), android/app/NotificationManager/notify(int  0,04545
+java/lang/Exception/printStackTrace(), android/util/Log/e(java.lang.String  0,04545

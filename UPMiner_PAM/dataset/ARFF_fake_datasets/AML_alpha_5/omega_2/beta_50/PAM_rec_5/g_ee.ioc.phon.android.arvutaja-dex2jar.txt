@@ -1,0 +1,55 @@
+java.lang.String  0,08333
+int  0,05556
+java.util.Collection)  0,05556
+java/lang/StringBuffer/append(char), java/lang/StringBuffer/append(double), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/StringBuffer(  0,05556
+java/lang/StringBuilder/StringBuilder()  0,05556
+java/lang/StringBuilder/append(java.lang.Object)  0,05556
+java/lang/StringBuilder/toString()  0,05556
+java/util/Iterator/hasNext(), android/support/v4/c/a/a(int), java/util/Map$Entry/getKey(), java/util/Map/size(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), android/support/v4/c/a/put(java.lang.Object  0,02778
+java/util/Iterator/hasNext(), java/util/Locale/Locale(java.lang.String), android/speech/tts/TextToSpeech/isLanguageAvailable(java.util.Locale), java/lang/StringBuilder/StringBuilder(  0,02778
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuffer/append(long), java/lang/String/toString(), java/lang/StringBuffer/toString(), java/util/HashMap/get(java.lang.Object), java/lang/String/indexOf(int)  0,02778
+java/lang/StringBuffer/length(), java/lang/StringBuffer/append(java.lang.Object), javax/measure/VectorMeasure/getValue(), javax/measure/VectorMeasure/getUnit()  0,02778
+android/net/Uri/encode(java.lang.String), java/util/regex/Matcher/group(int), ee/ioc/phon/android/arvutaja/a/g/e(), android/content/Intent/Intent(java.lang.String  0,02778
+android.view.View  0,02778
+java.math.MathContext)  0,02778
+java.lang.String)  0,02778
+java.util.List)  0,02778
+java.util.Set)  0,02778
+android.content.Intent)  0,02778
+android.content.ContentValues)  0,02778
+android.content.ContentValues  0,02778
+java/io/PrintStream/println(java.lang.String)  0,02778
+java.lang.String[  0,02778
+java/lang/System/nanoTime()  0,02778
+org/jscience/geography/coordinates/crs/CompoundCRS/getConverterTo(org.jscience.geography.coordinates.crs.CoordinateReferenceSystem)  0,02778
+org/jscience/mathematics/function/Variable/set(java.lang.Object)  0,02778
+java/lang/StringBuilder/append(int), java/math/BigInteger/add(java.math.BigInteger), java/io/PrintStream/println(), java/util/Random/Random(), java/math/BigInteger/probablePrime(int  0,02778
+java/lang/StringBuilder/append(boolean)  0,02778
+java/util/Date/Date()  0,02778
+org/jscience/geography/coordinates/crs/GeographicCRS/getConverterTo(org.jscience.geography.coordinates.crs.CoordinateReferenceSystem)  0,02778
+org/jscience/mathematics/vector/DenseMatrix/solve(org.jscience.mathematics.vector.Vector)  0,02778
+java/lang/System/getProperties()  0,02778
+java.lang.StringBuilder)  0,02778
+android.os.Parcel  0,02778
+ee/ioc/phon/android/arvutaja/ArvutajaActivity/setIntent(android.content.Intent), android/content/Intent/Intent(android.content.Context  0,02778
+android.os.Bundle)  0,02778
+java.util.List  0,02778
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), ee/ioc/phon/android/arvutaja/ArvutajaActivity/a(android.content.Intent), ee/ioc/phon/android/arvutaja/ArvutajaActivity/b(android.content.Intent), android/text/method/LinkMovementMethod/getInstance(), java/util/List/size(), android/app/AlertDialog/findViewById(int), ee/ioc/phon/android/arvutaja/ArvutajaActivity/getString(int), android/app/AlertDialog/show(), ee/ioc/phon/android/arvutaja/ArvutajaActivity/a(java.lang.String  0,02778
+android/content/ComponentName/unflattenFromString(java.lang.String), android/app/ActionBar/setTitle(java.lang.CharSequence), android/content/SharedPreferences$Editor/putBoolean(java.lang.String  0,02778
+android/widget/ExpandableListView/setOnItemLongClickListener(android.widget.AdapterView$OnItemLongClickListener), ee/ioc/phon/android/arvutaja/ArvutajaActivity/getString(int), android/widget/ExpandableListView/setAdapter(android.widget.ExpandableListAdapter), ee/ioc/phon/android/arvutaja/ArvutajaActivity/getActionBar(), android/content/SharedPreferences/getString(java.lang.String  0,02778
+ee/ioc/phon/android/arvutaja/ArvutajaActivity/findViewById(int), ee/ioc/phon/android/arvutaja/a/onCreate(android.os.Bundle), ee/ioc/phon/android/arvutaja/ArvutajaActivity/getResources(), android/widget/ExpandableListView/setGroupIndicator(android.graphics.drawable.Drawable), ee/ioc/phon/android/arvutaja/ArvutajaActivity/setContentView(int), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context)  0,02778
+java/util/Iterator/next(), java/lang/StringBuilder/toString()  0,02778
+java/lang/reflect/Field/get(java.lang.Object), java/util/Iterator/hasNext(), java/lang/Class/getDeclaredField(java.lang.String), java/util/Iterator/next(), java/lang/String/substring(int  0,02778
+java/lang/Class/forName(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/ClassLoader/getSystemClassLoader(), java/lang/Thread/getContextClassLoader(), java/lang/Class/forName(java.lang.String  0,02778
+java/lang/Thread/currentThread()  0,02778
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/contains(java.lang.Object), android/content/ComponentName/ComponentName(java.lang.String  0,02778
+android/content/ComponentName/flattenToShortString()  0,02778
+java.util.SortedMap)  0,02778
+java/util/List/iterator()  0,02778
+android/database/Cursor/getColumnIndex(java.lang.String), android/database/Cursor/close(), ee/ioc/phon/android/arvutaja/ShowActivity/b(android.content.Intent), android/content/ContentResolver/query(android.net.Uri  0,02778
+ee/ioc/phon/android/arvutaja/ShowActivity/getString(int), ee/ioc/phon/android/arvutaja/a/onCreate(android.os.Bundle)  0,02778
+android/widget/TextView/setTextColor(int), android/database/Cursor/moveToFirst(), ee/ioc/phon/android/arvutaja/ShowActivity/getContentResolver(), ee/ioc/phon/android/arvutaja/ShowActivity/setContentView(int), android/view/View/setVisibility(int), ee/ioc/phon/android/arvutaja/ShowActivity/requestWindowFeature(int), java/util/List/isEmpty(), java/lang/String/length(), java/lang/IllegalArgumentException/getMessage(), ee/ioc/phon/android/arvutaja/ShowActivity/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence), android/database/Cursor/getLong(int), ee/ioc/phon/android/arvutaja/ShowActivity/getIntent()  0,02778
+java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), org/jscience/economics/money/Currency/divide(javax.measure.unit.Unit), java/io/PrintStream/println(java.lang.Object), java/io/PrintStream/println(double  0,02778
+java/lang/StringBuilder/append(int)  0,02778
+java/lang/StringBuffer/toString()  0,02778
+java/lang/StringBuilder/append(java.lang.String)  0,02778

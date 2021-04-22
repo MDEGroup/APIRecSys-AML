@@ -1,0 +1,14 @@
+android/net/Uri/getPath()
+android/app/AlertDialog$Builder/setPositiveButton(int,android.content.DialogInterface$OnClickListener)
+java/lang/String/substring(int
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+android/widget/ProgressBar/setLayoutParams(android.view.ViewGroup$LayoutParams
+org/json/JSONException/printStackTrace()
+java/lang/Class/getSimpleName()
+org.api.fake
+java/lang/Exception/getMessage(
+java/util/LinkedList/iterator()
+org/json/JSONObject/getInt(java.lang.String
+android/util/Log/w(java.lang.String,java.lang.String)
+org.rand.api

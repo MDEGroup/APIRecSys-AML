@@ -1,0 +1,69 @@
+prob: 0,06667
+[java/util/AbstractMap/get(java.lang.Object), com/hayaisoftware/launcher/c/getReadableDatabase(), android/database/Cursor/close(), java/util/HashMap/HashMap(int), android/database/Cursor/getCount(), android/database/Cursor/moveToNext(), android/database/Cursor/getInt(int), java/util/AbstractMap/put(java.lang.Object]
+
+prob: 0,06667
+[java/util/ArrayList/remove(java.lang.Object), java/lang/CharSequence/subSequence(int]
+
+prob: 0,06667
+[android/content/ComponentName/getClassName(), android/widget/ArrayAdapter/notifyDataSetChanged(), java/lang/CharSequence/charAt(int), java/util/Iterator/next(), java/util/List/iterator()]
+
+prob: 0,06667
+[android/content/ComponentName/getClassName(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/SparseArray/put(int]
+
+prob: 0,06667
+[android/util/SparseArray/get(int)]
+
+prob: 0,06667
+[java/util/HashMap/remove(java.lang.Object)]
+
+prob: 0,06667
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,06667
+[java/lang/Object/toString(), android/widget/ArrayAdapter/notifyDataSetChanged(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/addAll(java.util.Collection]
+
+prob: 0,06667
+[java/lang/String/trim(), java/util/ArrayList/clear(), android/widget/EditText/getText(), java/util/ArrayList/size(), java/util/HashSet/HashSet(), java/lang/String/toLowerCase()]
+
+prob: 0,06667
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,06667
+[java.lang.String)]
+
+prob: 0,06667
+[java/lang/CharSequence/toString(), java/util/List/iterator(), java/util/ArrayList/ArrayList(int), java/util/Iterator/hasNext(), java/util/List/size(), android/content/pm/ActivityInfo/loadLabel(android.content.pm.PackageManager), android/content/pm/PackageManager/queryIntentActivities(android.content.Intent]
+
+prob: 0,06667
+[android/content/Intent/addCategory(java.lang.String)]
+
+prob: 0,06667
+[android/content/Intent/setData(android.net.Uri), java/lang/StringBuilder/append(java.lang.String), android/content/ComponentName/getClassName(), android/widget/ArrayAdapter/notifyDataSetChanged(), android/view/View/findViewById(int), java/lang/StringBuilder/StringBuilder(java.lang.String]
+
+prob: 0,06667
+[android/view/MenuItem/getMenuInfo(), android/content/ComponentName/getPackageName(), android/net/Uri/parse(java.lang.String), android/content/Intent/Intent(java.lang.String), android/content/Intent/setFlags(int), android/view/View/getTag(), java/lang/StringBuilder/toString(), com/hayaisoftware/launcher/activities/SearchActivity/startActivity(android.content.Intent), android/view/MenuItem/getItemId()]
+
+prob: 0,06667
+[android/content/res/Resources/getInteger(int), android/widget/EditText/setOnKeyListener(android.view.View$OnKeyListener), java/lang/StringBuilder/StringBuilder(int), java/lang/Math/round(float), android/content/res/Resources/getDrawable(int), com/hayaisoftware/launcher/activities/SearchActivity/getApplicationContext(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/content/IntentFilter/addDataScheme(java.lang.String), com/hayaisoftware/launcher/activities/SearchActivity/getPackageManager(), android/widget/EditText/setImeActionLabel(java.lang.CharSequence]
+
+prob: 0,06667
+[java/util/ArrayList/ArrayList(), java/lang/String/toLowerCase(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/setLength(int), java/lang/String/length(]
+
+prob: 0,06667
+[java/lang/String/charAt(int), java/lang/Character/isDigit(char), java/util/ArrayList/add(java.lang.Object), java/lang/Character/isUpperCase(char), java/lang/StringBuilder/append(char), java/lang/StringBuilder/length(), java/lang/Character/isSpaceChar(char)]
+
+prob: 0,06667
+[android.content.Context]
+
+prob: 0,06667
+[int)]
+
+prob: 0,06667
+[android.view.View]
+
+prob: 0,06667
+[long]
+
+prob: 0,06667
+[android.content.Intent)]
+

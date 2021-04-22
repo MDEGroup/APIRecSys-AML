@@ -1,0 +1,31 @@
+int)  0,09091
+java/lang/StringBuilder/append(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), android/os/Bundle/getString(java.lang.String)  0,09091
+com/cax/pmk/InfoActivity/getString(int), com/cax/pmk/InfoActivity/getIntent(), java/lang/StringBuilder/toString(), com/cax/pmk/InfoActivity/findViewById(int), android/content/SharedPreferences/getInt(java.lang.String  0,04545
+com/cax/pmk/InfoActivity/getString(int), android/os/Bundle/getStringArrayList(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/format(java.util.Locale  0,04545
+android/webkit/WebSettings/setTextZoom(int), com/cax/pmk/InfoActivity/getString(int), android/webkit/WebView/loadData(java.lang.String  0,04545
+java/lang/String/length(), java/lang/StringBuilder/StringBuilder(), java/io/ObjectInputStream/close(), com/cax/pmk/MainActivity/openFileInput(java.lang.String)  0,04545
+android/webkit/WebView/setBackgroundColor(int), android/content/Intent/getExtras(), android/webkit/WebView/loadUrl(java.lang.String), java/lang/StringBuilder/toString(  0,04545
+com/cax/pmk/widget/Slider/getPaddingLeft(), com/cax/pmk/widget/Slider/getMax(), com/cax/pmk/widget/Slider/getWidth(), com/cax/pmk/widget/Slider/getPaddingRight(), com/cax/pmk/widget/Slider/getProgress(), android/widget/SeekBar$OnSeekBarChangeListener/onProgressChanged(android.widget.SeekBar  0,04545
+android/view/View/setOnLongClickListener(android.view.View$OnLongClickListener), java/util/Iterator/hasNext(), android/view/View/setVisibility(int), com/cax/pmk/MainActivity/findViewById(int), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener), android/widget/TextView/setText(java.lang.CharSequence), java/util/Iterator/next(), java/util/List/iterator(), android/view/View/setOnTouchListener(android.view.View$OnTouchListener  0,04545
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/get(int)  0,04545
+android/content/Intent/putExtra(java.lang.String  0,04545
+java/lang/Float/parseFloat(java.lang.String), android/view/View/setVisibility(int), android/content/SharedPreferences/getString(java.lang.String  0,04545
+android/content/ClipboardManager/setPrimaryClip(android.content.ClipData), java/lang/String/length(), java/lang/String/substring(int  0,04545
+com/cax/pmk/MainActivity/getSystemService(java.lang.String)  0,04545
+android/media/SoundPool/SoundPool(int  0,04545
+com/cax/pmk/MainActivity/getAssets(), android/widget/Button/getTypeface(), android/widget/RelativeLayout$LayoutParams/addRule(int), android/content/SharedPreferences/getBoolean(java.lang.String  0,04545
+float  0,04545
+com/cax/pmk/InfoActivity/setContentView(int), java/lang/StringBuilder/StringBuilder(), android/graphics/Color/parseColor(java.lang.String), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context)  0,04545
+android/graphics/Typeface/createFromAsset(android.content.res.AssetManager  0,04545
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), android/content/pm/PackageManager$NameNotFoundException/printStackTrace(), java/text/MessageFormat/format(java.lang.String  0,04545
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/widget/EditText/setId(int), android/widget/EditText/EditText(android.content.Context), android/text/InputFilter$LengthFilter/InputFilter$LengthFilter(int), android/app/AlertDialog$Builder/show(), android/widget/EditText/setFilters(android.text.InputFilter[), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,04545
+java.util.List  0,04545
+java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), java/io/File/exists(), java/util/Collections/sort(java.util.List  0,04545
+java/io/File/getName(), java/io/File/isDirectory()  0,04545
+java/io/File/isDirectory(), android/content/Context/getString(int), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,04545
+com/cax/pmk/InstructionActivity/setContentView(int), java/lang/StringBuilder/StringBuilder(), com/cax/pmk/InstructionActivity/findViewById(int), com/cax/pmk/InstructionActivity/getIntent()  0,04545
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/File/exists(), java/lang/String/substring(int  0,04545
+java/io/FileInputStream/close(), java/io/ObjectInputStream/ObjectInputStream(java.io.InputStream), java/io/ObjectInputStream/readObject(), java/lang/String/equals(java.lang.Object), java/lang/Exception/printStackTrace()  0,04545
+boolean)  0,04545
+android/webkit/WebView/setBackgroundColor(int), android/content/Intent/getExtras(), android/webkit/WebView/loadUrl(java.lang.String)  0,04545
+android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context)  0,04545

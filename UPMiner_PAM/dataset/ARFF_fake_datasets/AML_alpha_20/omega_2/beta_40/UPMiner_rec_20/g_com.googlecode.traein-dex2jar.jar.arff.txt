@@ -1,0 +1,6 @@
+android/content/Intent/Intent(java.lang.String
+android/database/sqlite/SQLiteQueryBuilder/setProjectionMap(java.util.Map)
+android/content/Intent/setData(android.net.Uri)
+org.api.fake
+android/content/Context/getContentResolver(
+org.rand.api

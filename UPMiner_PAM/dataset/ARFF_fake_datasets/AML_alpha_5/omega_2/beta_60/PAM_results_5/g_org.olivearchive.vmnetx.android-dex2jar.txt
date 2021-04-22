@@ -1,0 +1,33 @@
+prob: 0,25000
+[java.lang.String]
+
+prob: 0,16667
+[int)]
+
+prob: 0,08333
+[java/lang/String/equals(java.lang.Object), android/os/StrictMode$ThreadPolicy$Builder/StrictMode$ThreadPolicy$Builder(]
+
+prob: 0,08333
+[java/lang/String/substring(int), android/net/Uri/getPort(), android/net/Uri/getPath(), android/net/Uri/getScheme(), org/olivearchive/vmnetx/android/RemoteCanvasActivity/setVolumeControlStream(int), org/olivearchive/vmnetx/android/RemoteCanvasActivity/getString(int), android/os/StrictMode/setThreadPolicy(android.os.StrictMode$ThreadPolicy), android/os/StrictMode$ThreadPolicy$Builder/build(), android/content/Intent/getData()]
+
+prob: 0,08333
+[android/app/ProgressDialog/setProgressPercentFormat(java.text.NumberFormat), android/os/Message/getData(), android/app/ProgressDialog/getMax(), android/app/ProgressDialog/dismiss(), android/util/Log/w(java.lang.String]
+
+prob: 0,08333
+[java/nio/ByteBuffer/allocate(int), java/lang/StringBuilder/append(java.lang.String), java/nio/ByteBuffer/get(byte[]), java/lang/Integer/toString(int), java/nio/ByteBuffer/limit(), java/nio/ByteBuffer/getInt(), java/nio/channels/SocketChannel/read(java.nio.ByteBuffer), java/nio/ByteBuffer/capacity(), java/nio/ByteBuffer/rewind(), java/lang/StringBuilder/StringBuilder(), java/lang/Integer/highestOneBit(int), java/nio/ByteBuffer/hasRemaining(), java/lang/StringBuilder/toString(), java/nio/ByteBuffer/limit(int]
+
+prob: 0,08333
+[android/content/res/AssetManager/list(java.lang.String), java/io/IOException/printStackTrace(), java/io/File/File(java.io.File]
+
+prob: 0,08333
+[java.io.DataOutputStream)]
+
+prob: 0,08333
+[java/lang/Throwable/printStackTrace(), java/lang/StringBuilder/append(java.lang.String), java/lang/Throwable/toString(), java/lang/Throwable/getMessage(), android/util/Log/e(java.lang.String]
+
+prob: 0,08333
+[org/olivearchive/vmnetx/android/RemoteCanvas/getContext()]
+
+prob: 0,08333
+[java.lang.Runnable)]
+

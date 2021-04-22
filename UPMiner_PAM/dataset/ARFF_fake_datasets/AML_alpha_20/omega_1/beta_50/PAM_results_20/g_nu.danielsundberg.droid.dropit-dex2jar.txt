@@ -1,0 +1,120 @@
+prob: 0,21212
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,12121
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Map/keySet(]
+
+prob: 0,12121
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,12121
+[java/lang/StringBuilder/append(int), java/util/Set/iterator()]
+
+prob: 0,12121
+[java/util/List/size()]
+
+prob: 0,09091
+[int]
+
+prob: 0,06061
+[com/badlogic/gdx/graphics/GL11/glEnableClientState(int), java/nio/ByteBuffer/limit(), com/badlogic/gdx/graphics/GL11/glClientActiveTexture(int), java/nio/FloatBuffer/limit(), java/nio/ByteBuffer/limit(int]
+
+prob: 0,06061
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,03030
+[java/io/DataInputStream/readFloat(), java/net/ServerSocket/accept(), java/net/Socket/setTcpNoDelay(boolean]
+
+prob: 0,03030
+[java/net/Socket/setSoTimeout(int), java/lang/StringBuilder/toString(), java/io/DataInputStream/readBoolean(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(int), java/io/DataInputStream/readInt(), java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/DataInputStream/readChar()]
+
+prob: 0,03030
+[java/nio/ByteOrder/nativeOrder(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), com/badlogic/gdx/graphics/GL20/glBindTexture(int]
+
+prob: 0,03030
+[java.nio.Buffer)]
+
+prob: 0,03030
+[boolean]
+
+prob: 0,03030
+[android/app/AlertDialog/setButton(java.lang.CharSequence]
+
+prob: 0,03030
+[java/io/OutputStream/close(), java/net/HttpURLConnection/disconnect(), java/net/URL/openConnection(), java/io/File/File(java.io.File]
+
+prob: 0,03030
+[java/util/ArrayList/remove(int), android/opengl/GLSurfaceView$Renderer/onSurfaceChanged(javax.microedition.khronos.opengles.GL10]
+
+prob: 0,03030
+[com.badlogic.gdx.graphics.g3d.loaders.md5.MD5Renderer]
+
+prob: 0,03030
+[java.lang.String)]
+
+prob: 0,03030
+[java/lang/Class/getResourceAsStream(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Long/toString(long), java/io/InputStream/close(), java/lang/StringBuilder/StringBuilder(), java/util/zip/CRC32/update(byte[]]
+
+prob: 0,03030
+[java/lang/Class/getResourceAsStream(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/io/File/exists(), java/lang/StringBuilder/StringBuilder(), java/lang/String/replace(char]
+
+prob: 0,03030
+[java/lang/StringBuilder/append(java.lang.String), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(), java/lang/StringBuilder/toString(]
+
+prob: 0,03030
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream]
+
+prob: 0,03030
+[java/io/InputStream/read(byte[])]
+
+prob: 0,03030
+[java/util/zip/CRC32/CRC32()]
+
+prob: 0,03030
+[boolean)]
+
+prob: 0,03030
+[java/util/ArrayList/ArrayList(), java/util/List/size(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03030
+[java/util/List/get(int), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/Exception/printStackTrace()]
+
+prob: 0,03030
+[java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String), java/io/File/File(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,03030
+[java/io/File/isDirectory()]
+
+prob: 0,03030
+[java/lang/StringBuilder/StringBuilder(int)]
+
+prob: 0,03030
+[com/badlogic/gdx/backends/android/AndroidFileHandle/type(), android/media/SoundPool/load(java.lang.String]
+
+prob: 0,03030
+[android/media/MediaPlayer/setDataSource(java.io.FileDescriptor]
+
+prob: 0,03030
+[com.badlogic.gdx.graphics.g2d.TextureRegion]
+
+prob: 0,03030
+[java/lang/Integer/intValue(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/Float/floatValue(), android/content/SharedPreferences/edit(]
+
+prob: 0,03030
+[java/util/Map$Entry/getKey(), android/content/SharedPreferences$Editor/commit(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/lang/Boolean/booleanValue(), java/lang/Long/longValue()]
+
+prob: 0,03030
+[com.badlogic.gdx.graphics.GLU)]
+
+prob: 0,03030
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/widget/EditText/setSingleLine(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,03030
+[java.lang.String]
+
+prob: 0,03030
+[java/nio/FloatBuffer/position(), java/lang/Integer/intValue(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/nio/FloatBuffer/flip(), java/lang/StringBuilder/append(int), java/util/ArrayList/toArray(java.lang.Object[]), java/util/ArrayList/clear(), java/util/ArrayList/size(), java/nio/FloatBuffer/position(int), java/nio/FloatBuffer/limit(int), java/util/ArrayList/get(int]
+
+prob: 0,03030
+[com/badlogic/gdx/graphics/GL10/glViewport(int]
+

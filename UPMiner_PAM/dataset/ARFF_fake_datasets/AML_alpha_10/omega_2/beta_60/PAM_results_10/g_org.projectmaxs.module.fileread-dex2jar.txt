@@ -1,0 +1,186 @@
+prob: 0,14286
+[android.os.Parcel]
+
+prob: 0,14286
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,07143
+[java.lang.String]
+
+prob: 0,07143
+[long]
+
+prob: 0,07143
+[android.content.Intent)]
+
+prob: 0,07143
+[android/net/Uri/encode(java.lang.String)]
+
+prob: 0,07143
+[java/util/ArrayList/ArrayList(), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,03571
+[java/io/InputStream/read(byte[]), java/lang/StringBuilder/append(java.lang.String), java/io/ByteArrayOutputStream/ByteArrayOutputStream(int), java/io/File/File(java.lang.String), java/io/ByteArrayOutputStream/write(byte[]]
+
+prob: 0,03571
+[java/io/InputStream/read(byte[]), java/io/File/getAbsolutePath(), java/io/OutputStream/write(byte[]]
+
+prob: 0,03571
+[org/projectmaxs/module/fileread/commands/AbstractLsCommand/toElement(java.io.File)]
+
+prob: 0,03571
+[java/lang/Double/toString(double), android/location/Location/getLongitude(), android/location/Location/getAltitude(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString(), android/location/Location/getTime(]
+
+prob: 0,03571
+[android/location/Location/hasAltitude()]
+
+prob: 0,03571
+[java/lang/Float/toString(float)]
+
+prob: 0,03571
+[android/location/Location/getLatitude()]
+
+prob: 0,03571
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/logging/Level/intValue(]
+
+prob: 0,03571
+[java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,03571
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,03571
+[java/util/ArrayList/ArrayList(int)]
+
+prob: 0,03571
+[android/location/Location/getProvider()]
+
+prob: 0,03571
+[android/location/Location/hasSpeed()]
+
+prob: 0,03571
+[android/location/Location/getAccuracy()]
+
+prob: 0,03571
+[android/location/Location/getSpeed()]
+
+prob: 0,03571
+[java/lang/Long/toString(long)]
+
+prob: 0,03571
+[android/location/Location/hasAccuracy()]
+
+prob: 0,03571
+[org.projectmaxs.shared.mainmodule.Command]
+
+prob: 0,03571
+[java.lang.CharSequence]
+
+prob: 0,03571
+[java.lang.String[]]
+
+prob: 0,03571
+[java.io.Reader)]
+
+prob: 0,03571
+[java.io.Writer]
+
+prob: 0,03571
+[java/lang/Double/valueOf(double), java/lang/String/format(java.lang.String]
+
+prob: 0,03571
+[android/content/Intent/getParcelableExtra(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/System/getProperty(java.lang.String), android/util/Log/getStackTraceString(java.lang.Throwable)]
+
+prob: 0,03571
+[java/lang/Throwable/getMessage()]
+
+prob: 0,03571
+[java/lang/String/isEmpty()]
+
+prob: 0,03571
+[android/content/Intent/getAction()]
+
+prob: 0,03571
+[java/lang/Integer/toString(int)]
+
+prob: 0,03571
+[android/util/Log/getStackTraceString(java.lang.Throwable), java/lang/StringBuilder/append(char)]
+
+prob: 0,03571
+[java/lang/Class/forName(java.lang.String)]
+
+prob: 0,03571
+[java/lang/Integer/intValue(), android/app/Service/onCreate(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,03571
+[android/os/HandlerThread/HandlerThread(java.lang.String)]
+
+prob: 0,03571
+[org/projectmaxs/shared/module/MAXSModuleIntentService/getString(int)]
+
+prob: 0,03571
+[org/projectmaxs/shared/module/MAXSModuleIntentService/getPackageName()]
+
+prob: 0,03571
+[android/os/HandlerThread/getLooper()]
+
+prob: 0,03571
+[java/lang/Class/getField(java.lang.String)]
+
+prob: 0,03571
+[java/lang/reflect/Field/get(java.lang.Object)]
+
+prob: 0,03571
+[android/os/HandlerThread/start(]
+
+prob: 0,03571
+[java/io/File/isDirectory(), java/io/File/isFile(), java/util/Arrays/sort(java.lang.Object[]]
+
+prob: 0,03571
+[org/projectmaxs/shared/global/jul/JULHandler$1/formatMessage(java.util.logging.LogRecord)]
+
+prob: 0,03571
+[java/util/logging/LogRecord/getLevel()]
+
+prob: 0,03571
+[java/util/logging/LogRecord/getThrown()]
+
+prob: 0,03571
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,03571
+[java/io/OutputStream/close()]
+
+prob: 0,03571
+[java/io/File/getName()]
+
+prob: 0,03571
+[android/os/ParcelFileDescriptor$AutoCloseOutputStream/ParcelFileDescriptor$AutoCloseOutputStream(android.os.ParcelFileDescriptor)]
+
+prob: 0,03571
+[java/io/InputStream/close()]
+
+prob: 0,03571
+[java.lang.String)]
+
+prob: 0,03571
+[int]
+
+prob: 0,03571
+[java/io/File/listFiles(java.io.FileFilter)]
+
+prob: 0,03571
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,03571
+[java/io/File/getAbsolutePath()]
+
+prob: 0,03571
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,03571
+[java/lang/StringBuilder/toString()]
+
+prob: 0,03571
+[java/lang/StringBuilder/append(java.lang.String)]
+

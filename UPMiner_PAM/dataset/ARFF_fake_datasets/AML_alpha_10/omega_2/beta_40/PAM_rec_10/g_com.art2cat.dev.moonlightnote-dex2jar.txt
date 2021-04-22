@@ -1,0 +1,9 @@
+int)  0,30000
+android.content.res.Resources  0,25000
+org.xmlpull.v1.XmlPullParser  0,15000
+org.api.fake  0,05000
+org.rand.api  0,05000
+android/graphics/PathMeasure/getPosTan(float  0,05000
+java.lang.String)  0,05000
+int  0,05000
+android.animation.ObjectAnimator  0,05000

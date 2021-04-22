@@ -1,0 +1,10 @@
+java/lang/Integer/intValue()
+java/lang/Boolean/booleanValue(
+java/lang/String/startsWith(java.lang.String
+java/lang/StringBuilder/toString(
+android/app/AlertDialog$Builder/setCancelable(boolean)
+java/util/Vector/add(java.lang.Object
+java/util/HashMap/HashMap(java.util.Map
+java/lang/Double/toString(double)
+java/io/DataInputStream/DataInputStream(java.io.InputStream)
+java/lang/Class/getGenericInterfaces()

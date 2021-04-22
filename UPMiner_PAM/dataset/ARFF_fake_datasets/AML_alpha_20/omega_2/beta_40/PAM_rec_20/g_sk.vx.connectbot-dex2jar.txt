@@ -1,0 +1,209 @@
+int)  0,07692
+int  0,06838
+android/app/AlertDialog$Builder/setPositiveButton(int  0,05983
+android.view.View  0,05128
+java.lang.String)  0,03419
+java.lang.String[  0,02564
+android/content/res/Resources/getText(int), java/lang/String/format(java.lang.String  0,02564
+android/content/res/Resources/getString(int)  0,02564
+sk/vx/connectbot/util/HostDatabase/getReadableDatabase(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,02564
+java/util/List/add(java.lang.Object)  0,02564
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02564
+android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,01709
+java/lang/Thread/start(), java/lang/Thread/setName(java.lang.String)  0,01709
+java/lang/String/split(java.lang.String)  0,01709
+com/trilead/ssh2/channel/StreamForwarder/start(), java/lang/StringBuilder/append(java.lang.String)  0,01709
+java/lang/Thread/Thread(java.lang.Runnable)  0,01709
+android/net/Uri/encode(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/regex/Matcher/matches(), java/lang/StringBuilder/append(int  0,01709
+java/util/regex/Matcher/group(int), android/net/Uri/parse(java.lang.String), java/lang/Integer/parseInt(java.lang.String), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString()  0,01709
+java/util/regex/Pattern/matcher(java.lang.CharSequence)  0,01709
+java/util/Map/put(java.lang.Object  0,01709
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/substring(int  0,01709
+java/io/File/getName()  0,01709
+android/content/res/Resources/getString(int  0,01709
+android/content/res/Resources/getText(int)  0,01709
+java/lang/StringBuilder/append(java.lang.String)  0,01709
+android.view.MotionEvent)  0,00855
+java/lang/StringBuilder/toString(), java/net/Socket/getOutputStream(), com/trilead/ssh2/channel/StreamForwarder/setDaemon(boolean), java/net/Socket/getPort(), java/net/ServerSocket/accept(  0,00855
+android/view/View/requestFocus(), java/lang/Object/equals(java.lang.Object), android/text/method/SingleLineTransformationMethod/getInstance(), java/lang/String/length(), android/widget/EditText/setHint(java.lang.CharSequence), android/widget/EditText/requestFocus(), android/widget/EditText/setText(java.lang.CharSequence), android/widget/TextView/setVisibility(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/EditText/setInputType(int), android/widget/RelativeLayout/setVisibility(int), android/widget/Button/requestFocus(  0,00855
+android/widget/EditText/setTransformationMethod(android.text.method.TransformationMethod)  0,00855
+android/text/method/PasswordTransformationMethod/getInstance()  0,00855
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00855
+android/widget/ImageView/setOnLongClickListener(android.view.View$OnLongClickListener), sk/vx/connectbot/ConsoleActivity/getSystemService(java.lang.String), android/widget/EditText/setOnKeyListener(android.view.View$OnKeyListener), sk/vx/connectbot/ConsoleActivity/setVolumeControlStream(int), android/content/Intent/getData(), android/view/GestureDetector/GestureDetector(android.view.GestureDetector$OnGestureListener), sk/vx/connectbot/ConsoleActivity/getIntent(), android/content/res/Resources/getConfiguration(), android/widget/ViewFlipper/setOnTouchListener(android.view.View$OnTouchListener), android/widget/ImageView/setOnClickListener(android.view.View$OnClickListener), android/app/Activity/onCreate(android.os.Bundle), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), sk/vx/connectbot/ConsoleActivity/setContentView(int), android/view/animation/AnimationUtils/loadAnimation(android.content.Context  0,00855
+sk/vx/connectbot/ConsoleActivity/findViewById(int), android/widget/ViewFlipper/setLongClickable(boolean), sk/vx/connectbot/ConsoleActivity/getResources(), android/view/LayoutInflater/from(android.content.Context)  0,00855
+com.trilead.ssh2.signature.DSAPrivateKey  0,00855
+com.trilead.ssh2.signature.DSASignature  0,00855
+java/io/IOException/IOException(java.lang.String), java/lang/StringBuffer/length(), java/lang/StringBuffer/setCharAt(int  0,00855
+android/app/ListActivity/onCreate(android.os.Bundle), android/view/LayoutInflater/from(android.content.Context), sk/vx/connectbot/PubkeyListActivity/getSystemService(java.lang.String), sk/vx/connectbot/PubkeyListActivity/setTitle(java.lang.CharSequence)  0,00855
+android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)  0,00855
+sk/vx/connectbot/PubkeyListActivity/setContentView(int)  0,00855
+java.lang.String  0,00855
+java/security/KeyPair/getPublic(), java/security/PrivateKey/getEncoded(), java/lang/StringBuilder/append(java.lang.String), android/os/Handler/sendEmptyMessage(int), java/io/File/length(), android/widget/Toast/makeText(android.content.Context  0,00855
+java/security/KeyPair/getPublic(), java/security/SecureRandom/setSeed(byte[), sk/vx/connectbot/util/PubkeyDatabase/close(), android/util/Log/e(java.lang.String  0,00855
+android/app/backup/SharedPreferencesBackupHelper/SharedPreferencesBackupHelper(android.content.Context  0,00855
+boolean)  0,00855
+android/content/res/AssetManager/list(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), sk/vx/connectbot/HelpActivity/getPackageName(), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,00855
+sk/vx/connectbot/HelpActivity/setTitle(java.lang.CharSequence), sk/vx/connectbot/HelpActivity/getAssets(), android/widget/Button/Button(android.content.Context), sk/vx/connectbot/HelpActivity/getPackageManager()  0,00855
+java.lang.String[)  0,00855
+java/util/Iterator/hasNext(), android/content/res/Resources/getConfiguration(), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), java/lang/String/format(java.lang.String  0,00855
+java/util/Iterator/hasNext(), android/preference/Preference/setSummary(java.lang.CharSequence), android/preference/Preference/setSummary(int), java/util/Iterator/next(), java/lang/String/equals(java.lang.Object), java/lang/Integer/parseInt(java.lang.String), android/preference/ListPreference/getEntries(  0,00855
+java/util/Iterator/hasNext(), android/content/SharedPreferences$Editor/putBoolean(java.lang.String  0,00855
+java/util/Iterator/hasNext(), java/util/Set/iterator(), java/nio/charset/Charset/displayName(), java/nio/charset/Charset/availableCharsets(), java/util/LinkedList/LinkedList(), java/util/Map$Entry/getValue()  0,00855
+java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Arrays/equals(byte[  0,00855
+java/util/Iterator/hasNext(), java/util/List/iterator()  0,00855
+java/util/Iterator/hasNext(), android/util/Log/e(java.lang.String  0,00855
+sk/vx/connectbot/util/UberColorPickerDialog/setContentView(android.view.View), sk/vx/connectbot/util/UberColorPickerDialog/getWindow(), android/util/DisplayMetrics/DisplayMetrics(), sk/vx/connectbot/util/UberColorPickerDialog/dismiss(), sk/vx/connectbot/util/UberColorPickerDialog/setTitle(java.lang.CharSequence), android/app/Dialog/onCreate(android.os.Bundle), sk/vx/connectbot/util/UberColorPickerDialog/getContext(), android/view/WindowManager/getDefaultDisplay(), android/view/Window/getWindowManager(), android/view/Display/getMetrics(android.util.DisplayMetrics  0,00855
+android/content/SharedPreferences$Editor/clear(), android/content/SharedPreferences$Editor/commit()  0,00855
+sk/vx/connectbot/SettingsActivity/addPreferencesFromResource(int), android/content/SharedPreferences$Editor/putBoolean(java.lang.String  0,00855
+sk.vx.connectbot.util.FileChooserCallback  0,00855
+com/lamerman/FileDialog/setContentView(int), android/content/res/Resources/getText(int), com/lamerman/FileDialog/getResources(), android/content/Intent/getIntExtra(java.lang.String  0,00855
+java/util/Set/iterator(), android/preference/ListPreference/findIndexOfValue(java.lang.String), java/util/Map/keySet(), sk/vx/connectbot/HostEditorActivity/findPreference(java.lang.CharSequence)  0,00855
+java/util/TreeMap/put(java.lang.Object  0,00855
+android/net/Uri/getScheme(), android/content/Intent/Intent(android.content.Context  0,00855
+sk/vx/connectbot/HostListActivity/setListAdapter(android.widget.ListAdapter), android/content/SharedPreferences$Editor/commit()  0,00855
+android/app/AlertDialog$Builder/setNegativeButton(int  0,00855
+sk/vx/connectbot/util/HostDatabase/getReadableDatabase(), java/util/Iterator/hasNext(), java/util/List/size(), java/util/Iterator/next(), java/lang/StringBuilder/toString(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,00855
+java/lang/Boolean/valueOf(java.lang.String), android/database/Cursor/getLong(int), java/util/List/add(java.lang.Object), android/database/Cursor/getString(int), android/database/Cursor/moveToNext(), java/lang/Boolean/booleanValue()  0,00855
+android/database/Cursor/getColumnIndexOrThrow(java.lang.String), java/util/LinkedList/LinkedList(), android/database/Cursor/getInt(int  0,00855
+java/util/Map/entrySet()  0,00855
+sk/vx/connectbot/PortForwardListActivity/setTitle(java.lang.CharSequence), android/content/res/Resources/getText(int), android/content/Intent/getLongExtra(java.lang.String  0,00855
+com/trilead/ssh2/channel/StreamForwarder/isAlive(), java/net/Socket/Socket(java.lang.String  0,00855
+java/util/Map$Entry/getKey(), java/util/SortedMap/entrySet(  0,00855
+java/nio/charset/Charset/isRegistered()  0,00855
+java/lang/String/startsWith(java.lang.String)  0,00855
+java/nio/charset/Charset/canEncode()  0,00855
+java/util/Iterator/next(), java/lang/Integer/valueOf(int), android/content/res/Resources/getString(int  0,00855
+java/io/OutputStream/close(), com/trilead/ssh2/channel/StreamForwarder/isAlive(), java/lang/StringBuilder/append(java.lang.String), java/io/OutputStream/flush(), java/io/IOException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/io/OutputStream/write(byte[  0,00855
+java/io/InputStream/read(byte[), java/io/InputStream/close(), com/trilead/ssh2/channel/StreamForwarder/join()  0,00855
+android.os.IBinder)  0,00855
+sk/vx/connectbot/WizardActivity/getPackageManager(), sk/vx/connectbot/WizardActivity/getResources(), android/widget/ViewFlipper/addView(android.view.View), sk/vx/connectbot/WizardActivity/setContentView(int), android/view/LayoutInflater/inflate(int  0,00855
+java/lang/Runnable/run(), java/lang/StringBuilder/append(java.lang.String), java/lang/Object/wait(long), java/io/PrintWriter/PrintWriter(java.io.Writer), java/lang/StringBuilder/toString(), java/lang/Exception/getMessage(  0,00855
+java/lang/Exception/printStackTrace(java.io.PrintWriter)  0,00855
+java/util/LinkedList/size()  0,00855
+java/io/StringWriter/StringWriter()  0,00855
+java/io/StringWriter/toString()  0,00855
+java/lang/System/currentTimeMillis()  0,00855
+java/lang/String/equals(java.lang.Object), java/lang/String/substring(int), java/lang/StringBuffer/append(java.lang.String), java/lang/String/trim(), java/io/CharArrayReader/CharArrayReader(char[), java/lang/StringBuffer/length()  0,00855
+java/lang/String/equals(java.lang.Object), android/util/Log/d(java.lang.String  0,00855
+java/lang/String/equals(java.lang.Object), java/lang/String/length()  0,00855
+java/util/LinkedList/removeFirst()  0,00855
+java/util/LinkedList/getFirst()  0,00855
+android/content/res/Resources/openRawResourceFd(int)  0,00855
+android/media/MediaPlayer/setOnCompletionListener(android.media.MediaPlayer$OnCompletionListener)  0,00855
+android/content/res/AssetFileDescriptor/getFileDescriptor()  0,00855
+android/media/MediaPlayer/setDataSource(java.io.FileDescriptor  0,00855
+java/util/Vector/size()  0,00855
+java/lang/StringBuilder/append(int), java/lang/StringBuffer/append(java.lang.String)  0,00855
+java/lang/StringBuffer/toString()  0,00855
+java/util/Vector/elementAt(int)  0,00855
+java/lang/StringBuffer/StringBuffer()  0,00855
+java/nio/ByteBuffer/compact(), android/util/Log/e(java.lang.String  0,00855
+java/nio/ByteBuffer/allocate(int)  0,00855
+java/nio/ByteBuffer/position()  0,00855
+java/nio/CharBuffer/array()  0,00855
+java/nio/ByteBuffer/arrayOffset()  0,00855
+java/nio/CharBuffer/allocate(int)  0,00855
+java/nio/ByteBuffer/position(int)  0,00855
+java/nio/charset/CoderResult/isUnderflow()  0,00855
+java/nio/ByteBuffer/limit(int)  0,00855
+java/nio/ByteBuffer/capacity()  0,00855
+java/nio/charset/CharsetDecoder/onUnmappableCharacter(java.nio.charset.CodingErrorAction)  0,00855
+java/nio/charset/Charset/newDecoder(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00855
+java/lang/Long/valueOf(long)  0,00855
+android/content/ContentValues/put(java.lang.String  0,00855
+sk.vx.connectbot.bean.HostBean)  0,00855
+java/util/regex/Pattern/compile(java.lang.String), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/LinkedList/LinkedList(java.util.Collection)  0,00855
+java/lang/String/String(char[)  0,00855
+java/util/LinkedHashSet/LinkedHashSet()  0,00855
+java/util/regex/Matcher/group()  0,00855
+java/util/regex/Matcher/find()  0,00855
+java/util/List/addAll(java.util.Collection), java/util/LinkedList/LinkedList(java.util.Collection), java/lang/Thread/start(), android/content/Intent/getLongExtra(java.lang.String  0,00855
+java/lang/System/arraycopy(java.lang.Object  0,00855
+android/graphics/Canvas/drawLine(float  0,00855
+android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener)  0,00855
+android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter)  0,00855
+sk/vx/connectbot/ColorsActivity/getResources()  0,00855
+android/widget/GridView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)  0,00855
+java/util/Arrays/asList(java.lang.Object[)  0,00855
+sk/vx/connectbot/ColorsActivity/setContentView(int)  0,00855
+java.nio.ByteBuffer)  0,00855
+android.content.Intent)  0,00855
+android/graphics/Canvas/translate(float  0,00855
+java/security/interfaces/DSAParams/getP()  0,00855
+java/security/interfaces/DSAParams/getQ()  0,00855
+java/security/interfaces/DSAPrivateKey/getParams()  0,00855
+java/security/spec/PKCS8EncodedKeySpec/PKCS8EncodedKeySpec(byte[)  0,00855
+java/security/interfaces/RSAPrivateCrtKey/getPublicExponent()  0,00855
+java/security/KeyPair/KeyPair(java.security.PublicKey  0,00855
+java.security.PublicKey)  0,00855
+android/app/AlertDialog$Builder/setTitle(int), java/util/List/size(), java/util/List/toArray(java.lang.Object[), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,00855
+java/util/ArrayList/ArrayList()  0,00855
+android/app/AlertDialog$Builder/create()  0,00855
+android/widget/ListView/setAdapter(android.widget.ListAdapter)  0,00855
+android/app/Dialog/setContentView(android.view.View)  0,00855
+android/app/Dialog/setTitle(int)  0,00855
+android/app/Dialog/show()  0,00855
+android/view/View/getContext()  0,00855
+android/app/Dialog/Dialog(android.content.Context)  0,00855
+android/preference/ListPreference/getEntries()  0,00855
+android/preference/ListPreference/getEntryValues()  0,00855
+android/preference/ListPreference/setEntries(java.lang.CharSequence[)  0,00855
+android/preference/ListPreference/setEntryValues(java.lang.CharSequence[)  0,00855
+sk/vx/connectbot/util/UberColorPickerDialog$ColorPickerView/invalidate()  0,00855
+android/graphics/Paint/setColor(int)  0,00855
+android/graphics/Color/colorToHSV(int  0,00855
+boolean  0,00855
+java/net/InetAddress/getHostAddress()  0,00855
+java/lang/StringBuilder/setLength(int)  0,00855
+java/lang/Integer/parseInt(java.lang.String  0,00855
+android/content/Intent/putExtra(java.lang.String  0,00855
+sk/vx/connectbot/GeneratePubkeyActivity/findViewById(int)  0,00855
+android/widget/RadioGroup/setOnCheckedChangeListener(android.widget.RadioGroup$OnCheckedChangeListener)  0,00855
+android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener)  0,00855
+java/net/Socket/getInetAddress()  0,00855
+android/widget/EditText/setOnFocusChangeListener(android.view.View$OnFocusChangeListener)  0,00855
+android/widget/EditText/addTextChangedListener(android.text.TextWatcher)  0,00855
+sk/vx/connectbot/GeneratePubkeyActivity/setContentView(int)  0,00855
+android/view/LayoutInflater/from(android.content.Context  0,00855
+android/app/ProgressDialog/setMessage(java.lang.CharSequence)  0,00855
+android/app/ProgressDialog/show()  0,00855
+android/app/ProgressDialog/ProgressDialog(android.content.Context)  0,00855
+sk/vx/connectbot/GeneratePubkeyActivity/getResources()  0,00855
+android/app/ProgressDialog/setCancelable(boolean)  0,00855
+android/app/ProgressDialog/setIndeterminate(boolean  0,00855
+java.nio.CharBuffer)  0,00855
+java/net/Socket/getInputStream()  0,00855
+android/graphics/Canvas/drawText(java.lang.String  0,00855
+android.os.Parcel  0,00855
+android/view/accessibility/AccessibilityEvent/obtain(int)  0,00855
+android/view/accessibility/AccessibilityEvent/setAddedCount(int)  0,00855
+java/lang/StringBuffer/replace(int  0,00855
+java/io/InputStream/read(byte[  0,00855
+android/content/ContentResolver/query(android.net.Uri  0,00855
+android/view/Menu/add(int)  0,00855
+android/view/MenuItem/setShowAsAction(int)  0,00855
+android/view/MenuItem/setAlphabeticShortcut(char)  0,00855
+android/view/Menu/add(java.lang.CharSequence)  0,00855
+android/view/MenuItem/setEnabled(boolean)  0,00855
+android/view/MenuItem/setTitle(int)  0,00855
+sk/vx/connectbot/ConsoleActivity/getString(int)  0,00855
+android/view/Menu/setQwertyMode(boolean)  0,00855
+android/view/MenuItem/setOnMenuItemClickListener(android.view.MenuItem$OnMenuItemClickListener)  0,00855
+android/text/ClipboardManager/hasText()  0,00855
+android/view/MenuItem/setIcon(int)  0,00855
+android/app/Activity/onCreateOptionsMenu(android.view.Menu  0,00855
+java/net/Socket/close()  0,00855
+java/io/IOException/IOException(java.lang.String)  0,00855
+java/util/Map$Entry/getValue()  0,00855
+java/util/List/toArray(java.lang.Object[)  0,00855
+android/app/AlertDialog$Builder/setTitle(int)  0,00855
+java/lang/String/valueOf(java.lang.Object)  0,00855
+java/io/IOException/getMessage()  0,00855
+java/util/Set/iterator()  0,00855
+java/util/List/size()  0,00855
+java/lang/String/length()  0,00855
+android/app/Activity/onCreate(android.os.Bundle), android/widget/Button/setOnClickListener(android.view.View$OnClickListener)  0,00855
+java/lang/StringBuilder/StringBuilder()  0,00855
+java/util/Iterator/next()  0,00855
+android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,00855
+java/lang/StringBuilder/toString()  0,00855

@@ -1,0 +1,8 @@
+ar/com/daidalos/afiledialog/FileChooserActivity/getIntent()
+java/io/File/getName()
+android/app/AlertDialog$Builder/setView(android.view.View
+android/widget/RemoteViews/setTextViewText(int,java.lang.CharSequence)
+java/io/File/getPath(
+android/appwidget/AppWidgetManager/updateAppWidget(int,android.widget.RemoteViews
+android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener)
+ar/com/daidalos/afiledialog/FileChooserActivity/setContentView(int

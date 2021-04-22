@@ -1,0 +1,67 @@
+android.view.View  0,08696
+int)  0,08696
+java.lang.String  0,06522
+java.lang.CharSequence  0,04348
+java/util/Iterator/hasNext(), java/util/Iterator/next()  0,04348
+int[  0,02174
+com/nolanlawson/logcat/ShowRecordLogDialogActivity/getIntent(), java/util/Arrays/asList(java.lang.Object[), com/nolanlawson/logcat/ShowRecordLogDialogActivity/findViewById(int), android/view/Window/setLayout(int  0,02174
+java.util.List)  0,02174
+java/util/ArrayList/ArrayList(int), android/widget/Filter$FilterResults/Filter$FilterResults(), java/util/Collections/sort(java.util.List  0,02174
+java/lang/CharSequence/toString()  0,02174
+java.lang.Class)  0,02174
+java/io/BufferedReader/close(), java/lang/Integer/valueOf(int), java/util/regex/Pattern/split(java.lang.CharSequence), java/io/BufferedReader/BufferedReader(java.io.Reader  0,02174
+java/lang/Process/getInputStream(), java/lang/Runtime/exec(java.lang.String), java/util/ArrayList/ArrayList(java.util.Collection), java/io/BufferedReader/ready(), java/util/Arrays/asList(java.lang.Object[)  0,02174
+java/lang/Integer/intValue(), java/io/BufferedOutputStream/BufferedOutputStream(java.io.OutputStream  0,02174
+java/lang/StringBuilder/append(int)  0,02174
+java/io/PrintStream/PrintStream(java.io.OutputStream)  0,02174
+java/util/regex/Matcher/find()  0,02174
+java/io/PrintStream/close()  0,02174
+java/util/regex/Matcher/group()  0,02174
+java.lang.Object)  0,02174
+com/nolanlawson/logcat/widget/MockDisabledListPreference/setSummary(java.lang.CharSequence), java/lang/String/toString(), com/nolanlawson/logcat/widget/MultipleChoicePreference/getValue(), android/preference/EditTextPreference/setSummary(java.lang.CharSequence), android/preference/Preference/setOnPreferenceClickListener(android.preference.Preference$OnPreferenceClickListener), android/preference/EditTextPreference/setOnPreferenceChangeListener(android.preference.Preference$OnPreferenceChangeListener), android/preference/ListPreference/setOnPreferenceChangeListener(android.preference.Preference$OnPreferenceChangeListener), com/nolanlawson/logcat/widget/MultipleChoicePreference/setOnPreferenceChangeListener(android.preference.Preference$OnPreferenceChangeListener), java/lang/String/format(java.lang.String  0,02174
+android/preference/ListPreference/setSummary(java.lang.CharSequence)  0,02174
+android/text/TextUtils/isEmpty(java.lang.CharSequence), android/content/Intent/getAction(), android/widget/Toast/makeText(android.content.Context  0,02174
+com/nolanlawson/logcat/widget/MockDisabledListPreference/setOnPreferenceChangeListener(android.preference.Preference$OnPreferenceChangeListener)  0,02174
+com/nolanlawson/logcat/LogcatRecordingService/getApplicationContext(), android/content/Intent/getParcelableExtra(java.lang.String), java/lang/StringBuilder/length(), com/nolanlawson/logcat/LogcatRecordingService/getResources(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/delete(int  0,02174
+java/lang/Class/getSimpleName()  0,02174
+android/content/IntentFilter/addDataScheme(java.lang.String), com/nolanlawson/logcat/LogcatRecordingService/registerReceiver(android.content.BroadcastReceiver  0,02174
+android/view/View/setHorizontalScrollBarEnabled(boolean), java/util/ArrayList/ArrayList(java.util.Collection), android/content/res/Resources/getStringArray(int), com/nolanlawson/logcat/LogcatActivity/startActivityForResult(android.content.Intent  0,02174
+android/widget/CheckBox/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener)  0,02174
+android/view/MenuItem/setVisible(boolean), java/lang/String/format(java.lang.String  0,02174
+com.nolanlawson.logcat.data.b)  0,02174
+int  0,02174
+boolean  0,02174
+java.lang.String)  0,02174
+android/app/AlertDialog$Builder/setIcon(int), java/util/Arrays/asList(java.lang.Object[), android/widget/Toast/makeText(android.content.Context  0,02174
+android/app/AlertDialog$Builder/setTitle(int), android/text/ClipboardManager/setText(java.lang.CharSequence), android/content/res/Resources/getStringArray(int), java/lang/Integer/toString(int), android/widget/Toast/show(), android/view/MenuItem/getMenuInfo(), android/app/AlertDialog$Builder/show()  0,02174
+java/util/Collections/emptyList(), java/lang/StringBuilder/StringBuilder(), com/nolanlawson/logcat/ShowRecordLogDialogActivity/setContentView(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/view/Window/requestFeature(int)  0,02174
+java/util/Collections/emptyList(), java/util/List/add(java.lang.Object), java/io/File/listFiles(), java/util/Iterator/hasNext(), java/util/Iterator/next()  0,02174
+com/nolanlawson/logcat/LogcatActivity/getSystemService(java.lang.String), android/view/MenuItem/getItemId(), android/app/AlertDialog$Builder/setCancelable(boolean), com/nolanlawson/logcat/LogcatActivity/getResources()  0,02174
+android/app/AlertDialog$Builder/setPositiveButton(int  0,02174
+boolean[  0,02174
+android/view/View/setOnLongClickListener(android.view.View$OnLongClickListener), android/app/ProgressDialog/show(), android/widget/AutoCompleteTextView/setAdapter(android.widget.ListAdapter), android/widget/AutoCompleteTextView/setOnEditorActionListener(android.widget.TextView$OnEditorActionListener), android/app/ListActivity/onCreate(android.os.Bundle), android/widget/AutoCompleteTextView/addTextChangedListener(android.text.TextWatcher), android/app/ProgressDialog/ProgressDialog(android.content.Context), com/nolanlawson/logcat/LogcatActivity/getString(int), com/nolanlawson/logcat/LogcatActivity/setContentView(int), android/widget/AutoCompleteTextView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/widget/AutoCompleteTextView/setOnClickListener(android.view.View$OnClickListener), android/app/ProgressDialog/setMessage(java.lang.CharSequence), java/util/ArrayList/ArrayList(), com/nolanlawson/logcat/LogcatActivity/findViewById(int), com/nolanlawson/logcat/d/execute(java.lang.Object[), com/nolanlawson/logcat/LogcatActivity/setListAdapter(android.widget.ListAdapter), android/view/View/setOnClickListener(android.view.View$OnClickListener), com/nolanlawson/logcat/LogcatActivity/registerForContextMenu(android.view.View), com/nolanlawson/logcat/LogcatActivity/getListView(), android/widget/ListView/setOnScrollListener(android.widget.AbsListView$OnScrollListener  0,02174
+java/util/ArrayList/ArrayList(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), com/nolanlawson/logcat/SettingsActivity/getString(int), android/text/TextUtils/join(java.lang.CharSequence  0,02174
+java/util/ArrayList/ArrayList(), java/util/Arrays/asList(java.lang.Object[), java/util/ArrayList/ArrayList(java.util.Collection), java/io/File/getName(), java/util/Collections/sort(java.util.List  0,02174
+java/util/ArrayList/ArrayList(), java/util/Arrays/asList(java.lang.Object[), android/content/res/Resources/getStringArray(int), java/util/List/indexOf(java.lang.Object  0,02174
+android/app/Activity/onCreate(android.os.Bundle)  0,02174
+java/lang/StringBuilder/StringBuilder(), java/util/Map$Entry/getKey(), java/util/TreeMap/TreeMap(), java/util/Map$Entry/getValue(), java/util/SortedMap/entrySet(  0,02174
+boolean)  0,02174
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/List/iterator(), android/content/Context/getResources()  0,02174
+java/util/Set/iterator(), java/lang/StringBuilder/append(char), java/util/List/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,02174
+android.widget.TextView)  0,02174
+android/widget/EditText/setSelection(int  0,02174
+java.lang.CharSequence)  0,02174
+com/nolanlawson/logcat/AboutActivity/getResources(), java/lang/StringBuilder/append(java.lang.String), java/io/BufferedReader/ready(), android/content/res/Resources/openRawResource(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(  0,02174
+com/nolanlawson/logcat/AboutActivity/setContentView(int), java/lang/StringBuilder/append(java.lang.String), com/nolanlawson/logcat/AboutActivity/getString(int), com/nolanlawson/logcat/AboutActivity/getApplicationContext(), android/widget/Button/setVisibility(int), android/webkit/WebView/loadDataWithBaseURL(java.lang.String  0,02174
+android/webkit/WebSettings/setDefaultTextEncodingName(java.lang.String), android/webkit/WebView/setWebViewClient(android.webkit.WebViewClient)  0,02174
+com/nolanlawson/logcat/AboutActivity/requestWindowFeature(int), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02174
+java/io/PrintStream/flush(), java/lang/Object/toString(), java/lang/Runtime/getRuntime(), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Runtime/exec(java.lang.String), java/lang/Integer/parseInt(java.lang.String)  0,02174
+java/io/PrintStream/flush(), android/text/TextUtils/join(java.lang.CharSequence  0,02174
+java/lang/Runtime/getRuntime(), java/lang/Thread/Thread(java.lang.Runnable), java/lang/Process/waitFor(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream)  0,02174
+java/lang/Integer/parseInt(java.lang.String)  0,02174
+com/nolanlawson/logcat/SettingsActivity/getString(int)  0,02174
+java/util/List/add(java.lang.Object)  0,02174
+java/lang/Runtime/getRuntime(), java/io/PrintStream/println(java.lang.String)  0,02174
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02174
+java/util/List/iterator()  0,02174
+java/lang/StringBuilder/StringBuilder()  0,02174

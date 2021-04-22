@@ -1,0 +1,10 @@
+java/lang/Long/Long(long), java/lang/StringBuffer/append(java.lang.String), java/lang/Double/Double(double), java/lang/String/format(java.lang.String  0,25000
+android/hardware/SensorManager/getOrientation(float[  0,12500
+com/mercangelsoftware/RouteMarker/MainActivity/setContentView(int), com/mercangelsoftware/RouteMarker/MainActivity/getSystemService(java.lang.String), android/location/LocationManager/requestLocationUpdates(java.lang.String  0,12500
+java.util.HashMap  0,12500
+java/util/concurrent/TimeUnit/toHours(long), java/lang/StringBuffer/append(double), java/lang/StringBuffer/toString(), java/lang/System/currentTimeMillis()  0,12500
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/widget/Toast/makeText(android.content.Context  0,12500
+java/util/Date/toLocaleString(), android/location/Location/getSpeed(), java/lang/StringBuffer/append(double), java/lang/StringBuffer/toString(), java/lang/System/currentTimeMillis()  0,12500
+java/util/ArrayList/ArrayList(), java/util/HashMap/containsKey(java.lang.Object), java/lang/StringBuffer/append(float), android/location/Location/getAccuracy(), java/util/HashMap/put(java.lang.Object  0,12500
+int)  0,12500
+android/location/Location/getLongitude(), android/location/Location/getAltitude(), android/widget/CheckBox/isChecked()  0,12500

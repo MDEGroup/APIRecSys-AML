@@ -1,0 +1,14 @@
+java/lang/Object/getClass(
+java/io/File/File(java.io.File,java.lang.String)
+com/badlogic/gdx/jnigen/BuildTarget/newDefaultTarget(com.badlogic.gdx.jnigen.BuildTarget$TargetOs,boolean)
+java/lang/Boolean/equals(java.lang.Object)
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+com/badlogic/gdx/jnigen/AntScriptGenerator/AntScriptGenerator(
+java/util/Map/keySet(
+org.api.fake
+java/lang/String/substring(int,int)
+java/lang/String/split(java.lang.String)
+java/io/InputStream/read(byte[])

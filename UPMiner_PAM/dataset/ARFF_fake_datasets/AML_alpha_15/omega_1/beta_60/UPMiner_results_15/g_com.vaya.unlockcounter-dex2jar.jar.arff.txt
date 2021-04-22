@@ -1,0 +1,6 @@
+com/vaya/unlockcounter/DB/getWritableDatabase()
+android/database/sqlite/SQLiteDatabase/close(
+android/database/Cursor/close()
+android/graphics/Path/moveTo(float,float
+android/graphics/Paint/setColor(int)
+android/database/Cursor/getString(int

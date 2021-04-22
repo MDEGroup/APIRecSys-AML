@@ -1,0 +1,9 @@
+org.api.fake  0,30000
+android/app/AlertDialog/setMessage(java.lang.CharSequence), android/app/AlertDialog$Builder/create(), java/lang/Exception/Exception(java.lang.String), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), org/kde/necessitas/origo/QtActivity/getClassLoader(), android/os/Bundle/putString(java.lang.String  0,10000
+java/lang/Class/getMethods(), java/lang/Class/getDeclaredMethod(java.lang.String  0,10000
+java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/HashMap/containsKey(java.lang.Object), java/lang/StackTraceElement/getClassName(), java/lang/Thread/currentThread(), java/lang/Class/getCanonicalName(), java/util/Iterator/next(), java/lang/String/equals(java.lang.Object), java/lang/reflect/Method/getParameterTypes(), java/lang/StackTraceElement/getMethodName(), java/lang/Thread/getStackTrace(), java/util/HashMap/get(java.lang.Object  0,10000
+android.os.Bundle)  0,10000
+android/app/AlertDialog/setButton(java.lang.CharSequence  0,10000
+org/kde/necessitas/origo/QtActivity/getPackageManager(), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName  0,10000
+android/content/pm/PackageManager$NameNotFoundException/printStackTrace()  0,10000
+android/os/Bundle/putString(java.lang.String  0,10000

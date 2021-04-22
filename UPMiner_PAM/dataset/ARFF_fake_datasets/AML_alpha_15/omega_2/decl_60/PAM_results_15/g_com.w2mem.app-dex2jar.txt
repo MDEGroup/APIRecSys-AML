@@ -1,0 +1,84 @@
+prob: 0,15000
+[long)]
+
+prob: 0,10000
+[android/app/Dialog/setContentView(int), android/app/Dialog/setTitle(java.lang.CharSequence), android/app/Dialog/Dialog(android.content.Context]
+
+prob: 0,10000
+[android/content/Intent/setClass(android.content.Context]
+
+prob: 0,05000
+[java/util/List/add(java.lang.Object), android/database/Cursor/moveToFirst(), android/database/Cursor/moveToNext(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), android/database/Cursor/isAfterLast(), android/database/Cursor/getInt(int]
+
+prob: 0,05000
+[java/util/ArrayList/ArrayList(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,05000
+[java.lang.String]
+
+prob: 0,05000
+[android/app/Dialog/setTitle(java.lang.CharSequence), android/content/res/Resources/getString(int), android/content/Intent/setClass(android.content.Context]
+
+prob: 0,05000
+[android/content/res/Resources/getString(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), com/w2mem/app/TrainDict/findViewById(int), com/w2mem/app/TrainDict/getResources(), com/w2mem/app/TrainDict/setContentView(int]
+
+prob: 0,05000
+[android/content/res/Resources/getString(int), android/widget/EditText/setText(java.lang.CharSequence), java/lang/String/trim(), java/util/List/size(), android/widget/TextView/setText(java.lang.CharSequence), android/widget/Button/setText(java.lang.CharSequence), android/text/Editable/toString(), android/widget/EditText/getText(), java/lang/String/equals(java.lang.Object]
+
+prob: 0,05000
+[android/content/res/Resources/getString(int), android/widget/EditText/setText(java.lang.CharSequence), android/widget/ArrayAdapter/remove(java.lang.Object), com/w2mem/app/AddWordPairs/getResources(), android/widget/ArrayAdapter/getItem(int), android/view/MenuItem/getItemId(), android/widget/ArrayAdapter/notifyDataSetChanged()]
+
+prob: 0,05000
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), android/content/Intent/getExtras(), java/lang/StringBuilder/toString()]
+
+prob: 0,05000
+[android/os/Bundle/getLong(java.lang.String), android/widget/EditText/setOnEditorActionListener(android.widget.TextView$OnEditorActionListener), com/w2mem/app/TrainDict/getIntent(), android/widget/EditText/setOnKeyListener(android.view.View$OnKeyListener)]
+
+prob: 0,05000
+[android/os/Bundle/getLong(java.lang.String), android/content/Intent/getExtras(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,05000
+[java/lang/String/toLowerCase(), android/content/res/Resources/getText(int), android/widget/EditText/setHint(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,05000
+[android/database/Cursor/close(), android/database/sqlite/SQLiteDatabase/close(), android/database/Cursor/getString(int)]
+
+prob: 0,05000
+[java.lang.String)]
+
+prob: 0,05000
+[com/w2mem/app/ChooseCategory/findViewById(int), android/app/Activity/onCreate(android.os.Bundle), com/w2mem/app/ChooseCategory/setContentView(int), android/view/Display/getMetrics(android.util.DisplayMetrics]
+
+prob: 0,05000
+[android/util/DisplayMetrics/DisplayMetrics(), android/widget/Button/setHeight(int), com/w2mem/app/ChooseCategory/getWindowManager(), android/view/WindowManager/getDefaultDisplay(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,05000
+[android/app/ProgressDialog/setMessage(java.lang.CharSequence), android/content/res/Resources/getString(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,05000
+[com/w2mem/app/DownloadDicts/getResources(), android/app/ProgressDialog/ProgressDialog(android.content.Context)]
+
+prob: 0,05000
+[com/w2mem/app/DownloadDicts/getIntent(), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,05000
+[android/app/ProgressDialog/show(), android/app/ProgressDialog/setProgressStyle(int)]
+
+prob: 0,05000
+[android/view/Display/getWidth(), android/view/WindowManager/getDefaultDisplay(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/Button/setVisibility(int), com/w2mem/app/ChooseDict/findViewById(int), com/w2mem/app/ChooseDict/getIntent(), com/w2mem/app/ChooseDict/getListView(), com/w2mem/app/ChooseDict/registerForContextMenu(android.view.View), android/widget/ListView/addHeaderView(android.view.View]
+
+prob: 0,05000
+[com/w2mem/app/AddWordPairs/getListAdapter(), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/view/MenuItem/getMenuInfo()]
+
+prob: 0,05000
+[android/app/ListActivity/onCreate(android.os.Bundle), com/w2mem/app/AddWordPairs/setContentView(int), com/w2mem/app/AddWordPairs/setListAdapter(android.widget.ListAdapter)]
+
+prob: 0,05000
+[android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,05000
+[android/content/res/Resources/getString(int), android/content/Intent/setClass(android.content.Context]
+
+prob: 0,05000
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+

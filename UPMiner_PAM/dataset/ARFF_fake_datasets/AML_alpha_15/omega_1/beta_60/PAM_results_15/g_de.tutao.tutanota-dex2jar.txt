@@ -1,0 +1,219 @@
+prob: 0,08163
+[java.lang.String]
+
+prob: 0,06122
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,04082
+[boolean)]
+
+prob: 0,04082
+[java.lang.String)]
+
+prob: 0,04082
+[java/util/Iterator/hasNext(), java/util/Iterator/next()]
+
+prob: 0,02041
+[java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object]
+
+prob: 0,02041
+[java.util.List)]
+
+prob: 0,02041
+[android/app/NotificationChannel/setSound(android.net.Uri]
+
+prob: 0,02041
+[int]
+
+prob: 0,02041
+[java/security/interfaces/RSAPrivateCrtKey/getCrtCoefficient(), java/security/interfaces/RSAPrivateCrtKey/getPrimeP(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,02041
+[java/security/interfaces/RSAPrivateCrtKey/getPrimeQ()]
+
+prob: 0,02041
+[java.io.InputStream]
+
+prob: 0,02041
+[android/net/Uri/encode(java.lang.String), java/lang/StringBuilder/append(char), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), android/net/Uri$Builder/authority(java.lang.String), java/io/File/getPath(), android/net/Uri$Builder/Uri$Builder(), java/util/Map$Entry/getKey(), android/net/Uri$Builder/encodedPath(java.lang.String), java/lang/String/length(), android/net/Uri$Builder/build(), android/net/Uri/encode(java.lang.String]
+
+prob: 0,02041
+[java/util/HashMap/entrySet()]
+
+prob: 0,02041
+[java.io.File)]
+
+prob: 0,02041
+[java/lang/String/valueOf(java.lang.Object), android/graphics/Bitmap/getWidth(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/String/format(java.lang.String]
+
+prob: 0,02041
+[android.net.Uri)]
+
+prob: 0,02041
+[android/content/Intent/getAction(), android/content/Intent/hasExtra(java.lang.String), android/net/Uri/toString(), org/json/JSONArray/put(java.lang.Object), android/util/Log/w(java.lang.String]
+
+prob: 0,02041
+[android/content/Intent/getClipData()]
+
+prob: 0,02041
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,02041
+[java.lang.Void)]
+
+prob: 0,02041
+[android/content/Intent/getExtras()]
+
+prob: 0,02041
+[android/content/Intent/getData()]
+
+prob: 0,02041
+[java/util/ArrayList/iterator()]
+
+prob: 0,02041
+[android/content/ClipData/getItemAt(int), android/content/Intent/getAction(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02041
+[android/content/ClipData/getItemCount()]
+
+prob: 0,02041
+[android/content/res/Resources/getColor(int), android/view/Window/getDecorView(), android/view/View/setSystemUiVisibility(int), android/content/res/Resources/getColor(int]
+
+prob: 0,02041
+[org.json.JSONArray)]
+
+prob: 0,02041
+[org/json/JSONObject/get(java.lang.String), java/lang/Object/equals(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), org/json/JSONObject/JSONObject(java.lang.String), org/json/JSONObject/getString(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,02041
+[android/app/job/JobInfo$Builder/setPersisted(boolean), android/app/Activity/startService(android.content.Intent), android/content/ComponentName/ComponentName(android.content.Context]
+
+prob: 0,02041
+[android/app/job/JobInfo$Builder/setRequiredNetworkType(int), android/app/job/JobInfo$Builder/setPeriodic(long)]
+
+prob: 0,02041
+[android/webkit/WebView/setWebViewClient(android.webkit.WebViewClient), android/webkit/WebSettings/setJavaScriptEnabled(boolean), android/app/Activity/setContentView(android.view.View), java/io/File/exists(), android/os/AsyncTask/executeOnExecutor(java.util.concurrent.Executor]
+
+prob: 0,02041
+[java/lang/Object/equals(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/security/SecureRandom/getInstance(java.lang.String), java/security/SecureRandom/getProvider(), java/lang/StringBuilder/toString(), java/security/SecureRandom/SecureRandom(), java/security/Security/getProviders(java.lang.String), java/security/Security/insertProviderAt(java.security.Provider]
+
+prob: 0,02041
+[java.lang.String[]]
+
+prob: 0,02041
+[de.tutao.tutanota.alarms.AlarmNotificationsManager$PushKeyResolver)]
+
+prob: 0,02041
+[byte[])]
+
+prob: 0,02041
+[java/lang/Object/toString(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), org/json/JSONObject/wrap(java.lang.Object), android/content/SharedPreferences$Editor/putString(java.lang.String]
+
+prob: 0,02041
+[java/lang/StringBuilder/append(java.lang.String), org/json/JSONObject/JSONObject(java.lang.String), java/net/HttpURLConnection/getInputStream(), java/lang/StringBuilder/toString(), android/text/TextUtils/join(java.lang.CharSequence]
+
+prob: 0,02041
+[java/lang/String/hashCode(), org/json/JSONArray/length(), android/app/Activity/startService(android.content.Intent), java/util/Objects/requireNonNull(java.lang.Object]
+
+prob: 0,02041
+[de/tutao/tutanota/OperationType/values(), org/json/JSONArray/length(), org/json/JSONObject/getJSONArray(java.lang.String]
+
+prob: 0,02041
+[java/util/ArrayList/ArrayList(int), android/content/SharedPreferences$Editor/apply(), java/util/List/size(), android/content/SharedPreferences/edit(), java/util/List/add(java.lang.Object)]
+
+prob: 0,02041
+[java/util/ArrayList/ArrayList(int), android/app/NotificationManager/cancel(int), org/json/JSONArray/getString(int), java/util/ArrayList/add(java.lang.Object), android/app/Activity/getSystemService(java.lang.String), java/lang/Math/abs(int)]
+
+prob: 0,02041
+[android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/Bundle(), android/app/Notification$Action$Builder/setAllowGeneratedReplies(boolean), android/app/Notification$Action$Builder/Notification$Action$Builder(int]
+
+prob: 0,02041
+[android/os/Bundle/Bundle(android.os.Bundle), java/util/Iterator/hasNext(), android/os/Bundle/putAll(android.os.Bundle), android/app/Notification$Builder/setExtras(android.os.Bundle), android/app/Notification$Builder/getNotification(), android/os/Bundle/keySet(), android/app/Notification$Builder/build(), android/os/Bundle/putSparseParcelableArray(java.lang.String]
+
+prob: 0,02041
+[java/util/ArrayList/ArrayList(), java/util/List/add(java.lang.Object), org/json/JSONObject/getString(java.lang.String), org/json/JSONObject/getInt(java.lang.String), org/json/JSONArray/getJSONObject(int)]
+
+prob: 0,02041
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02041
+[java/util/Iterator/hasNext(), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,02041
+[java/util/Iterator/hasNext(), java/net/URLEncoder/encode(java.lang.String]
+
+prob: 0,02041
+[java/lang/Process/getErrorStream(), java/io/File/createNewFile(), java/lang/Process/waitFor(), android/net/Uri/fromFile(java.io.File), java/io/File/delete(), java/lang/StringBuilder/toString(), java/io/File/File(java.io.File]
+
+prob: 0,02041
+[org/json/JSONObject/getJSONObject(java.lang.String), org/json/JSONObject/isNull(java.lang.String)]
+
+prob: 0,02041
+[java/lang/Runtime/getRuntime()]
+
+prob: 0,02041
+[java/lang/Runtime/exec(java.lang.String[])]
+
+prob: 0,02041
+[java/io/File/mkdirs()]
+
+prob: 0,02041
+[java/lang/RuntimeException/RuntimeException(java.lang.String)]
+
+prob: 0,02041
+[java/lang/Process/exitValue()]
+
+prob: 0,02041
+[java/lang/Long/parseLong(java.lang.String), java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,02041
+[java/net/URL/openConnection(), java/net/HttpURLConnection/setReadTimeout(int), java/lang/RuntimeException/RuntimeException(java.lang.Throwable)]
+
+prob: 0,02041
+[java/net/URL/openConnection(), java/net/HttpURLConnection/setReadTimeout(int), java/lang/StringBuilder/append(int), java/net/URL/URL(java.lang.String)]
+
+prob: 0,02041
+[android/app/job/JobService/stopForeground(boolean), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences$Editor/putInt(java.lang.String]
+
+prob: 0,02041
+[java/io/DataOutputStream/writeInt(int), java/io/DataOutputStream/write(byte[]), java/lang/System/nanoTime(), java/io/DataOutputStream/close(), android/os/Process/myPid(), java/io/DataOutputStream/writeLong(long), android/os/Process/myUid(), java/lang/System/currentTimeMillis(), java/io/ByteArrayOutputStream/ByteArrayOutputStream(), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), java/lang/SecurityException/SecurityException(java.lang.String]
+
+prob: 0,02041
+[java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/io/IOException/IOException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,02041
+[java/io/File/getName(), android/app/DownloadManager/addCompletedDownload(java.lang.String]
+
+prob: 0,02041
+[org.json.JSONObject)]
+
+prob: 0,02041
+[android/net/Uri/getPath(), java/lang/StringBuilder/append(java.lang.String), java/lang/Exception/Exception(java.lang.String), android/net/Uri/toString(), android/net/Uri/fromFile(java.io.File), java/io/File/delete(), java/lang/StringBuilder/toString(]
+
+prob: 0,02041
+[java/io/File/File(java.lang.String)]
+
+prob: 0,02041
+[android/net/Uri/parse(java.lang.String)]
+
+prob: 0,02041
+[java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,02041
+[java/security/KeyPairGenerator/initialize(java.security.spec.AlgorithmParameterSpec), android/security/KeyPairGeneratorSpec$Builder/setEndDate(java.util.Date), java/util/Calendar/add(int]
+
+prob: 0,02041
+[android/content/ClipData/getItemAt(int)]
+
+prob: 0,02041
+[android/util/Log/w(java.lang.String]
+
+prob: 0,02041
+[java/io/File/File(java.io.File]
+
+prob: 0,02041
+[java/lang/RuntimeException/RuntimeException(java.lang.Throwable)]
+
+prob: 0,02041
+[java/lang/StringBuilder/append(java.lang.String)]
+

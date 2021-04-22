@@ -1,0 +1,663 @@
+prob: 0,10092
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,05505
+[java.lang.String]
+
+prob: 0,04587
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,04587
+[java.lang.String)]
+
+prob: 0,03670
+[java/lang/Integer/toString(int), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,03670
+[java.util.HashMap]
+
+prob: 0,03670
+[java/util/Set/iterator()]
+
+prob: 0,03670
+[java/util/Iterator/next()]
+
+prob: 0,02752
+[android.content.Context]
+
+prob: 0,02752
+[android/database/Cursor/getLong(int)]
+
+prob: 0,01835
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01835
+[java/util/ArrayList/ArrayList(), android/database/sqlite/SQLiteException/getMessage(), java/util/List/add(java.lang.Object), android/database/Cursor/moveToFirst(), android/database/Cursor/moveToNext()]
+
+prob: 0,01835
+[android/database/Cursor/getString(int)]
+
+prob: 0,01835
+[boolean)]
+
+prob: 0,01835
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01835
+[boolean]
+
+prob: 0,01835
+[android/net/Uri/getPath()]
+
+prob: 0,01835
+[android/content/Context/getPackageManager(), android/content/Intent/Intent(java.lang.String]
+
+prob: 0,01835
+[long]
+
+prob: 0,01835
+[int)]
+
+prob: 0,01835
+[java/lang/StringBuilder/append(long)]
+
+prob: 0,01835
+[java/util/List/add(java.lang.Object)]
+
+prob: 0,01835
+[java/util/Map$Entry/getValue()]
+
+prob: 0,01835
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01835
+[android/text/TextUtils/isEmpty(java.lang.CharSequence)]
+
+prob: 0,01835
+[java/lang/StringBuilder/toString()]
+
+prob: 0,01835
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00917
+[java/util/SortedSet/remove(java.lang.Object)]
+
+prob: 0,00917
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/Character/valueOf(char), java/util/Set/remove(java.lang.Object), java/util/List/iterator(), java/lang/StringBuilder/toString(]
+
+prob: 0,00917
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), com/google/ads/g$a/ordinal(]
+
+prob: 0,00917
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/Map$Entry/getKey(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/lang/StringBuilder/toString(]
+
+prob: 0,00917
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/net/Uri$Builder/appendQueryParameter(java.lang.String]
+
+prob: 0,00917
+[java/util/Iterator/hasNext(), java/lang/String/equals(java.lang.Object), com/google/tagmanager/PreviewManager$PreviewMode/ordinal(), java/util/Map$Entry/getKey(), java/util/Set/iterator()]
+
+prob: 0,00917
+[java/util/Iterator/hasNext(), android/net/Uri$Builder/encodedQuery(java.lang.String), java/util/Set/iterator(), android/net/Uri$Builder/Uri$Builder(), android/net/Uri$Builder/build()]
+
+prob: 0,00917
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object)]
+
+prob: 0,00917
+[java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/Collections/unmodifiableList(java.util.List), com/google/tagmanager/protobuf/SmallSortedMap$1/getArrayEntryAt(int), java/lang/Iterable/iterator(), com/google/tagmanager/protobuf/SmallSortedMap$1/isImmutable(), java/util/Map$Entry/setValue(java.lang.Object), com/google/tagmanager/protobuf/SmallSortedMap$1/getNumArrayEntries(]
+
+prob: 0,00917
+[java/lang/String/length(), java/util/List/size(), java/util/List/get(int), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/Math/min(int]
+
+prob: 0,00917
+[java/lang/System/currentTimeMillis()]
+
+prob: 0,00917
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), android/database/Cursor/moveToNext(), android/database/sqlite/SQLiteCursor/getWindow(), java/util/Iterator/hasNext(), android/database/sqlite/SQLiteException/getMessage()]
+
+prob: 0,00917
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/trim(), java/util/Map/get(java.lang.Object), java/util/Iterator/next(), java/util/Map/keySet(]
+
+prob: 0,00917
+[java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), java/lang/Object/getClass(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,00917
+[java/util/LinkedList/isEmpty(), java/lang/StringBuilder/append(int), java/util/ArrayList/size(), java/util/ArrayList/get(int)]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.String), java/net/URL/getProtocol(), java/io/IOException/getMessage(), java/net/URL/getPort(), org/apache/http/StatusLine/getStatusCode(), java/net/URL/getHost(), java/lang/Object/getClass()]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/reflect/Method/invoke(java.lang.Object]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.String), java/util/List/contains(java.lang.Object), java/util/Arrays/asList(java.lang.Object[])]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,00917
+[java/util/LinkedList/iterator(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int), java/util/LinkedList/size(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(]
+
+prob: 0,00917
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/length(), java/lang/Long/longValue(]
+
+prob: 0,00917
+[java/util/LinkedList/removeFirst()]
+
+prob: 0,00917
+[java/lang/Double/Double(double), java/lang/Double/toString(double), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(long), java/lang/Thread/setDefaultUncaughtExceptionHandler(java.lang.Thread$UncaughtExceptionHandler), com/google/analytics/tracking/android/EasyTracker/set(java.lang.String]
+
+prob: 0,00917
+[java/lang/Double/doubleValue()]
+
+prob: 0,00917
+[java/lang/Class/newInstance(), java/lang/Class/isAssignableFrom(java.lang.Class), java/io/PrintStream/println(java.lang.String), java/lang/Exception/printStackTrace(]
+
+prob: 0,00917
+[java/lang/Class/forName(java.lang.String)]
+
+prob: 0,00917
+[org/apache/http/HttpEntityEnclosingRequest/addHeader(java.lang.String]
+
+prob: 0,00917
+[org/apache/http/HttpResponse/getStatusLine(), java/lang/Class/getSimpleName(), java/util/List/size(), java/util/List/get(int), org/apache/http/client/HttpClient/execute(org.apache.http.HttpHost]
+
+prob: 0,00917
+[org/apache/http/HttpResponse/getStatusLine(), java/lang/Class/getSimpleName(), java/net/URL/getProtocol(), java/io/IOException/getMessage(), java/util/List/get(int), java/net/URL/getHost(), java/lang/Math/min(int]
+
+prob: 0,00917
+[org/apache/http/HttpEntity/consumeContent()]
+
+prob: 0,00917
+[org/apache/http/HttpEntityEnclosingRequest/getEntity(), org/apache/http/HttpEntityEnclosingRequest/getAllHeaders(), java/io/InputStream/read(byte[]), java/lang/String/String(byte[]), org/apache/http/HttpEntityEnclosingRequest/getRequestLine(), java/lang/StringBuffer/StringBuffer(), java/lang/Object/toString(), java/io/InputStream/available(), org/apache/http/HttpEntity/getContent(), java/lang/StringBuffer/append(java.lang.String]
+
+prob: 0,00917
+[com/google/analytics/midtier/proto/containertag/TypeSystem$Value$Type/ordinal()]
+
+prob: 0,00917
+[java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/toString(]
+
+prob: 0,00917
+[java/io/FileOutputStream/write(byte[]]
+
+prob: 0,00917
+[java/lang/IllegalAccessException/getLocalizedMessage()]
+
+prob: 0,00917
+[android/net/Uri/buildUpon()]
+
+prob: 0,00917
+[android.webkit.HttpAuthHandler]
+
+prob: 0,00917
+[com/google/tagmanager/protobuf/SmallSortedMap$1/getOverflowEntries()]
+
+prob: 0,00917
+[java/util/HashSet/HashSet()]
+
+prob: 0,00917
+[android/view/WindowManager$LayoutParams/WindowManager$LayoutParams(), java/lang/Integer/intValue(), android/content/res/Resources/getIdentifier(java.lang.String]
+
+prob: 0,00917
+[java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getBundleExtra(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), android/widget/RelativeLayout/RelativeLayout(android.content.Context), com/google/ads/AdActivity/getIntent(), com/google/ads/AdActivity/getApplicationContext()]
+
+prob: 0,00917
+[android/widget/EditText/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/RelativeLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/webkit/WebView/setId(int), android/widget/ImageButton/setLayoutParams(android.view.ViewGroup$LayoutParams), android/webkit/WebSettings/setUserAgentString(java.lang.String), android/view/Window/setAttributes(android.view.WindowManager$LayoutParams)]
+
+prob: 0,00917
+[android/webkit/WebView/WebView(android.content.Context)]
+
+prob: 0,00917
+[org/apache/cordova/inappbrowser/InAppBrowserDialog/requestWindowFeature(int)]
+
+prob: 0,00917
+[android/webkit/WebView/requestFocusFromTouch()]
+
+prob: 0,00917
+[android/widget/RelativeLayout/addView(android.view.View)]
+
+prob: 0,00917
+[org/apache/cordova/inappbrowser/InAppBrowserDialog/dismiss()]
+
+prob: 0,00917
+[java.util.HashMap)]
+
+prob: 0,00917
+[android.os.Parcel]
+
+prob: 0,00917
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/Cursor/getColumnName(int), android/content/SharedPreferences$Editor/commit(), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,00917
+[java/lang/String/valueOf(long)]
+
+prob: 0,00917
+[java/lang/Long/valueOf(long), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/util/Iterator/hasNext(), android/database/sqlite/SQLiteException/getMessage()]
+
+prob: 0,00917
+[java/lang/Long/valueOf(long), android/database/Cursor/close(), java/util/ArrayList/ArrayList()]
+
+prob: 0,00917
+[java/util/List/iterator(), java/lang/StringBuilder/append(java.lang.String), java/lang/Object/getClass()]
+
+prob: 0,00917
+[long)]
+
+prob: 0,00917
+[java/util/ArrayList/ArrayList(int), java/util/Iterator/hasNext(), android/text/TextUtils/join(java.lang.CharSequence]
+
+prob: 0,00917
+[java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String), org/json/JSONObject/getJSONArray(java.lang.String]
+
+prob: 0,00917
+[java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String), org/json/JSONObject/length()]
+
+prob: 0,00917
+[java/lang/Thread/currentThread(), com/google/analytics/tracking/android/GAServiceProxy$ConnectState/ordinal(), java/util/Queue/peek(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/Object/equals(java.lang.Object), java/util/concurrent/LinkedBlockingQueue/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.String]
+
+prob: 0,00917
+[java/util/Queue/poll(), java/util/Queue/isEmpty()]
+
+prob: 0,00917
+[java/lang/StringBuilder/length(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,00917
+[com.google.ads.c]
+
+prob: 0,00917
+[android/os/SystemClock/elapsedRealtime()]
+
+prob: 0,00917
+[java/lang/Object/wait(long)]
+
+prob: 0,00917
+[com/google/ads/internal/c$d/ordinal()]
+
+prob: 0,00917
+[java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,00917
+[android/os/Handler/post(java.lang.Runnable]
+
+prob: 0,00917
+[android.app.Activity)]
+
+prob: 0,00917
+[java/security/MessageDigest/digest()]
+
+prob: 0,00917
+[java/util/UUID/getLeastSignificantBits()]
+
+prob: 0,00917
+[java/util/UUID/getMostSignificantBits()]
+
+prob: 0,00917
+[java/lang/RuntimeException/RuntimeException(java.lang.String)]
+
+prob: 0,00917
+[java/lang/System/arraycopy(java.lang.Object]
+
+prob: 0,00917
+[android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,00917
+[com.google.ads.internal.d)]
+
+prob: 0,00917
+[com/google/ads/internal/AdWebView/setWebViewClient(android.webkit.WebViewClient)]
+
+prob: 0,00917
+[com.google.analytics.containertag.proto.Serving$Resource]
+
+prob: 0,00917
+[java/net/URL/openConnection(), java/net/URL/URL(java.lang.String)]
+
+prob: 0,00917
+[android/content/ContentResolver/getType(android.net.Uri)]
+
+prob: 0,00917
+[java/lang/String/split(java.lang.String), java/net/HttpURLConnection/setDoInput(boolean]
+
+prob: 0,00917
+[java/net/HttpURLConnection/setRequestMethod(java.lang.String)]
+
+prob: 0,00917
+[java/net/HttpURLConnection/getHeaderField(java.lang.String)]
+
+prob: 0,00917
+[android/net/Uri/toString()]
+
+prob: 0,00917
+[java.io.OutputStream)]
+
+prob: 0,00917
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/String/split(java.lang.String)]
+
+prob: 0,00917
+[com/google/tagmanager/PreviewActivity/getIntent()]
+
+prob: 0,00917
+[android/app/Activity/onCreate(android.os.Bundle), java/util/HashMap/get(java.lang.Object]
+
+prob: 0,00917
+[android/app/Activity/onCreate(android.os.Bundle), com/google/tagmanager/PreviewActivity/startActivity(android.content.Intent), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,00917
+[android/net/Uri/getSchemeSpecificPart()]
+
+prob: 0,00917
+[java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])]
+
+prob: 0,00917
+[java/lang/String/getBytes()]
+
+prob: 0,00917
+[java/lang/String/indexOf(int)]
+
+prob: 0,00917
+[android/util/Base64/decode(java.lang.String]
+
+prob: 0,00917
+[org/json/JSONObject/JSONObject(java.lang.String)]
+
+prob: 0,00917
+[org/json/JSONObject/getString(java.lang.String), java/util/List/add(java.lang.Object), java/lang/Integer/valueOf(int)]
+
+prob: 0,00917
+[org/json/JSONObject/has(java.lang.String)]
+
+prob: 0,00917
+[org/json/JSONObject/getInt(java.lang.String)]
+
+prob: 0,00917
+[org/json/JSONArray/getJSONObject(int)]
+
+prob: 0,00917
+[org/json/JSONArray/length()]
+
+prob: 0,00917
+[java/util/HashMap/HashMap(int)]
+
+prob: 0,00917
+[org/json/JSONObject/optString(java.lang.String]
+
+prob: 0,00917
+[java.lang.Object)]
+
+prob: 0,00917
+[java/lang/StringBuffer/toString()]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.Object), java/lang/Thread/getDefaultUncaughtExceptionHandler(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.Object), java/util/Set/isEmpty(]
+
+prob: 0,00917
+[org.apache.http.HttpResponse)]
+
+prob: 0,00917
+[android.gesture.Gesture)]
+
+prob: 0,00917
+[android/webkit/ConsoleMessage$MessageLevel/ordinal()]
+
+prob: 0,00917
+[android/webkit/ConsoleMessage/sourceId(), java/lang/StringBuilder/append(int)]
+
+prob: 0,00917
+[android/webkit/ConsoleMessage/message()]
+
+prob: 0,00917
+[android/webkit/WebChromeClient/onConsoleMessage(android.webkit.ConsoleMessage)]
+
+prob: 0,00917
+[android/webkit/ConsoleMessage/messageLevel()]
+
+prob: 0,00917
+[android/webkit/ConsoleMessage/lineNumber(]
+
+prob: 0,00917
+[android.content.Context)]
+
+prob: 0,00917
+[java/io/OutputStream/close(), java/net/HttpURLConnection/disconnect(), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/getResponseCode()]
+
+prob: 0,00917
+[java/net/HttpURLConnection/setFixedLengthStreamingMode(int)]
+
+prob: 0,00917
+[java/io/OutputStream/write(byte[])]
+
+prob: 0,00917
+[org/json/JSONObject/toString()]
+
+prob: 0,00917
+[java/net/HttpURLConnection/getResponseMessage()]
+
+prob: 0,00917
+[java/lang/String/getBytes(]
+
+prob: 0,00917
+[com/google/tagmanager/PreviewActivity/getPackageName()]
+
+prob: 0,00917
+[android/content/pm/PackageManager/getLaunchIntentForPackage(java.lang.String)]
+
+prob: 0,00917
+[com/google/tagmanager/PreviewActivity/getPackageManager()]
+
+prob: 0,00917
+[java/lang/StringBuilder/StringBuilder(), java/net/URL/getPath(), org/apache/http/StatusLine/getStatusCode()]
+
+prob: 0,00917
+[java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,00917
+[java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)]
+
+prob: 0,00917
+[java/lang/StringBuilder/StringBuilder(), java/io/FileInputStream/read(byte[]]
+
+prob: 0,00917
+[android/content/Intent/getData()]
+
+prob: 0,00917
+[java/lang/Exception/getMessage(]
+
+prob: 0,00917
+[com.google.tagmanager.ResourceUtil$ExpandedFunctionCall]
+
+prob: 0,00917
+[java.util.Set]
+
+prob: 0,00917
+[android/view/inputmethod/InputMethodManager/hideSoftInputFromWindow(android.os.IBinder]
+
+prob: 0,00917
+[android/content/Intent/setData(android.net.Uri)]
+
+prob: 0,00917
+[android/net/Uri/getScheme()]
+
+prob: 0,00917
+[java/lang/RuntimeException/toString(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,00917
+[android/net/Uri/parse(java.lang.String)]
+
+prob: 0,00917
+[android/content/Intent/Intent(java.lang.String)]
+
+prob: 0,00917
+[java/util/concurrent/ConcurrentMap/entrySet(), java/util/Map$Entry/getValue()]
+
+prob: 0,00917
+[java/util/concurrent/ConcurrentMap/get(java.lang.Object]
+
+prob: 0,00917
+[org.json.JSONObject)]
+
+prob: 0,00917
+[com/google/analytics/tracking/android/GAUsage$Field/ordinal()]
+
+prob: 0,00917
+[java/lang/Class/toString()]
+
+prob: 0,00917
+[java/lang/Boolean/booleanValue()]
+
+prob: 0,00917
+[java/lang/Class/getFields()]
+
+prob: 0,00917
+[org.apache.cordova.CordovaDialogsHelper$Result)]
+
+prob: 0,00917
+[byte[])]
+
+prob: 0,00917
+[android/widget/ProgressBar/ProgressBar(android.content.Context)]
+
+prob: 0,00917
+[android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams)]
+
+prob: 0,00917
+[android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,00917
+[android/net/Uri/getHost()]
+
+prob: 0,00917
+[java/util/regex/Matcher/matches()]
+
+prob: 0,00917
+[java/lang/Integer/equals(java.lang.Object)]
+
+prob: 0,00917
+[java/lang/Exception/toString()]
+
+prob: 0,00917
+[java/util/regex/Pattern/matcher(java.lang.CharSequence)]
+
+prob: 0,00917
+[android/net/Uri/getPort()]
+
+prob: 0,00917
+[java/util/SortedSet/clear(]
+
+prob: 0,00917
+[android/net/Uri/getScheme(]
+
+prob: 0,00917
+[android/webkit/WebSettings/setGeolocationDatabasePath(java.lang.String)]
+
+prob: 0,00917
+[java/lang/System/getProperty(java.lang.String]
+
+prob: 0,00917
+[org/json/JSONArray/JSONArray()]
+
+prob: 0,00917
+[org/json/JSONArray/put(java.lang.Object)]
+
+prob: 0,00917
+[java/util/Map/isEmpty()]
+
+prob: 0,00917
+[org/json/JSONObject/put(java.lang.String]
+
+prob: 0,00917
+[android/content/Context/openFileInput(java.lang.String)]
+
+prob: 0,00917
+[android/content/Context/deleteFile(java.lang.String)]
+
+prob: 0,00917
+[java/io/FileInputStream/close()]
+
+prob: 0,00917
+[java/net/URLDecoder/decode(java.lang.String]
+
+prob: 0,00917
+[java.util.Collection)]
+
+prob: 0,00917
+[com.google.ads.n)]
+
+prob: 0,00917
+[java.lang.StackTraceElement]
+
+prob: 0,00917
+[java/net/HttpURLConnection/connect()]
+
+prob: 0,00917
+[java/net/HttpURLConnection/setInstanceFollowRedirects(boolean]
+
+prob: 0,00917
+[java.util.Map)]
+
+prob: 0,00917
+[java/util/Map$Entry/getKey(]
+
+prob: 0,00917
+[com.google.tagmanager.JoinerMacro$EscapeType]
+
+prob: 0,00917
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/length()]
+
+prob: 0,00917
+[org/apache/http/HttpEntityEnclosingRequest/getEntity(), org/apache/http/HttpEntityEnclosingRequest/getAllHeaders(), java/io/InputStream/read(byte[]), java/lang/String/String(byte[]), org/apache/http/HttpEntityEnclosingRequest/getRequestLine(), java/lang/StringBuffer/StringBuffer(), java/lang/Object/toString(), java/io/InputStream/available(), org/apache/http/HttpEntity/getContent()]
+
+prob: 0,00917
+[android/database/sqlite/SQLiteCursor/getWindow()]
+
+prob: 0,00917
+[android/database/Cursor/close()]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,00917
+[java/lang/Object/equals(java.lang.Object)]
+
+prob: 0,00917
+[java/lang/Object/toString(), java/util/Map$Entry/getValue()]
+
+prob: 0,00917
+[java/util/Map/entrySet()]
+
+prob: 0,00917
+[java/lang/Integer/valueOf(int)]
+
+prob: 0,00917
+[android/webkit/WebSettings/setUserAgentString(java.lang.String)]
+
+prob: 0,00917
+[java/net/HttpURLConnection/disconnect(), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/getResponseCode()]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00917
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,00917
+[java/lang/Object/toString()]
+
+prob: 0,00917
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,00917
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,00917
+[java/util/Iterator/hasNext()]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.String)]
+

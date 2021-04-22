@@ -1,0 +1,7 @@
+java/util/ArrayList/iterator()
+org/kde/necessitas/ministro/IMinistroCallback/asBinder()
+org.api.fake
+android/os/Parcel/readException(
+java/lang/System/loadLibrary(java.lang.String
+java/util/HashMap/get(java.lang.Object
+android/app/AlertDialog/setMessage(java.lang.CharSequence)

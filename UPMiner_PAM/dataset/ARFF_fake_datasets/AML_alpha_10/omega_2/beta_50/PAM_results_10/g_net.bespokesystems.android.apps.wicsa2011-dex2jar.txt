@@ -1,0 +1,168 @@
+prob: 0,13953
+[android.content.ContentResolver)]
+
+prob: 0,04651
+[int]
+
+prob: 0,04651
+[java.lang.Object]
+
+prob: 0,04651
+[java/lang/Long/valueOf(long)]
+
+prob: 0,04651
+[android/widget/RemoteViews/setTextViewText(int]
+
+prob: 0,04651
+[java.util.ArrayList]
+
+prob: 0,04651
+[android/content/ContentProviderOperation$Builder/build(), android/content/ContentProviderOperation$Builder/withValue(java.lang.String]
+
+prob: 0,04651
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,04651
+[android/app/ListActivity/onCreate(android.os.Bundle)]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/SessionDetailActivity/getIntent(), net/bespokesystems/android/apps/wicsa2011/de/ui/SessionDetailActivity/getContentResolver(), android/graphics/RectF/RectF(float]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/TracksActivity/getContentResolver()]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/TrackDetailActivity/setContentView(int), android/app/TabActivity/onCreate(android.os.Bundle), net/bespokesystems/android/apps/wicsa2011/de/ui/TrackDetailActivity/findViewById(int), net/bespokesystems/android/apps/wicsa2011/de/ui/TrackDetailActivity/getTabHost(), java/util/HashSet/contains(java.lang.Object), net/bespokesystems/android/apps/wicsa2011/de/ui/TrackDetailActivity/getContentResolver(), net/bespokesystems/android/apps/wicsa2011/de/ui/TrackDetailActivity/getIntent(), android/widget/TabHost/setCurrentTabByTag(java.lang.String), android/content/Intent/getData(), android/content/Intent/getStringExtra(java.lang.String]
+
+prob: 0,02326
+[android.content.ContentValues)]
+
+prob: 0,02326
+[java.lang.String[]]
+
+prob: 0,02326
+[java.lang.String)]
+
+prob: 0,02326
+[org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), org/apache/http/util/EntityUtils/toString(org.apache.http.HttpEntity), org/apache/http/StatusLine/getStatusCode(), java/lang/Integer/valueOf(int), org/apache/http/client/methods/HttpGet/HttpGet(java.lang.String), org/apache/http/HttpResponse/getStatusLine()]
+
+prob: 0,02326
+[org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), android/graphics/BitmapFactory/decodeByteArray(byte[]]
+
+prob: 0,02326
+[android/widget/ListView/addHeaderView(android.view.View]
+
+prob: 0,02326
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,02326
+[long)]
+
+prob: 0,02326
+[android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/widget/TabHost/newTabSpec(java.lang.String), android/net/Uri$Builder/build(), android/widget/TextView/setText(java.lang.CharSequence), android/widget/TextView/setClickable(boolean), android/widget/TabHost$TabSpec/setContent(int), net/bespokesystems/android/apps/wicsa2011/de/ui/SessionDetailActivity/getTabHost(), android/net/Uri/parse(java.lang.String), android/database/Cursor/getString(int), android/net/Uri/toString(), android/widget/TabHost$TabSpec/setIndicator(android.view.View), android/net/Uri$Builder/appendQueryParameter(java.lang.String]
+
+prob: 0,02326
+[android/widget/TextView/setFocusable(boolean)]
+
+prob: 0,02326
+[android/widget/TabHost/newTabSpec(java.lang.String), net/bespokesystems/android/apps/wicsa2011/de/ui/TrackDetailActivity/getIntent(), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,02326
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), android/view/ViewGroup/setVisibility(int), android/view/LayoutInflater/inflate(int]
+
+prob: 0,02326
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), android/view/View/setVisibility(int), android/database/Cursor/moveToFirst(), android/database/Cursor/getInt(int), android/widget/TextView/setText(java.lang.CharSequence), android/database/Cursor/getLong(int), android/widget/CompoundButton/setChecked(boolean), android/widget/TextView/setVisibility(int), android/database/Cursor/getString(int]
+
+prob: 0,02326
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), android/content/ContentValues/put(java.lang.String]
+
+prob: 0,02326
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), net/bespokesystems/android/apps/wicsa2011/de/ui/SessionDetailActivity/findViewById(int), android/view/View/setVisibility(int)]
+
+prob: 0,02326
+[java/lang/StringBuilder/append(int), java/lang/String/indexOf(java.lang.String), java/lang/String/substring(int), java/lang/String/indexOf(int), java/lang/StringBuilder/toString(), android/util/Log/w(java.lang.String]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/VendorsActivity/getTitle(), net/bespokesystems/android/apps/wicsa2011/de/ui/VendorsActivity/findViewById(int), net/bespokesystems/android/apps/wicsa2011/de/ui/VendorsActivity/getIntent(), android/widget/TextView/setText(java.lang.CharSequence), android/content/Intent/hasCategory(java.lang.String), net/bespokesystems/android/apps/wicsa2011/de/ui/VendorsActivity/setContentView(int), net/bespokesystems/android/apps/wicsa2011/de/ui/VendorsActivity/setListAdapter(android.widget.ListAdapter), net/bespokesystems/android/apps/wicsa2011/de/ui/VendorsActivity/getContentResolver(]
+
+prob: 0,02326
+[android/widget/CompoundButton/setFocusable(boolean), android/graphics/RectF/RectF(float]
+
+prob: 0,02326
+[java/util/regex/Matcher/group(int), java/lang/String/trim(), java/lang/String/equals(java.lang.Object), java/util/regex/Matcher/find(), org/xmlpull/v1/XmlPullParser/next(), org/xmlpull/v1/XmlPullParser/getName(), org/xmlpull/v1/XmlPullParser/getText(), org/xmlpull/v1/XmlPullParser/getDepth(), com/google/android/apps/iosched/util/SpreadsheetEntry/put(java.lang.Object]
+
+prob: 0,02326
+[int)]
+
+prob: 0,02326
+[android/widget/CompoundButton/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener)]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/NoteEditActivity/findViewById(int), net/bespokesystems/android/apps/wicsa2011/de/ui/NoteEditActivity/getIntent(), android/content/Intent/getAction(), android/widget/TextView/setText(java.lang.CharSequence), android/content/Intent/getData(), android/app/Activity/onCreate(android.os.Bundle]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/NoteEditActivity/getTitle(), net/bespokesystems/android/apps/wicsa2011/de/ui/NoteEditActivity/getContentResolver(), java/lang/String/equals(java.lang.Object), net/bespokesystems/android/apps/wicsa2011/de/ui/NoteEditActivity/setContentView(int)]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/SessionsActivity/findViewById(int), net/bespokesystems/android/apps/wicsa2011/de/ui/SessionsActivity/getIntent(), net/bespokesystems/android/apps/wicsa2011/de/ui/SessionsActivity/setListAdapter(android.widget.ListAdapter), android/app/ListActivity/onCreate(android.os.Bundle), android/content/Intent/getData(), android/content/Intent/getStringExtra(java.lang.String]
+
+prob: 0,02326
+[android/database/Cursor/close()]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/SessionsActivity/getTitle()]
+
+prob: 0,02326
+[android/content/Intent/getParcelableExtra(java.lang.String)]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/SessionsActivity/setContentView(int)]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/SessionsActivity/getContentResolver()]
+
+prob: 0,02326
+[org/xmlpull/v1/XmlSerializer/text(java.lang.String), org/xmlpull/v1/XmlSerializer/endTag(java.lang.String]
+
+prob: 0,02326
+[android/os/Handler/removeCallbacks(java.lang.Runnable), android/view/View/setVisibility(int), net/bespokesystems/android/apps/wicsa2011/de/ui/HomeActivity/getResources(), android/view/ViewGroup/removeView(android.view.View), java/lang/System/currentTimeMillis(), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/HomeActivity/findViewById(int)]
+
+prob: 0,02326
+[android/graphics/Paint/setAntiAlias(boolean), com/google/android/apps/iosched/ui/widget/TimeRulerView/getRight(), android/graphics/Paint/setColor(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/graphics/Paint/setTextSize(float), android/graphics/Paint/getFontMetricsInt(), android/graphics/Paint/setStyle(android.graphics.Paint$Style), android/graphics/Canvas/drawRect(float]
+
+prob: 0,02326
+[java/lang/String/length()]
+
+prob: 0,02326
+[com.google.android.apps.iosched.io.XmlHandler)]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/TracksActivity/setContentView(int), java/lang/String/equals(java.lang.Object), net/bespokesystems/android/apps/wicsa2011/de/ui/TracksActivity/setListAdapter(android.widget.ListAdapter), net/bespokesystems/android/apps/wicsa2011/de/ui/TracksActivity/getIntent(), android/content/Intent/getStringExtra(java.lang.String]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/TracksActivity/findViewById(int), net/bespokesystems/android/apps/wicsa2011/de/ui/TracksActivity/getTitle(), android/widget/TextView/setText(java.lang.CharSequence), android/content/Intent/getData()]
+
+prob: 0,02326
+[java/lang/StringBuilder/toString(), android/util/Log/w(java.lang.String]
+
+prob: 0,02326
+[android/content/Intent/hasCategory(java.lang.String)]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/NoteEditActivity/getIntent(), android/content/Intent/getAction()]
+
+prob: 0,02326
+[net/bespokesystems/android/apps/wicsa2011/de/ui/SessionDetailActivity/findViewById(int)]
+
+prob: 0,02326
+[android/view/View/setVisibility(int)]
+
+prob: 0,02326
+[android/content/Intent/getData()]
+
+prob: 0,02326
+[android/widget/TextView/setText(java.lang.CharSequence)]
+

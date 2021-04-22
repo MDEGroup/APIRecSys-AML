@@ -1,0 +1,24 @@
+java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/StringBuilder/toString(), com/jkalimer/tic_tac_toe_project/MainActivity/findViewById(int), java/lang/String/equals(java.lang.Object), java/util/Random/Random(), java/util/ArrayList/get(int  0,08333
+java/util/ArrayList/iterator(), java/lang/String/equalsIgnoreCase(java.lang.String), android/content/SharedPreferences$Editor/putInt(java.lang.String  0,08333
+java/util/ArrayList/iterator(), java/util/Iterator/next(), android/widget/ImageButton/setOnClickListener(android.view.View$OnClickListener), java/lang/StringBuilder/toString(), com/jkalimer/tic_tac_toe_project/MainActivity/findViewById(int)  0,08333
+java/util/ArrayList/ArrayList(), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String  0,08333
+java/util/ArrayList/ArrayList(), java/lang/StringBuilder/toString(), android/widget/ImageButton/clearAnimation(), com/jkalimer/tic_tac_toe_project/MainActivity/findViewById(int), android/content/SharedPreferences/getInt(java.lang.String  0,08333
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,08333
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/get(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,08333
+android/widget/ImageButton/setImageResource(int), java/util/Iterator/next(), java/util/ArrayList/size(), java/util/ArrayList/iterator()  0,08333
+java/util/ArrayList/set(int  0,08333
+android/text/SpannableStringBuilder/SpannableStringBuilder(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), android/text/Html/fromHtml(java.lang.String), android/view/MenuItem/getItemId(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,08333
+java.util.ArrayList)  0,08333
+android/content/SharedPreferences$Editor/commit(), com/jkalimer/tic_tac_toe_project/MainActivity/findViewById(int)  0,08333
+com/jkalimer/tic_tac_toe_project/LicensesDialogFragment/getActivity(), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setView(android.view.View), android/view/LayoutInflater/from(android.content.Context), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context  0,08333
+java/lang/StringBuilder/append(java.lang.String), java/util/Random/nextInt(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,08333
+android/app/FragmentTransaction/replace(int  0,08333
+java/lang/Integer/intValue(), android/app/Activity/onCreate(android.os.Bundle), android/graphics/Color/parseColor(java.lang.String), android/graphics/drawable/ColorDrawable/ColorDrawable(int), android/app/ActionBar/setBackgroundDrawable(android.graphics.drawable.Drawable), android/app/ActionBar/setIcon(int), com/jkalimer/tic_tac_toe_project/MainMenuActivity/getActionBar(), android/widget/ListView/setAdapter(android.widget.ListAdapter), com/jkalimer/tic_tac_toe_project/MainMenuActivity/setContentView(int), java/util/ArrayList/ArrayList(  0,08333
+com/jkalimer/tic_tac_toe_project/MainMenuActivity/findViewById(int), java/util/ArrayList/add(java.lang.Object), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), java/lang/Integer/valueOf(int)  0,08333
+android.view.View  0,08333
+android/media/MediaPlayer/setOnCompletionListener(android.media.MediaPlayer$OnCompletionListener), android/app/Activity/onCreate(android.os.Bundle), android/graphics/Color/parseColor(java.lang.String), android/graphics/drawable/ColorDrawable/ColorDrawable(int), android/preference/PreferenceManager/setDefaultValues(android.content.Context  0,08333
+com/jkalimer/tic_tac_toe_project/MainActivity/setContentView(int), com/jkalimer/tic_tac_toe_project/MainActivity/getApplicationContext()  0,08333
+java/util/ArrayList/add(java.lang.Object)  0,08333
+java/util/Iterator/hasNext()  0,08333
+android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,08333
+java/lang/StringBuilder/append(java.lang.String)  0,08333

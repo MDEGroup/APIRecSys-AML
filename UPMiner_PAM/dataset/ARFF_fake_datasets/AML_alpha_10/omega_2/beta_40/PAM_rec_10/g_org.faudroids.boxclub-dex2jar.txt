@@ -1,0 +1,53 @@
+java.lang.Class)  0,10526
+com.google.inject.spi.TypeEncounter)  0,07895
+java/util/Iterator/hasNext(), java/util/Set/iterator(), java/util/Collection/contains(java.lang.Object), java/util/Map$Entry/getValue(), java/util/Map/keySet(), java/util/Map/entrySet(), java/util/Set/add(java.lang.Object  0,05263
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/AssertionError/AssertionError(java.lang.Object), java/lang/StringBuilder/toString()  0,05263
+boolean  0,05263
+java/lang/reflect/Field/setAccessible(boolean)  0,05263
+java/util/ArrayList/iterator(), java/util/concurrent/CountDownLatch/countDown(), java/lang/StringBuilder/StringBuilder(  0,02632
+java.lang.Object[)  0,02632
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,02632
+java/lang/Class/getSimpleName()  0,02632
+roboguice/config/DefaultRoboModule/bind(java.lang.Class), roboguice/config/DefaultRoboModule/bindScope(java.lang.Class  0,02632
+java/util/Map$Entry/getKey(), java/util/AbstractCollection/removeAll(java.util.Collection), java/util/Set/removeAll(java.util.Collection), java/util/Iterator/next()  0,02632
+java/util/Map$Entry/getKey(), java/util/Set/retainAll(java.util.Collection), java/util/AbstractCollection/retainAll(java.util.Collection), java/util/Iterator/next()  0,02632
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/reflect/Modifier/isPrivate(int), java/lang/reflect/Constructor/getModifiers(), java/lang/reflect/Constructor/getAnnotation(java.lang.Class  0,02632
+java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/reflect/Array/newInstance(java.lang.Class  0,02632
+java.lang.reflect.Type)  0,02632
+int  0,02632
+java.util.Collection)  0,02632
+java/lang/StringBuilder/append(java.lang.String), com/google/inject/internal/InternalFlags$IncludeStackTraceOption/valueOf(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/String/length(), java/util/Arrays/asList(java.lang.Object[), java/lang/System/getProperty(java.lang.String)  0,02632
+android/util/Pair/Pair(java.lang.Object  0,02632
+java/util/WeakHashMap/WeakHashMap(), org/faudroids/boxclub/utils/MagicTextView/setBackgroundColor(int), android/content/res/TypedArray/hasValue(int), android/content/res/TypedArray/getDimensionPixelOffset(int  0,02632
+java/lang/Integer/intValue(), android/text/TextPaint/setStrokeWidth(float), android/graphics/PorterDuffXfermode/PorterDuffXfermode(android.graphics.PorterDuff$Mode), android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,02632
+int)  0,02632
+java/util/logging/Logger/warning(java.lang.String), java/lang/StringBuilder/StringBuilder(  0,02632
+com/google/inject/internal/InternalFlags$IncludeStackTraceOption/values()  0,02632
+java/lang/Class/isAssignableFrom(java.lang.Class), android/content/res/Resources/getString(int), android/content/res/Resources/getInteger(int), android/content/res/Resources/getMovie(int), java/lang/Boolean/valueOf(boolean), java/lang/reflect/Field/set(java.lang.Object  0,02632
+java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Constructor/getGenericParameterTypes(), java/lang/reflect/Method/getGenericParameterTypes(), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/reflect/Method/getDeclaringClass(  0,02632
+java/lang/Class/isAssignableFrom(java.lang.Class), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/Class/getName(), java/util/List/add(java.lang.Object), java/lang/reflect/Method/isBridge(), java/lang/Object/getClass(), java/util/List/iterator(), java/util/Collection/iterator(  0,02632
+java/lang/Class/getSuperclass(), java/lang/reflect/Method/isSynthetic()  0,02632
+java/lang/reflect/Method/getModifiers(), java/lang/reflect/Method/getDeclaringClass()  0,02632
+java/lang/Class/getModifiers(), java/lang/Class/getName()  0,02632
+java/util/Map/isEmpty(), java/util/Map/values(), java/util/Iterator/next(), java/lang/StringBuilder/append(java.lang.Object)  0,02632
+android/content/Context/openFileInput(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/readLine(), java/io/FileInputStream/close(), java/io/BufferedReader/BufferedReader(java.io.Reader  0,02632
+org/json/JSONObject/JSONObject(java.lang.String)  0,02632
+java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/reflect/Constructor/getDeclaringClass(), java/lang/StringBuilder/append(java.lang.String)  0,02632
+android/view/animation/TranslateAnimation/TranslateAnimation(int  0,02632
+com.google.inject.internal.ProcessedBindingData  0,02632
+java/lang/Class/forName(java.lang.String), java/lang/Class/getDeclaredConstructor(java.lang.Class[), java/util/ArrayList/add(java.lang.Object), java/lang/Class/asSubclass(java.lang.Class), android/os/Bundle/getString(java.lang.String), java/lang/reflect/Constructor/newInstance(java.lang.Object[), android/app/Application/getPackageName(), java/util/ArrayList/ArrayList(), java/lang/Class/newInstance(), android/content/pm/PackageManager/getApplicationInfo(java.lang.String  0,02632
+java/lang/String/split(java.lang.String)  0,02632
+android/app/Application/getPackageManager()  0,02632
+android/app/Application/getPackageName(), java/lang/IllegalStateException/IllegalStateException(java.lang.String  0,02632
+android.os.Bundle)  0,02632
+java.lang.reflect.Field)  0,02632
+java/util/List/isEmpty(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/util/List/iterator(), com/google/inject/internal/LookupProcessor/process(java.lang.Iterable), java/util/Iterator/next(  0,02632
+com/google/inject/internal/InjectionRequestProcessor/process(java.lang.Iterable)  0,02632
+java/lang/reflect/Field/getName(), java/lang/reflect/Field/setAccessible(boolean), android/os/Bundle/get(java.lang.String), android/content/Intent/getExtras(), java/lang/reflect/Field/set(java.lang.Object  0,02632
+java/lang/reflect/Field/getName(), java/lang/reflect/Field/setAccessible(boolean), java/lang/ref/WeakReference/get(), java/lang/reflect/Field/getDeclaringClass(), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), java/lang/reflect/Field/set(java.lang.Object  0,02632
+java/lang/reflect/Field/getName(), java/lang/reflect/Field/getType(), java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String), java/lang/Object/getClass(), java/lang/reflect/Field/getDeclaringClass(), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), java/lang/String/format(java.lang.String  0,02632
+java/lang/Class/getDeclaredConstructor(java.lang.Class[)  0,02632
+java/lang/ref/WeakReference/get()  0,02632
+java/lang/reflect/Field/getType()  0,02632
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)  0,02632
+java/lang/reflect/Field/getName()  0,02632

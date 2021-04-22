@@ -1,0 +1,145 @@
+int)  0,18478
+int  0,15217
+org.xmlpull.v1.XmlPullParser  0,05435
+java.util.ArrayList  0,03261
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,03261
+java/lang/StringBuilder/append(java.lang.String)  0,03261
+java.io.FileDescriptor  0,02174
+java/lang/Math/max(int  0,02174
+android/text/TextUtils/isEmpty(java.lang.CharSequence), android/widget/TextView/setTextAppearance(android.content.Context  0,02174
+android.view.View  0,02174
+android/content/res/Resources/getDisplayMetrics()  0,02174
+java/util/Iterator/hasNext()  0,02174
+java/util/Iterator/next(), java/util/Set/iterator()  0,02174
+android/graphics/Rect/height()  0,02174
+android/support/v7/widget/am/getPaddingBottom(), android/support/v7/widget/am/getChildAt(int), android/support/v7/widget/am/getChildCount(  0,02174
+android/view/View/getLayoutParams()  0,02174
+android/view/View/getBottom()  0,02174
+android/view/FocusFinder/getInstance(), android/view/View/requestFocus(int)  0,02174
+java.lang.String  0,02174
+android/support/v4/widget/NestedScrollView/getHeight(), android/view/FocusFinder/findNextFocus(android.view.ViewGroup  0,02174
+java/util/LinkedHashMap/entrySet(), java/lang/Class/getName(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(  0,01087
+java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.String), android/graphics/Rect/Rect(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/toString(  0,01087
+java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/LinkedHashMap/isEmpty(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey()  0,01087
+java/util/LinkedHashMap/remove(java.lang.Object)  0,01087
+android.view.LayoutInflater$Factory2)  0,01087
+float  0,01087
+java.lang.StringBuilder)  0,01087
+android/graphics/Rect/setEmpty()  0,01087
+android.graphics.Path)  0,01087
+android/graphics/Canvas/getMatrix(android.graphics.Matrix), android/graphics/Canvas/translate(float  0,01087
+org/xmlpull/v1/XmlPullParser/setInput(java.io.InputStream  0,01087
+android/view/View/isHorizontalScrollBarEnabled(), java/lang/System/identityHashCode(java.lang.Object), android/view/View/isSelected(  0,01087
+java/lang/Integer/toHexString(int), android/view/View/isVerticalScrollBarEnabled()  0,01087
+java/lang/StringBuilder/StringBuilder(int), android/view/View/isEnabled(), android/content/res/Resources/getResourceEntryName(int)  0,01087
+java/lang/StringBuilder/append(char)  0,01087
+android/view/View/isLongClickable()  0,01087
+android/content/res/Resources/getResourcePackageName(int)  0,01087
+android/view/View/isPressed()  0,01087
+android/view/ViewGroup/removeViewInLayout(android.view.View), java/lang/ref/WeakReference/get(), android/view/LayoutInflater/inflate(int  0,01087
+java/lang/ref/WeakReference/get(), java/util/ArrayList/size()  0,01087
+android.view.View)  0,01087
+org/xmlpull/v1/XmlSerializer/endTag(java.lang.String  0,01087
+android/view/accessibility/AccessibilityEvent/setClassName(java.lang.CharSequence), java/lang/Class/getName(), java/lang/Object/getClass(), android/view/accessibility/AccessibilityEvent/setContentDescription(java.lang.CharSequence), android/support/v7/widget/ActionBarContextView/getContext(), android/view/accessibility/AccessibilityEvent/getEventType(), android/support/v7/widget/a/onInitializeAccessibilityEvent(android.view.accessibility.AccessibilityEvent), android/view/accessibility/AccessibilityEvent/setSource(android.view.View), android/view/accessibility/AccessibilityEvent/setPackageName(java.lang.CharSequence  0,01087
+android/view/View/isFocused(), android/support/v4/widget/NestedScrollView/getDescendantFocusability()  0,01087
+android/content/Context/getPackageName()  0,01087
+android.graphics.Matrix  0,01087
+android/preference/Preference/setOnPreferenceChangeListener(android.preference.Preference$OnPreferenceChangeListener), java/lang/StringBuilder/StringBuilder(), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,01087
+android/content/pm/PackageManager$NameNotFoundException/printStackTrace(), org/cosinus/launchertv/activities/Preferences/getString(int), org/cosinus/launchertv/activities/Preferences/getPackageName(), android/preference/PreferenceActivity/onCreate(android.os.Bundle)  0,01087
+org/cosinus/launchertv/a/a/b(), org/cosinus/launchertv/a/a/c(), android/content/Intent/Intent(android.content.Context  0,01087
+android.view.ViewGroup)  0,01087
+org/cosinus/launchertv/views/b/getId(), android/view/View/setNextFocusUpId(int), android/view/View/setNextFocusRightId(int), org/cosinus/launchertv/views/b/setNextFocusLeftId(int), org/cosinus/launchertv/views/b/setNextFocusDownId(int), org/cosinus/launchertv/views/b/setNextFocusRightId(int), org/cosinus/launchertv/views/b/setNextFocusUpId(int), android/view/View/setNextFocusLeftId(int), android/view/View/setNextFocusDownId(int  0,01087
+android/support/v4/widget/NestedScrollView/findFocus()  0,01087
+android/view/ViewGroup/removeViewAt(int), android/view/View/setVisibility(int), android/view/ViewGroup/indexOfChild(android.view.View)  0,01087
+android/view/View/startAnimation(android.view.animation.Animation)  0,01087
+android/support/v4/widget/NestedScrollView/getPaddingBottom()  0,01087
+android/view/ViewGroup/addView(android.view.View  0,01087
+android.support.v4.a.ae)  0,01087
+android/util/Log/w(java.lang.String  0,01087
+android/graphics/drawable/Drawable/getBounds()  0,01087
+android/support/v4/c/a/i/setLevel(int)  0,01087
+android/graphics/drawable/Drawable/setCallback(android.graphics.drawable.Drawable$Callback)  0,01087
+android/graphics/drawable/Drawable/getLevel()  0,01087
+android/support/v4/c/a/i/invalidateSelf()  0,01087
+android/graphics/drawable/Drawable/getConstantState()  0,01087
+android/graphics/drawable/Drawable/getState()  0,01087
+android/support/v4/widget/NestedScrollView/requestFocus()  0,01087
+android/graphics/drawable/Drawable/isVisible()  0,01087
+android/support/v4/c/a/i/setBounds(android.graphics.Rect  0,01087
+android/view/VelocityTracker/clear(), android/widget/OverScroller/isFinished(), android/support/v4/widget/NestedScrollView/getChildCount(), android/view/MotionEvent/findPointerIndex(int), android/view/ViewParent/requestDisallowInterceptTouchEvent(boolean), java/lang/StringBuilder/StringBuilder(java.lang.String), android/view/MotionEvent/getAction()  0,01087
+android/view/VelocityTracker/clear(), android/view/MotionEvent/getY(), android/view/MotionEvent/offsetLocation(float  0,01087
+java/util/ArrayList/remove(int), java/util/ArrayList/ArrayList()  0,01087
+java/lang/ref/WeakReference/WeakReference(java.lang.Object)  0,01087
+java/util/ArrayList/get(int)  0,01087
+android/content/Context/getResources()  0,01087
+android/support/v7/widget/bf/getBaseContext()  0,01087
+java/util/ArrayList/add(java.lang.Object  0,01087
+java/lang/StringBuilder/append(int), java/lang/Class/getName(), java/lang/Object/getClass(), android/view/View/getResources(), java/lang/StringBuilder/toString()  0,01087
+java/lang/StringBuilder/append(int), android/os/Bundle/putSparseParcelableArray(java.lang.String  0,01087
+java/lang/StringBuilder/append(int), android/support/v4/widget/NestedScrollView/getChildCount(), android/view/MotionEvent/obtain(android.view.MotionEvent), java/lang/StringBuilder/toString()  0,01087
+java/lang/StringBuilder/append(int), android/util/Log/e(java.lang.String  0,01087
+android/view/MotionEvent/getY(), android/support/v4/widget/NestedScrollView/getChildAt(int)  0,01087
+android/view/View/getRight(), android/view/View/getId(), android/view/View/willNotDraw(), android/content/res/Resources/getResourceTypeName(int), android/view/View/isFocusable(), android/view/View/isClickable(), android/view/View/getTop(), android/view/View/getLeft()  0,01087
+android/view/MotionEvent/getPointerId(int)  0,01087
+android/view/VelocityTracker/addMovement(android.view.MotionEvent)  0,01087
+android/view/MotionEvent/getY(int)  0,01087
+android/support/v4/widget/NestedScrollView/getParent()  0,01087
+android/support/v4/widget/NestedScrollView/getContext()  0,01087
+android/support/v7/view/menu/ActionMenuItemView/getContext()  0,01087
+android/util/TypedValue/getDimension(android.util.DisplayMetrics)  0,01087
+android/view/MotionEvent/getSource()  0,01087
+android/support/v4/widget/NestedScrollView/getScrollX()  0,01087
+android/support/v4/widget/NestedScrollView/getScrollY()  0,01087
+android/content/Context/getTheme()  0,01087
+android/util/TypedValue/TypedValue()  0,01087
+android/widget/FrameLayout/scrollTo(int  0,01087
+android/graphics/Canvas/rotate(float  0,01087
+android.support.v4.a.i  0,01087
+java.io.PrintWriter)  0,01087
+android/content/Context/getPackageManager()  0,01087
+android/content/Intent/Intent(java.lang.String  0,01087
+android.view.MotionEvent)  0,01087
+android/support/v4/f/a/a(int)  0,01087
+java/util/Map/size()  0,01087
+android/support/v4/f/a/put(java.lang.Object  0,01087
+android/support/v7/widget/am/getPaddingRight()  0,01087
+android/support/v7/widget/am/getPaddingLeft()  0,01087
+android/support/v7/widget/am/getHeight()  0,01087
+android/widget/Toast/setGravity(int  0,01087
+android/support/v7/widget/am/getWidth()  0,01087
+android/support/v7/widget/am/getTop()  0,01087
+android/support/v7/widget/am/getPaddingTop()  0,01087
+android/support/v7/widget/am/getBottom()  0,01087
+android/view/ViewGroup/getBaseline()  0,01087
+android/view/View/getBaseline()  0,01087
+java/lang/RuntimeException/RuntimeException(java.lang.String)  0,01087
+android/widget/PopupWindow/getContentView()  0,01087
+android/support/v7/widget/ai/setSelection(int)  0,01087
+android/util/Log/i(java.lang.String  0,01087
+org/cosinus/launchertv/activities/ApplicationList/setResult(int)  0,01087
+org/cosinus/launchertv/activities/ApplicationList/setResult(int  0,01087
+android/os/AsyncTask/execute(java.lang.Object[)  0,01087
+org/cosinus/launchertv/activities/ApplicationList/getIntent()  0,01087
+android/os/Bundle/containsKey(java.lang.String)  0,01087
+android/content/Intent/getExtras()  0,01087
+org/cosinus/launchertv/activities/ApplicationList/setContentView(int)  0,01087
+org/cosinus/launchertv/activities/ApplicationList/findViewById(int)  0,01087
+android/os/Bundle/getBoolean(java.lang.String)  0,01087
+android/view/View/setOnClickListener(android.view.View$OnClickListener)  0,01087
+android/os/Bundle/getInt(java.lang.String)  0,01087
+android/app/Activity/onCreate(android.os.Bundle  0,01087
+java.lang.Object  0,01087
+android.view.KeyEvent)  0,01087
+android/view/View/isFocused()  0,01087
+android/widget/OverScroller/isFinished()  0,01087
+android/view/ViewParent/requestDisallowInterceptTouchEvent(boolean)  0,01087
+android/view/View/getRight(), android/view/View/getVisibility(), android/view/View/getTop(), android/view/View/getLeft()  0,01087
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01087
+android/view/MotionEvent/getAction()  0,01087
+java/util/ArrayList/ArrayList()  0,01087
+java/util/Map$Entry/getKey()  0,01087
+android/view/View/getVisibility()  0,01087
+android/view/View/setVisibility(int), android/view/ViewGroup/indexOfChild(android.view.View)  0,01087
+android/view/View/getRight()  0,01087
+android/view/View/setVisibility(int)  0,01087
+android/support/v4/widget/NestedScrollView/getHeight()  0,01087

@@ -1,0 +1,46 @@
+java.lang.String  0,06667
+android.content.Intent)  0,06667
+android.os.Parcel  0,06667
+android/content/Intent/setClassName(java.lang.String  0,06667
+int  0,04444
+long  0,04444
+java.lang.String)  0,04444
+android.view.View  0,04444
+java.lang.String[  0,04444
+java/util/ArrayList/ArrayList(int), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,04444
+java/util/Map/put(java.lang.Object  0,04444
+java/lang/StringBuilder/StringBuilder(), java/util/List/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/util/Set/iterator(  0,02222
+java/lang/String/hashCode(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), org/projectmaxs/main/MAXSIntentService/getApplicationContext(), android/content/Intent/getAction(), java/lang/String/getBytes(), java/lang/StringBuilder/toString(  0,02222
+java/util/Iterator/remove(), java/util/Map/isEmpty(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(  0,02222
+java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/lang/String/equals(java.lang.Object)  0,02222
+java/util/Iterator/hasNext(), android/text/SpannableStringBuilder/append(java.lang.CharSequence), android/text/SpannableStringBuilder/setSpan(java.lang.Object  0,02222
+java/util/Map/remove(java.lang.Object)  0,02222
+java/io/File/createNewFile(), java/io/IOException/IOException(java.lang.String), java/io/File/File(java.lang.String), java/io/File/getAbsolutePath(), java/io/File/delete(), java/lang/StringBuilder/toString(  0,02222
+java.lang.CharSequence  0,02222
+java/lang/StringBuilder/append(java.lang.String), java/io/File/exists(), java/lang/StringBuilder/StringBuilder()  0,02222
+java/lang/StringBuilder/append(java.lang.String), org/projectmaxs/main/activities/ImportExportSettings/sendBroadcast(android.content.Intent), java/lang/String/String(byte[  0,02222
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(char), java/lang/Integer/valueOf(int), java/lang/Integer/toString(int), android/content/Intent/getIntExtra(java.lang.String  0,02222
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), android/content/Intent/getStringExtra(java.lang.String)  0,02222
+java/lang/StringBuilder/append(java.lang.String), java/util/Map/values(), java/lang/StringBuilder/StringBuilder(), java/util/List/add(java.lang.Object), java/util/Collection/iterator()  0,02222
+java/lang/StringBuilder/append(java.lang.String), java/util/logging/LogRecord/getThrown(), android/util/Log/getStackTraceString(java.lang.Throwable), java/lang/StringBuilder/append(char), java/util/logging/Level/intValue(  0,02222
+java/util/ArrayList/ArrayList(int), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/toString(  0,02222
+java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/toString()  0,02222
+android/content/pm/PackageManager/getInstalledPackages(int), java/lang/StringBuilder/StringBuilder(), java/util/List/add(java.lang.Object)  0,02222
+android/content/Context/getPackageManager(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/String/startsWith(java.lang.String), java/util/List/iterator(), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,02222
+java.io.Reader)  0,02222
+java.io.Writer  0,02222
+java.util.Set)  0,02222
+java/lang/Double/valueOf(double), java/lang/String/format(java.lang.String  0,02222
+java/util/Map/size()  0,02222
+org/projectmaxs/shared/global/jul/JULHandler$1/formatMessage(java.util.logging.LogRecord)  0,02222
+java/util/logging/LogRecord/getLevel()  0,02222
+java/lang/StringBuilder/append(java.lang.Object)  0,02222
+java/io/File/File(java.io.File  0,02222
+java/util/List/addAll(java.util.Collection), java/util/Iterator/next(), android/content/Intent/Intent(java.lang.String), java/util/List/iterator(), java/util/concurrent/ThreadPoolExecutor/ThreadPoolExecutor(int  0,02222
+java/util/LinkedList/LinkedList()  0,02222
+org.projectmaxs.shared.maintransport.CommandOrigin)  0,02222
+java/util/Map/isEmpty()  0,02222
+java/lang/StringBuilder/toString()  0,02222
+android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,02222
+java/lang/StringBuilder/StringBuilder()  0,02222
+java/lang/StringBuilder/append(java.lang.String)  0,02222

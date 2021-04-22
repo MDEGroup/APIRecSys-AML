@@ -1,0 +1,12 @@
+javax/jmdns/impl/DNSQuestion/getName()
+java/lang/Thread/sleep(long)
+javax/jmdns/impl/DNSOutgoing$MessageOutputStream/size()
+junit/framework/Assert/assertEquals(java.lang.String,java.lang.String,java.lang.String
+java/net/InetAddress/getByName(java.lang.String
+javax/jmdns/impl/DNSRecord/getRecordType(
+java/net/InetAddress/getHostAddress()
+java/util/logging/Logger/isLoggable(java.util.logging.Level
+java/util/concurrent/ConcurrentMap/keySet()
+java/lang/StringBuffer/append(java.lang.String
+java/util/Map/containsKey(java.lang.Object
+javax/jmdns/impl/DNSQuestion$AllRecords/isUnique()

@@ -1,0 +1,6 @@
+org.api.fake
+android/content/Intent/setData(android.net.Uri)
+java/io/OutputStream/write(byte[]
+java/security/InvalidKeyException/InvalidKeyException()
+org.rand.api
+java/lang/System/arraycopy(java.lang.Object,int,java.lang.Object,int,int

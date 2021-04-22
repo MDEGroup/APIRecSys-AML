@@ -1,0 +1,72 @@
+prob: 0,11111
+[java.lang.String]
+
+prob: 0,11111
+[boolean)]
+
+prob: 0,05556
+[java.lang.String)]
+
+prob: 0,05556
+[org.apache.cordova.CordovaDialogsHelper$Result)]
+
+prob: 0,05556
+[boolean]
+
+prob: 0,05556
+[android/widget/ProgressBar/ProgressBar(android.content.Context), android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,05556
+[android/net/Uri/getHost(), java/util/regex/Matcher/matches(), java/lang/Integer/equals(java.lang.Object), java/lang/Integer/valueOf(int), java/lang/Exception/toString(), java/util/regex/Pattern/matcher(java.lang.CharSequence), android/net/Uri/getPort(), android/net/Uri/getPath(), android/net/Uri/getScheme(]
+
+prob: 0,05556
+[org.json.JSONObject)]
+
+prob: 0,05556
+[java/lang/String/toLowerCase(), android/net/NetworkInfo/getTypeName(]
+
+prob: 0,05556
+[android/net/Uri/getPath(), java/net/URL/openConnection(), android/content/ContentResolver/getType(android.net.Uri), java/lang/String/split(java.lang.String), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/net/HttpURLConnection/getHeaderField(java.lang.String), android/net/Uri/toString(), java/net/HttpURLConnection/setDoInput(boolean]
+
+prob: 0,05556
+[android/webkit/WebSettings/setGeolocationDatabasePath(java.lang.String), android/webkit/WebSettings/setUserAgentString(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,05556
+[java/lang/Class/getSimpleName(), java/util/LinkedList/isEmpty(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/size(), java/lang/Object/getClass(), java/util/ArrayList/get(int), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,05556
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/toLowerCase(java.util.Locale), android/net/NetworkInfo/getSubtypeName(), java/lang/StringBuilder/StringBuilder(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,05556
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(int), java/util/LinkedList/size(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(]
+
+prob: 0,05556
+[java/util/Iterator/hasNext(), java/util/LinkedList/removeFirst()]
+
+prob: 0,05556
+[java/lang/Class/newInstance(), java/io/PrintStream/println(java.lang.String), java/lang/Exception/printStackTrace(]
+
+prob: 0,05556
+[java/lang/Class/forName(java.lang.String)]
+
+prob: 0,05556
+[java.io.OutputStream)]
+
+prob: 0,05556
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/String/split(java.lang.String), android/net/Uri/getSchemeSpecificPart(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[]), java/lang/String/getBytes(), java/lang/String/indexOf(int), android/util/Base64/decode(java.lang.String]
+
+prob: 0,05556
+[java/lang/String/startsWith(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,05556
+[java/lang/StringBuilder/toString(), java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,05556
+[java/lang/StringBuilder/StringBuilder(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,05556
+[java/lang/StringBuilder/toString()]
+
+prob: 0,05556
+[java/lang/StringBuilder/append(java.lang.String)]
+

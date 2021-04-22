@@ -1,0 +1,99 @@
+prob: 0,12903
+[int)]
+
+prob: 0,12903
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,12903
+[java/lang/Integer/intValue()]
+
+prob: 0,09677
+[android.view.View]
+
+prob: 0,09677
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)]
+
+prob: 0,06452
+[int]
+
+prob: 0,06452
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/Cursor/close(), android/util/Log/e(java.lang.String]
+
+prob: 0,06452
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,03226
+[java/util/StringTokenizer/nextToken(), com/josephblough/bible/activities/SearchResultsActivity/getContentResolver(), java/util/StringTokenizer/hasMoreTokens(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/StringTokenizer/StringTokenizer(java.lang.String]
+
+prob: 0,03226
+[android/view/LayoutInflater/inflate(int]
+
+prob: 0,03226
+[com/josephblough/bible/activities/ChapterActivity/setContentView(int), android/content/Intent/getIntExtra(java.lang.String]
+
+prob: 0,03226
+[android.view.MotionEvent)]
+
+prob: 0,03226
+[android/text/SpannableString/SpannableString(java.lang.CharSequence), java/util/Iterator/hasNext(), java/lang/String/toUpperCase(), android/text/SpannableString/setSpan(java.lang.Object]
+
+prob: 0,03226
+[com/josephblough/bible/activities/Bible/setContentView(int), com/josephblough/bible/activities/Bible/setTitle(java.lang.CharSequence), android/widget/ListView/setTextFilterEnabled(boolean), android/widget/ListView/setFastScrollEnabled(boolean), com/josephblough/bible/activities/Bible/getContentResolver(), com/josephblough/bible/activities/Bible/setListAdapter(android.widget.ListAdapter), android/app/ListActivity/onCreate(android.os.Bundle), com/josephblough/bible/activities/Bible/getListView(), android/util/Log/d(java.lang.String]
+
+prob: 0,03226
+[com/josephblough/bible/activities/Bible/getContentResolver(), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(int), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence]
+
+prob: 0,03226
+[java.lang.String)]
+
+prob: 0,03226
+[java/io/OutputStream/close(), android/util/Log/d(java.lang.String]
+
+prob: 0,03226
+[java/io/InputStream/read(byte[]), java/io/OutputStream/flush(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/FileOutputStream/FileOutputStream(java.lang.String), java/io/InputStream/close()]
+
+prob: 0,03226
+[android/content/Intent/getIntArrayExtra(java.lang.String), java/lang/StringBuilder/append(java.lang.String), com/josephblough/bible/activities/SearchResultsActivity/setContentView(int), android/content/Intent/getIntExtra(java.lang.String]
+
+prob: 0,03226
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,03226
+[android/widget/ArrayAdapter/getItem(int), java/util/ArrayList/ArrayList(), android/widget/ListView/getAdapter(), java/util/ArrayList/get(int), android/widget/ListView/getCheckedItemPositions(]
+
+prob: 0,03226
+[android/util/SparseBooleanArray/valueAt(int)]
+
+prob: 0,03226
+[android/util/SparseBooleanArray/size()]
+
+prob: 0,03226
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,03226
+[java/util/ArrayList/size()]
+
+prob: 0,03226
+[android/util/SparseBooleanArray/keyAt(int)]
+
+prob: 0,03226
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), android/widget/ArrayAdapter/setDropDownViewResource(int), android/widget/ListView/setVisibility(int), android/widget/ArrayAdapter/createFromResource(android.content.Context]
+
+prob: 0,03226
+[java/lang/Integer/intValue(), android/content/Context/getSharedPreferences(java.lang.String]
+
+prob: 0,03226
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,03226
+[android/content/Context/getSharedPreferences(java.lang.String]
+
+prob: 0,03226
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence]
+
+prob: 0,03226
+[com/josephblough/bible/activities/Bible/getContentResolver()]
+
+prob: 0,03226
+[java/lang/StringBuilder/append(java.lang.String)]
+

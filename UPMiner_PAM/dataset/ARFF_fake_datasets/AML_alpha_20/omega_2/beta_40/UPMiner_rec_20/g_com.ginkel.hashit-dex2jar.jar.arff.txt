@@ -1,0 +1,8 @@
+android/content/SharedPreferences/getInt(java.lang.String,int
+java/lang/String/format(java.lang.String,java.lang.Object[])
+android/content/Intent/getAction()
+android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence,android.graphics.drawable.Drawable)
+android/content/SharedPreferences/getAll()
+org.api.fake
+java/lang/Integer/valueOf(int)
+org.rand.api

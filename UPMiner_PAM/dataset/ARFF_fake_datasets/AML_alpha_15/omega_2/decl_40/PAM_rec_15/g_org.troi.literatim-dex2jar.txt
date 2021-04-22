@@ -1,0 +1,22 @@
+java.lang.String  0,17647
+org/troi/literatim/SoftKeyboard/getCurrentInputEditorInfo(), org/troi/literatim/SoftKeyboard/getCurrentInputConnection(), android/view/inputmethod/InputConnection/commitText(java.lang.CharSequence  0,11765
+android/graphics/Paint/getTextSize(), java/util/Map/get(java.lang.Object), android/view/View/onDraw(android.graphics.Canvas), java/util/List/size(), java/util/Map/containsKey(java.lang.Object), org/troi/literatim/CandidateView/getBackground(), java/lang/Integer/intValue(), android/graphics/drawable/Drawable/setBounds(int  0,05882
+org/troi/literatim/SoftKeyboard/getCurrentInputConnection(), android/view/inputmethod/InputConnection/commitCompletion(android.view.inputmethod.CompletionInfo), java/lang/StringBuilder/setLength(int), java/lang/String/substring(int), android/view/inputmethod/InputConnection/getTextBeforeCursor(int  0,05882
+java/lang/CharSequence/length(), android/view/inputmethod/InputConnection/deleteSurroundingText(int  0,05882
+android.view.KeyEvent)  0,05882
+int[)  0,05882
+android/view/Window/addFlags(int), android/app/ProgressDialog/hide(), android/inputmethodservice/KeyboardView/getWindowToken(), org/troi/literatim/SoftKeyboard/getApplicationContext(), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/app/ProgressDialog/setCancelable(boolean), android/view/Window/setAttributes(android.view.WindowManager$LayoutParams), android/app/ProgressDialog/show(), android/app/ProgressDialog/setProgressStyle(int), android/app/ProgressDialog/getWindow(), android/view/Window/getAttributes(  0,05882
+android/view/Window/addFlags(int), android/inputmethodservice/KeyboardView/getWindowToken(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,05882
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)  0,05882
+android/app/AlertDialog/getWindow()  0,05882
+android/app/AlertDialog/show()  0,05882
+android/app/AlertDialog$Builder/create()  0,05882
+org.troi.literatim.Suggestion)  0,05882
+java/io/OutputStream/close(), android/content/SharedPreferences/getInt(java.lang.String  0,05882
+java/lang/StringBuilder/append(java.lang.String), java/util/Arrays/asList(java.lang.Object[), android/content/SharedPreferences$Editor/commit(), java/lang/StringBuilder/StringBuilder(), android/content/SharedPreferences$Editor/putString(java.lang.String  0,05882
+java/lang/CharSequence/length()  0,05882
+android/view/Window/addFlags(int), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,05882
+org/troi/literatim/SoftKeyboard/getApplicationContext()  0,05882
+android/view/Window/setAttributes(android.view.WindowManager$LayoutParams)  0,05882
+java/lang/StringBuilder/append(java.lang.String)  0,05882
+android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,05882

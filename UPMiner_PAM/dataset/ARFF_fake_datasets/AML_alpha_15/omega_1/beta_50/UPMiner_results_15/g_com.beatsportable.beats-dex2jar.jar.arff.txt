@@ -1,0 +1,16 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+android/content/ContentValues/putNull(java.lang.String)
+java/lang/StringBuilder/toString(
+java/io/File/getAbsolutePath(
+java/lang/String/hashCode()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/String/length(
+java/io/File/File(java.lang.String)
+android/view/View/hasFocus(
+org.api.fake
+java/lang/Exception/getMessage(
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(int)
+java/util/Scanner/close()
+android/database/Cursor/moveToNext(
+java/lang/String/valueOf(java.lang.Object)

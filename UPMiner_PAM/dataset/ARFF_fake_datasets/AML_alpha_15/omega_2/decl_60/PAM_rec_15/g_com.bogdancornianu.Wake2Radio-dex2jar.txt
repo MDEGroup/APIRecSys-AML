@@ -1,0 +1,14 @@
+boolean)  0,26087
+org.api.fake  0,17391
+org.rand.api  0,17391
+java/text/SimpleDateFormat/format(java.lang.Object), java/lang/Long/valueOf(long), java/text/SimpleDateFormat/SimpleDateFormat(java.lang.String  0,04348
+com/bogdancornianu/Wake2Radio/MainActivity/getApplicationContext(), android/content/SharedPreferences/getString(java.lang.String  0,04348
+java/util/Map$Entry/getKey(), java/util/LinkedHashMap/put(java.lang.Object  0,04348
+java/lang/Object/toString(), java/lang/String/valueOf(java.lang.Object), java/lang/String/valueOf(boolean), android/widget/Button/setBackgroundResource(int), android/widget/CheckBox/isChecked(), android/widget/TimePicker/getCurrentMinute(), java/util/Calendar/add(int  0,04348
+com/bogdancornianu/Wake2Radio/MainActivity/findViewById(int), android/widget/EditText/addTextChangedListener(android.text.TextWatcher), java/lang/Boolean/valueOf(boolean), android/widget/SeekBar/setMax(int), android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener), com/bogdancornianu/Wake2Radio/MainActivity/setContentView(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener  0,04348
+int  0,04348
+android/widget/ListView/setAdapter(android.widget.ListAdapter), android/view/Window/setSoftInputMode(int), java/lang/Math/min(int  0,04348
+android/view/Window/addFlags(int), android/content/Context/getSharedPreferences(java.lang.String  0,04348
+java/io/IOException/printStackTrace(), java/lang/IllegalArgumentException/printStackTrace(), android/media/AudioManager/getStreamMaxVolume(int), android/media/MediaPlayer/setOnErrorListener(android.media.MediaPlayer$OnErrorListener), com/bogdancornianu/Wake2Radio/WakeupActivity/getApplicationContext(), android/widget/TextView/setText(java.lang.CharSequence), android/media/MediaPlayer/MediaPlayer(), java/lang/IllegalStateException/printStackTrace(), android/media/MediaPlayer/setAudioStreamType(int), android/widget/ProgressBar/setVisibility(int), android/media/MediaPlayer/setOnBufferingUpdateListener(android.media.MediaPlayer$OnBufferingUpdateListener), java/lang/Integer/intValue(), android/media/MediaPlayer/setOnPreparedListener(android.media.MediaPlayer$OnPreparedListener), android/media/AudioManager/setStreamVolume(int  0,04348
+java/text/ParseException/printStackTrace(), android/widget/TimePicker/setIs24HourView(java.lang.Boolean), android/widget/TimePicker/setOnTimeChangedListener(android.widget.TimePicker$OnTimeChangedListener), android/widget/Button/setText(java.lang.CharSequence), android/app/Activity/onCreate(android.os.Bundle), android/widget/CheckBox/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener)  0,04348
+android/app/Activity/onCreate(android.os.Bundle)  0,04348

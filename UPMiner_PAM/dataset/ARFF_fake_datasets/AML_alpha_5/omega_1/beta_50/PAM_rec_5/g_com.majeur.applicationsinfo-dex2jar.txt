@@ -1,0 +1,27 @@
+android.view.View  0,34783
+int)  0,08696
+javax/xml/transform/dom/DOMSource/DOMSource(org.w3c.dom.Node), org/w3c/dom/Node/getParentNode(), javax/xml/parsers/DocumentBuilderFactory/newDocumentBuilder(), java/io/StringWriter/toString(), javax/xml/xpath/XPathFactory/newXPath(), org/w3c/dom/NodeList/item(int), javax/xml/transform/Transformer/transform(javax.xml.transform.Source  0,04348
+com/majeur/applicationsinfo/MainActivity/getFragmentManager(), android/content/Intent/Intent(android.content.Context  0,04348
+android/widget/ImageView/setScaleType(android.widget.ImageView$ScaleType), com/majeur/applicationsinfo/MainActivity/getFragmentManager(), android/widget/FrameLayout/addView(android.view.View), android/widget/ImageView/setImageResource(int  0,04348
+com/majeur/applicationsinfo/MainActivity/findViewById(int), android/app/Activity/onCreate(android.os.Bundle), android/app/FragmentManager/findFragmentByTag(java.lang.String), android/widget/ImageView/ImageView(android.content.Context), com/majeur/applicationsinfo/MainActivity/setContentView(int)  0,04348
+java/util/ArrayList/ArrayList(int), java/util/Iterator/hasNext(), java/util/List/size(), java/util/Iterator/next(), java/util/List/add(java.lang.Object), java/util/List/iterator(), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,04348
+java/util/ArrayList/ArrayList(int), java/util/Iterator/hasNext(), java/lang/String/toLowerCase(), java/lang/String/length(), java/lang/CharSequence/toString(  0,04348
+android/widget/Filter$FilterResults/Filter$FilterResults(), java/util/List/size(), java/util/Iterator/next(), java/util/List/add(java.lang.Object), java/util/List/iterator()  0,04348
+java/lang/String/contains(java.lang.CharSequence)  0,04348
+android/app/FragmentTransaction/commit(), android/widget/FrameLayout/setId(int), android/widget/FrameLayout/FrameLayout(android.content.Context), com/majeur/applicationsinfo/DetailActivity/getIntent(), android/app/FragmentTransaction/replace(int  0,04348
+java/io/File/getName(), java/io/File/isDirectory(), java/lang/StringBuilder/append(int), java/io/File/exists(), java/io/File/File(java.lang.String  0,04348
+java/lang/Long/parseLong(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/io/File/listFiles(), java/lang/StringBuilder/toString()  0,04348
+java/lang/StringBuilder/append(java.lang.String), java/util/zip/ZipFile/getInputStream(java.util.zip.ZipEntry), java/lang/Exception/printStackTrace(), java/lang/StringBuilder/length(), java/util/zip/ZipFile/ZipFile(java.io.File  0,04348
+android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), com/majeur/applicationsinfo/DetailFragment/getString(int), java/lang/StringBuilder/toString(), android/content/pm/ApplicationInfo/loadBanner(android.content.pm.PackageManager), android/content/pm/ApplicationInfo/loadLabel(android.content.pm.PackageManager), java/lang/StringBuilder/append(int), android/view/LayoutInflater/inflate(int  0,04348
+android/view/View/findViewById(int)  0,04348
+android/widget/TextView/setText(java.lang.CharSequence)  0,04348
+android/widget/TextView/setText(int)  0,04348
+android/content/pm/ApplicationInfo/loadLabel(android.content.pm.PackageManager), android/app/Activity/onCreate(android.os.Bundle)  0,04348
+com/majeur/applicationsinfo/ViewManifestActivity/getFilesDir(), java/lang/StringBuilder/append(java.lang.String), com/majeur/applicationsinfo/ViewManifestActivity$AsyncManifestLoader/execute(java.lang.Object[), android/app/ProgressDialog/ProgressDialog(android.content.Context), com/majeur/applicationsinfo/ViewManifestActivity/getString(int), android/widget/Toast/makeText(android.content.Context  0,04348
+com/majeur/applicationsinfo/ViewManifestActivity/getIntent(), com/majeur/applicationsinfo/ViewManifestActivity/setTitle(java.lang.CharSequence), android/content/pm/PackageManager$NameNotFoundException/printStackTrace(), android/app/ActionBar/setDisplayHomeAsUpEnabled(boolean)  0,04348
+com/majeur/applicationsinfo/MainListFragment/getActivity(), android/os/Bundle/getInt(java.lang.String  0,04348
+java/io/File/createNewFile(), java/io/File/exists(), java/io/File/File(java.lang.String  0,04348
+android/content/pm/PackageManager/getInstalledApplications(int), java/lang/CharSequence/toString()  0,04348
+java/io/IOException/printStackTrace(), java/lang/Boolean/valueOf(boolean), java/io/FileOutputStream/write(byte[), java/lang/String/getBytes(), java/io/FileOutputStream/close(), java/io/FileOutputStream/FileOutputStream(java.io.File)  0,04348
+android/content/Intent/putExtra(java.lang.String  0,04348
+java/io/FileOutputStream/flush()  0,04348

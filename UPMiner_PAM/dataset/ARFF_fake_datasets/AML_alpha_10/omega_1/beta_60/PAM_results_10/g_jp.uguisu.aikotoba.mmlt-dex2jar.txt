@@ -1,0 +1,78 @@
+prob: 0,15789
+[android.graphics.Paint)]
+
+prob: 0,10526
+[java/util/regex/Pattern/compile(java.lang.String]
+
+prob: 0,05263
+[java/net/HttpURLConnection/setReadTimeout(int), java/lang/StringBuilder/append(int), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setConnectTimeout(int), java/io/InputStreamReader/InputStreamReader(java.io.InputStream]
+
+prob: 0,05263
+[jp/uguisu/aikotoba/mmlt/SettingActivity/findViewById(int), android/view/View/setEnabled(boolean), android/widget/RadioGroup/setOnCheckedChangeListener(android.widget.RadioGroup$OnCheckedChangeListener), android/widget/RadioGroup/findViewById(int), android/widget/RadioGroup/check(int), jp/uguisu/aikotoba/mmlt/SettingActivity/setContentView(int), jp/uguisu/aikotoba/mmlt/SettingActivity/getSharedPreferences(java.lang.String]
+
+prob: 0,05263
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/add(java.lang.Object), android/util/Log/v(java.lang.String]
+
+prob: 0,05263
+[java/util/ArrayList/remove(int), java/lang/StringBuilder/indexOf(java.lang.String]
+
+prob: 0,05263
+[java/lang/Math/ceil(double), java/lang/StringBuilder/append(int), java/lang/String/substring(int), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String]
+
+prob: 0,05263
+[int)]
+
+prob: 0,05263
+[java/util/ArrayList/ArrayList(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/replace(int]
+
+prob: 0,05263
+[java/lang/Character/isWhitespace(char)]
+
+prob: 0,05263
+[java/util/ArrayList/iterator(), java/lang/Integer/intValue(), android/util/Log/v(java.lang.String]
+
+prob: 0,05263
+[android.graphics.Paint]
+
+prob: 0,05263
+[jp/uguisu/aikotoba/mmlt/TraceActivity/finish(), jp/uguisu/aikotoba/mmlt/TraceActivity/setContentView(android.view.View), android/view/SurfaceView/SurfaceView(android.content.Context), android/app/Activity/onCreate(android.os.Bundle), java/util/ArrayList/size(), android/view/SurfaceView/getHolder(]
+
+prob: 0,05263
+[jp/uguisu/aikotoba/mmlt/TraceActivity/setVolumeControlStream(int)]
+
+prob: 0,05263
+[android/view/SurfaceHolder/addCallback(android.view.SurfaceHolder$Callback)]
+
+prob: 0,05263
+[java/lang/String/length(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/get(int)]
+
+prob: 0,05263
+[java/lang/String/length(), jp/uguisu/aikotoba/mmlt/BackgroundService/getApplicationContext(), android/app/Notification$Builder/Notification$Builder(android.content.Context]
+
+prob: 0,05263
+[android/view/SurfaceView/setOnTouchListener(android.view.View$OnTouchListener)]
+
+prob: 0,05263
+[jp/uguisu/aikotoba/mmlt/MainActivity/findViewById(int), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,05263
+[jp/uguisu/aikotoba/mmlt/MainActivity/findViewById(int), jp/uguisu/aikotoba/mmlt/MainActivity/getString(int), android/os/Handler/removeCallbacks(java.lang.Runnable), jp/uguisu/aikotoba/mmlt/MainActivity/getApplicationContext(), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,05263
+[android/widget/ListView/setAdapter(android.widget.ListAdapter)]
+
+prob: 0,05263
+[java/util/ArrayList/get(int)]
+
+prob: 0,05263
+[java/util/ArrayList/remove(int)]
+
+prob: 0,05263
+[java/util/ArrayList/size()]
+
+prob: 0,05263
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,05263
+[android/util/Log/v(java.lang.String]
+

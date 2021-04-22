@@ -1,0 +1,5 @@
+android/content/Intent/Intent(android.content.Context,java.lang.Class)
+java/util/regex/Matcher/group(int)
+com/ginkel/hashit/PasswordActivity/getIntent()
+org.api.fake
+java/lang/String/length()

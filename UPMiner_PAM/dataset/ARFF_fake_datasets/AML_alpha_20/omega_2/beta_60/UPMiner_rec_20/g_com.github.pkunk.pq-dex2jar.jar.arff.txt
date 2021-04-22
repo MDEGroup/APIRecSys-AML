@@ -1,0 +1,12 @@
+java/util/Iterator/next()
+java/lang/Integer/intValue()
+org.api.fake
+java/util/Iterator/next(
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/util/Set/contains(java.lang.Object
+java/util/Map$Entry/getKey()
+org.rand.api
+java/io/IOException/printStackTrace()
+java/util/zip/ZipEntry/ZipEntry(java.lang.String

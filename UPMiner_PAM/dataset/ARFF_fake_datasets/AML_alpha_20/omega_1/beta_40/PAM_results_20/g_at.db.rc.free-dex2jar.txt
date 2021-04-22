@@ -1,0 +1,147 @@
+prob: 0,28125
+[org.api.fake]
+
+prob: 0,06250
+[java/io/DataOutputStream/write(byte[]), java/net/Socket/getInputStream(), javax/crypto/Cipher/init(int]
+
+prob: 0,06250
+[java/io/DataInputStream/DataInputStream(java.io.InputStream)]
+
+prob: 0,06250
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,06250
+[int]
+
+prob: 0,06250
+[java/io/IOException/IOException(java.lang.String)]
+
+prob: 0,03125
+[java/io/DataInputStream/readInt(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[]), java/lang/Exception/printStackTrace(), java/io/DataInputStream/readFully(byte[]), javax/crypto/Cipher/doFinal(byte[]]
+
+prob: 0,03125
+[java/io/ByteArrayOutputStream/write(byte[])]
+
+prob: 0,03125
+[java/io/ByteArrayOutputStream/toByteArray()]
+
+prob: 0,03125
+[java/io/DataInputStream/readUnsignedShort(), java/lang/Exception/getMessage(]
+
+prob: 0,03125
+[java/io/DataInputStream/available()]
+
+prob: 0,03125
+[java/io/ByteArrayOutputStream/ByteArrayOutputStream()]
+
+prob: 0,03125
+[java/io/DataInputStream/readUTF(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[]), java/io/DataOutputStream/write(int), java/io/DataInputStream/readInt(), java/security/PublicKey/getEncoded()]
+
+prob: 0,03125
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,03125
+[javax/crypto/Cipher/getInstance(java.lang.String)]
+
+prob: 0,03125
+[java/io/DataInputStream/readFloat()]
+
+prob: 0,03125
+[java/io/DataOutputStream/DataOutputStream(java.io.OutputStream)]
+
+prob: 0,03125
+[java/security/KeyPair/getPrivate()]
+
+prob: 0,03125
+[java/security/KeyPair/getPublic()]
+
+prob: 0,03125
+[java/io/DataInputStream/readByte(), java/io/DataOutputStream/flush(), java/io/DataInputStream/readFully(byte[]), java/lang/StringBuilder/toString()]
+
+prob: 0,03125
+[java/io/DataInputStream/close()]
+
+prob: 0,03125
+[java/io/DataOutputStream/close()]
+
+prob: 0,03125
+[at/db/rc/activities/Master/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), at/db/rc/activities/Master/findViewById(int), at/db/rc/activities/Master/getIntent(), java/lang/Exception/toString(), at/db/rc/activities/Master/getSystemService(java.lang.String), at/db/rc/activities/Master/setTitle(int), android/hardware/SensorManager/registerListener(android.hardware.SensorEventListener]
+
+prob: 0,03125
+[at/db/rc/controls/TouchSink/invalidate(), android/graphics/Paint/setColor(int), android/graphics/Canvas/drawBitmap(android.graphics.Bitmap]
+
+prob: 0,03125
+[android/widget/ArrayAdapter/setDropDownViewResource(int), at/db/rc/activities/SettingsEditor/findViewById(int), android/widget/Button/setFocusableInTouchMode(boolean), android/widget/ArrayAdapter/createFromResource(android.content.Context]
+
+prob: 0,03125
+[android/app/AlertDialog/setButton(java.lang.CharSequence]
+
+prob: 0,03125
+[android/net/ConnectivityManager/getActiveNetworkInfo(), java/lang/Exception/toString(), android/content/res/Resources/openRawResource(int), at/db/rc/activities/ServerFileWriter$DownloadTask/execute(java.lang.Object[]), android/util/Log/e(java.lang.String]
+
+prob: 0,03125
+[at/db/rc/activities/ServerFileWriter/getSystemService(java.lang.String), at/db/rc/activities/ServerFileWriter/getResources(), android/net/NetworkInfo/isConnected(), android/os/AsyncTask/get()]
+
+prob: 0,03125
+[java/io/File/File(java.io.File]
+
+prob: 0,03125
+[java.io.File)]
+
+prob: 0,03125
+[java/net/DatagramPacket/DatagramPacket(byte[]]
+
+prob: 0,03125
+[java/lang/StringBuilder/append(java.lang.String), at/db/rc/activities/Master/getString(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,03125
+[android.view.MotionEvent)]
+
+prob: 0,03125
+[javax/net/SocketFactory/createSocket(java.lang.String]
+
+prob: 0,03125
+[java/net/Socket/getInetAddress(), java/util/Random/nextInt(), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream]
+
+prob: 0,03125
+[java/util/Random/Random(), java/io/DataInputStream/readByte(), java/io/DataOutputStream/writeInt(int), java/io/DataOutputStream/write(int), java/io/DataOutputStream/writeUTF(java.lang.String), java/io/DataOutputStream/writeFloat(float), java/net/Socket/getPort()]
+
+prob: 0,03125
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,03125
+[javax/sound/sampled/Mixer/getLine(javax.sound.sampled.Line$Info), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), java/util/List/iterator(), javax/sound/sampled/Line/close(), javax/sound/sampled/Line$Info/toString(), java/util/Iterator/hasNext(), java/lang/String/toLowerCase(), javax/sound/sampled/AudioSystem/getMixer(javax.sound.sampled.Mixer$Info), javax/sound/sampled/Mixer/getTargetLineInfo(), javax/sound/sampled/AudioSystem/getMixerInfo(), javax/sound/sampled/Line/open(), java/lang/StringBuilder/append(java.lang.Object), java/lang/String/contains(java.lang.CharSequence), javax/sound/sampled/FloatControl/setValue(float]
+
+prob: 0,03125
+[javax/sound/sampled/Mixer/getLine(javax.sound.sampled.Line$Info), java/lang/StringBuilder/StringBuilder(java.lang.String), javax/sound/sampled/Line/close(), javax/sound/sampled/Line$Info/toString(), javax/sound/sampled/AudioSystem/getMixer(javax.sound.sampled.Mixer$Info), javax/sound/sampled/Mixer/getTargetLineInfo(), javax/sound/sampled/AudioSystem/getMixerInfo(), javax/sound/sampled/Line/open(), java/lang/StringBuilder/append(java.lang.Object), java/lang/String/contains(java.lang.CharSequence]
+
+prob: 0,03125
+[javax/sound/sampled/FloatControl/getValue()]
+
+prob: 0,03125
+[java/lang/String/toLowerCase(), java/io/PrintStream/println(java.lang.String), javax/sound/sampled/Line/isOpen()]
+
+prob: 0,03125
+[java/util/List/size(), javax/sound/sampled/LineUnavailableException/printStackTrace(), java/lang/StringBuilder/toString()]
+
+prob: 0,03125
+[javax/crypto/Cipher/doFinal(byte[]]
+
+prob: 0,03125
+[java/io/PrintStream/println(java.lang.String), javax/sound/sampled/Line/isOpen()]
+
+prob: 0,03125
+[javax/sound/sampled/LineUnavailableException/printStackTrace(), java/lang/StringBuilder/toString()]
+
+prob: 0,03125
+[java/io/DataOutputStream/flush()]
+
+prob: 0,03125
+[java/io/DataInputStream/readByte()]
+
+prob: 0,03125
+[java/io/DataOutputStream/write(int)]
+
+prob: 0,03125
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+

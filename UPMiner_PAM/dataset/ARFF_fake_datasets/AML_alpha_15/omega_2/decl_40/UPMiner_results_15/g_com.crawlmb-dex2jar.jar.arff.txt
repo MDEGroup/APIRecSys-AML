@@ -1,0 +1,13 @@
+com/crawlmb/activity/PreferencesActivity/getFilesDir(
+com/crawlmb/keyboard/CrawlKeyboardWrapper$KeyboardType/name(
+android/widget/Button/setOnClickListener(android.view.View$OnClickListener
+java/lang/StringBuilder/toString()
+android/content/Context/getSharedPreferences(java.lang.String,int)
+android/net/Uri/parse(java.lang.String
+android/preference/PreferenceCategory/addPreference(android.preference.Preference)
+org.api.fake
+com/crawlmb/view/TermView/scrollTo(int,int
+com/crawlmb/EditConfigFilePreference/getContext()
+android/content/SharedPreferences$Editor/remove(java.lang.String
+org.rand.api
+java/lang/Math/max(int,int)

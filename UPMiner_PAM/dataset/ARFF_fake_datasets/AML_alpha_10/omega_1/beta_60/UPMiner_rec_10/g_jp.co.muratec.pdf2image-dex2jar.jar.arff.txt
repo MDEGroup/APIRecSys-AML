@@ -1,0 +1,10 @@
+java/lang/Math/min(float,float)
+android/app/AlertDialog/setView(android.view.View)
+android/app/AlertDialog/setTitle(int
+android/view/View/getLeft(
+jp/co/muratec/pdf2image/FilerActivity/findViewById(int)
+java/lang/String/endsWith(java.lang.String
+java/lang/Long/valueOf(long)
+com/artifex/mupdf/PageView/getTop()
+android/view/View/bringToFront(
+jp/co/muratec/pdf2image/FilerActivity/setContentView(int

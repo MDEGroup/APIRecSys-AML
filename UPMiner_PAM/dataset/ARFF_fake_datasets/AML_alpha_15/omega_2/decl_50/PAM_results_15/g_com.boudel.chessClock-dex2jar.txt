@@ -1,0 +1,165 @@
+prob: 0,18056
+[org.api.fake]
+
+prob: 0,18056
+[org.rand.api]
+
+prob: 0,05556
+[org/json/JSONObject/get(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,05556
+[java.lang.String]
+
+prob: 0,04167
+[java.lang.String)]
+
+prob: 0,04167
+[org.json.JSONObject)]
+
+prob: 0,04167
+[org.apache.cordova.CordovaDialogsHelper$Result)]
+
+prob: 0,04167
+[boolean]
+
+prob: 0,02778
+[boolean)]
+
+prob: 0,02778
+[java/util/HashMap/get(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String]
+
+prob: 0,02778
+[java/text/DecimalFormat/getDecimalFormatSymbols(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01389
+[java.io.OutputStream)]
+
+prob: 0,01389
+[org/json/JSONArray/getString(int), java/io/IOException/toString(), java/util/HashMap/containsKey(java.lang.Object), org/json/JSONException/toString(), java/util/HashMap/remove(java.lang.Object)]
+
+prob: 0,01389
+[org.json.JSONArray]
+
+prob: 0,01389
+[android/net/Uri/getHost(), java/util/regex/Matcher/matches(), java/lang/Integer/equals(java.lang.Object), java/lang/Integer/valueOf(int), java/lang/Exception/toString(), java/util/regex/Pattern/matcher(java.lang.CharSequence), android/net/Uri/getPort(), android/net/Uri/getPath(), android/net/Uri/getScheme(]
+
+prob: 0,01389
+[android/content/res/Resources/getAssets(), java/io/IOException/toString(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,01389
+[java/lang/String/concat(java.lang.String), java/util/HashMap/containsKey(java.lang.Object), org/json/JSONArray/getString(int), org/json/JSONArray/getDouble(int)]
+
+prob: 0,01389
+[org/json/JSONArray/length(), android/app/Activity/getApplicationContext(), org/json/JSONArray/getInt(int), android/content/res/AssetManager/openFd(java.lang.String), org/json/JSONException/toString()]
+
+prob: 0,01389
+[android/net/Uri/getPath(), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/net/HttpURLConnection/getHeaderField(java.lang.String), android/net/Uri/toString(), java/net/HttpURLConnection/setDoInput(boolean]
+
+prob: 0,01389
+[android/view/Window/addFlags(int), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01389
+[android/content/res/Resources/getColor(int), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,01389
+[android/webkit/WebSettings/setGeolocationDatabasePath(java.lang.String), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01389
+[android/webkit/WebSettings/setUserAgentString(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01389
+[java/util/Locale/getVariant(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Locale/getCountry(), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/append(char), java/lang/String/matches(java.lang.String), java/lang/StringBuilder/toString(), java/util/Locale/getLanguage(), java/lang/String/isEmpty(]
+
+prob: 0,01389
+[java/text/DecimalFormat/getPercentInstance(java.util.Locale), org/json/JSONObject/get(java.lang.String), java/util/Locale/getDefault(), java/text/DecimalFormat/getCurrencyInstance(java.util.Locale), java/lang/String/equalsIgnoreCase(java.lang.String]
+
+prob: 0,01389
+[org/json/JSONObject/length(), org/json/JSONObject/isNull(java.lang.String), org/json/JSONArray/getJSONObject(int)]
+
+prob: 0,01389
+[java/text/DecimalFormat/getInstance(java.util.Locale)]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(]
+
+prob: 0,01389
+[java/util/Iterator/hasNext(), org/json/JSONObject/length()]
+
+prob: 0,01389
+[java/lang/Object/toString(), java/lang/Long/valueOf(long)]
+
+prob: 0,01389
+[java/text/SimpleDateFormat/format(java.util.Date)]
+
+prob: 0,01389
+[java/lang/String/equalsIgnoreCase(java.lang.String), android/net/Uri/getSchemeSpecificPart(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[]), java/lang/String/getBytes(), java/lang/String/indexOf(int), android/util/Base64/decode(java.lang.String]
+
+prob: 0,01389
+[java/lang/String/equalsIgnoreCase(java.lang.String), android/text/format/Time/getCurrentTimezone(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01389
+[android/text/format/Time/getCurrentTimezone(), org/json/JSONArray/getJSONObject(int)]
+
+prob: 0,01389
+[org/json/JSONObject/has(java.lang.String), android/text/format/DateFormat/getDateFormat(android.content.Context), android/text/format/DateFormat/getTimeFormat(android.content.Context), java/util/Calendar/getTime()]
+
+prob: 0,01389
+[java/util/TimeZone/getTimeZone(java.lang.String), java/util/Date/Date(long)]
+
+prob: 0,01389
+[java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/size(), java/lang/Object/getClass(), java/util/ArrayList/get(int), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,01389
+[java/util/LinkedList/isEmpty(), java/lang/StringBuilder/toString()]
+
+prob: 0,01389
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/append(java.lang.String), java/util/LinkedList/removeFirst(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(int), java/util/LinkedList/size()]
+
+prob: 0,01389
+[android/widget/ProgressBar/ProgressBar(android.content.Context), android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,01389
+[java/lang/Class/newInstance(), java/lang/StringBuilder/toString(), java/io/PrintStream/println(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/Exception/printStackTrace(]
+
+prob: 0,01389
+[java/lang/StringBuilder/StringBuilder(), java/lang/Class/forName(java.lang.String), java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01389
+[android/view/animation/AlphaAnimation/setAnimationListener(android.view.animation.Animation$AnimationListener), android/view/animation/AlphaAnimation/setDuration(long), android/app/Dialog/dismiss(), android/view/animation/AlphaAnimation/AlphaAnimation(float]
+
+prob: 0,01389
+[android/app/Dialog/setContentView(android.view.View), android/widget/ImageView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/ImageView/setImageResource(int), android/os/Handler/Handler(), android/widget/ImageView/setMinimumWidth(int), android/view/Display/getHeight(), android/view/Window/setFlags(int]
+
+prob: 0,01389
+[android/widget/RelativeLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/ProgressBar/ProgressBar(android.content.Context), android/app/ProgressDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/widget/ProgressBar/setLayoutParams(android.view.ViewGroup$LayoutParams), android/view/Window/setBackgroundDrawable(android.graphics.drawable.Drawable), android/view/Window/clearFlags(int), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/widget/RelativeLayout$LayoutParams/addRule(int]
+
+prob: 0,01389
+[android/app/ProgressDialog/show()]
+
+prob: 0,01389
+[java/net/URL/openConnection(), android/content/ContentResolver/getType(android.net.Uri), java/lang/String/split(java.lang.String)]
+
+prob: 0,01389
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,01389
+[org/json/JSONArray/getDouble(int)]
+
+prob: 0,01389
+[java/text/DecimalFormat/getPercentInstance(java.util.Locale), org/json/JSONObject/length()]
+
+prob: 0,01389
+[java/lang/String/split(java.lang.String)]
+
+prob: 0,01389
+[org/json/JSONArray/getString(int)]
+
+prob: 0,01389
+[java/util/HashMap/containsKey(java.lang.Object)]
+
+prob: 0,01389
+[org/json/JSONException/toString()]
+
+prob: 0,01389
+[java/lang/StringBuilder/append(java.lang.String)]
+

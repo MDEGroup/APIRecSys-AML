@@ -1,0 +1,9 @@
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/trim(), android/text/TextUtils/split(java.lang.String  0,12500
+android.content.Context  0,12500
+org/apache/http/client/methods/HttpPost/HttpPost(), java/util/ArrayList/ArrayList(), org/apache/http/client/methods/HttpPost/addHeader(java.lang.String  0,12500
+boolean)  0,12500
+android.content.res.Resources)  0,12500
+android.view.View  0,12500
+it/simoneloru/ctmdroid/activities/MainActivity/setContentView(int), android/widget/ListView/setAdapter(android.widget.ListAdapter), android/content/Intent/Intent(android.content.Context  0,12500
+android/content/res/Resources/getString(int), java/lang/StringBuilder/append(java.lang.String), android/view/View/findViewById(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/CheckBox/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener), android/app/AlertDialog$Builder/setView(android.view.View), android/view/LayoutInflater/from(android.content.Context), java/lang/StringBuilder/toString(), android/app/AlertDialog$Builder/setPositiveButton(int  0,12500
+java/lang/String/valueOf(java.lang.Object), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), it/simoneloru/ctmdroid/activities/MainActivity/getResources()  0,12500

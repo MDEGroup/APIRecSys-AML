@@ -1,0 +1,8 @@
+android/app/Dialog/findViewById(int)
+android/app/Activity/findViewById(int
+android/app/Activity/getPreferences(int)
+android/content/SharedPreferences/edit(
+android/app/ActionBar$Tab/setTabListener(android.app.ActionBar$TabListener)
+com/frozenriver/sigmavpn/SigmaVPNClient/setContentView(int
+android/widget/TextView/setOnEditorActionListener(android.widget.TextView$OnEditorActionListener
+java/lang/StringBuilder/append(java.lang.String)

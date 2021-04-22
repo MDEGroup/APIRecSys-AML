@@ -1,0 +1,211 @@
+org.api.fake  0,16129
+org.rand.api  0,16129
+java.lang.String)  0,07742
+int  0,04516
+android.view.MotionEvent)  0,03871
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,03871
+java.util.Map  0,02581
+java/io/File/getPath()  0,02581
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02581
+com.beatsportable.beats.DataNotesData  0,01935
+java.lang.String  0,01935
+java.util.Map)  0,01935
+android.telephony.TelephonyManager)  0,01935
+android.graphics.Canvas)  0,01935
+java/lang/String/lastIndexOf(int)  0,01290
+java.util.zip.ZipFile  0,01290
+java/io/BufferedInputStream/read(byte[  0,01290
+java/util/Iterator/hasNext(), java/util/TreeMap/TreeMap(java.util.Map), android/os/Handler/sendEmptyMessage(int), java/util/Iterator/next(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/util/List/iterator(), android/os/Handler/obtainMessage(int  0,01290
+android/os/Handler/sendMessage(android.os.Message), java/util/List/size()  0,01290
+int)  0,01290
+java/util/Scanner/useDelimiter(java.lang.String)  0,01290
+android.content.Context  0,01290
+android/app/ProgressDialog/setMessage(java.lang.CharSequence), android/app/ProgressDialog/setProgressStyle(int), android/app/ProgressDialog/setProgress(int), android/app/ProgressDialog/setCancelable(boolean), java/lang/StringBuilder/toString(  0,01290
+android/app/ProgressDialog/ProgressDialog(android.content.Context)  0,01290
+android/app/ProgressDialog/show()  0,01290
+android/app/ProgressDialog/setOwnerActivity(android.app.Activity)  0,01290
+java/util/ArrayList/get(int)  0,01290
+java/io/BufferedReader/close()  0,01290
+android/content/Intent/getData()  0,01290
+java/util/Scanner/close(), java/util/Scanner/Scanner(java.io.File  0,01290
+java/io/File/getAbsolutePath()  0,01290
+android/os/Environment/getExternalStorageDirectory()  0,01290
+android/content/res/Resources/getString(int)  0,01290
+android/os/Handler/sendEmptyMessage(int)  0,01290
+java/io/File/canRead()  0,01290
+java/io/File/File(java.lang.String)  0,01290
+java/lang/StringBuilder/toString()  0,01290
+java/lang/String/valueOf(java.lang.Object)  0,01290
+java/util/Scanner/Scanner(java.io.File)  0,00645
+java/io/File/listFiles()  0,00645
+java/lang/String/equalsIgnoreCase(java.lang.String)  0,00645
+java/util/ArrayList/ArrayList()  0,00645
+java/io/File/getParent(), java/util/ArrayList/add(int  0,00645
+java/io/File/getName()  0,00645
+com/beatsportable/beats/MenuFileChooser/setListAdapter(android.widget.ListAdapter)  0,00645
+com/beatsportable/beats/MenuFileChooser/setTitle(java.lang.CharSequence)  0,00645
+java/util/ArrayList/add(java.lang.Object)  0,00645
+java/util/Collections/sort(java.util.List)  0,00645
+java/util/ArrayList/addAll(java.util.Collection)  0,00645
+android/content/ContentValues/putNull(java.lang.String), java/lang/Long/toString(), java/lang/Integer/valueOf(int)  0,00645
+java/io/BufferedReader/readLine()  0,00645
+com/beatsportable/beats/MenuFileChooser/setResult(int), java/lang/StringBuilder/append(java.lang.String), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/toString(  0,00645
+android/graphics/Path/reset(), com/beatsportable/beats/GUIFallingOsuSliderEnd/scale(float[), android/graphics/Path/lineTo(float  0,00645
+com/beatsportable/beats/GUIFallingOsuBeat/onFirstFrame(int  0,00645
+java/util/Iterator/hasNext(), java/util/List/isEmpty(), java/lang/StringBuilder/StringBuilder()  0,00645
+java/lang/Integer/toString(int), android/content/ContentValues/ContentValues(), android/content/ContentValues/put(java.lang.String  0,00645
+java/util/Iterator/next(), java/lang/Exception/toString(), java/lang/StringBuilder/toString(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/String/format(java.lang.String  0,00645
+java/lang/System/gc(), com/beatsportable/beats/MenuHome/findViewById(int), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/toString(  0,00645
+java/lang/String/equals(java.lang.Object), java/io/File/getParentFile(), java/io/File/getAbsolutePath(  0,00645
+java/lang/String/equals(java.lang.Object), android/database/Cursor/moveToFirst()  0,00645
+java/lang/String/equals(java.lang.Object), android/content/res/Resources/getString(int)  0,00645
+android/widget/ImageView/setImageBitmap(android.graphics.Bitmap)  0,00645
+android/graphics/BitmapFactory/decodeFile(java.lang.String)  0,00645
+com/beatsportable/beats/MenuHome/setTitle(java.lang.CharSequence)  0,00645
+android/graphics/Typeface/createFromAsset(android.content.res.AssetManager  0,00645
+com/beatsportable/beats/MenuHome/setContentView(int)  0,00645
+android/widget/TextView/setShadowLayer(float  0,00645
+com/beatsportable/beats/MenuHome/getResources()  0,00645
+android/content/res/Resources/getConfiguration()  0,00645
+java/util/Locale/Locale(java.lang.String), java/util/Locale/getLanguage(), java/lang/String/startsWith(java.lang.String)  0,00645
+java/lang/Integer/valueOf(int), java/util/Iterator/hasNext(), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(int)  0,00645
+android/content/res/Configuration/Configuration()  0,00645
+android/content/res/Resources/updateConfiguration(android.content.res.Configuration  0,00645
+com/beatsportable/beats/GUIGame/setVolumeControlStream(int)  0,00645
+com/beatsportable/beats/GUIGame/getWindow()  0,00645
+android/content/Intent/putExtra(java.lang.String  0,00645
+android.content.Intent)  0,00645
+android/content/res/Resources/openRawResourceFd(int)  0,00645
+java/io/InputStream/read(byte[  0,00645
+com.localytics.android.LocalyticsProvider  0,00645
+java/util/LinkedList/iterator()  0,00645
+java/util/HashSet/iterator()  0,00645
+org/json/JSONObject/toString()  0,00645
+java/lang/Thread/Thread(java.lang.Runnable  0,00645
+android/net/Uri/getScheme(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), android/net/Uri/getLastPathSegment(), java/lang/StringBuilder/toString(  0,00645
+android/net/Uri/getSchemeSpecificPart()  0,00645
+com/beatsportable/beats/ToolsDownloader/setTitle(java.lang.CharSequence)  0,00645
+com/beatsportable/beats/ToolsDownloader/setContentView(int)  0,00645
+com/beatsportable/beats/ToolsDownloader/getIntent()  0,00645
+java/util/Map/put(java.lang.Object  0,00645
+java/lang/Long/valueOf(long), java/lang/Long/toString(long), java/lang/String/format(java.lang.String  0,00645
+java/io/IOException/getMessage()  0,00645
+android/app/ProgressDialog/setMax(int)  0,00645
+java/lang/String/substring(int  0,00645
+java/lang/Thread/start()  0,00645
+android/content/Context/getPackageName(), java/lang/String/format(java.lang.String  0,00645
+java/lang/StringBuilder/append(java.lang.String  0,00645
+java/lang/Float/toString()  0,00645
+java/lang/String/valueOf(float)  0,00645
+java/lang/Float/floatValue()  0,00645
+java/lang/StringBuilder/append(float)  0,00645
+java/util/ArrayList/get(int  0,00645
+java/util/LinkedList/offer(java.lang.Object)  0,00645
+java/util/LinkedList/poll()  0,00645
+java/util/LinkedList/isEmpty()  0,00645
+java/util/Set/size()  0,00645
+java/io/PrintStream/print(java.lang.String)  0,00645
+java/util/Random/nextInt()  0,00645
+java/util/Random/nextInt(int)  0,00645
+com/beatsportable/beats/GUIHandlerTap/setMessage(java.lang.String  0,00645
+java/lang/Integer/intValue(), java/lang/Exception/getMessage(  0,00645
+com/beatsportable/beats/DataNotesData$Difficulty/ordinal(), java/util/ArrayList/size()  0,00645
+java/lang/Integer/parseInt(java.lang.String)  0,00645
+android/database/CursorJoiner/CursorJoiner(android.database.Cursor  0,00645
+android/graphics/Canvas/drawPaint(android.graphics.Paint)  0,00645
+java/lang/StringBuilder/StringBuilder(java.lang.String), android/graphics/Canvas/drawRect(android.graphics.Rect  0,00645
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/substring(int), com/beatsportable/beats/MenuFileChooser/finish()  0,00645
+java/lang/String/length(), java/lang/Integer/valueOf(java.lang.String), java/io/File/getPath(), android/os/Handler/sendEmptyMessage(int)  0,00645
+java/lang/String/length(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/valueOf(java.lang.Object), android/graphics/Paint/setAlpha(int), java/lang/StringBuilder/append(int), java/lang/String/format(java.lang.String  0,00645
+java/lang/String/length(), java/io/File/isDirectory(), android/os/Environment/getExternalStorageDirectory(), java/io/File/exists(), java/io/File/File(java.lang.String)  0,00645
+java/lang/String/substring(int), java/lang/String/contains(java.lang.CharSequence  0,00645
+android/graphics/Paint/setStyle(android.graphics.Paint$Style)  0,00645
+com/beatsportable/beats/DataNotesData$Difficulty/toString(), java/lang/StringBuilder/append(int), java/lang/String/equals(java.lang.Object)  0,00645
+android/graphics/Paint/setColor(int)  0,00645
+java/lang/String/valueOf(java.lang.Object), android/text/Html/fromHtml(java.lang.String), java/io/BufferedReader/BufferedReader(java.io.Reader), java/lang/StringBuilder/toString(), java/lang/Exception/getMessage(  0,00645
+java/lang/String/valueOf(java.lang.Object), java/util/zip/ZipEntry/getName(), java/util/zip/ZipFile/entries(), java/util/zip/ZipEntry/isDirectory(), java/lang/StringBuilder/toString(  0,00645
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/toString()  0,00645
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/app/ProgressDialog/show(android.content.Context  0,00645
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/io/File/exists(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/File/delete(), java/lang/StringBuilder/toString(), java/lang/Exception/getMessage(  0,00645
+java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.String)  0,00645
+java/lang/StringBuilder/append(java.lang.String), java/util/Enumeration/hasMoreElements(), java/util/zip/ZipFile/ZipFile(java.lang.String), java/util/Enumeration/nextElement()  0,00645
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Thread/Thread(java.lang.Runnable)  0,00645
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/toString()  0,00645
+java/lang/StringBuilder/append(int), android/graphics/Canvas/clipPath(android.graphics.Path  0,00645
+android/graphics/Paint/Paint()  0,00645
+android/graphics/Paint/setStrokeWidth(float)  0,00645
+java/io/File/canRead(), android/app/ListActivity/onCreate(android.os.Bundle), com/beatsportable/beats/MenuFileChooser/registerForContextMenu(android.view.View), com/beatsportable/beats/MenuFileChooser/getListView()  0,00645
+java/io/File/canRead(), java/lang/String/valueOf(java.lang.Object)  0,00645
+java/io/File/canRead(), android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,00645
+java/io/File/File(java.lang.String), java/io/File/isDirectory()  0,00645
+java/io/File/File(java.lang.String), java/lang/StringBuilder/toString(  0,00645
+java/io/File/File(java.lang.String), java/lang/Exception/Exception(java.lang.String)  0,00645
+java/lang/StringBuilder/StringBuilder(), java/io/FileReader/FileReader(java.io.File)  0,00645
+android/app/Activity/getLocalClassName()  0,00645
+java/io/File/mkdirs()  0,00645
+java/io/File/isFile()  0,00645
+java/io/File/createNewFile()  0,00645
+android/view/Display/getHeight()  0,00645
+android/app/Activity/getWindow()  0,00645
+android/view/WindowManager/getDefaultDisplay()  0,00645
+android/view/Window/getWindowManager()  0,00645
+android/app/Activity/getResources()  0,00645
+android/view/Display/getWidth()  0,00645
+android/content/SharedPreferences/getString(java.lang.String  0,00645
+java/lang/StringBuilder/StringBuilder(java.lang.String  0,00645
+java/lang/String/copyValueOf(char[  0,00645
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,00645
+android/media/MediaPlayer/isPlaying()  0,00645
+java/lang/IllegalStateException/getMessage()  0,00645
+android/media/MediaPlayer/getCurrentPosition()  0,00645
+android/media/MediaPlayer/pause()  0,00645
+android/media/MediaPlayer/setDataSource(java.lang.String)  0,00645
+android/media/MediaPlayer/prepare()  0,00645
+android/media/MediaPlayer/setLooping(boolean)  0,00645
+android/media/MediaPlayer/MediaPlayer()  0,00645
+android/app/ProgressDialog/dismiss()  0,00645
+android/app/ProgressDialog/isShowing()  0,00645
+android/net/Uri/getPath()  0,00645
+com/beatsportable/beats/ToolsUnzipperActivity/getIntent()  0,00645
+com/beatsportable/beats/ToolsUnzipperActivity/setTitle(java.lang.CharSequence)  0,00645
+com/beatsportable/beats/ToolsUnzipperActivity/finish()  0,00645
+com/beatsportable/beats/ToolsUnzipperActivity/setContentView(int)  0,00645
+java/lang/Thread/sleep(long)  0,00645
+com/beatsportable/beats/Scoreboard/getWritableDatabase()  0,00645
+android/database/sqlite/SQLiteDatabase/insert(java.lang.String  0,00645
+java/util/Arrays/binarySearch(java.lang.Object[  0,00645
+android/content/Intent/setData(android.net.Uri)  0,00645
+android/net/Uri/parse(java.lang.String)  0,00645
+com/beatsportable/beats/MenuFileChooser/startActivity(android.content.Intent)  0,00645
+android/content/Intent/Intent(java.lang.String)  0,00645
+java/lang/String/trim()  0,00645
+java/util/Scanner/hasNextLine()  0,00645
+java/util/Scanner/nextLine()  0,00645
+java/lang/String/indexOf(java.lang.String)  0,00645
+android/content/ContentValues/ContentValues(), android/content/ContentValues/put(java.lang.String  0,00645
+java/lang/String/startsWith(java.lang.String)  0,00645
+java/util/zip/ZipEntry/getName()  0,00645
+java/util/zip/ZipFile/entries()  0,00645
+java/util/Enumeration/hasMoreElements()  0,00645
+java/util/Enumeration/nextElement()  0,00645
+java/lang/Long/valueOf(long)  0,00645
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/File/delete(), java/lang/StringBuilder/toString(), java/lang/Exception/getMessage(  0,00645
+java/lang/String/length(), java/lang/Exception/Exception(java.lang.String), java/lang/Exception/getMessage(  0,00645
+com/beatsportable/beats/DataNotesData$Difficulty/toString()  0,00645
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), android/net/Uri/getLastPathSegment(), java/lang/StringBuilder/toString(  0,00645
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/io/File/exists()  0,00645
+android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,00645
+java/util/Locale/getLanguage()  0,00645
+java/lang/String/substring(int)  0,00645
+java/io/File/isDirectory()  0,00645
+java/lang/Exception/Exception(java.lang.String)  0,00645
+java/util/Scanner/close()  0,00645
+java/util/Iterator/next()  0,00645
+java/io/File/exists()  0,00645
+java/lang/String/length()  0,00645
+java/lang/StringBuilder/append(int)  0,00645
+java/lang/String/equals(java.lang.Object)  0,00645
+java/lang/StringBuilder/toString(  0,00645
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String)  0,00645
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00645
+java/lang/StringBuilder/append(java.lang.String)  0,00645

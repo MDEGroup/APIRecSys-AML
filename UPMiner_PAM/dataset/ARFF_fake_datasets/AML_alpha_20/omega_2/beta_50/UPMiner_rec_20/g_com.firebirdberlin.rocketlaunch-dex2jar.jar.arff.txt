@@ -1,0 +1,6 @@
+android/content/IntentFilter/addAction(java.lang.String)
+java/io/BufferedReader/readLine(
+org.api.fake
+android/content/IntentFilter/IntentFilter(
+org.rand.api
+android/widget/Filter$FilterResults/Filter$FilterResults()

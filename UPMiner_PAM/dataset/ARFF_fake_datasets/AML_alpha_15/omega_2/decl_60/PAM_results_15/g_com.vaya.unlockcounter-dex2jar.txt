@@ -1,0 +1,33 @@
+prob: 0,10000
+[android/database/Cursor/close(), java/util/List/add(java.lang.Object), android/database/Cursor/moveToFirst(), android/database/Cursor/moveToNext(), android/database/Cursor/isAfterLast(), android/database/sqlite/SQLiteDatabase/close(), android/database/Cursor/getString(int]
+
+prob: 0,10000
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,10000
+[android.view.View]
+
+prob: 0,10000
+[java/util/ArrayList/ArrayList(), java/lang/Long/valueOf(long), java/lang/Double/parseDouble(java.lang.String), java/util/Calendar/getInstance(), java/util/List/get(int), com/vaya/unlockcounter/MainActivity/findViewById(int), java/util/List/size(), android/widget/TextView/setText(java.lang.CharSequence), java/lang/Long/longValue(), java/lang/Double/doubleValue(), android/widget/Spinner/setSelection(int), java/util/Calendar/getTimeInMillis(), java/util/List/add(java.lang.Object]
+
+prob: 0,10000
+[com.jjoe64.graphview.GraphViewDataInterface[]]
+
+prob: 0,10000
+[android/app/FragmentTransaction/commit(), android/app/ActionBar/setTitle(java.lang.CharSequence), android/app/FragmentTransaction/replace(int]
+
+prob: 0,10000
+[com/jjoe64/graphview/GraphView$GraphViewContentView/getHeight(), com/jjoe64/graphview/GraphView$GraphViewContentView/getWidth(), android/graphics/Paint/setTextSize(float), android/graphics/Paint/getTextBounds(java.lang.String]
+
+prob: 0,10000
+[float]
+
+prob: 0,10000
+[java/lang/Integer/intValue(), android/graphics/Canvas/drawText(java.lang.String]
+
+prob: 0,10000
+[com/vaya/unlockcounter/DB/getWritableDatabase(), java/lang/Integer/toString(int), android/database/sqlite/SQLiteDatabase/insert(java.lang.String]
+
+prob: 0,10000
+[java/lang/Integer/toString(int)]
+

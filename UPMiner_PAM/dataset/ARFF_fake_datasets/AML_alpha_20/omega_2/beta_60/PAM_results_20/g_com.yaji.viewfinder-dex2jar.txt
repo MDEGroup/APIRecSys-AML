@@ -1,0 +1,240 @@
+prob: 0,09836
+[int]
+
+prob: 0,04918
+[java.lang.String]
+
+prob: 0,04918
+[java.lang.String)]
+
+prob: 0,04918
+[android.hardware.Camera)]
+
+prob: 0,03279
+[android/preference/ListPreference/setEntryValues(java.lang.CharSequence[]), android/preference/ListPreference/setEnabled(boolean), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,03279
+[java.util.Map)]
+
+prob: 0,03279
+[java.io.File]
+
+prob: 0,03279
+[android/util/Log/w(java.lang.String]
+
+prob: 0,03279
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,03279
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,03279
+[java/lang/StringBuilder/append(boolean)]
+
+prob: 0,03279
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03279
+[java/lang/StringBuilder/toString()]
+
+prob: 0,01639
+[byte[])]
+
+prob: 0,01639
+[java/awt/Graphics2D/drawImage(java.awt.Image]
+
+prob: 0,01639
+[com.google.zxing.oned.rss.Pair)]
+
+prob: 0,01639
+[java/lang/Integer/intValue(), java/util/Map$Entry/getKey(), java/lang/Math/max(int]
+
+prob: 0,01639
+[java/util/Set/iterator(), java/util/Map/containsKey(java.lang.Object), java/util/List/add(java.lang.Object), java/util/Iterator/hasNext()]
+
+prob: 0,01639
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), java/lang/String/length(), com/google/zxing/oned/Code128Writer/appendPattern(byte[]]
+
+prob: 0,01639
+[java/lang/Character/toUpperCase(char), java/lang/String/charAt(int]
+
+prob: 0,01639
+[java/lang/Character/isDigit(char)]
+
+prob: 0,01639
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,01639
+[java/util/Collection/isEmpty(), java/util/List/toArray(java.lang.Object[]), java/util/List/add(java.lang.Object)]
+
+prob: 0,01639
+[android/content/Intent/getAction()]
+
+prob: 0,01639
+[android/preference/PreferenceScreen/removePreference(android.preference.Preference)]
+
+prob: 0,01639
+[com/yaji/viewfinder/WalkAroundSettings/addPreferencesFromResource(int)]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/split(java.lang.String), com/google/zxing/BarcodeFormat/valueOf(java.lang.String]
+
+prob: 0,01639
+[java/lang/String/toLowerCase(java.util.Locale)]
+
+prob: 0,01639
+[java/io/File/File(java.lang.String)]
+
+prob: 0,01639
+[java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int), java/lang/String/valueOf(int]
+
+prob: 0,01639
+[java/lang/StringBuilder/toString(), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(int), java/lang/String/length(), java/lang/String/substring(int)]
+
+prob: 0,01639
+[java/lang/String/split(java.lang.String), java/lang/String/equals(java.lang.Object), java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Integer/parseInt(java.lang.String), com/google/zxing/client/j2se/DecodeThread/join(), java/util/List/add(java.lang.Object), java/lang/String/startsWith(java.lang.String), java/util/List/get(int]
+
+prob: 0,01639
+[com/yaji/viewfinder/WalkAroundSettings/getString(int)]
+
+prob: 0,01639
+[android/hardware/Camera/release(), android/hardware/Camera/reconnect(), java/lang/StringBuilder/append(boolean)]
+
+prob: 0,01639
+[android/hardware/Camera/release(), com/yaji/viewfinder/WalkAroundWallpaper/getString(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(boolean), android/util/Log/e(java.lang.String]
+
+prob: 0,01639
+[com/yaji/viewfinder/WalkAroundWallpaper/getApplicationContext(), android/hardware/Camera/open(), android/util/Log/e(java.lang.String]
+
+prob: 0,01639
+[com/yaji/viewfinder/WalkAroundWallpaper/getApplicationContext(), android/service/wallpaper/WallpaperService$Engine/onCreate(android.view.SurfaceHolder), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), android/util/Log/d(java.lang.String]
+
+prob: 0,01639
+[com/yaji/viewfinder/WalkAroundWallpaper/getString(int), android/hardware/Camera/setParameters(android.hardware.Camera$Parameters), android/hardware/Camera$Parameters/getFlashMode(), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01639
+[android/hardware/Camera$Parameters/getColorEffect()]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(int), java/lang/String/equals(java.lang.Object), java/lang/String/substring(int), java/lang/Integer/parseInt(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(int), java/lang/String/length(), java/lang/StringBuilder/StringBuilder(), java/lang/Character/digit(char]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(int), java/lang/String/length(), com/google/zxing/oned/Code39Writer/appendPattern(byte[]]
+
+prob: 0,01639
+[java/lang/String/length(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01639
+[javax/swing/ImageIcon/ImageIcon(java.net.URL), javax/swing/Icon/getIconHeight(), javax/swing/JFileChooser/JFileChooser(), java/net/URI/toURL(), javax/swing/JTextArea/setText(java.lang.String), java/io/File/toURI(), javax/swing/JFileChooser/getSelectedFile(), javax/swing/JLabel/setIcon(javax.swing.Icon), javax/swing/JFileChooser/showOpenDialog(java.awt.Component), javax/swing/Icon/getIconWidth(), com/google/zxing/client/j2se/GUIRunner/setSize(int]
+
+prob: 0,01639
+[com/yaji/viewfinder/WalkAroundSettings/getApplicationContext(), com/yaji/viewfinder/WalkAroundSettings/getIntent(), android/preference/PreferenceManager/setSharedPreferencesName(java.lang.String), com/yaji/viewfinder/WalkAroundSettings/getPreferenceManager(), android/preference/PreferenceScreen/setOnPreferenceClickListener(android.preference.Preference$OnPreferenceClickListener), com/yaji/viewfinder/WalkAroundSettings/getPreferenceScreen(), android/preference/PreferenceActivity/onCreate(android.os.Bundle]
+
+prob: 0,01639
+[com/yaji/viewfinder/WalkAroundSettings/getApplicationContext(), android/hardware/Camera/open(), android/util/Log/e(java.lang.String]
+
+prob: 0,01639
+[java/lang/Math/min(float]
+
+prob: 0,01639
+[com/google/zxing/multi/qrcode/detector/MultiFinderPatternFinder/handlePossibleCenter(int[]]
+
+prob: 0,01639
+[int)]
+
+prob: 0,01639
+[java/util/ArrayList/ArrayList(int), java/util/Iterator/hasNext(), java/util/Collection/size(), java/util/List/get(int), java/util/Collection/iterator(]
+
+prob: 0,01639
+[java/util/ArrayList/ArrayList(int), com/google/zxing/client/result/SMSMMSResultParser/parseNameValuePairs(java.lang.String), java/util/List/size(), java/util/List/toArray(java.lang.Object[]), java/lang/String/substring(int]
+
+prob: 0,01639
+[com/google/zxing/client/j2se/DecodeThread/start()]
+
+prob: 0,01639
+[com.google.zxing.client.j2se.Config]
+
+prob: 0,01639
+[java.lang.CharSequence)]
+
+prob: 0,01639
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/String/length(), java/lang/Character/isLetter(char), org/w3c/dom/Node/getNodeName(), org/w3c/dom/NamedNodeMap/getNamedItem(java.lang.String), org/w3c/dom/Node/getTextContent(), java/lang/String/contains(java.lang.CharSequence), org/w3c/dom/Node/getAttributes(]
+
+prob: 0,01639
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/util/ArrayList/ArrayList(int), java/util/Collection/isEmpty(), java/util/Iterator/next(), java/util/List/toArray(java.lang.Object[]), java/lang/String/substring(int]
+
+prob: 0,01639
+[com.google.zxing.BarcodeFormat]
+
+prob: 0,01639
+[java/util/Iterator/hasNext(), java/lang/String/trim(), java/util/Iterator/next(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(int), java/lang/String/substring(int]
+
+prob: 0,01639
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/content/SharedPreferences$Editor/commit(), java/util/Iterator/next(), java/lang/String/substring(int]
+
+prob: 0,01639
+[android/hardware/Camera$Parameters/getSupportedPreviewSizes()]
+
+prob: 0,01639
+[com.google.zxing.common.BitArray]
+
+prob: 0,01639
+[android.graphics.Bitmap]
+
+prob: 0,01639
+[java/util/List/subList(int]
+
+prob: 0,01639
+[com/google/zxing/client/result/EmailAddressResultParser/parseNameValuePairs(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,01639
+[com/google/zxing/oned/EAN8Writer/appendPattern(byte[]]
+
+prob: 0,01639
+[java/util/regex/Matcher/group(int), java/util/SortedMap/put(java.lang.Object]
+
+prob: 0,01639
+[android/graphics/Paint/setAntiAlias(boolean), android/graphics/Paint/setColor(int), android/graphics/Canvas/drawText(java.lang.String]
+
+prob: 0,01639
+[com/yaji/viewfinder/WalkAroundWallpaper/getSystemService(java.lang.String)]
+
+prob: 0,01639
+[java/util/List/get(int)]
+
+prob: 0,01639
+[java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,01639
+[java/lang/String/charAt(int)]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,01639
+[java/lang/Integer/parseInt(java.lang.String)]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,01639
+[com/yaji/viewfinder/WalkAroundWallpaper/getApplicationContext()]
+
+prob: 0,01639
+[java/lang/String/substring(int)]
+
+prob: 0,01639
+[java/util/Iterator/next()]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(int), java/lang/String/length()]
+
+prob: 0,01639
+[java/util/ArrayList/ArrayList(int)]
+
+prob: 0,01639
+[java/util/Iterator/hasNext()]
+

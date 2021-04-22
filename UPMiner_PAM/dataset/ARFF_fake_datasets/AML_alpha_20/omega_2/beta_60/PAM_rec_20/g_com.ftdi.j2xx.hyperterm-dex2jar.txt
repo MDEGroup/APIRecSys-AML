@@ -1,0 +1,156 @@
+org.api.fake  0,17518
+org.rand.api  0,17518
+int  0,10949
+java.io.FileDescriptor  0,05839
+java/lang/StringBuilder/append(int)  0,03650
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,02920
+java/util/ArrayList/size()  0,02920
+boolean)  0,02190
+java.io.PrintWriter  0,02190
+java.lang.StringBuilder)  0,02190
+int)  0,02190
+android.view.View)  0,02190
+float  0,02190
+android.content.Context  0,02190
+android/util/Log/v(java.lang.String  0,02190
+java.lang.String  0,01460
+java/lang/Thread/sleep(long), java/lang/StringBuilder/StringBuilder(java.lang.String  0,01460
+java/lang/Integer/toString(int)  0,01460
+java/util/concurrent/locks/Condition/signalAll(), java/util/concurrent/locks/Lock/unlock(), java/lang/Exception/printStackTrace(), android/util/Log/d(java.lang.String  0,01460
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Integer/parseInt(java.lang.String), java/text/DecimalFormat/format(double), java/lang/StringBuilder/toString(), java/io/File/toString(), java/io/FileNotFoundException/printStackTrace(  0,01460
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01460
+java/text/DecimalFormat/DecimalFormat(java.lang.String)  0,01460
+java/lang/StringBuilder/append(int), android/os/Handler/obtainMessage(int), android/os/Handler/sendMessage(android.os.Message), java/lang/InterruptedException/printStackTrace(), java/lang/System/currentTimeMillis(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/toHexString(int)  0,01460
+java/lang/StringBuilder/append(int), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01460
+java/lang/String/split(java.lang.String)  0,01460
+java/lang/String/valueOf(java.lang.Object), android/os/Handler/obtainMessage(int  0,01460
+java/lang/Math/max(int  0,01460
+android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/widget/Scroller/abortAnimation()  0,01460
+android/widget/Scroller/getCurrX()  0,01460
+java/lang/String/valueOf(java.lang.Object)  0,01460
+java/util/ArrayList/add(java.lang.Object)  0,01460
+android/view/View/getRight(), android/view/View/getId(), java/lang/Integer/toHexString(int), android/view/View/isSelected(  0,00730
+android/view/View/isHorizontalScrollBarEnabled(), java/lang/System/identityHashCode(java.lang.Object), java/lang/StringBuilder/append(char), android/view/View/isPressed(), android/content/res/Resources/getResourceEntryName(int), android/view/View/getTop(), java/lang/StringBuilder/toString()  0,00730
+java/lang/StringBuilder/StringBuilder(int), android/view/View/getBottom(), android/view/View/willNotDraw(), android/content/res/Resources/getResourceTypeName(int), android/view/View/getVisibility()  0,00730
+java/lang/Class/getName()  0,00730
+android/view/View/isEnabled()  0,00730
+android/view/View/isLongClickable()  0,00730
+java/lang/String/length(), android/widget/TextView/getText()  0,00730
+java/lang/String/length(), java/lang/StringBuilder/StringBuilder()  0,00730
+java/lang/Object/getClass()  0,00730
+android/content/res/Resources/getResourcePackageName(int)  0,00730
+android/view/View/isFocusable()  0,00730
+android/view/View/isFocused()  0,00730
+android/view/View/getResources()  0,00730
+android/view/View/isClickable()  0,00730
+android/view/View/isVerticalScrollBarEnabled()  0,00730
+java/nio/ByteBuffer/flip()  0,00730
+android/hardware/usb/UsbDeviceConnection/bulkTransfer(android.hardware.usb.UsbEndpoint  0,00730
+java/util/ArrayList/ArrayList()  0,00730
+java/util/ArrayList/remove(java.lang.Object)  0,00730
+java/util/Iterator/hasNext()  0,00730
+java/util/Collection/iterator()  0,00730
+java/util/HashMap/values()  0,00730
+android/hardware/usb/UsbDevice/getInterfaceCount()  0,00730
+java/util/Iterator/next()  0,00730
+android/hardware/usb/UsbDevice/getInterface(int), java/util/ArrayList/add(java.lang.Object)  0,00730
+android/hardware/usb/UsbManager/getDeviceList(  0,00730
+java.util.ArrayList)  0,00730
+android/widget/ScrollView/smoothScrollTo(int  0,00730
+android.support.v4.app.b)  0,00730
+android/os/Looper/myLooper()  0,00730
+java/util/ArrayList/toArray(java.lang.Object[), java/util/ArrayList/size(), java/util/ArrayList/get(int), java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,00730
+android/os/Handler/removeCallbacks(java.lang.Runnable)  0,00730
+android/os/Handler/getLooper()  0,00730
+java/util/ArrayList/clear(  0,00730
+android/hardware/usb/UsbInterface/getEndpointCount(), java/lang/StringBuilder/toString()  0,00730
+android/hardware/usb/UsbEndpoint/getMaxPacketSize()  0,00730
+android/hardware/usb/UsbEndpoint/getAddress()  0,00730
+android/hardware/usb/UsbEndpoint/getType()  0,00730
+java/lang/StringBuffer/delete(int  0,00730
+android/hardware/usb/UsbEndpoint/getDirection()  0,00730
+java/lang/Double/valueOf(double), java/lang/StringBuilder/toString()  0,00730
+java/lang/System/currentTimeMillis(), java/lang/String/copyValueOf(char[  0,00730
+android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,00730
+java/io/IOException/printStackTrace(), java/nio/channels/Pipe$SourceChannel/close(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)  0,00730
+java/io/IOException/printStackTrace(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/os/Handler/obtainMessage(int), android/os/Handler/sendMessage(android.os.Message), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/FileInputStream/read(byte[  0,00730
+java/util/concurrent/locks/Lock/lock()  0,00730
+java/nio/channels/Pipe$SinkChannel/close()  0,00730
+java/lang/StringBuilder/append(long)  0,00730
+android/view/LayoutInflater/inflate(int  0,00730
+android/widget/ArrayAdapter/setDropDownViewResource(int)  0,00730
+android/widget/RelativeLayout/setVisibility(int)  0,00730
+android/widget/Button/setOnClickListener(android.view.View$OnClickListener)  0,00730
+android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter)  0,00730
+android/view/Window/setSoftInputMode(int)  0,00730
+android/widget/ArrayAdapter/createFromResource(android.content.Context  0,00730
+android/os/Environment/getExternalStorageDirectory(), java/lang/StringBuilder/StringBuilder()  0,00730
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), android/os/Handler/sendMessage(android.os.Message)  0,00730
+java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/getText(), java/io/BufferedOutputStream/write(byte[  0,00730
+java/lang/StringBuilder/append(java.lang.String), android/view/View/getLeft()  0,00730
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/format(java.lang.String  0,00730
+java/io/BufferedOutputStream/BufferedOutputStream(java.io.OutputStream)  0,00730
+java/io/FileOutputStream/FileOutputStream(java.lang.String)  0,00730
+java/io/File/File(java.lang.String)  0,00730
+java/io/BufferedOutputStream/flush()  0,00730
+java/lang/CharSequence/toString()  0,00730
+com/ftdi/j2xx/hyperterm/t/start()  0,00730
+com/ftdi/j2xx/hyperterm/af/start()  0,00730
+com/ftdi/j2xx/hyperterm/ak/start()  0,00730
+com/ftdi/j2xx/hyperterm/am/start()  0,00730
+java/io/File/length()  0,00730
+com/ftdi/j2xx/hyperterm/ai/start()  0,00730
+java/io/FileInputStream/FileInputStream(java.io.File)  0,00730
+java/lang/String/valueOf(long)  0,00730
+java/io/PrintWriter/PrintWriter(java.io.Writer)  0,00730
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,00730
+android/os/Handler/hasMessages(int)  0,00730
+android/content/Intent/getFlags()  0,00730
+android/content/Intent/getScheme()  0,00730
+android/content/Context/getContentResolver()  0,00730
+java/util/HashMap/get(java.lang.Object)  0,00730
+android/widget/EditText/length()  0,00730
+android/widget/EditText/getText()  0,00730
+android/widget/EditText/setText(java.lang.CharSequence)  0,00730
+java/lang/String/replace(java.lang.CharSequence  0,00730
+java/util/ArrayList/remove(int)  0,00730
+android/view/View/getLayoutParams()  0,00730
+android/graphics/Canvas/rotate(float)  0,00730
+android/graphics/Canvas/restoreToCount(int)  0,00730
+android/view/ViewGroup/draw(android.graphics.Canvas)  0,00730
+android/support/v4/view/ViewPager/getPaddingTop()  0,00730
+android/support/v4/view/ViewPager/getHeight()  0,00730
+android/support/v4/view/ViewPager/getWidth()  0,00730
+android/graphics/Canvas/translate(float  0,00730
+android/view/MotionEvent/getEdgeFlags()  0,00730
+android/view/VelocityTracker/computeCurrentVelocity(int  0,00730
+android/widget/Scroller/getCurrY()  0,00730
+android/support/v4/view/ViewPager/getScrollX()  0,00730
+android/support/v4/view/ViewPager/getScrollY()  0,00730
+android/support/v4/view/ViewPager/scrollTo(int  0,00730
+android/widget/Scroller/computeScrollOffset()  0,00730
+android/widget/Scroller/getFinalX()  0,00730
+android/view/VelocityTracker/recycle()  0,00730
+android/view/MotionEvent/getX()  0,00730
+android/view/MotionEvent/getAction()  0,00730
+java/lang/Math/abs(float)  0,00730
+android/view/MotionEvent/getY()  0,00730
+java/lang/Math/abs(int)  0,00730
+android/view/VelocityTracker/obtain(  0,00730
+android/app/Dialog/dismiss()  0,00730
+java/lang/String/contains(java.lang.CharSequence)  0,00730
+java/io/IOException/printStackTrace(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/os/Handler/sendMessage(android.os.Message), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00730
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/os/Handler/obtainMessage(int), android/os/Handler/sendMessage(android.os.Message), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/FileInputStream/read(byte[  0,00730
+java/io/BufferedOutputStream/write(byte[  0,00730
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,00730
+java/lang/Runnable/run(), java/util/ArrayList/size(), java/util/ArrayList/get(int)  0,00730
+java/lang/Runnable/run()  0,00730
+java/lang/InterruptedException/printStackTrace()  0,00730
+java/lang/StringBuilder/append(java.lang.Object)  0,00730
+java/text/DecimalFormat/format(double)  0,00730
+java/util/ArrayList/size(), java/util/ArrayList/get(int)  0,00730
+java/lang/System/currentTimeMillis()  0,00730
+java/lang/StringBuilder/append(int), android/os/Handler/obtainMessage(int), android/os/Handler/sendMessage(android.os.Message)  0,00730
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00730
+java/lang/StringBuilder/toString()  0,00730
+java/lang/StringBuilder/append(java.lang.String)  0,00730

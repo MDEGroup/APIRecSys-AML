@@ -1,0 +1,351 @@
+prob: 0,19481
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,09091
+[java.lang.String]
+
+prob: 0,05195
+[boolean)]
+
+prob: 0,05195
+[java.lang.String)]
+
+prob: 0,02597
+[int]
+
+prob: 0,02597
+[java.io.File)]
+
+prob: 0,02597
+[org.apache.cordova.CordovaInterface)]
+
+prob: 0,02597
+[java.lang.Object)]
+
+prob: 0,02597
+[android/os/Environment/getExternalStorageDirectory(), android/os/Environment/getExternalStorageState(), java/io/File/File(java.lang.String), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,02597
+[java.net.URL]
+
+prob: 0,02597
+[java/util/ListIterator/previous()]
+
+prob: 0,02597
+[android/content/Context/getCacheDir()]
+
+prob: 0,02597
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01299
+[android/content/Context/getPackageName()]
+
+prob: 0,01299
+[java/io/File/getAbsolutePath()]
+
+prob: 0,01299
+[java/io/File/mkdirs()]
+
+prob: 0,01299
+[java/io/File/File(java.io.File]
+
+prob: 0,01299
+[java.util.HashMap)]
+
+prob: 0,01299
+[java/net/MalformedURLException/MalformedURLException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/indexOf(java.lang.String]
+
+prob: 0,01299
+[org.apache.cordova.CordovaWebView)]
+
+prob: 0,01299
+[long)]
+
+prob: 0,01299
+[java/util/ArrayList/iterator(), java/util/ArrayList/remove(int), java/lang/String/split(java.lang.String), java/util/Arrays/asList(java.lang.Object[]), java/lang/String/startsWith(java.lang.String), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(]
+
+prob: 0,01299
+[java/util/ArrayList/ArrayList(java.util.Collection)]
+
+prob: 0,01299
+[java/lang/String/split(java.lang.String), android/net/Uri/getSchemeSpecificPart(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[]), java/lang/String/substring(int)]
+
+prob: 0,01299
+[java/util/ArrayList/size()]
+
+prob: 0,01299
+[java/io/File/isDirectory(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01299
+[java/io/File/isDirectory(), android/net/Uri/fromFile(java.io.File)]
+
+prob: 0,01299
+[java/io/FileNotFoundException/FileNotFoundException(), java/io/File/isDirectory(), java/io/File/canRead(), org/apache/cordova/file/LocalFilesystem/makeEntryForPath(java.lang.String]
+
+prob: 0,01299
+[java/io/FileNotFoundException/FileNotFoundException(), java/io/IOException/IOException(), java/lang/Boolean/valueOf(boolean), android/net/Uri/toString()]
+
+prob: 0,01299
+[java/io/FileNotFoundException/FileNotFoundException(), java/io/IOException/IOException(), java/lang/Boolean/valueOf(boolean), org/apache/cordova/file/ContentFilesystem/makeEntryForPath(java.lang.String]
+
+prob: 0,01299
+[java/io/File/canRead(), java/io/File/exists(), org/apache/cordova/file/LocalFilesystem/makeEntryForURL(org.apache.cordova.file.LocalFilesystemURL]
+
+prob: 0,01299
+[java/util/LinkedHashMap/get(java.lang.Object)]
+
+prob: 0,01299
+[java/io/IOException/IOException(java.lang.String), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(int), java/io/DataInputStream/readInt(), java/lang/String/length(]
+
+prob: 0,01299
+[java/io/IOException/IOException(java.lang.String), java/lang/Object/wait(), java/io/InterruptedIOException/InterruptedIOException(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(long), java/lang/Object/wait(long]
+
+prob: 0,01299
+[java/io/IOException/IOException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/Arrays/equals(byte[]]
+
+prob: 0,01299
+[java/net/InetSocketAddress/getHostName(), java/net/Proxy/address(), java/net/InetSocketAddress/getPort(), java/lang/StringBuilder/toString(), java/net/URI/getHost(), java/net/Proxy/type(), java/lang/Object/getClass(), java/lang/StringBuilder/append(java.lang.Object]
+
+prob: 0,01299
+[java/net/InetSocketAddress/getHostName(), com/squareup/okhttp/internal/http/HttpURLConnectionImpl/getURL(), java/net/SocketPermission/SocketPermission(java.lang.String]
+
+prob: 0,01299
+[java/net/URL/URL(java.net.URL]
+
+prob: 0,01299
+[java/util/LinkedList/iterator(), java/util/Iterator/hasNext(), java/util/LinkedList/removeFirst(), java/util/Iterator/next(), java/util/LinkedList/size(), java/lang/StringBuilder/toString(]
+
+prob: 0,01299
+[java/lang/Class/newInstance(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/Class/forName(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/Exception/printStackTrace(]
+
+prob: 0,01299
+[java/lang/Class/isAssignableFrom(java.lang.Class), java/io/PrintStream/println(java.lang.String)]
+
+prob: 0,01299
+[java/net/ProtocolException/ProtocolException(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), com/squareup/okhttp/internal/http/HttpTransport$ChunkedInputStream/endOfInput(), java/lang/Integer/parseInt(java.lang.String]
+
+prob: 0,01299
+[java/net/ProtocolException/ProtocolException(java.lang.String), java/io/IOException/IOException(java.lang.String), java/io/DataInputStream/readInt(]
+
+prob: 0,01299
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/String/length(), java/lang/String/substring(int]
+
+prob: 0,01299
+[java/util/Collections/unmodifiableMap(java.util.Map), java/util/TreeMap/TreeMap(java.util.Comparator), java/util/Map/put(java.lang.Object]
+
+prob: 0,01299
+[java/util/Map/get(java.lang.Object), java/util/List/size(), java/util/List/addAll(java.util.Collection), java/util/Collections/unmodifiableList(java.util.List), java/util/List/add(java.lang.Object)]
+
+prob: 0,01299
+[java/util/ArrayList/ArrayList(), java/lang/String/toLowerCase(java.util.Locale), java/util/List/size(), java/lang/String/equals(java.lang.Object), java/util/List/add(java.lang.Object), java/util/List/get(int), java/util/List/set(int]
+
+prob: 0,01299
+[java/util/zip/DataFormatException/getMessage()]
+
+prob: 0,01299
+[org.json.JSONObject)]
+
+prob: 0,01299
+[android/widget/ProgressBar/ProgressBar(android.content.Context), android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,01299
+[java/lang/String/trim()]
+
+prob: 0,01299
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/util/regex/Matcher/region(int]
+
+prob: 0,01299
+[java/lang/String/equalsIgnoreCase(java.lang.String), org/apache/http/util/EncodingUtils/getBytes(java.lang.String]
+
+prob: 0,01299
+[java/lang/System/nanoTime(), java/util/LinkedList/listIterator(int), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/LinkedList/addFirst(java.lang.Object), java/util/concurrent/ExecutorService/submit(java.util.concurrent.Callable]
+
+prob: 0,01299
+[android/database/Cursor/close()]
+
+prob: 0,01299
+[com.squareup.okhttp.internal.spdy.ErrorCode)]
+
+prob: 0,01299
+[java/util/regex/Matcher/lookingAt(), java/util/regex/Matcher/end(), java/util/regex/Pattern/matcher(java.lang.CharSequence), java/lang/StringBuilder/toString(), java/util/regex/Matcher/group(int)]
+
+prob: 0,01299
+[java/net/SocketTimeoutException/SocketTimeoutException(java.lang.String)]
+
+prob: 0,01299
+[java/io/DataOutputStream/writeInt(int), java/util/Iterator/hasNext(), java/lang/String/length(), java/util/List/size(), java/util/Iterator/next(), java/util/List/iterator(), java/io/DataOutputStream/flush(), java/lang/String/getBytes(java.lang.String]
+
+prob: 0,01299
+[java/io/InterruptedIOException/initCause(java.lang.Throwable)]
+
+prob: 0,01299
+[android/view/Display/getHeight(), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,01299
+[java/io/DataOutputStream/write(byte[]), java/io/ByteArrayOutputStream/reset()]
+
+prob: 0,01299
+[android/net/Uri/getQuery(), android/net/Uri/getHost(), java/lang/String/equals(java.lang.Object), android/net/Uri/encode(java.lang.String]
+
+prob: 0,01299
+[android/net/Uri/getHost(), java/util/regex/Matcher/matches(), java/lang/Integer/equals(java.lang.Object), java/lang/Integer/valueOf(int), java/lang/Exception/toString(), java/util/regex/Pattern/matcher(java.lang.CharSequence), android/net/Uri/getPort(), android/net/Uri/getPath(), android/net/Uri/getScheme(]
+
+prob: 0,01299
+[android/os/Environment/getExternalStorageDirectory(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01299
+[android/os/Environment/getExternalStorageDirectory(), android/media/MediaPlayer/setDataSource(java.lang.String), android/content/res/AssetManager/openFd(java.lang.String), android/media/MediaPlayer/prepare(), android/content/res/AssetFileDescriptor/getStartOffset(), java/io/FileInputStream/getFD(), java/lang/String/substring(int), java/io/FileInputStream/close(), android/media/MediaPlayer/setAudioStreamType(int), java/io/File/getPath(), android/app/Activity/getAssets(), android/media/MediaPlayer/setOnPreparedListener(android.media.MediaPlayer$OnPreparedListener), android/content/res/AssetFileDescriptor/getFileDescriptor(), android/media/MediaPlayer/prepareAsync(), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor]
+
+prob: 0,01299
+[android/app/Activity/getPackageName()]
+
+prob: 0,01299
+[java/io/FileOutputStream/FileOutputStream(java.io.File]
+
+prob: 0,01299
+[java/util/concurrent/ThreadPoolExecutor/submit(java.util.concurrent.Callable), java/util/LinkedHashMap/remove(java.lang.Object), java/io/File/delete(]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(int), java/net/URL/getHost(), java/lang/StringBuilder/toString()]
+
+prob: 0,01299
+[java/lang/String/compareTo(java.lang.String), org/apache/cordova/media/AudioPlayer$STATE/ordinal(), java/lang/StringBuilder/append(java.lang.Object), android/media/MediaPlayer/pause(), android/media/MediaPlayer/MediaPlayer()]
+
+prob: 0,01299
+[android/media/MediaPlayer/reset()]
+
+prob: 0,01299
+[org/apache/cordova/media/AudioPlayer$MODE/ordinal(), android/media/MediaRecorder/start(), java/lang/StringBuilder/append(int), android/util/Log/d(java.lang.String]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int), java/lang/StringBuilder/append(char)]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/String/equals(java.lang.Object), java/lang/String/substring(int]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,01299
+[java/io/IOException/printStackTrace(), android/media/MediaRecorder/setOutputFile(java.lang.String), java/lang/StringBuilder/toString(), android/media/MediaRecorder/setAudioEncoder(int), android/media/MediaRecorder/prepare()]
+
+prob: 0,01299
+[java/io/IOException/printStackTrace(), android/content/res/XmlResourceParser/next(), java/lang/StringBuilder/toString(), android/util/Log/w(java.lang.String]
+
+prob: 0,01299
+[android/media/MediaRecorder/setAudioSource(int)]
+
+prob: 0,01299
+[java/lang/IllegalStateException/printStackTrace()]
+
+prob: 0,01299
+[android/media/MediaRecorder/setOutputFormat(int)]
+
+prob: 0,01299
+[java/io/BufferedWriter/BufferedWriter(java.io.Writer), java/lang/StringBuilder/append(java.lang.String), java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream]
+
+prob: 0,01299
+[java/io/Writer/append(java.lang.CharSequence), java/io/IOException/IOException(java.lang.String)]
+
+prob: 0,01299
+[java.security.cert.Certificate[])]
+
+prob: 0,01299
+[java/lang/Integer/intValue(), java/lang/Long/decode(java.lang.String), java/lang/Boolean/parseBoolean(java.lang.String), java/util/Iterator/hasNext(), android/content/res/Resources/getIdentifier(java.lang.String]
+
+prob: 0,01299
+[boolean]
+
+prob: 0,01299
+[android/webkit/WebSettings/setGeolocationDatabasePath(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01299
+[java/util/ListIterator/hasPrevious(), java/util/List/iterator(), java/util/ArrayList/ArrayList(int), java/util/Iterator/hasNext(), java/util/List/size(), java/util/Iterator/next(), java/util/LinkedList/listIterator(int), java/util/List/add(java.lang.Object]
+
+prob: 0,01299
+[java/lang/StringBuilder/StringBuilder(), java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String), java/lang/StringBuilder/append(int)]
+
+prob: 0,01299
+[java/util/LinkedList/size(), java/util/ListIterator/remove()]
+
+prob: 0,01299
+[java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/toString()]
+
+prob: 0,01299
+[java/lang/Integer/valueOf(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01299
+[int)]
+
+prob: 0,01299
+[java/io/File/exists()]
+
+prob: 0,01299
+[java/net/Proxy/address()]
+
+prob: 0,01299
+[java/net/InetSocketAddress/getPort()]
+
+prob: 0,01299
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,01299
+[java/lang/System/nanoTime()]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(int), android/util/Log/d(java.lang.String]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,01299
+[java/util/ListIterator/hasPrevious()]
+
+prob: 0,01299
+[java/util/ListIterator/remove()]
+
+prob: 0,01299
+[java/lang/String/toLowerCase(java.util.Locale)]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,01299
+[java/lang/StringBuilder/toString(]
+
+prob: 0,01299
+[android/os/Environment/getExternalStorageState()]
+
+prob: 0,01299
+[java/io/File/File(java.lang.String)]
+
+prob: 0,01299
+[android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,01299
+[java/lang/String/substring(int)]
+
+prob: 0,01299
+[java/util/LinkedList/size()]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01299
+[java/lang/String/length()]
+
+prob: 0,01299
+[java/util/Iterator/next()]
+
+prob: 0,01299
+[java/util/Iterator/hasNext()]
+
+prob: 0,01299
+[java/util/List/size()]
+
+prob: 0,01299
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01299
+[java/lang/StringBuilder/toString()]
+

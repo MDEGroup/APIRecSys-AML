@@ -1,0 +1,45 @@
+android.os.Parcel  0,25000
+android.view.View  0,05357
+int  0,05357
+int)  0,03571
+android/content/Context/getSharedPreferences(java.lang.String  0,03571
+java.security.PublicKey)  0,03571
+android/app/AlertDialog/show(), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setPositiveButton(int  0,01786
+com/opendoorstudios/ds4droid/FileDialog/findViewById(int), android/content/Intent/getIntExtra(java.lang.String  0,01786
+java/util/TreeMap/put(java.lang.Object  0,01786
+android/content/ContentResolver/query(android.net.Uri  0,01786
+android/content/Intent/putExtra(java.lang.String  0,01786
+java/io/File/getName(), android/os/Environment/getExternalStorageDirectory(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/view/Menu/findItem(int), android/view/MenuItem/setChecked(boolean), java/lang/String/format(java.lang.String  0,01786
+java/lang/StringBuilder/append(java.lang.String), com/opendoorstudios/ds4droid/About/findViewById(int), android/content/pm/PackageManager$NameNotFoundException/printStackTrace(), android/widget/TextView/setText(java.lang.CharSequence), android/app/Activity/onCreate(android.os.Bundle), java/lang/StringBuilder/StringBuilder(), com/opendoorstudios/ds4droid/About/getPackageManager(), com/opendoorstudios/ds4droid/About/getString(int), com/opendoorstudios/ds4droid/About/getPackageName(), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,01786
+android.view.MenuItem)  0,01786
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/List/add(java.lang.Object), org/json/JSONObject/keys(), org/json/JSONObject/has(java.lang.String), java/util/Iterator/next(), java/util/HashMap/HashMap(), org/json/JSONArray/getString(int), java/util/HashMap/put(java.lang.Object  0,01786
+java/util/ArrayList/ArrayList(), org/json/JSONObject/has(java.lang.String), org/json/JSONObject/getString(java.lang.String), org/json/JSONArray/getJSONObject(int), tv/ouya/console/api/store/StoreSection$Type/valueOf(java.lang.String), org/json/JSONArray/length(), org/json/JSONObject/getJSONArray(java.lang.String  0,01786
+org/json/JSONObject/getJSONObject(java.lang.String)  0,01786
+tv.ouya.console.api.Purchasable  0,01786
+java.util.List  0,01786
+android/widget/TextView/setText(java.lang.CharSequence), android/view/LayoutInflater/inflate(int  0,01786
+java.lang.String  0,01786
+android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,01786
+java/lang/String/toUpperCase(), java/util/List/add(java.lang.Object)  0,01786
+android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable), android/view/LayoutInflater/inflate(int  0,01786
+android/content/res/Resources/getString(int), android/app/AlertDialog$Builder/setPositiveButton(int  0,01786
+java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String), android/os/Environment/getExternalStorageDirectory(), android/content/SharedPreferences/getString(java.lang.String  0,01786
+java/lang/Integer/intValue(), java/util/LinkedList/iterator(), java/util/Iterator/hasNext(), java/util/HashMap/entrySet(), java/util/LinkedList/LinkedList()  0,01786
+long  0,01786
+android/util/SparseArray/clear(), java/lang/StringBuilder/StringBuilder(), android/util/SparseArray/put(int  0,01786
+java/util/ArrayList/iterator(), android/view/MotionEvent/getY(int), java/util/Iterator/hasNext(), android/view/MotionEvent/getX(), android/util/SparseArray/put(int  0,01786
+java/util/ArrayList/iterator(), android/view/MotionEvent/getY(int), java/util/Iterator/hasNext(), com/opendoorstudios/ds4droid/ButtonLayoutEditor$ButtonEditorView/invalidate(), java/util/HashMap/remove(java.lang.Object), android/graphics/Rect/contains(int  0,01786
+com/opendoorstudios/ds4droid/MainActivity$NDSView/performHapticFeedback(int), java/util/Iterator/next()  0,01786
+android/util/SparseArray/get(int)  0,01786
+com/opendoorstudios/ds4droid/NDSScanner/CollectionActivity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), com/opendoorstudios/ds4droid/NDSScanner/CollectionActivity/setResult(int), android/content/Intent/getStringArrayExtra(java.lang.String), com/opendoorstudios/ds4droid/NDSScanner/CollectionActivity/findViewById(int), com/opendoorstudios/ds4droid/NDSScanner/CollectionActivity/getIntent(), android/widget/GridView/setAdapter(android.widget.ListAdapter), android/content/Intent/getStringExtra(java.lang.String  0,01786
+android/widget/GridView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)  0,01786
+android/os/Bundle/putStringArray(java.lang.String  0,01786
+android/widget/SeekBar/setMax(int), android/content/Context/getSystemService(java.lang.String), com/opendoorstudios/ds4droid/SliderPreference/getPersistedInt(int), java/lang/String/valueOf(int)  0,01786
+boolean)  0,01786
+android/content/Context/getPackageManager(), android/content/SharedPreferences/getString(java.lang.String  0,01786
+android/util/Base64/encodeToString(byte[  0,01786
+byte[)  0,01786
+org.json.JSONObject)  0,01786
+java/util/concurrent/locks/Lock/lock(), java/io/File/mkdir(), java/io/File/getAbsolutePath(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), java/io/File/listFiles(), java/io/File/delete(), java/util/concurrent/locks/Lock/unlock(), java/lang/String/toLowerCase()  0,01786
+org/json/JSONObject/getString(java.lang.String)  0,01786
+android/app/AlertDialog$Builder/setPositiveButton(int  0,01786

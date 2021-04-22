@@ -1,0 +1,10 @@
+android.bluetooth.BluetoothGattCharacteristic)  0,12500
+android.view.MotionEvent)  0,12500
+android.view.View  0,12500
+android/bluetooth/BluetoothManager/getAdapter(), android/widget/Toast/show(), nl/fhconsulting/golite/DeviceScanActivity/finish(), android/app/ActionBar/setTitle(int), android/content/pm/PackageManager/hasSystemFeature(java.lang.String), android/app/ListActivity/onCreate(android.os.Bundle), android/widget/Toast/makeText(android.content.Context  0,12500
+android.bluetooth.BluetoothGattCharacteristic  0,12500
+nl/fhconsulting/golite/CalculatorActivity/findViewById(int), android/widget/EditText/setFilters(android.text.InputFilter[), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/text/InputFilter$LengthFilter/InputFilter$LengthFilter(int  0,12500
+java/util/ArrayList/ArrayList(), java/util/UUID/fromString(java.lang.String), java/nio/ByteBuffer/order(java.nio.ByteOrder), java/lang/String/format(java.lang.String  0,12500
+java/lang/String/equalsIgnoreCase(java.lang.String), nl/fhconsulting/golite/RobotControlActivity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), android/app/ActionBar/setTitle(java.lang.CharSequence), android/content/Intent/Intent(android.content.Context  0,12500
+java/lang/Integer/toString(int), java/util/Random/nextInt(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/Button/setBackground(android.graphics.drawable.Drawable), java/util/Random/Random(), nl/fhconsulting/golite/CalculatorActivity/getResources(), android/content/res/Resources/getDrawable(int)  0,12500
+android/widget/TextView/setText(java.lang.CharSequence)  0,12500

@@ -1,0 +1,4 @@
+android/graphics/Canvas/drawBitmap(android.graphics.Bitmap,android.graphics.Rect,android.graphics.Rect,android.graphics.Paint)
+java/lang/StringBuilder/append(java.lang.String)
+android/graphics/Bitmap/getHeight(
+java/lang/StringBuilder/toString(

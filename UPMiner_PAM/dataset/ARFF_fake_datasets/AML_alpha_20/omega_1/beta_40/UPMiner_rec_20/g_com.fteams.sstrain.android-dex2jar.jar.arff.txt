@@ -1,0 +1,11 @@
+android/view/KeyEvent/getCharacters(
+org.api.fake
+java/util/Iterator/hasNext()
+com/badlogic/gdx/scenes/scene2d/ui/Container/clipEnd(
+java/io/File/canWrite()
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/reflect/WildcardType/getUpperBounds(
+java/io/IOException/IOException(java.lang.String)
+android/support/v4/app/FragmentActivity/getFilesDir(

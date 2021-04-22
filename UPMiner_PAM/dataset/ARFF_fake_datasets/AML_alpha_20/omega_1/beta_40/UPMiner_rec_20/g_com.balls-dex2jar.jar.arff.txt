@@ -1,0 +1,6 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/net/HttpURLConnection/setInstanceFollowRedirects(boolean
+android/webkit/WebSettings/setDomStorageEnabled(boolean
+java/lang/StringBuilder/append(java.lang.String)
+org.api.fake
+java/lang/String/length(

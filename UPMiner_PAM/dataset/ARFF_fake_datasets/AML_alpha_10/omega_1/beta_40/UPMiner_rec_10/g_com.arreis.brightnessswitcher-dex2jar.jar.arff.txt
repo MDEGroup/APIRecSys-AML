@@ -1,0 +1,17 @@
+android/support/v4/view/ViewPager/isFocusable(
+java/io/File/File(java.io.File,java.lang.String)
+android/support/v4/view/ViewPager/getScrollX(
+android/view/MotionEvent/getY(
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+android/view/View/measure(int,int
+android/content/SharedPreferences/getInt(java.lang.String,int
+android/view/ViewGroup/getBottom(
+org.api.fake
+android/widget/ShareActionProvider/setShareHistoryFileName(java.lang.String
+android/view/View/getLayoutParams()
+android/support/v4/view/ViewPager/getChildCount()
+android/widget/TextView/layout(int,int,int,int
+android/view/MotionEvent/recycle(
+android/view/View/getRight()
+android/util/Log/v(java.lang.String,java.lang.String)

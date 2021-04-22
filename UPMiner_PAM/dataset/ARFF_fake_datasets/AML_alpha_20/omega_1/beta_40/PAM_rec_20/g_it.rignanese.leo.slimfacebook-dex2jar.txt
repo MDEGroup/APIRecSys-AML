@@ -1,0 +1,39 @@
+int)  0,11111
+android/webkit/WebSettings/setJavaScriptEnabled(boolean)  0,07407
+it/rignanese/leo/slimfacebook/utility/MyAdvancedWebView/getSettings()  0,07407
+java/lang/StringBuilder/append(java.lang.String)  0,07407
+java/lang/StringBuilder/StringBuilder(), java/lang/String/substring(int  0,03704
+android/webkit/WebSettings/setDatabaseEnabled(boolean), android/webkit/WebSettings/setDatabasePath(java.lang.String)  0,03704
+android.webkit.ValueCallback  0,03704
+boolean)  0,03704
+java/lang/StringBuilder/toString(), it/rignanese/leo/slimfacebook/utility/MyAdvancedWebView/setFocusable(boolean), android/webkit/WebSettings/setRenderPriority(android.webkit.WebSettings$RenderPriority), android/webkit/WebSettings/setBuiltInZoomControls(boolean)  0,03704
+java/util/Iterator/hasNext(), android/support/v4/c/a/a(int), java/util/Map$Entry/getKey(), java/util/Map/size(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), android/support/v4/c/a/put(java.lang.Object  0,03704
+int  0,03704
+android/support/v4/widget/a/setScaleY(float), android/support/v4/widget/a/setScaleX(float), java/lang/Double/isNaN(double), java/lang/Math/abs(float), java/lang/Math/pow(double  0,03704
+java.lang.StringBuilder)  0,03704
+android/webkit/WebSettings/setTextZoom(int), it/rignanese/leo/slimfacebook/utility/MyAdvancedWebView/requestFocus(int), android/view/Window/setSoftInputMode(int), android/content/SharedPreferences/getString(java.lang.String  0,03704
+it/rignanese/leo/slimfacebook/utility/MyAdvancedWebView/requestFocus(int), android/view/Window/setSoftInputMode(int), android/webkit/WebSettings/setBuiltInZoomControls(boolean), android/webkit/WebSettings/setUserAgentString(java.lang.String), android/webkit/WebSettings/setLoadsImagesAutomatically(boolean), android/content/SharedPreferences/getString(java.lang.String  0,03704
+float  0,03704
+android.graphics.Rect)  0,03704
+android.os.Parcel  0,03704
+android.content.Intent)  0,03704
+android/content/Intent/createChooser(android.content.Intent  0,03704
+it/rignanese/leo/slimfacebook/MainActivity/findViewById(int)  0,03704
+java/io/File/getAbsolutePath()  0,03704
+it/rignanese/leo/slimfacebook/utility/MyAdvancedWebView/getSettings(), android/view/Window/setSoftInputMode(int), android/webkit/WebSettings/setBuiltInZoomControls(boolean), it/rignanese/leo/slimfacebook/PictureActivity/getWindow(), android/webkit/WebSettings/setDisplayZoomControls(boolean), it/rignanese/leo/slimfacebook/PictureActivity/findViewById(int), android/webkit/WebSettings/setLoadWithOverviewMode(boolean), android/webkit/WebSettings/setUseWideViewPort(boolean  0,03704
+it/rignanese/leo/slimfacebook/utility/MyAdvancedWebView/getSettings(), it/rignanese/leo/slimfacebook/utility/MyAdvancedWebView/setFocusableInTouchMode(boolean), android/webkit/WebView/setWebChromeClient(android.webkit.WebChromeClient), android/content/Context/getFilesDir()  0,03704
+java/lang/Integer/parseInt(java.lang.String)  0,03704
+android/webkit/WebSettings/setAppCachePath(java.lang.String)  0,03704
+it/rignanese/leo/slimfacebook/MainActivity/getCacheDir()  0,03704
+it/rignanese/leo/slimfacebook/MainActivity/getWindow()  0,03704
+it/rignanese/leo/slimfacebook/MainActivity/startActivity(android.content.Intent), android/content/Intent/Intent(java.lang.String  0,03704
+it/rignanese/leo/slimfacebook/MainActivity/startActivity(android.content.Intent), android/content/Intent/Intent(android.content.Context  0,03704
+android/content/Intent/getDataString(), android/content/SharedPreferences$Editor/putBoolean(java.lang.String  0,03704
+java/lang/String/hashCode(), android/content/SharedPreferences/getString(java.lang.String  0,03704
+java/lang/String/valueOf(java.lang.Object), android/graphics/Bitmap/getWidth(), java/lang/StringBuilder/append(int), java/lang/String/format(java.lang.String  0,03704
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/format(java.lang.String  0,03704
+java/lang/StringBuilder/append(java.lang.String), android/net/Uri/parse(java.lang.String), it/rignanese/leo/slimfacebook/MainActivity/startActivity(android.content.Intent), android/content/Intent/putExtra(java.lang.String  0,03704
+android/webkit/WebView/setWebViewClient(android.webkit.WebViewClient)  0,03704
+android/webkit/WebSettings/setTextZoom(int)  0,03704
+android/content/Intent/Intent(java.lang.String  0,03704
+android/content/Intent/Intent(android.content.Context  0,03704

@@ -1,0 +1,10 @@
+com/greenlog/smarttorch/ShakeSensitivityCalibrateDialog/setContentView(int), com/greenlog/smarttorch/ShakeSensitivityCalibrateDialog/findViewById(int), android/os/Handler/Handler(), java/util/Date/getTime(), java/util/Timer/Timer(), android/content/Context/getResources(), com/greenlog/smarttorch/ShakeSensitivityCalibrateDialog/setTitle(int), java/util/Date/Date(  0,10000
+android/content/Intent/setData(android.net.Uri), android/content/Intent/Intent(android.content.Context  0,10000
+android/app/PendingIntent/getService(android.content.Context  0,10000
+com/greenlog/smarttorch/TorchModes/get(int), java/lang/StringBuilder/append(int), android/content/SharedPreferences$Editor/commit(), com/greenlog/smarttorch/TorchModes/size(), java/lang/StringBuilder/toString(), android/content/SharedPreferences$Editor/putBoolean(java.lang.String  0,10000
+android.content.Intent)  0,10000
+android/widget/ArrayAdapter/setDropDownViewResource(int), android/app/Activity/onCreate(android.os.Bundle), android/content/Intent/getExtras(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/CheckBox/setChecked(boolean), com/greenlog/smarttorch/SmartTorchWidgetConfigure/getSystemService(java.lang.String), android/widget/StackView/setSelection(int), com/greenlog/smarttorch/SmartTorchWidgetConfigure/getResources(), com/greenlog/smarttorch/SmartTorchWidgetConfigure/setContentView(int), android/widget/ArrayAdapter/createFromResource(android.content.Context  0,10000
+android.view.View  0,10000
+long  0,10000
+android/hardware/Camera/release(), android/util/Log/v(java.lang.String  0,10000
+android/util/Log/v(java.lang.String  0,10000

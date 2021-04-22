@@ -1,0 +1,6 @@
+android/widget/TextView/setText(java.lang.CharSequence)
+android/graphics/Bitmap/getWidth()
+mobi/omegacentauri/rjm/SendToMCPE/getIntent()
+mobi/omegacentauri/rjm/SendToMCPE/finish(
+java/lang/Math/min(int,int
+java/lang/StringBuilder/append(java.lang.Object

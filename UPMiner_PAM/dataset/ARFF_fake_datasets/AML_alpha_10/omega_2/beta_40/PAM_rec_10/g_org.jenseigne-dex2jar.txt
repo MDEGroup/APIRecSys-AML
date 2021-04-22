@@ -1,0 +1,34 @@
+android/speech/tts/TextToSpeech/TextToSpeech(android.content.Context  0,14286
+android/graphics/Paint/setColor(int), android/graphics/Canvas/getHeight(), android/graphics/Bitmap/createBitmap(int  0,10714
+android/graphics/Paint/setColor(int), org/jenseigne/activity/drawletter/DevDessineLettreView/getHeight(), android/graphics/Rect/Rect(int  0,07143
+android/graphics/Paint/setColor(int), android/graphics/Canvas/drawLine(float  0,07143
+org/jenseigne/activity/drawletter/DevDessineLettreActivity/getWindowManager(), org/jenseigne/activity/drawletter/DevDessineLettreActivity$DessineLesLettresThread/start(), android/view/WindowManager/getDefaultDisplay(), android/view/Display/getMetrics(android.util.DisplayMetrics), org/jenseigne/activity/drawletter/DevDessineLettreActivity/setContentView(int), org/jenseigne/activity/drawletter/DevDessineLettreActivity/setRequestedOrientation(int), android/speech/tts/TextToSpeech/setOnUtteranceCompletedListener(android.speech.tts.TextToSpeech$OnUtteranceCompletedListener), android/app/Activity/onCreate(android.os.Bundle  0,03571
+org/jenseigne/activity/drawletter/DessineLettreView/getWidth()  0,03571
+java/lang/Throwable/printStackTrace(), android/graphics/Canvas/drawLine(float  0,03571
+java/lang/Throwable/printStackTrace(), android/graphics/Paint/setColor(int), android/graphics/Rect/Rect(int  0,03571
+java/lang/Throwable/printStackTrace(), android/graphics/Paint/setColor(int), org/jenseigne/activity/drawletter/DevDessineLettreView/getHeight(), android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,03571
+android/graphics/Bitmap/getWidth(), android/graphics/Canvas/drawText(java.lang.String  0,03571
+java/lang/Class/getResourceAsStream(java.lang.String), android/util/DisplayMetrics/DisplayMetrics(), org/jenseigne/MenuActivity/getWindowManager(), android/widget/ScrollView/setLayoutParams(android.view.ViewGroup$LayoutParams), org/jenseigne/MenuActivity/findViewById(int), android/view/Window/setBackgroundDrawable(android.graphics.drawable.Drawable), android/widget/RelativeLayout$LayoutParams/RelativeLayout$LayoutParams(android.view.ViewGroup$LayoutParams), android/widget/RelativeLayout$LayoutParams/setMargins(int  0,03571
+org/jenseigne/activity/drawletter/DevDessineLettreView/postInvalidate()  0,03571
+long)  0,03571
+org/jenseigne/DialogTrouve$Sablier/start(), android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable), android/widget/ImageView/getWidth(), android/widget/ImageView/postDelayed(java.lang.Runnable  0,03571
+boolean)  0,03571
+android/widget/TextView/refreshDrawableState(), java/lang/CharSequence/toString(), java/lang/StringBuilder/StringBuilder(), android/widget/TextView/setTextColor(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/text/Collator/setStrength(int), java/lang/Class/getName(), java/text/Collator/compare(java.lang.String  0,03571
+java/lang/String/toUpperCase()  0,03571
+android/widget/Button/getText()  0,03571
+android/widget/TextView/setText(java.lang.CharSequence)  0,03571
+android/speech/tts/TextToSpeech/stop()  0,03571
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/graphics/Paint/setColor(int), android/graphics/Paint/measureText(java.lang.String  0,03571
+android/graphics/Point/Point(android.graphics.Point), java/lang/Throwable/printStackTrace(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/view/MotionEvent/getY(  0,03571
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), org/jenseigne/MelimeloView/setFocusableInTouchMode(boolean), org/jenseigne/MelimeloView/postInvalidate(), android/view/MotionEvent/getAction()  0,03571
+android/view/MotionEvent/getX(), android/graphics/Point/Point()  0,03571
+int  0,03571
+android/graphics/drawable/BitmapDrawable/getBitmap(), java/lang/StringBuilder/toString()  0,03571
+java/lang/String/length(), java/lang/StringBuilder/append(long), android/graphics/Paint/setTextSize(float), org/jenseigne/MangeMotView/getWidth()  0,03571
+org/jenseigne/MelimeloDeMotsActivity/runOnUiThread(java.lang.Runnable), android/widget/TextView/setTextSize(int  0,03571
+java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String  0,03571
+java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/util/Iterator/hasNext(), java/io/PrintStream/print(java.lang.String)  0,03571
+java/util/List/iterator()  0,03571
+android.view.View$OnClickListener  0,03571
+android/graphics/Canvas/getHeight()  0,03571
+android/graphics/Paint/setColor(int), android/graphics/Rect/Rect(int  0,03571

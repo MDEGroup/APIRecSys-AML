@@ -1,0 +1,4 @@
+java/io/File/exists()
+android/preference/PreferenceCategory/addPreference(android.preference.Preference)
+org/czo/droid48sx/X48/startActivityForResult(android.content.Intent,int
+org/czo/droid48sx/Settings/setResult(int

@@ -1,0 +1,99 @@
+prob: 0,07692
+[int)]
+
+prob: 0,07692
+[android/content/res/Resources/getColor(int), souch/smp/RowSong/setGenuinePos(int), java/util/Collections/sort(java.util.List]
+
+prob: 0,07692
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03846
+[souch/smp/Main/bindService(android.content.Intent]
+
+prob: 0,03846
+[android.content.Intent)]
+
+prob: 0,03846
+[android/database/Cursor/getColumnIndex(java.lang.String), java/lang/String/compareToIgnoreCase(java.lang.String), java/util/ArrayList/add(java.lang.Object), souch/smp/RowSong/setParent(souch.smp.Row), android/database/Cursor/moveToNext(), android/database/Cursor/getInt(int), android/database/Cursor/getLong(int), souch/smp/RowGroup/setParent(souch.smp.Row), java/util/ArrayList/size(), android/database/Cursor/getString(int), android/database/Cursor/moveToFirst(]
+
+prob: 0,03846
+[souch/smp/Main/openOptionsMenu(), souch/smp/RowsAdapter/notifyDataSetChanged(), souch/smp/Main/getApplicationContext(), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,03846
+[souch/smp/RowsAdapter/notifyDataSetChanged(), android/graphics/drawable/AnimationDrawable/start(), android/widget/ImageButton/setImageResource(int), android/widget/SeekBar/setVisibility(int), android/widget/SeekBar/setProgress(int), android/graphics/drawable/AnimationDrawable/stop(), java/lang/Integer/valueOf(int), android/widget/TextView/setVisibility(int), android/widget/SeekBar/setMax(int), android/widget/ImageButton/setTag(java.lang.Object), android/widget/TextView/setText(java.lang.CharSequence]
+
+prob: 0,03846
+[java/util/ArrayList/clone(), java/lang/StringBuilder/append(int), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,03846
+[android/preference/CheckBoxPreference/setChecked(boolean), android/content/res/Resources/getString(int), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,03846
+[android/content/res/Resources/getString(int), souch/smp/Settings/findPreference(java.lang.CharSequence), java/util/Formatter/Formatter(), java/util/Formatter/toString(), souch/smp/Settings/getResources(), java/util/Formatter/format(java.lang.String]
+
+prob: 0,03846
+[android/content/res/Resources/getString(int), java/util/Formatter/Formatter(), android/content/ContentUris/withAppendedId(android.net.Uri]
+
+prob: 0,03846
+[java.lang.String)]
+
+prob: 0,03846
+[java/util/Iterator/hasNext(), java/lang/String/length(), java/util/Iterator/next(), java/lang/String/substring(int]
+
+prob: 0,03846
+[android/os/Environment/getExternalStorageDirectory(), android/content/Intent/Intent(java.lang.String]
+
+prob: 0,03846
+[java.util.Collection)]
+
+prob: 0,03846
+[java/io/File/File(java.io.File]
+
+prob: 0,03846
+[java/util/HashSet/iterator(), java/util/Iterator/next(), java/util/HashSet/HashSet(), java/util/Iterator/hasNext(), android/util/Log/d(java.lang.String]
+
+prob: 0,03846
+[android/content/Context/getExternalFilesDirs(java.lang.String)]
+
+prob: 0,03846
+[java/util/HashSet/add(java.lang.Object)]
+
+prob: 0,03846
+[java/io/File/getAbsolutePath()]
+
+prob: 0,03846
+[android/widget/TextView/setTypeface(android.graphics.Typeface]
+
+prob: 0,03846
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,03846
+[souch/smp/MusicService/getResources(), android/content/res/Resources/getString(int), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,03846
+[souch/smp/MusicService/getResources(), android/content/res/Resources/getString(int), android/media/MediaPlayer/setOnErrorListener(android.media.MediaPlayer$OnErrorListener), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,03846
+[souch/smp/MusicService/getPackageName(), android/util/Log/d(java.lang.String]
+
+prob: 0,03846
+[java/lang/Class/getName()]
+
+prob: 0,03846
+[android/widget/ListView/setSelection(int), android/widget/ListView/smoothScrollToPosition(int), java/lang/StringBuilder/toString(), android/widget/ListView/getLastVisiblePosition(), android/util/Log/d(java.lang.String]
+
+prob: 0,03846
+[android/widget/ListView/getFirstVisiblePosition(), java/lang/StringBuilder/append(int)]
+
+prob: 0,03846
+[android/database/Cursor/getColumnIndex(java.lang.String), java/lang/String/compareToIgnoreCase(java.lang.String)]
+
+prob: 0,03846
+[android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,03846
+[android/os/Environment/getExternalStorageDirectory()]
+
+prob: 0,03846
+[android/content/res/Resources/getColor(int)]
+

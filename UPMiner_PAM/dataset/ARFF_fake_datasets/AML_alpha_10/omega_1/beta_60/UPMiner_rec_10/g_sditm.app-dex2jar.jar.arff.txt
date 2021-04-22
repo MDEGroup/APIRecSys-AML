@@ -1,0 +1,8 @@
+android/graphics/Matrix/postScale(float,float,float,float
+sditm/app/databaseforsubscribe/getWritableDatabase()
+java/lang/Boolean/booleanValue(
+java/lang/StringBuilder/toString()
+android/view/MotionEvent/getAction()
+android/util/Log/d(java.lang.String,java.lang.String
+android/graphics/Matrix/postTranslate(float,float)
+android/view/MotionEvent/getY(int)

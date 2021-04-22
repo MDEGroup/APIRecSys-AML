@@ -1,0 +1,204 @@
+prob: 0,16418
+[org.api.fake]
+
+prob: 0,10448
+[int)]
+
+prob: 0,07463
+[com.google.android.maps.MapView]
+
+prob: 0,04478
+[java.lang.String)]
+
+prob: 0,04478
+[android/util/Log/w(java.lang.String]
+
+prob: 0,02985
+[float]
+
+prob: 0,02985
+[java.lang.Object)]
+
+prob: 0,02985
+[com.google.android.maps.MapView)]
+
+prob: 0,02985
+[java.lang.String]
+
+prob: 0,02985
+[android.view.View]
+
+prob: 0,02985
+[android_maps_conflict_avoidance.com.google.googlenav.datarequest.DataRequestDispatcher$DispatcherServer)]
+
+prob: 0,02985
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01493
+[java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), android_maps_conflict_avoidance/com/google/common/task/Task/updateFinishTimestamp(]
+
+prob: 0,01493
+[busradar/madison/TutorialDialog/show(), busradar/madison/FavoriteDialog/show(), busradar/madison/Main/getPreferences(int), android/content/SharedPreferences$Editor/commit(), android/content/SharedPreferences/edit(), busradar/madison/LocationOverlay/getMyLocation(), android/view/MenuItem/getItemId(), android/content/SharedPreferences$Editor/putBoolean(java.lang.String]
+
+prob: 0,01493
+[busradar/madison/LocationOverlay/runOnFirstFix(java.lang.Runnable), com/google/android/maps/MapView/setClickable(boolean), busradar/madison/Main/setContentView(android.view.View), busradar/madison/Main/getWindow(), android/view/View/View(android.content.Context), java/lang/reflect/Method/setAccessible(boolean), android/view/View/requestLayout(), busradar/madison/RouteBar/getMeasuredHeight(), java/lang/reflect/Field/getInt(java.lang.Object), android/view/View/setId(int), busradar/madison/RouteBar/measure(int]
+
+prob: 0,01493
+[java/lang/StringBuilder/append(java.lang.String), android/database/Cursor/getColumnIndexOrThrow(java.lang.String), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,01493
+[android/util/Log/v(java.lang.String]
+
+prob: 0,01493
+[android.content.Intent)]
+
+prob: 0,01493
+[java/lang/StringBuffer/append(java.lang.Object), java/lang/StringBuffer/toString(), java/lang/StringBuffer/append(int), java/lang/StringBuffer/StringBuffer(java.lang.String), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuilder/toString(]
+
+prob: 0,01493
+[android_maps_conflict_avoidance/com/google/common/task/Task/runInternal()]
+
+prob: 0,01493
+[android/view/ViewConfiguration/getScaledDoubleTapSlop(), android/view/ViewConfiguration/getMaximumFlingVelocity(), android/view/ViewConfiguration/get(android.content.Context), android/view/ViewConfiguration/getTouchSlop(), android/view/ViewConfiguration/getMinimumFlingVelocity(), java/lang/NullPointerException/NullPointerException(java.lang.String), android/view/ViewConfiguration/getDoubleTapSlop(), android/view/ViewConfiguration/getScaledMaximumFlingVelocity(), android/view/ViewConfiguration/getScaledMinimumFlingVelocity(), android/view/ViewConfiguration/getScaledTouchSlop(]
+
+prob: 0,01493
+[android_maps_conflict_avoidance/com/google/common/task/Task/setState(int)]
+
+prob: 0,01493
+[android/os/Handler/hasMessages(int), android/view/MotionEvent/getDownTime(), android/view/MotionEvent/getPointerCount(), android/view/VelocityTracker/computeCurrentVelocity(int]
+
+prob: 0,01493
+[android/location/Location/getProvider(), android/location/Location/set(android.location.Location), java/lang/StringBuilder/toString(), android/os/SystemClock/elapsedRealtime(), java/lang/Thread/start(), android/os/Handler/sendMessageDelayed(android.os.Message]
+
+prob: 0,01493
+[java/lang/Thread/Thread(java.lang.Runnable), java/util/Iterator/next(), java/util/ArrayList/iterator(), java/util/Iterator/hasNext()]
+
+prob: 0,01493
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01493
+[java/util/Queue/poll()]
+
+prob: 0,01493
+[android/os/Handler/removeMessages(int)]
+
+prob: 0,01493
+[android/location/Location/getLatitude()]
+
+prob: 0,01493
+[android/database/Cursor/close(), android/widget/ArrayAdapter/clear(), android/database/Cursor/moveToFirst()]
+
+prob: 0,01493
+[java/util/ArrayList/clear()]
+
+prob: 0,01493
+[android/app/Dialog/onStart(), java/lang/Integer/Integer(int), java/util/ArrayList/add(java.lang.Object), android/database/Cursor/getString(int), android/widget/ArrayAdapter/add(java.lang.Object), android/database/Cursor/moveToNext(), android/database/Cursor/getColumnIndex(java.lang.String), android/database/Cursor/isAfterLast(), android/database/Cursor/getInt(int]
+
+prob: 0,01493
+[android/content/res/Resources/getDisplayMetrics(), android/database/Cursor/close(), busradar/madison/Main/getFilesDir(), java/io/FileOutputStream/FileOutputStream(java.lang.String]
+
+prob: 0,01493
+[android/graphics/Bitmap/getWidth(), java/lang/StringBuilder/append(java.lang.String), java/io/DataInputStream/close(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01493
+[java/io/IOException/printStackTrace(), java/lang/StringBuilder/append(java.lang.String), android/location/Geocoder/Geocoder(android.content.Context]
+
+prob: 0,01493
+[android/location/Address/getLatitude(), android/location/Address/getLongitude()]
+
+prob: 0,01493
+[android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,01493
+[android/view/animation/Transformation/getMatrix(), android/view/animation/ScaleAnimation/initialize(int]
+
+prob: 0,01493
+[android/widget/ArrayAdapter/getItem(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/ArrayList/remove(int), java/lang/Integer/intValue(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01493
+[android/widget/ArrayAdapter/remove(java.lang.Object), java/util/ArrayList/get(int)]
+
+prob: 0,01493
+[java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(), java/util/ArrayList/add(java.lang.Object), java/lang/Integer/valueOf(int), java/util/ArrayList/size(), android/widget/Button/performClick(), android/graphics/Point/Point(int]
+
+prob: 0,01493
+[org/apache/http/HttpEntity/isRepeatable(), java/lang/StringBuilder/StringBuilder(), org/apache/http/HttpEntity/getContentLength(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/trim(), org/apache/http/impl/client/RequestWrapper/getOriginal(), java/lang/StringBuilder/toString(), java/io/ByteArrayOutputStream/toString(]
+
+prob: 0,01493
+[org/apache/http/client/methods/HttpUriRequest/getAllHeaders()]
+
+prob: 0,01493
+[org/apache/http/HttpEntityEnclosingRequest/getEntity()]
+
+prob: 0,01493
+[org/apache/http/HttpEntity/writeTo(java.io.OutputStream)]
+
+prob: 0,01493
+[java/lang/Object/toString()]
+
+prob: 0,01493
+[org/apache/http/client/methods/HttpUriRequest/getURI()]
+
+prob: 0,01493
+[org/apache/http/params/HttpConnectionParams/setStaleCheckingEnabled(org.apache.http.params.HttpParams]
+
+prob: 0,01493
+[java/io/OutputStream/close(), java/io/InputStream/read(byte[]), java/lang/StringBuilder/append(java.lang.String), java/io/OutputStream/flush(), android/content/res/AssetManager/open(java.lang.String), java/io/FileOutputStream/FileOutputStream(java.lang.String), java/io/InputStream/close(), java/io/OutputStream/write(byte[]]
+
+prob: 0,01493
+[java/io/OutputStream/close(), java/net/URL/openConnection(), org/json/JSONObject/toString(int), java/net/HttpURLConnection/getOutputStream(), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/net/HttpURLConnection/setRequestProperty(java.lang.String]
+
+prob: 0,01493
+[java/util/ArrayList/ArrayList(), java/util/ArrayList/add(java.lang.Object), org/json/JSONObject/getDouble(java.lang.String), org/json/JSONObject/getInt(java.lang.String), org/json/JSONArray/getJSONObject(int), org/json/JSONArray/length(), org/json/JSONObject/getJSONArray(java.lang.String]
+
+prob: 0,01493
+[busradar/madison/BusLocator/publishProgress(java.lang.Object[]), org/json/JSONObject/isNull(java.lang.String)]
+
+prob: 0,01493
+[int]
+
+prob: 0,01493
+[java/util/Hashtable/size(), java/io/ByteArrayOutputStream/ByteArrayOutputStream()]
+
+prob: 0,01493
+[java/util/Hashtable/get(java.lang.Object), java/io/DataOutput/write(byte[]), java/io/DataOutput/writeUTF(java.lang.String), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), java/io/ByteArrayOutputStream/toByteArray(), java/util/Enumeration/nextElement(), java/util/Hashtable/keys(]
+
+prob: 0,01493
+[java/io/DataOutput/writeShort(int)]
+
+prob: 0,01493
+[java/util/Enumeration/hasMoreElements()]
+
+prob: 0,01493
+[java/util/regex/Matcher/group(int), java/lang/StringBuilder/append(java.lang.String), java/lang/String/format(java.lang.String]
+
+prob: 0,01493
+[java/lang/Integer/Integer(int), java/util/ArrayList/add(java.lang.Object), android/database/Cursor/getString(int), android/widget/ArrayAdapter/add(java.lang.Object), android/database/Cursor/moveToNext(), android/database/Cursor/getColumnIndex(java.lang.String), android/database/Cursor/isAfterLast(), android/database/Cursor/getInt(int]
+
+prob: 0,01493
+[android/database/Cursor/close(), android/database/Cursor/moveToFirst()]
+
+prob: 0,01493
+[java/io/InputStream/read(byte[])]
+
+prob: 0,01493
+[java/io/OutputStream/flush()]
+
+prob: 0,01493
+[java/io/InputStream/close()]
+
+prob: 0,01493
+[java/io/ByteArrayOutputStream/ByteArrayOutputStream()]
+
+prob: 0,01493
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext()]
+
+prob: 0,01493
+[java/util/Iterator/next()]
+
+prob: 0,01493
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01493
+[java/lang/StringBuilder/StringBuilder()]
+

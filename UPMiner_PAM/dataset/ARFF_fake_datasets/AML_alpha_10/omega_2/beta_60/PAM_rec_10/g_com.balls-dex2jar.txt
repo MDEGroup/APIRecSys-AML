@@ -1,0 +1,56 @@
+org.api.fake  0,15294
+org.rand.api  0,15294
+java.util.HashMap  0,09412
+java.lang.String  0,07059
+java.lang.String)  0,03529
+android.gesture.Gesture)  0,03529
+com.google.ads.ap)  0,03529
+int)  0,03529
+java.util.Map  0,03529
+android.content.Context  0,03529
+android/content/Context/getPackageManager(), android/content/Intent/Intent(java.lang.String  0,02353
+java/util/Map/put(java.lang.Object  0,02353
+java/util/Set/iterator()  0,02353
+java/lang/StringBuilder/toString()  0,02353
+java/net/HttpURLConnection/disconnect(), java/lang/StringBuilder/append(java.lang.String), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/getResponseCode(), java/net/HttpURLConnection/connect(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int), java/net/HttpURLConnection/setInstanceFollowRedirects(boolean  0,01176
+java/net/HttpURLConnection/disconnect(), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/addRequestProperty(java.lang.String  0,01176
+java/util/LinkedList/iterator(), java/lang/StringBuilder/length(), java/lang/Long/longValue(  0,01176
+java/util/LinkedList/iterator(), java/lang/StringBuilder/length(), java/lang/StringBuilder/toString(  0,01176
+java/net/URL/openConnection(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01176
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/String/split(java.lang.String  0,01176
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,01176
+android/content/Intent/Intent(android.content.Context  0,01176
+android/database/Cursor/getColumnIndex(java.lang.String), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/ref/WeakReference/get(), android/database/Cursor/getColumnName(int), android/content/SharedPreferences$Editor/commit(), android/content/ContentResolver/query(android.net.Uri  0,01176
+android/text/TextUtils/isEmpty(java.lang.CharSequence), java/util/Map/keySet(  0,01176
+java/lang/System/getProperty(java.lang.String  0,01176
+java/lang/Long/valueOf(long), java/lang/StringBuilder/append(java.lang.String), android/location/Location/getAccuracy(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/location/Location/getLatitude(), android/location/Location/getLongitude(), java/lang/String/format(java.util.Locale  0,01176
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), com/google/ads/ag/ordinal(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder()  0,01176
+java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/util/Map/isEmpty(), java/util/Map/get(java.lang.Object), org/json/JSONObject/put(java.lang.String  0,01176
+java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), org/json/JSONArray/put(java.lang.Object), java/lang/StringBuilder/toString(), java/util/Set/isEmpty(  0,01176
+java/util/Iterator/hasNext(), android/net/Uri$Builder/encodedQuery(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/net/Uri$Builder/Uri$Builder(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next()  0,01176
+org/json/JSONArray/JSONArray()  0,01176
+org/json/JSONObject/JSONObject(), java/lang/StringBuilder/append(java.lang.Object)  0,01176
+android/webkit/ConsoleMessage$MessageLevel/ordinal(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/webkit/ConsoleMessage/lineNumber(  0,01176
+android/webkit/ConsoleMessage/sourceId(), android/webkit/WebChromeClient/onConsoleMessage(android.webkit.ConsoleMessage), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), android/webkit/ConsoleMessage/messageLevel()  0,01176
+android/webkit/ConsoleMessage/message()  0,01176
+java/security/MessageDigest/digest(), java/util/UUID/getLeastSignificantBits(), java/math/BigInteger/valueOf(long), java/util/UUID/getMostSignificantBits(), java/lang/System/arraycopy(java.lang.Object  0,01176
+java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String), org/json/JSONObject/JSONObject(java.lang.String), org/json/JSONObject/getInt(java.lang.String), org/json/JSONArray/getJSONObject(int), org/json/JSONArray/length(), org/json/JSONObject/getJSONArray(java.lang.String  0,01176
+java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String), org/json/JSONObject/length(), java/util/HashMap/HashMap(int), org/json/JSONObject/keys(), org/json/JSONObject/optString(java.lang.String  0,01176
+org/json/JSONObject/getString(java.lang.String), java/util/List/add(java.lang.Object), java/lang/Integer/valueOf(int), org/json/JSONObject/has(java.lang.String)  0,01176
+android.content.Context)  0,01176
+java/util/regex/Matcher/group(int), java/lang/String/format(java.util.Locale  0,01176
+java/util/regex/Pattern/compile(java.lang.String), java/lang/StringBuilder/toString(), android/os/SystemClock/elapsedRealtime(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/StringBuilder/append(long), java/lang/Object/wait(long)  0,01176
+java/lang/Object/equals(java.lang.Object), java/util/Arrays/asList(java.lang.Object[)  0,01176
+java/util/regex/Pattern/matcher(java.lang.CharSequence), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01176
+android.app.Activity)  0,01176
+android/content/Intent/putExtra(java.lang.String  0,01176
+boolean  0,01176
+java/lang/String/trim()  0,01176
+android/net/Uri$Builder/build()  0,01176
+com/balls/BallsActivity/setContentView(android.view.View), android/app/Activity/onCreate(android.os.Bundle), android/widget/RelativeLayout/RelativeLayout(android.content.Context), android/widget/RelativeLayout$LayoutParams/addRule(int), com/google/ads/AdView/setOnClickListener(android.view.View$OnClickListener), java/lang/Thread/start(), android/widget/RelativeLayout/addView(android.view.View  0,01176
+android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01176
+java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/Iterator/next()  0,01176
+java/lang/StringBuilder/append(long)  0,01176
+java/util/Map/get(java.lang.Object)  0,01176
+java/util/Iterator/next()  0,01176
+java/lang/StringBuilder/append(java.lang.String)  0,01176

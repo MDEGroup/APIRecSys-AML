@@ -1,0 +1,111 @@
+java.lang.String  0,06364
+double  0,06364
+android/util/Log/v(java.lang.String  0,05455
+java.lang.String)  0,04545
+java.text.ParsePosition)  0,03636
+int)  0,03636
+java/util/Iterator/next()  0,03636
+java/lang/StringBuffer/toString()  0,02727
+java/lang/String/valueOf(java.lang.Object), android/app/AlertDialog$Builder/setPositiveButton(int  0,02727
+android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,02727
+android/content/Context/getString(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/ArrayList/ArrayList(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(char  0,01818
+java/lang/String/charAt(int), java/lang/Character/isLetter(char), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/length(), java/lang/String/valueOf(char)  0,01818
+java/lang/Math/min(double  0,01818
+java/lang/String/length(), java/lang/Character/isDigit(char)  0,01818
+org.json.JSONObject)  0,01818
+java/util/ArrayList/ArrayList(), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,01818
+java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/Integer/toHexString(int), java/lang/String/substring(int  0,01818
+int  0,01818
+android/util/Log/w(java.lang.String  0,01818
+com.snoffleware.android.rationalcalcbase.UnitType  0,00909
+com/snoffleware/android/rationalcalcbase/ExpressionParserException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00909
+com/admob/android/ads/j$a/ordinal(), android/app/Activity/onCreate(android.os.Bundle), java/util/Vector/Vector(), android/util/Log/e(java.lang.String  0,00909
+com/admob/android/ads/q$a/ordinal()  0,00909
+java/lang/String/charAt(int), java/lang/Character/isLetter(char), java/lang/Double/parseDouble(java.lang.String)  0,00909
+java.lang.StringBuffer  0,00909
+java/security/MessageDigest/reset()  0,00909
+java.util.List  0,00909
+java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/List/set(int  0,00909
+java/util/ArrayList/iterator(), java/util/Vector/Vector(), android/os/Bundle/getByte(java.lang.String), android/os/Bundle/getString(java.lang.String  0,00909
+java/util/ArrayList/iterator(), java/util/Vector/Vector(), android/os/Bundle/getByte(java.lang.String), android/os/Bundle/getBundle(java.lang.String)  0,00909
+java.util.Map  0,00909
+android.view.View)  0,00909
+com/admob/android/ads/j$a/a(java.lang.String)  0,00909
+com.admob.android.ads.k)  0,00909
+java/lang/Object/equals(java.lang.Object), java/util/Iterator/hasNext(), java/util/Map/get(java.lang.Object), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue()  0,00909
+com.admob.android.ads.u  0,00909
+android/os/Bundle/putString(java.lang.String  0,00909
+android.graphics.Bitmap)  0,00909
+java/util/ArrayList/ArrayList(java.util.Collection), org/apache/commons/math/genetics/BinaryChromosome/getLength(), java/util/List/set(int  0,00909
+java/util/Date/toString()  0,00909
+android/location/Location/getLongitude()  0,00909
+java/util/Iterator/hasNext(), java/lang/Math/abs(double), java/util/List/add(java.lang.Object), java/util/List/iterator(), java/lang/Integer/valueOf(int), java/util/List/get(int  0,00909
+java/util/Iterator/hasNext(), android/os/Bundle/getParcelableArrayList(java.lang.String), android/os/Bundle/getInt(java.lang.String), java/util/Vector/add(java.lang.Object), android/os/Bundle/getDouble(java.lang.String)  0,00909
+java/util/Iterator/hasNext(), android/os/Bundle/getBoolean(java.lang.String  0,00909
+java/util/Iterator/hasNext(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/lang/Math/abs(double), java/lang/Double/doubleValue(), java/lang/Math/pow(double  0,00909
+java/util/Iterator/hasNext(), java/util/TreeMap/keySet(), java/util/Set/iterator(), java/text/NumberFormat/getPercentInstance(), java/lang/StringBuffer/append(java.lang.String), java/text/NumberFormat/format(double), java/lang/StringBuffer/StringBuffer(), java/lang/StringBuffer/append(long  0,00909
+java/util/Iterator/hasNext(), java/util/Comparator/compare(java.lang.Object  0,00909
+java/lang/Object/getClass()  0,00909
+java/lang/Math/ulp(double)  0,00909
+android/widget/Button/setWidth(int), android/widget/RelativeLayout/addView(android.view.View  0,00909
+android/content/res/Resources/getDisplayMetrics(), android/graphics/Bitmap/getWidth(), android/view/ViewGroup/setVisibility(int), android/view/ViewGroup/setBackgroundColor(int), com/admob/android/ads/ac/addView(android.view.View  0,00909
+java/util/Map$Entry/getKey(), java/util/Map/entrySet(  0,00909
+com/admob/android/ads/ac/getContext(), com/admob/android/ads/ac/addView(android.view.View  0,00909
+android/widget/VideoView/setOnErrorListener(android.media.MediaPlayer$OnErrorListener), com/admob/android/ads/ac/addView(android.view.View  0,00909
+android/widget/VideoView/setBackgroundDrawable(android.graphics.drawable.Drawable)  0,00909
+java/lang/String/split(java.lang.String), java/lang/Boolean/valueOf(boolean), java/lang/Integer/parseInt(java.lang.String), java/util/List/get(int), java/util/List/size(), java/lang/String/contains(java.lang.CharSequence), com/snoffleware/android/rationalcalcbase/UnitType/getUnitTypeFromAbbreviation(java.lang.String  0,00909
+java/math/BigDecimal/BigDecimal(java.math.BigInteger), java/lang/Integer/intValue(), java/math/BigDecimal/intValue(), com/snoffleware/android/rationalcalcbase/UnitType/getId(), java/lang/String/valueOf(java.lang.Object), android/content/SharedPreferences/getString(java.lang.String  0,00909
+java/lang/String/trim(), java/util/Queue/add(java.lang.Object), java/util/List/size(), java/util/List/clear()  0,00909
+com/snoffleware/android/rationalcalcbase/UnitType/getUnitTypeFromId(int)  0,00909
+java/util/Map/size()  0,00909
+java/lang/String/toLowerCase(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/String/format(java.lang.String  0,00909
+java.lang.Object[)  0,00909
+android.content.Intent)  0,00909
+java/lang/StringBuffer/append(char)  0,00909
+java/lang/StringBuffer/append(java.lang.Object)  0,00909
+android/os/SystemClock/uptimeMillis(), java/lang/ref/WeakReference/get(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String  0,00909
+java/lang/Integer/longValue(), java/util/TreeMap/get(java.lang.Object), java/util/TreeMap/comparator(), java/util/Iterator/next(), java/lang/Long/longValue()  0,00909
+java/util/TreeMap/firstKey()  0,00909
+android.view.animation.Transformation)  0,00909
+java/io/BufferedWriter/BufferedWriter(java.io.Writer  0,00909
+android/content/Context/getMainLooper(), android/util/Log/i(java.lang.String  0,00909
+java/lang/ref/WeakReference/get(), com/admob/android/ads/k/setVisibility(int), com/admob/android/ads/an/setInterpolator(android.view.animation.Interpolator), com/admob/android/ads/AdView/getHeight(), android/util/Log/e(java.lang.String  0,00909
+java/lang/ref/WeakReference/get(), java/util/Vector/size()  0,00909
+java/security/MessageDigest/digest(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/String/format(java.lang.String  0,00909
+android/content/Context/getPackageManager(), android/content/pm/PackageManager/getApplicationInfo(java.lang.String  0,00909
+android.graphics.Bitmap  0,00909
+com/admob/android/ads/z/loadDataWithBaseURL(java.lang.String  0,00909
+org.json.JSONArray)  0,00909
+android/view/View/setBackgroundDrawable(android.graphics.drawable.Drawable), com/admob/android/ads/af/setTextSize(float), android/view/View/setAnimation(android.view.animation.Animation), android/widget/ImageView/setImageBitmap(android.graphics.Bitmap), android/graphics/Typeface/create(android.graphics.Typeface  0,00909
+java/lang/StringBuilder/append(java.lang.String), android/content/Context/getString(int), java/lang/String/valueOf(java.lang.Object), android/util/Log/i(java.lang.String  0,00909
+java/lang/StringBuilder/append(java.lang.String), java/util/Date/Date(long), java/lang/System/currentTimeMillis(), android/util/Log/d(java.lang.String  0,00909
+java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,00909
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Exception/toString(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/insert(int  0,00909
+org.json.JSONObject  0,00909
+android.graphics.Rect)  0,00909
+android.view.View  0,00909
+android.graphics.Rect  0,00909
+java/lang/String/valueOf(java.lang.Object), java/lang/Boolean/booleanValue()  0,00909
+com/snoffleware/android/rationalcalcbase/RationalCalc/findViewById(int), android/content/SharedPreferences$Editor/putBoolean(java.lang.String  0,00909
+java/lang/Integer/intValue(), org/apache/commons/math/genetics/BinaryChromosome/getRepresentation()  0,00909
+java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/Set/contains(java.lang.Object), java/util/Set/add(java.lang.Object), java/util/HashSet/HashSet(), java/lang/StringBuilder/toString(), java/util/List/indexOf(java.lang.Object  0,00909
+java/lang/Integer/intValue(), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,00909
+java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(), java/lang/reflect/Array/newInstance(java.lang.Class  0,00909
+com/snoffleware/android/rationalcalcbase/UnitType/getId(), com/snoffleware/android/rationalcalcbase/UnitType/isUnitType(java.lang.String), android/content/Context/getString(int), java/util/LinkedList/LinkedList(), java/util/List/get(int), android/content/SharedPreferences/getInt(java.lang.String  0,00909
+java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,00909
+android/view/View/setVisibility(int), android/view/View/setBackgroundDrawable(android.graphics.drawable.Drawable), com/admob/android/ads/k/addView(android.view.View  0,00909
+android/view/View/View(android.content.Context), android/graphics/drawable/Drawable/setAlpha(int), com/admob/android/ads/k/setBackgroundDrawable(android.graphics.drawable.Drawable)  0,00909
+com/admob/android/ads/k/getChildAt(int), com/admob/android/ads/k/getChildCount(), com/admob/android/ads/k/indexOfChild(android.view.View), java/util/Vector/size(), java/util/Collections/sort(java.util.List  0,00909
+android.content.Context  0,00909
+android/view/animation/AnimationSet/addAnimation(android.view.animation.Animation), com/admob/android/ads/AdView/performClick(), android/view/animation/ScaleAnimation/ScaleAnimation(float  0,00909
+java/lang/Boolean/valueOf(boolean)  0,00909
+java/lang/Double/valueOf(double)  0,00909
+java/util/Map$Entry/getKey()  0,00909
+java/security/MessageDigest/digest()  0,00909
+com/snoffleware/android/rationalcalcbase/UnitType/getId(), java/lang/String/valueOf(java.lang.Object), android/content/SharedPreferences/getString(java.lang.String  0,00909
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00909
+java/lang/Exception/toString()  0,00909
+java/util/List/size()  0,00909
+java/util/Set/iterator()  0,00909
+java/lang/StringBuilder/StringBuilder()  0,00909
+java/lang/StringBuilder/toString()  0,00909

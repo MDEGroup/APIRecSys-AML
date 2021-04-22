@@ -1,0 +1,4 @@
+android/widget/RemoteViews/setTextViewText(int,java.lang.CharSequence)
+java/io/InputStreamReader/InputStreamReader(java.io.InputStream
+java/net/URL/URL(java.lang.String)
+android/app/Notification$Builder/setSmallIcon(int

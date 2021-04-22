@@ -1,0 +1,7 @@
+com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getPaddingRight()  0,33333
+int)  0,16667
+com/diegocarloslima/fgelv/sample/SampleActivity/setContentView(int), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/expandGroup(int), android/view/LayoutInflater/inflate(int  0,16667
+android/widget/ExpandableListView/dispatchDraw(android.graphics.Canvas), android/graphics/Canvas/save(), android/graphics/Canvas/clipRect(int  0,16667
+android/view/View/getRight(), android/widget/ExpandableListView/dispatchTouchEvent(android.view.MotionEvent), android/view/View/setPressed(boolean), android/view/MotionEvent/getRawY(), android/view/MotionEvent/getAction(), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/setPressed(boolean), android/view/View/dispatchTouchEvent(android.view.MotionEvent), android/graphics/RectF/RectF(float  0,16667
+com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getPackedPositionForGroup(int), android/view/ViewGroup/getChildMeasureSpec(int  0,16667
+com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/isPressed(), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getPaddingTop(), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getHeight(), com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/getDrawableState(), android/graphics/Canvas/save(), android/graphics/Canvas/clipRect(int  0,16667

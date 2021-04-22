@@ -1,0 +1,8 @@
+java/lang/StringBuffer/setLength(int
+java/lang/Class/getSimpleName()
+java/net/HttpURLConnection/setDoInput(boolean
+org.api.fake
+android/bluetooth/BluetoothSocket/getRemoteDevice(
+android/app/AlertDialog$Builder/setPositiveButton(int,android.content.DialogInterface$OnClickListener)
+java/lang/StringBuilder/append(java.lang.String)
+android/net/Uri/getHost()

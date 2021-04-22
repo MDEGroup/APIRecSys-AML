@@ -1,0 +1,61 @@
+int  0,11667
+java.io.FileDescriptor  0,08333
+java.lang.String  0,06667
+java/util/ArrayList/size()  0,05000
+android/util/Log/v(java.lang.String  0,05000
+int)  0,03333
+java/util/ArrayList/ArrayList(), java/lang/StringBuilder/toString()  0,03333
+android.view.ViewGroup  0,03333
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,03333
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,03333
+java/lang/StringBuilder/StringBuilder()  0,03333
+java/util/ArrayList/add(java.lang.Object), android/app/ProgressDialog/dismiss(), java/lang/System/currentTimeMillis(), java/lang/StringBuilder/toString(), java/util/ArrayList/ArrayList(int), android/os/Handler/removeCallbacks(java.lang.Runnable), android/os/Handler/post(java.lang.Runnable  0,01667
+java.util.Date  0,01667
+android/app/NotificationManager/notify(int  0,01667
+android/view/Display/getHeight(), android/view/Display/getOrientation(), android/util/Log/i(java.lang.String  0,01667
+com.b.a.j  0,01667
+java/io/BufferedReader/close(), java/lang/String/split(java.lang.String), java/io/File/exists(), java/io/File/list(java.io.FilenameFilter), java/io/File/delete(), java/io/FileReader/FileReader(java.lang.String), java/io/File/File(java.lang.String), java/io/File/mkdir(), android/util/Log/e(java.lang.String  0,01667
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,01667
+boolean)  0,01667
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(int), java/lang/CharSequence/toString(), android/widget/TextView/getText(), android/widget/TextView/getVisibility(), android/content/SharedPreferences/edit(), android/content/SharedPreferences$Editor/putString(java.lang.String  0,01667
+android.content.Intent)  0,01667
+java.lang.StringBuilder)  0,01667
+java.lang.Throwable)  0,01667
+android/os/Handler/post(java.lang.Runnable), java/util/ArrayList/get(int), java/lang/Integer/intValue(), android/widget/ImageView/setVisibility(int), android/content/res/Resources/getString(int), android/os/Handler/postDelayed(java.lang.Runnable  0,01667
+java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int  0,01667
+android/widget/ImageView/setVisibility(int), java/util/ArrayList/get(int), android/widget/ImageView/setImageLevel(int), junit/framework/Assert/fail(), java/lang/String/valueOf(int  0,01667
+android/graphics/Canvas/rotate(float), android/graphics/Canvas/restoreToCount(int), android/view/ViewGroup/draw(android.graphics.Canvas), android/support/v4/view/ViewPager/getPaddingTop(), android/support/v4/view/ViewPager/getHeight(), android/support/v4/view/ViewPager/getWidth(), android/graphics/Canvas/translate(float  0,01667
+android/view/MotionEvent/getEdgeFlags(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/widget/Scroller/abortAnimation(), android/view/VelocityTracker/computeCurrentVelocity(int  0,01667
+android.view.View)  0,01667
+float  0,01667
+android/widget/Scroller/computeScrollOffset(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/widget/Scroller/abortAnimation(), android/view/MotionEvent/getAction(), java/lang/Math/abs(float), android/widget/Scroller/getCurrX(), android/view/MotionEvent/getY(), java/lang/Math/abs(int), android/view/VelocityTracker/obtain(  0,01667
+android/widget/Scroller/getFinalX(), android/view/VelocityTracker/recycle(), android/view/MotionEvent/getX()  0,01667
+java.lang.String)  0,01667
+android.content.Context  0,01667
+android.os.Parcel  0,01667
+android/os/Parcelable$Creator/createFromParcel(android.os.Parcel), android/os/Parcel/recycle(), android/os/IBinder/transact(int  0,01667
+java/lang/Runnable/run(), android/os/Handler/removeCallbacks(java.lang.Runnable), java/util/ArrayList/get(int  0,01667
+android/os/Looper/myLooper(), java/util/ArrayList/toArray(java.lang.Object[), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/Handler/getLooper(), java/util/ArrayList/clear()  0,01667
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01667
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,01667
+java/lang/StringBuilder/append(java.lang.String), java/lang/Exception/printStackTrace(), java/lang/Process/getInputStream(), java/io/BufferedReader/readLine(), java/lang/Exception/getMessage(  0,01667
+android/os/Bundle/Bundle()  0,01667
+java/io/PrintWriter/PrintWriter(java.io.Writer)  0,01667
+java.util.ArrayList)  0,01667
+android.support.v4.app.b)  0,01667
+java/util/ArrayList/ArrayList(), java/util/ArrayList/get(int), java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(int)  0,01667
+java/util/Iterator/next(), java/util/ArrayList/clear(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/iterator(), java/util/ArrayList/remove(int), java/lang/Math/ceil(double), java/util/Iterator/hasNext(), junit/framework/Assert/assertTrue(java.lang.String  0,01667
+android/widget/ImageView/setAlpha(int), android/content/res/Resources/getInteger(int), java/util/ArrayList/isEmpty(), android/widget/TextView/setText(java.lang.CharSequence), com/andrewkeeton/divide/and/conquer/card/shuffler/ad/ordinal(), android/widget/TextView/setVisibility(int), java/lang/Integer/toString(int)  0,01667
+android/widget/Spinner/getSelectedItemPosition(), android/widget/RadioButton/isChecked(), android/content/SharedPreferences$Editor/commit(), android/widget/EditText/getText(), android/content/SharedPreferences/edit(), android/content/SharedPreferences$Editor/putString(java.lang.String  0,01667
+java/lang/Runtime/getRuntime(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/util/List/add(java.lang.Object), java/io/BufferedReader/BufferedReader(java.io.Reader)  0,01667
+java/util/List/size()  0,01667
+java/lang/Runtime/exec(java.lang.String)  0,01667
+java/util/List/get(int)  0,01667
+java/lang/Math/max(int  0,01667
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size()  0,01667
+java/lang/Integer/toString(int)  0,01667
+java/util/ArrayList/remove(int)  0,01667
+java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,01667
+java/lang/StringBuilder/append(int)  0,01667
+java/lang/StringBuilder/append(java.lang.String)  0,01667
+java/util/ArrayList/add(java.lang.Object)  0,01667

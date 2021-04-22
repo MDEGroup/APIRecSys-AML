@@ -1,0 +1,5 @@
+android.view.MotionEvent)  0,41667
+android/view/MotionEvent/getY(int), android/util/Log/d(java.lang.String  0,41667
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/view/MotionEvent/getPointerCount(), android/view/MotionEvent/getAction(), java/lang/StringBuilder/toString(), android/view/MotionEvent/getX(int), android/view/MotionEvent/getPointerId(int), java/lang/StringBuilder/StringBuilder()  0,41667
+sditm/app/databaseforsubscribe/getWritableDatabase(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,08333
+android/content/Intent/putExtra(java.lang.String  0,08333

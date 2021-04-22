@@ -1,0 +1,69 @@
+int)  0,13636
+int  0,12121
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat)  0,06061
+boolean  0,04545
+float  0,04545
+android/view/MotionEvent/getY(int), android/view/MotionEvent/getPointerCount(), android/support/v4/view/MotionEventCompat/getActionMasked(android.view.MotionEvent), android/view/View/getTop(), android/view/View/getLeft(  0,03030
+android/graphics/Canvas/translate(float  0,03030
+android.view.View  0,03030
+android.view.accessibility.AccessibilityEvent)  0,03030
+boolean)  0,03030
+android/view/VelocityTracker/addMovement(android.view.MotionEvent)  0,03030
+android/view/KeyEvent/isAltPressed(), android/view/FocusFinder/getInstance(), android/support/v4/widget/NestedScrollView/findFocus(), android/view/FocusFinder/findNextFocus(android.view.ViewGroup  0,01515
+android/support/v4/widget/NestedScrollView/getContext(), android/view/ViewConfiguration/get(android.content.Context), android/support/v4/widget/ScrollerCompat/create(android.content.Context  0,01515
+android.support.v4.view.WindowInsetsCompat)  0,01515
+android/view/View/getLocalVisibleRect(android.graphics.Rect), android/support/v4/view/accessibility/AccessibilityNodeInfoCompat/setSource(android.view.View  0,01515
+android/support/v4/view/ViewCompat/onInitializeAccessibilityNodeInfo(android.view.View  0,01515
+android/support/v4/widget/ScrollerCompat/getCurrX(), android/support/v4/widget/ScrollerCompat/getCurrY(), android/support/v4/widget/ScrollerCompat/computeScrollOffset(), android/support/v4/widget/ScrollerCompat/getFinalY(), android/support/v4/widget/ScrollerCompat/abortAnimation(), android/support/v4/view/ViewCompat/offsetTopAndBottom(android.view.View  0,01515
+android/view/ViewConfiguration/get(android.content.Context), android/widget/Scroller/Scroller(android.content.Context  0,01515
+android/support/v4/view/MotionEventCompat/getActionIndex(android.view.MotionEvent), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/view/VelocityTracker/obtain(), android/view/MotionEvent/getX(int), android/view/MotionEvent/getPointerId(int), android/view/MotionEvent/getY()  0,01515
+android/support/v4/view/MotionEventCompat/getActionIndex(android.view.MotionEvent), android/view/MotionEvent/getY(), android/view/MotionEvent/getPointerId(int)  0,01515
+android/view/MotionEvent/findPointerIndex(int)  0,01515
+android/support/v4/widget/NestedScrollView/setFocusable(boolean)  0,01515
+android/support/v4/view/ViewCompat/postInvalidateOnAnimation(android.view.View), android/support/v4/widget/NestedScrollView/getPaddingTop(), java/lang/Math/max(int  0,01515
+android/support/v4/view/ViewCompat/postInvalidateOnAnimation(android.view.View), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/view/VelocityTracker/obtain(), android/view/MotionEvent/getX(int), android/view/MotionEvent/getPointerId(int), android/view/MotionEvent/getY(), android/widget/Scroller/abortAnimation(), android/view/MotionEvent/findPointerIndex(int  0,01515
+android/support/v4/view/ViewCompat/postInvalidateOnAnimation(android.view.View), android/support/v4/view/VelocityTrackerCompat/getXVelocity(android.view.VelocityTracker  0,01515
+android/graphics/Rect/height(), java/lang/Math/max(int  0,01515
+android/view/MotionEvent/getPointerId(int), android/view/ViewParent/requestDisallowInterceptTouchEvent(boolean), android/support/v4/view/ViewCompat/postInvalidateOnAnimation(android.view.View), android/view/MotionEvent/getY(int), android/view/MotionEvent/getAction(), android/support/v4/widget/ScrollerCompat/isFinished(), android/util/Log/e(java.lang.String  0,01515
+java/lang/StringBuilder/append(int), java/lang/Integer/toHexString(int), android/support/v4/view/ViewPager/getWindowToken(), android/support/v4/view/ViewPager/hasFocus(), android/support/v4/view/ViewPager/getId()  0,01515
+android/support/v4/widget/NestedScrollView/getScrollX()  0,01515
+android/support/v4/widget/NestedScrollView/getParent()  0,01515
+android/view/View/isFocused(), android/view/FocusFinder/getInstance(), android/support/v4/widget/NestedScrollView/findFocus(), android/view/FocusFinder/findNextFocus(android.view.ViewGroup  0,01515
+android/graphics/Rect/setEmpty(), android/view/View/requestFocus(int)  0,01515
+android/support/v4/widget/NestedScrollView/getHeight(), android/support/v4/widget/NestedScrollView/requestFocus(), android/support/v4/widget/NestedScrollView/getDescendantFocusability(), android/view/View/requestFocus(int)  0,01515
+android/support/v4/widget/NestedScrollView/getPaddingBottom()  0,01515
+android/support/v4/widget/CircleImageView/setVisibility(int), java/lang/Math/min(float  0,01515
+android/graphics/Canvas/restoreToCount(int), android/graphics/Rect/height(), android/graphics/Canvas/save(), android/graphics/Canvas/saveLayerAlpha(android.graphics.RectF  0,01515
+android/view/animation/AnimationUtils/currentAnimationTimeMillis()  0,01515
+android/view/MotionEvent/getEdgeFlags()  0,01515
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/SystemClock/uptimeMillis(), android/support/v4/view/ViewPager/scrollTo(int  0,01515
+android/support/v4/view/ViewPager/getPaddingLeft(), java/lang/StringBuilder/append(java.lang.String), android/support/v4/view/ViewPager/findFocus(), java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Math/max(int  0,01515
+android/view/SoundEffectConstants/getContantForFocusDirection(int), android/support/v4/view/ViewPager/findFocus()  0,01515
+android/view/View/requestFocus(), android/view/FocusFinder/getInstance(), android/util/Log/e(java.lang.String  0,01515
+android/view/KeyEvent/isShiftPressed()  0,01515
+java/lang/Class/getSimpleName(), android/view/ViewParent/getParent(), java/lang/StringBuilder/append(java.lang.String)  0,01515
+android.view.View)  0,01515
+android/widget/Scroller/isFinished(), android/support/v4/view/ViewCompat/postInvalidateOnAnimation(android.view.View), android/support/v4/view/ViewPager/scrollTo(int  0,01515
+android/widget/Scroller/isFinished(), android/support/v4/view/ViewCompat/postOnAnimation(android.view.View  0,01515
+android/widget/Scroller/computeScrollOffset(), android/view/MotionEvent/getY(int), android/view/MotionEvent/getAction(), java/lang/Math/abs(float), android/widget/Scroller/getCurrX()  0,01515
+android/widget/Scroller/getFinalX(), java/lang/Math/abs(int)  0,01515
+android/view/View/getRight(), android/graphics/drawable/Drawable/setBounds(int  0,01515
+android/view/View/getRight(), android/support/v4/widget/SlidingPaneLayout/getPaddingRight(), android/view/View/getBottom(), java/lang/Math/max(int  0,01515
+android/support/v4/widget/SlidingPaneLayout/getPaddingLeft()  0,01515
+android/view/View/setVisibility(int)  0,01515
+android/support/v4/widget/SlidingPaneLayout/getPaddingTop()  0,01515
+android/support/v4/widget/SlidingPaneLayout/getHeight()  0,01515
+android/support/v4/widget/SlidingPaneLayout/getWidth()  0,01515
+android/view/View/getVisibility()  0,01515
+android.graphics.Rect)  0,01515
+android.support.v4.view.PagerAdapter)  0,01515
+android/graphics/Canvas/scale(float  0,01515
+android/graphics/Paint/setColor(int), android/widget/TextView/getLeft(), android/support/v4/view/PagerTitleStrip/onDraw(android.graphics.Canvas), android/support/v4/view/PagerTabStrip/getWidth(), android/widget/TextView/getRight(), android/support/v4/view/PagerTabStrip/getHeight(), android/support/v4/view/PagerTabStrip/getPaddingLeft(), android/graphics/Canvas/drawRect(float  0,01515
+android/view/MotionEvent/offsetLocation(float  0,01515
+java/lang/StringBuilder/append(int)  0,01515
+java/util/ArrayList/remove(int), android/view/View/getLayoutParams()  0,01515
+java/lang/StringBuilder/append(java.lang.String)  0,01515
+android/view/MotionEvent/getX()  0,01515
+android/view/VelocityTracker/obtain()  0,01515
+android/view/MotionEvent/getX(int)  0,01515
+java/lang/Math/max(int  0,01515

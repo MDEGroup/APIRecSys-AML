@@ -1,0 +1,4 @@
+android/text/SpannableString/SpannableString(java.lang.CharSequence)
+android/database/Cursor/getColumnIndex(java.lang.String)
+android/database/Cursor/getInt(int
+android/text/style/ForegroundColorSpan/ForegroundColorSpan(int

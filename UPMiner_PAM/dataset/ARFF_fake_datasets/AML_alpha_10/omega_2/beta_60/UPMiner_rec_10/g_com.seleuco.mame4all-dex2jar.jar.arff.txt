@@ -1,0 +1,10 @@
+javax/microedition/khronos/opengles/GL10/glTexCoordPointer(int,int,int,java.nio.Buffer
+android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[],android.content.DialogInterface$OnClickListener)
+android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener
+android/content/Intent/getIntExtra(java.lang.String,int)
+java/util/ArrayList/get(int
+com/seleuco/mame4all/views/InputView/requestLayout()
+android/graphics/Canvas/getClipBounds()
+java/lang/Integer/valueOf(java.lang.String
+com/seleuco/mame4all/prefs/ListKeys/getIntent(
+java/nio/ShortBuffer/allocate(int)

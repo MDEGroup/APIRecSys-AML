@@ -1,0 +1,21 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(  0,21053
+java.lang.String)  0,15789
+android.view.KeyEvent  0,15789
+java/lang/StringBuilder/append(java.lang.String)  0,15789
+org.api.fake  0,10526
+org.rand.api  0,10526
+java/lang/StringBuilder/append(java.lang.String), java/io/IOException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/BufferedReader/readLine()  0,10526
+java/io/BufferedReader/close(), java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/OutputStreamWriter/write(java.lang.String), java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream), java/lang/Process/getInputStream(), aws/apps/keyeventdisplay/monitors/KernelLogMonitor/isValidLine(java.lang.String), aws/apps/keyeventdisplay/monitors/KernelLogMonitor/stopCatter(), aws/apps/keyeventdisplay/monitors/KernelLogMonitor/execute(java.lang.String), java/io/OutputStreamWriter/close(), android/util/Log/e(java.lang.String  0,05263
+java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuffer/toString(), java/util/Set/iterator(), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/StringBuffer()  0,05263
+aws/apps/keyeventdisplay/monitors/KernelLogMonitor/start(), android/app/Activity/onStart(), aws/apps/keyeventdisplay/monitors/KernelLogMonitor/getFilterWords(), android/content/res/Resources/getStringArray(int), android/util/Log/d(java.lang.String  0,05263
+android/content/res/Resources/getColor(int), java/lang/StringBuilder/append(int), android/widget/TextView/append(java.lang.CharSequence), aws/apps/keyeventdisplay/MainActivity/getString(int  0,05263
+android/text/Html/fromHtml(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), aws/apps/keyeventdisplay/MainActivity/getResources(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,05263
+android/os/Environment/getExternalStorageDirectory(), android/widget/TextView/getText(), aws/apps/keyeventdisplay/MainActivity/getString(int), java/lang/String/length(), java/lang/CharSequence/toString(), java/lang/String/equals(java.lang.Object), java/util/Date/Date()  0,05263
+aws/apps/keyeventdisplay/monitors/LogCatMonitor/execute(java.lang.String[), java/lang/String/contains(java.lang.CharSequence), java/lang/StringBuilder/toString(), java/io/BufferedReader/close(), android/util/Log/w(java.lang.String  0,05263
+java.io.File  0,05263
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/widget/TextView/getText(), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/StringBuffer()  0,05263
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), aws/apps/keyeventdisplay/MainActivity/getResources(), java/lang/StringBuilder/toString()  0,05263
+aws/apps/keyeventdisplay/monitors/LogCatMonitor/stopCatter()  0,05263
+java/lang/StringBuffer/toString()  0,05263
+android/widget/TextView/getText(), aws/apps/keyeventdisplay/MainActivity/getString(int), java/lang/String/length(), java/lang/CharSequence/toString(), java/lang/String/equals(java.lang.Object), java/util/Date/Date()  0,05263
+java/lang/CharSequence/toString()  0,05263

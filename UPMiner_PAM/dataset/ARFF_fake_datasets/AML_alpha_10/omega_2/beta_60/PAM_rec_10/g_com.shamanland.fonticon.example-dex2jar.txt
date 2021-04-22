@@ -1,0 +1,200 @@
+int)  0,12500
+int  0,11538
+boolean)  0,02885
+java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,02885
+android/view/View/getLayoutParams(), android/support/v4/widget/DrawerLayout/getWidth(), android/view/View/getWidth(), android/support/v4/widget/DrawerLayout/invalidate()  0,02885
+android/util/Log/w(java.lang.String  0,02885
+android/graphics/drawable/Drawable/setBounds(int  0,02885
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02885
+android/view/View/getLayoutParams()  0,02885
+java.io.FileDescriptor  0,01923
+android/view/View/getTop(  0,01923
+android/view/MotionEvent/getY()  0,01923
+android/widget/Scroller/abortAnimation(), java/lang/Math/abs(int)  0,01923
+java/lang/Runnable/run()  0,01923
+android/widget/Scroller/getCurrX()  0,01923
+android/support/v4/view/ViewPager/scrollTo(int  0,01923
+android/support/v4/view/ViewPager/getWidth()  0,01923
+android.view.View  0,01923
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,01923
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)  0,01923
+android/util/Log/v(java.lang.String  0,01923
+java/lang/StringBuilder/append(java.lang.Object)  0,01923
+java/lang/Math/max(int  0,01923
+java/util/ArrayList/add(java.lang.Object)  0,01923
+java/util/ArrayList/get(int)  0,01923
+android/support/v7/internal/widget/LinearLayoutICS/getPaddingBottom(), android/support/v7/internal/widget/LinearLayoutICS/getPaddingRight(), android/view/View/getTop()  0,00962
+android/widget/Adapter/getCount(), android/support/v7/internal/widget/j/getLeft(), android/support/v7/internal/widget/j/getRight(), android/support/v7/internal/widget/j/getBottom(), android/widget/Adapter/isEmpty(), android/view/ViewGroup/setFocusable(boolean), android/support/v7/internal/widget/j/setVisibility(int), android/view/ViewGroup/setFocusableInTouchMode(boolean), android/support/v7/internal/widget/j/getTop(), android/view/View/setVisibility(int  0,00962
+android/content/Context/getPackageManager(), android/content/pm/PackageManager/resolveActivity(android.content.Intent  0,00962
+android/app/SearchableInfo/getVoiceSearchLaunchWebSearch(), android/support/v7/widget/SearchView$SearchAutoComplete/setInputType(int), android/app/SearchableInfo/getImeOptions(), android/app/SearchableInfo/getSuggestAuthority(), android/app/SearchableInfo/getVoiceSearchEnabled(), android/support/v7/widget/SearchView$SearchAutoComplete/setAdapter(android.widget.ListAdapter), android/app/SearchableInfo/getSuggestThreshold(), android/app/SearchableInfo/getVoiceSearchLaunchRecognizer()  0,00962
+android.database.Cursor)  0,00962
+android/app/SearchableInfo/getSuggestPath(), android/net/Uri$Builder/fragment(java.lang.String), java/lang/Object/toString(), android/net/Uri$Builder/Uri$Builder(), android/net/Uri$Builder/build(), android/support/v7/widget/SearchView/getWindowVisibility(), android/content/ContentResolver/query(android.net.Uri  0,00962
+android/net/Uri/getPathSegments(), android/content/Context/getPackageManager(), android/text/TextUtils/isEmpty(java.lang.CharSequence), android/content/res/Resources/getIdentifier(java.lang.String  0,00962
+android/text/TextUtils/isEmpty(java.lang.CharSequence), android/view/LayoutInflater/inflate(int  0,00962
+android/content/ComponentName/flattenToShortString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName  0,00962
+java.io.PrintWriter)  0,00962
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog/getWindow(), android/app/AlertDialog/show(), android/view/Window/getAttributes(), android/app/AlertDialog$Builder/setCustomTitle(android.view.View), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/setAdapter(android.widget.ListAdapter  0,00962
+android/widget/PopupWindow/getBackground(), android/view/View/getWindowVisibleDisplayFrame(android.graphics.Rect), android/support/v7/internal/widget/u/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/widget/LinearLayout/LinearLayout(android.content.Context), android/support/v7/internal/widget/u/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)  0,00962
+android/view/View/getRight(), android/view/View/isHorizontalScrollBarEnabled(), android/view/View/getId(), java/lang/StringBuilder/append(char), android/view/View/isSelected(  0,00962
+android/view/View/getRight(), android/graphics/drawable/Drawable/setBounds(int  0,00962
+android/content/res/Resources/getDisplayMetrics(), android/content/res/Resources/getBoolean(int), android/view/View/setId(int), android/util/TypedValue/getFraction(float  0,00962
+android/content/res/Resources/getDisplayMetrics(), android/content/res/Resources/getBoolean(int), android/support/v7/internal/widget/ActionBarView/addView(android.view.View)  0,00962
+android/support/v7/a/f/obtainStyledAttributes(int[), android/support/v7/a/f/getResources(), android/support/v7/a/f/getWindow()  0,00962
+java/io/PrintWriter/PrintWriter(java.io.Writer), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,00962
+java.io.PrintWriter  0,00962
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/util/ArrayList/get(int)  0,00962
+android/view/ViewGroup/getChildMeasureSpec(int  0,00962
+android.graphics.drawable.Drawable)  0,00962
+android/graphics/drawable/Drawable/getPadding(android.graphics.Rect), java/lang/Math/max(int  0,00962
+java.lang.String  0,00962
+android/os/SystemClock/uptimeMillis(), android/view/View/dispatchTouchEvent(android.view.MotionEvent), android/view/MotionEvent/recycle(), android/view/MotionEvent/obtain(long  0,00962
+android/support/v4/widget/DrawerLayout/getChildCount()  0,00962
+android/view/View/getId(), android/content/res/TypedArray/getDrawable(int  0,00962
+java/lang/System/identityHashCode(java.lang.Object), java/lang/Integer/toHexString(int), android/view/View/isEnabled(), android/content/res/Resources/getResourcePackageName(int), android/view/View/isVerticalScrollBarEnabled(), java/lang/StringBuilder/toString()  0,00962
+java/lang/StringBuilder/StringBuilder(int), android/view/View/isPressed(), android/content/res/Resources/getResourceEntryName(int), android/view/View/getLeft()  0,00962
+java/lang/Class/getName()  0,00962
+android/view/View/isLongClickable()  0,00962
+java/lang/Object/getClass(), java/lang/reflect/Method/invoke(java.lang.Object  0,00962
+android/view/View/willNotDraw()  0,00962
+android/content/res/Resources/getResourceTypeName(int)  0,00962
+android/view/View/getVisibility()  0,00962
+android/view/View/isFocusable()  0,00962
+android/view/View/isFocused()  0,00962
+android/view/View/getResources()  0,00962
+android/view/View/isClickable()  0,00962
+android.content.Context  0,00962
+android/widget/TextView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/TextView/setText(java.lang.CharSequence)  0,00962
+android/support/v7/internal/widget/ScrollingTabContainerView$TabView/getContext(), android/widget/ImageView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/view/ViewGroup/removeView(android.view.View), android/support/v7/internal/widget/ScrollingTabContainerView$TabView/addView(android.view.View  0,00962
+android/widget/ImageView/ImageView(android.content.Context), android/widget/TextView/setEllipsize(android.text.TextUtils$TruncateAt), android/widget/ImageView/setContentDescription(java.lang.CharSequence), android/view/View/getParent(), android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable)  0,00962
+android/widget/TextView/setVisibility(int), android/widget/ImageView/setVisibility(int)  0,00962
+android/graphics/Rect/height(), android/widget/Toast/makeText(android.content.Context  0,00962
+android/content/res/TypedArray/recycle(), android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable)  0,00962
+android/app/Activity/obtainStyledAttributes(int[)  0,00962
+android/app/Activity/findViewById(int)  0,00962
+android/view/ViewGroup/getChildAt(int)  0,00962
+android/view/ViewGroup/getChildCount()  0,00962
+java.util.ArrayList)  0,00962
+android/os/Looper/myLooper(), java/util/ArrayList/toArray(java.lang.Object[), java/util/ArrayList/get(int), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/Handler/removeCallbacks(java.lang.Runnable), android/os/Handler/getLooper(), java/util/ArrayList/clear(), java/util/ArrayList/size(  0,00962
+android.support.v4.app.l)  0,00962
+android/view/View/setVisibility(int), android/widget/LinearLayout/setVisibility(int), android/support/v7/internal/widget/ActionBarView/getResources(  0,00962
+android/support/v7/internal/widget/ActionBarView/getContext(), android/content/Context/getResources(), android/support/v7/internal/widget/ActionBarView/getResources(  0,00962
+java/util/Iterator/hasNext(), android/support/v4/d/a/put(java.lang.Object  0,00962
+android/support/v7/internal/view/menu/ActionMenuView/requestLayout(), android/view/ViewGroup/removeView(android.view.View)  0,00962
+android/support/v7/internal/view/menu/ActionMenuView/getParent()  0,00962
+android/support/v7/internal/view/menu/ActionMenuView/getLayoutParams()  0,00962
+android/support/v7/internal/widget/ActionBarContainer/addView(android.view.View)  0,00962
+android/support/v7/internal/widget/ActionBarView$HomeView/setVisibility(int), android/support/v7/internal/widget/ActionBarView/addView(android.view.View), android/support/v7/internal/widget/ActionBarView/requestLayout(), android/content/Context/getResources(  0,00962
+android/support/v7/internal/widget/ActionBarView$HomeView/setContentDescription(java.lang.CharSequence)  0,00962
+android/support/v7/internal/widget/ActionBarView/removeView(android.view.View), android/view/View/setVisibility(int)  0,00962
+java/util/Map$Entry/getKey(), java/util/Iterator/next()  0,00962
+android/content/res/Resources/getText(int)  0,00962
+android/support/v7/internal/widget/ActionBarView/invalidate()  0,00962
+android/widget/LinearLayout/setEnabled(boolean)  0,00962
+android/support/v7/internal/widget/ActionBarView$HomeView/isEnabled()  0,00962
+android.support.v7.internal.view.menu.af)  0,00962
+java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(boolean  0,00962
+java/lang/StringBuilder/StringBuilder()  0,00962
+android/graphics/Rect/Rect()  0,00962
+java/lang/Integer/numberOfTrailingZeros(int)  0,00962
+android/view/animation/AlphaAnimation/setDuration(long)  0,00962
+android/view/animation/AlphaAnimation/AlphaAnimation(float  0,00962
+android/support/v7/internal/widget/ProgressBarICS/getPaddingTop(), android/graphics/Canvas/translate(float  0,00962
+android/graphics/drawable/AnimationDrawable/setLevel(int)  0,00962
+android/graphics/drawable/AnimationDrawable/addFrame(android.graphics.drawable.Drawable  0,00962
+android.util.AttributeSet  0,00962
+android/support/v7/internal/view/menu/ListMenuItemView/setEnabled(boolean), android/widget/TextView/setVisibility(int)  0,00962
+android/widget/TextView/getVisibility()  0,00962
+java/util/Map/size()  0,00962
+java/util/Iterator/next(), java/util/ArrayList/get(int), java/util/ArrayList/size()  0,00962
+android/support/v7/internal/view/menu/ListMenuItemView/setVisibility(int)  0,00962
+android/support/v7/internal/widget/ActionBarContainer/addView(android.view.View  0,00962
+android/support/v7/internal/widget/ActionBarContextView/getContext(), android/text/TextUtils/isEmpty(java.lang.CharSequence), android/widget/LinearLayout/getParent(), android/widget/TextView/setTextAppearance(android.content.Context  0,00962
+android/view/MenuItem/setChecked(boolean)  0,00962
+android/view/MenuItem/setCheckable(boolean)  0,00962
+android/view/MenuItem/setEnabled(boolean)  0,00962
+android/view/MenuItem/setIcon(int)  0,00962
+android/graphics/drawable/Drawable$ConstantState/newDrawable(android.content.res.Resources), android/view/View/getParent()  0,00962
+android/support/v7/internal/widget/af/setVisibility(int)  0,00962
+android/graphics/drawable/Drawable/getConstantState()  0,00962
+android/support/v7/internal/widget/ScrollingTabContainerView/setVisibility(int)  0,00962
+android/support/v7/internal/widget/ActionBarView$HomeView/getParent()  0,00962
+java/util/Set/iterator()  0,00962
+java/util/Map$Entry/getValue()  0,00962
+java/util/Map/entrySet()  0,00962
+android/support/v7/internal/widget/LinearLayoutICS/getChildAt(int)  0,00962
+android/view/View/getBottom(), android/view/View/getLayoutParams()  0,00962
+android/view/SoundEffectConstants/getContantForFocusDirection(int), android/support/v4/view/ViewPager/findFocus()  0,00962
+android/view/View/requestFocus(), java/lang/Class/getSimpleName(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00962
+java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName  0,00962
+android/view/ViewParent/getParent()  0,00962
+android/view/FocusFinder/getInstance()  0,00962
+java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,00962
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(  0,00962
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/util/ArrayList/set(int  0,00962
+android/support/v4/view/ViewPager/findFocus(), java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,00962
+android/util/Log/e(java.lang.String  0,00962
+android/graphics/Canvas/rotate(float)  0,00962
+android/view/ViewGroup/draw(android.graphics.Canvas)  0,00962
+android/support/v4/view/ViewPager/getPaddingTop()  0,00962
+android/support/v4/view/ViewPager/getHeight()  0,00962
+java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int  0,00962
+java/util/ArrayList/remove(int), java/util/ArrayList/size()  0,00962
+android/support/v4/view/ViewPager/getPaddingLeft(), java/lang/StringBuilder/append(java.lang.String)  0,00962
+java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/append(char)  0,00962
+android/view/View/requestFocus(int)  0,00962
+android/support/v7/internal/widget/LinearLayoutICS/getOrientation()  0,00962
+android/support/v4/view/ViewPager/hasFocus()  0,00962
+android/support/v4/view/ViewPager/getId()  0,00962
+android/view/MotionEvent/getEdgeFlags()  0,00962
+android/view/VelocityTracker/obtain()  0,00962
+android.view.View)  0,00962
+boolean  0,00962
+android/widget/Scroller/getCurrY()  0,00962
+android/support/v4/view/ViewPager/getScrollX()  0,00962
+android/support/v4/view/ViewPager/getScrollY()  0,00962
+android/database/DataSetObservable/unregisterObserver(java.lang.Object)  0,00962
+android/widget/Scroller/computeScrollOffset()  0,00962
+android/support/v7/internal/widget/LinearLayoutICS/getChildCount()  0,00962
+android/widget/Scroller/getFinalX()  0,00962
+android/view/VelocityTracker/addMovement(android.view.MotionEvent)  0,00962
+android/view/MotionEvent/getX()  0,00962
+android/view/VelocityTracker/recycle()  0,00962
+android/view/MotionEvent/getAction()  0,00962
+java/lang/Math/abs(float)  0,00962
+android/view/VelocityTracker/obtain(  0,00962
+android/view/View/getMeasuredWidth()  0,00962
+android/support/v7/internal/widget/LinearLayoutICS/getWidth()  0,00962
+android/support/v4/view/ViewPager/getPaddingRight()  0,00962
+android/support/v4/view/ViewPager/getChildAt(int)  0,00962
+android/support/v4/view/ViewPager/getChildCount()  0,00962
+android/view/View/offsetLeftAndRight(int)  0,00962
+java.lang.StringBuilder)  0,00962
+android/view/View/saveHierarchyState(android.util.SparseArray)  0,00962
+android/os/Bundle/putSparseParcelableArray(java.lang.String  0,00962
+java/util/ArrayList/addAll(java.util.Collection)  0,00962
+java/util/concurrent/CopyOnWriteArrayList/remove(java.lang.Object)  0,00962
+java/lang/ref/WeakReference/get()  0,00962
+java/util/concurrent/CopyOnWriteArrayList/iterator(  0,00962
+android/graphics/Canvas/scale(float  0,00962
+android/app/Activity/finish()  0,00962
+android/content/Context/startActivities(android.content.Intent[  0,00962
+android/support/v7/widget/SearchView$SearchAutoComplete/setImeOptions(int)  0,00962
+android/view/View/getLeft(  0,00962
+java/lang/Object/getClass()  0,00962
+java/util/ArrayList/set(int  0,00962
+android/support/v7/internal/widget/ActionBarView/getContext()  0,00962
+android/support/v7/internal/widget/ActionBarView$HomeView/setVisibility(int), android/support/v7/internal/widget/ActionBarView/addView(android.view.View), android/support/v7/internal/widget/ActionBarView/requestLayout()  0,00962
+java/util/Iterator/hasNext()  0,00962
+android/view/View/getBottom()  0,00962
+android/graphics/Canvas/translate(float  0,00962
+android/support/v4/view/ViewPager/getPaddingLeft(), java/lang/Math/max(int  0,00962
+android/widget/Scroller/abortAnimation(), java/util/ArrayList/get(int)  0,00962
+java/util/ArrayList/clear()  0,00962
+android/view/View/getTop()  0,00962
+java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,00962
+android/view/View/getParent()  0,00962
+android/view/View/setVisibility(int)  0,00962
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,00962
+android/view/View/getWidth()  0,00962
+java/util/ArrayList/size()  0,00962
+java/lang/StringBuilder/toString()  0,00962

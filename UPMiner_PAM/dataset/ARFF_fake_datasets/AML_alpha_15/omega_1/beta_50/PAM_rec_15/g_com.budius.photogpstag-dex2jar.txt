@@ -1,0 +1,59 @@
+org.api.fake  0,16393
+int  0,16393
+android.os.Parcel  0,08197
+com.google.android.gms.internal.ca)  0,06557
+com.google.android.gms.internal.z  0,06557
+java/lang/StringBuilder/StringBuilder()  0,04918
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,04918
+java/lang/StringBuilder/append(java.lang.String), android/location/Location/getLongitude(), android/location/Location/getAltitude(), android/location/Location/getLatitude(), java/lang/StringBuilder/toString(), android/location/Location/getTime(  0,03279
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/util/HashMap/get(java.lang.Object), java/util/HashMap/keySet(  0,03279
+android.view.ViewGroup  0,03279
+android.app.PendingIntent  0,03279
+long)  0,03279
+byte[[)  0,03279
+java/util/Set/iterator()  0,03279
+java/io/File/File(java.io.File  0,01639
+java/lang/Double/toString(double)  0,01639
+android/widget/TextView/setText(java.lang.CharSequence)  0,01639
+java/util/Date/Date(long)  0,01639
+java/text/DateFormat/format(java.util.Date)  0,01639
+java/util/ArrayList/iterator(), java/io/IOException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Integer/valueOf(int), java/io/File/delete(  0,01639
+java/util/Iterator/next(), java/util/Set/iterator(), java/lang/StringBuilder/length()  0,01639
+java/util/Iterator/next(), java/lang/StringBuilder/append(java.lang.Object)  0,01639
+java/io/File/mkdirs()  0,01639
+java/io/File/exists()  0,01639
+android/content/Intent/putExtra(java.lang.String  0,01639
+java/io/BufferedReader/close(), java/lang/StringBuilder/append(java.lang.String), org/json/JSONArray/JSONArray(), java/io/FileReader/FileReader(java.io.File), java/lang/StringBuilder/toString(), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(  0,01639
+java/io/Reader/close()  0,01639
+org/json/JSONException/getMessage()  0,01639
+java/io/FileNotFoundException/getMessage()  0,01639
+org/json/JSONArray/JSONArray(java.lang.String)  0,01639
+java/util/regex/Matcher/appendTail(java.lang.StringBuffer), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/String/charAt(int), java/util/regex/Matcher/appendReplacement(java.lang.StringBuffer  0,01639
+com/budius/photogpstag/ServiceLogger/getSystemService(java.lang.String), android/location/Location/getLongitude(), android/app/NotificationManager/notify(int  0,01639
+java/lang/Thread/start(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(double), java/lang/Thread/setPriority(int), java/lang/StringBuilder/append(java.lang.String)  0,01639
+java/lang/Thread/Thread(java.lang.Runnable)  0,01639
+java/text/SimpleDateFormat/format(java.lang.Object), java/io/PrintWriter/println(java.lang.String), java/text/NumberFormat/format(double)  0,01639
+java/lang/Long/valueOf(long), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01639
+android/location/Location/setBearing(float), android/location/Location/setSpeed(float), android/location/Location/setAccuracy(float), android/location/Location/setLongitude(double), android/location/Location/setLatitude(double), com/budius/photogpstag/f/optLong(java.lang.String  0,01639
+org/json/JSONArray/toString(), java/lang/StringBuilder/append(java.lang.String), org/json/JSONArray/put(java.lang.Object), java/io/IOException/getMessage(), java/io/FileWriter/FileWriter(java.io.File), java/io/File/delete(), java/io/Writer/flush(  0,01639
+java/io/Writer/close()  0,01639
+java/io/Writer/write(java.lang.String)  0,01639
+android.os.Bundle)  0,01639
+java/lang/StringBuilder/StringBuilder(int)  0,01639
+java/lang/Class/getMethod(java.lang.String  0,01639
+android/os/Parcel/readList(java.util.List  0,01639
+android/app/AlertDialog$Builder/setCancelable(boolean), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence), android/app/AlertDialog$Builder/show(), android/app/AlertDialog$Builder/setNeutralButton(java.lang.CharSequence  0,01639
+java.util.HashMap  0,01639
+com.google.android.gms.internal.an$a  0,01639
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/toString(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(  0,01639
+java/util/LinkedHashMap/entrySet()  0,01639
+java/lang/Class/getName()  0,01639
+android/os/Parcel/setDataPosition(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Integer/valueOf(int), android/os/Parcel/readInt(), java/lang/StringBuilder/toString(), android/os/Parcel/dataPosition(), android/os/Parcel/createStringArrayList(), java/util/Set/add(java.lang.Object  0,01639
+java/lang/StringBuilder/append(int), java/util/HashSet/HashSet()  0,01639
+com/budius/photogpstag/ActivityMain/getSystemService(java.lang.String)  0,01639
+java/lang/StringBuilder/length()  0,01639
+android/location/Location/getLatitude()  0,01639
+java/util/Iterator/hasNext()  0,01639
+java/io/IOException/getMessage()  0,01639
+java/util/Iterator/next()  0,01639
+java/lang/StringBuilder/append(java.lang.String)  0,01639

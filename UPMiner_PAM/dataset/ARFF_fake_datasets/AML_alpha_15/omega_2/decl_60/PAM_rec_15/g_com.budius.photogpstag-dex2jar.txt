@@ -1,0 +1,47 @@
+int  0,13483
+org.api.fake  0,12360
+org.rand.api  0,12360
+android.os.Parcel  0,10112
+com.google.android.gms.internal.ca)  0,06742
+com.google.android.gms.internal.z  0,06742
+android.view.ViewGroup  0,03371
+android.app.PendingIntent  0,03371
+long)  0,03371
+byte[[)  0,03371
+android.os.Bundle)  0,03371
+android/app/AlertDialog$Builder/setCancelable(boolean), com/budius/photogpstag/ActivityMain/getSystemService(java.lang.String), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence), android/app/AlertDialog$Builder/show(), android/app/AlertDialog$Builder/setNeutralButton(java.lang.CharSequence  0,01124
+java/io/File/File(java.io.File  0,01124
+java/lang/Double/toString(double), android/widget/TextView/setText(java.lang.CharSequence), android/location/Location/getAltitude(), java/util/Date/Date(long), java/text/DateFormat/format(java.util.Date), java/lang/StringBuilder/toString(), android/location/Location/getTime(  0,01124
+java/util/ArrayList/iterator(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Integer/valueOf(int), java/io/File/delete(  0,01124
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/HashMap/get(java.lang.Object), java/util/HashMap/keySet(  0,01124
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int), java/lang/StringBuilder/toString(), java/util/Set/iterator(), java/lang/StringBuilder/length(), java/util/HashMap/get(java.lang.Object), java/util/HashMap/keySet(  0,01124
+java/util/Iterator/hasNext(), java/io/File/exists()  0,01124
+java/io/File/mkdirs()  0,01124
+android/content/Intent/putExtra(java.lang.String  0,01124
+java/io/BufferedReader/close(), java/lang/StringBuilder/append(java.lang.String), java/io/IOException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String), org/json/JSONException/getMessage(), java/lang/StringBuilder/toString(), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(  0,01124
+java/io/Reader/close(), java/io/FileNotFoundException/getMessage(), org/json/JSONArray/JSONArray(java.lang.String), java/lang/StringBuilder/StringBuilder(), org/json/JSONArray/JSONArray(), java/lang/StringBuilder/length(), java/io/FileReader/FileReader(java.io.File)  0,01124
+java/util/regex/Matcher/appendTail(java.lang.StringBuffer), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/String/charAt(int), java/util/regex/Matcher/appendReplacement(java.lang.StringBuffer  0,01124
+com/budius/photogpstag/ServiceLogger/getSystemService(java.lang.String), android/location/Location/getLongitude(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), android/app/NotificationManager/notify(int  0,01124
+java/lang/Thread/start(), java/lang/Thread/Thread(java.lang.Runnable), java/lang/StringBuilder/append(double), android/location/Location/getLatitude(), java/lang/Thread/setPriority(int)  0,01124
+java/text/SimpleDateFormat/format(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/location/Location/getLongitude(), android/location/Location/getLatitude(), java/lang/StringBuilder/toString(), android/location/Location/getTime(  0,01124
+java/lang/Long/valueOf(long), android/location/Location/getAltitude(), java/text/NumberFormat/format(double)  0,01124
+java/io/PrintWriter/println(java.lang.String)  0,01124
+android/location/Location/setBearing(float), android/location/Location/setSpeed(float), android/location/Location/setAccuracy(float), android/location/Location/setLongitude(double), android/location/Location/setLatitude(double), com/budius/photogpstag/f/optLong(java.lang.String  0,01124
+org/json/JSONArray/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/Writer/close(), java/io/IOException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/FileWriter/FileWriter(java.io.File), java/io/File/delete(), java/io/Writer/flush(  0,01124
+java/io/Writer/write(java.lang.String), org/json/JSONArray/put(java.lang.Object)  0,01124
+java/lang/Class/getMethod(java.lang.String  0,01124
+android/os/Parcel/readList(java.util.List  0,01124
+java.util.HashMap  0,01124
+com.google.android.gms.internal.an$a  0,01124
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getValue(  0,01124
+java/util/LinkedHashMap/entrySet(), java/lang/Class/getName(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object), java/util/Map$Entry/getKey(), java/lang/Object/getClass()  0,01124
+android/os/Parcel/setDataPosition(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Integer/valueOf(int), android/os/Parcel/readInt(), java/lang/StringBuilder/toString(), android/os/Parcel/dataPosition(), android/os/Parcel/createStringArrayList(), java/util/Set/add(java.lang.Object  0,01124
+java/lang/StringBuilder/append(int), java/util/HashSet/HashSet()  0,01124
+android/location/Location/getLongitude()  0,01124
+android/location/Location/getLatitude()  0,01124
+java/io/IOException/getMessage()  0,01124
+java/util/Set/iterator()  0,01124
+java/util/Iterator/next()  0,01124
+java/lang/StringBuilder/StringBuilder()  0,01124
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01124
+java/lang/StringBuilder/append(java.lang.String)  0,01124

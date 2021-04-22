@@ -1,0 +1,10 @@
+android/widget/TextView/setText(java.lang.CharSequence)
+android/widget/CheckBox/setChecked(boolean
+java/util/LinkedHashMap/LinkedHashMap(java.util.Map
+org.api.fake
+java/util/Calendar/getTimeInMillis(
+android/app/AlarmManager/set(int,long,android.app.PendingIntent)
+android/app/Activity/onCreate(android.os.Bundle)
+android/widget/Button/setBackgroundColor(int
+com/bogdancornianu/Wake2Radio/MainActivity/getApplicationContext()
+org.rand.api

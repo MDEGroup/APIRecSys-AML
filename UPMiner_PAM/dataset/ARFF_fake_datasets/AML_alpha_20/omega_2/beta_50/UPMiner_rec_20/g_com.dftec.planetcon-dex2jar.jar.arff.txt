@@ -1,0 +1,17 @@
+android/widget/TextView/setText(java.lang.CharSequence)
+java/io/File/File(java.io.File,java.lang.String)
+android/app/AlertDialog/dismiss()
+android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context
+android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence
+com/dftec/planetcon/settings/ColorPicker/getHeight(
+android/content/res/Resources/getString(int)
+java/lang/StringBuilder/toString(
+android/content/SharedPreferences$Editor/commit()
+java/lang/StringBuilder/StringBuilder()
+android/content/Context/getResources()
+android/app/AlertDialog/setCanceledOnTouchOutside(boolean
+java/lang/String/valueOf(int
+java/io/File/toString(
+org.api.fake
+org.rand.api
+android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener

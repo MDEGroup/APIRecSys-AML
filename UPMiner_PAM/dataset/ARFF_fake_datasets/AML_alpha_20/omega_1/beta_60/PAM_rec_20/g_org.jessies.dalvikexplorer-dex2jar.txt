@@ -1,0 +1,41 @@
+java/lang/StringBuilder/toString()  0,13043
+android.view.WindowManager)  0,08696
+java/lang/StringBuilder/StringBuilder()  0,08696
+java/lang/StringBuilder/append(int), org/jessies/dalvikexplorer/FileSystemActivity/setListAdapter(android.widget.ListAdapter), org/jessies/dalvikexplorer/FileSystemActivity/setTitle(java.lang.CharSequence), android/widget/ListAdapter/getCount(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(  0,04348
+org/jessies/dalvikexplorer/TextViewActivity/findViewById(int), android/text/Html/fromHtml(java.lang.String), android/widget/EditText/addTextChangedListener(android.text.TextWatcher), java/lang/String/startsWith(java.lang.String), org/jessies/dalvikexplorer/TextViewActivity/setContentView(int), android/text/util/Linkify/addLinks(android.widget.TextView  0,04348
+java/lang/Thread/isInterrupted(), java/nio/charset/Charset/name(), java/lang/StringBuilder/append(char), java/lang/Thread/currentThread(  0,04348
+java.lang.CharSequence)  0,04348
+org/jessies/dalvikexplorer/DalvikExplorerActivity/getPackageName(), java/util/Arrays/asList(java.lang.Object[), android/app/ListActivity/onCreate(android.os.Bundle), org/jessies/dalvikexplorer/DalvikExplorerActivity/setListAdapter(android.widget.ListAdapter), org/jessies/dalvikexplorer/DalvikExplorerActivity/setTitle(java.lang.CharSequence), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,04348
+java/lang/StringBuilder/StringBuilder(), java/nio/charset/Charset/isRegistered(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object)  0,04348
+android/app/AlertDialog$Builder/setPositiveButton(int  0,04348
+java/io/BufferedReader/close(), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,04348
+java/nio/charset/Charset/aliases(), java/nio/charset/Charset/canEncode(), java/lang/Boolean/valueOf(boolean), org/jessies/dalvikexplorer/CharsetActivity/append(java.lang.StringBuilder  0,04348
+java/nio/charset/Charset/displayName()  0,04348
+java/nio/charset/Charset/forName(java.lang.String)  0,04348
+java/util/Set/size()  0,04348
+java.util.TimeZone)  0,04348
+java/lang/String/split(java.lang.String), java/lang/String/length(), java/util/TimeZone/getOffset(long), java/io/InputStream/close(), java/util/Locale/getDefault(), java/util/TimeZone/getDefault(), android/content/res/Resources/openRawResource(int), android/util/TimeUtils/getTimeZoneDatabaseVersion(), org/jessies/dalvikexplorer/TimeZoneActivity/getResources(), java/text/DateFormat/setTimeZone(java.util.TimeZone), java/lang/String/replaceAll(java.lang.String  0,04348
+java.lang.String  0,04348
+java.text.DecimalFormatSymbols)  0,04348
+java/text/NumberFormat/getCurrencyInstance(java.util.Locale), java/lang/String/length(), java/util/Calendar/getFirstDayOfWeek(), java/util/Locale/getDisplayLanguage(java.util.Locale), java/util/Locale/getDisplayVariant(), java/text/NumberFormat/getPercentInstance(java.util.Locale), java/util/Locale/getVariant(), java/util/Locale/getISO3Language(), java/text/DateFormatSymbols/getShortMonths(), java/util/Locale/getISO3Country(), java/text/DateFormatSymbols/getEras(), java/lang/Class/getSimpleName(), java/util/Locale/getDisplayVariant(java.util.Locale), java/util/Calendar/getMinimalDaysInFirstWeek()  0,04348
+java/text/DecimalFormat/getDecimalFormatSymbols(), java/text/DateFormatSymbols/getAmPmStrings(), java/util/Locale/getLanguage(), java/text/DateFormat/getTimeInstance(int  0,04348
+java/util/ArrayList/ArrayList(), java/nio/charset/Charset/aliases(), java/util/List/addAll(java.util.Collection), java/util/List/add(java.lang.Object), java/util/List/add(int  0,04348
+java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,04348
+android/content/Intent/putExtra(java.lang.String  0,04348
+java/util/ArrayList/ArrayList(int), java/util/Locale/getLanguage(), java/util/TreeSet/TreeSet()  0,04348
+java/util/ArrayList/ArrayList(int), java/lang/String/toLowerCase(java.util.Locale), java/util/ArrayList/add(java.lang.Object), java/util/Locale/getDefault(), java/util/ArrayList/get(int), java/lang/Object/toString(), java/util/ArrayList/ArrayList(java.util.Collection  0,04348
+java/util/ArrayList/ArrayList(int), java/util/Iterator/hasNext(), java/util/List/size(), java/util/Iterator/next(), org/jessies/dalvikexplorer/SensorsActivity/getSystemService(java.lang.String), java/util/List/iterator(), android/hardware/Sensor/getType(), android/hardware/SensorManager/getSensorList(int), java/util/ArrayList/add(java.lang.Object  0,04348
+android/widget/Filter$FilterResults/Filter$FilterResults(), java/lang/String/contains(java.lang.CharSequence)  0,04348
+java/lang/CharSequence/length(), java/util/ArrayList/size()  0,04348
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/Arrays/toString(float[), java/lang/Float/valueOf(float), java/lang/String/format(java.util.Locale  0,04348
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/Locale/Locale(java.lang.String), java/util/Locale/getDisplayLanguage(), org/jessies/dalvikexplorer/LocaleCountriesActivity/setListAdapter(android.widget.ListAdapter), android/content/Intent/getStringExtra(java.lang.String), org/jessies/dalvikexplorer/LocaleCountriesActivity/getIntent(  0,04348
+java/lang/StringBuilder/append(java.lang.String), org/jessies/dalvikexplorer/DalvikExplorerActivity/getPackageManager(), java/lang/StringBuilder/StringBuilder()  0,04348
+java/lang/StringBuilder/append(java.lang.String), java/util/TimeZone/inDaylightTime(java.util.Date), java/lang/StringBuilder/toString()  0,04348
+java/util/Iterator/hasNext(), java/util/SortedMap/values(), java/util/Iterator/next(), java/lang/String/equals(java.lang.Object), java/util/Collections/sort(java.util.List)  0,04348
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/toString()  0,04348
+java/util/Iterator/hasNext(), java/util/Locale/getAvailableLocales(), java/util/Iterator/next(), java/util/TreeSet/add(java.lang.Object), java/util/Locale/Locale(java.lang.String), java/util/TreeSet/iterator(), java/util/Locale/getDefault(  0,04348
+org/jessies/dalvikexplorer/LocaleCountriesActivity/setTitle(java.lang.CharSequence)  0,04348
+android/content/Intent/getStringExtra(java.lang.String)  0,04348
+java/util/ArrayList/add(java.lang.Object)  0,04348
+java/util/List/size()  0,04348
+java/util/List/iterator()  0,04348

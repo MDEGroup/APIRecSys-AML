@@ -1,0 +1,15 @@
+android/content/res/Resources$Theme/obtainStyledAttributes(int[])
+org/kde/necessitas/ministro/IMinistroCallback/asBinder()
+java/lang/Class/forName(java.lang.String)
+org/json/JSONObject/put(java.lang.String,int)
+java/lang/reflect/Field/getFloat(java.lang.Object
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+org/json/JSONObject/put(java.lang.String,java.lang.Object)
+android/graphics/drawable/LayerDrawable/getNumberOfLayers()
+android/content/res/TypedArray/getDimensionPixelSize(int,int
+org.api.fake
+android/view/View/getContext()
+java/lang/Class/getDeclaredField(java.lang.String)
+android/util/Log/w(java.lang.String,java.lang.String)
+android/content/Context/getTheme()

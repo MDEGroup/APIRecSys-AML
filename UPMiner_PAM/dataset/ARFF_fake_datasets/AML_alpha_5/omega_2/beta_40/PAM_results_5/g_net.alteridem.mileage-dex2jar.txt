@@ -1,0 +1,99 @@
+prob: 0,10000
+[java/lang/String/format(java.lang.String]
+
+prob: 0,05000
+[java/lang/String/isEmpty(), net/alteridem/mileage/dialogs/VehicleDialog/getActivity(), net/alteridem/mileage/dialogs/VehicleDialog/dismiss(), net/alteridem/mileage/dialogs/VehicleDialog/getString(int), net/alteridem/mileage/data/DbHelper/getWritableDatabase(), android/widget/EditText/setError(java.lang.CharSequence]
+
+prob: 0,05000
+[android.view.View]
+
+prob: 0,05000
+[android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), net/alteridem/mileage/activities/VehicleActivity/getActionBar(), android/app/ActionBar/newTab(), java/lang/Boolean/valueOf(boolean), android/app/ActionBar/addTab(android.app.ActionBar$Tab), android/app/ActionBar$Tab/setText(int), java/lang/Boolean/booleanValue(), android/app/ActionBar$Tab/setTabListener(android.app.ActionBar$TabListener), android/app/ActionBar/setNavigationMode(int), net/alteridem/mileage/activities/VehicleActivity/findViewById(int), net/alteridem/mileage/MileagePreferences_/getSharedPreferences(]
+
+prob: 0,05000
+[boolean)]
+
+prob: 0,05000
+[org/xmlpull/v1/XmlPullParser/require(int]
+
+prob: 0,05000
+[org/xmlpull/v1/XmlSerializer/text(java.lang.String), org/xmlpull/v1/XmlSerializer/endTag(java.lang.String]
+
+prob: 0,05000
+[android/widget/TextView/setText(java.lang.CharSequence)]
+
+prob: 0,05000
+[net/alteridem/mileage/dialogs/EntryDialog/getDialog()]
+
+prob: 0,05000
+[java/lang/Object/toString(), net/alteridem/mileage/dialogs/EntryDialog/getString(int), net/alteridem/mileage/dialogs/EntryDialog/getActivity(), android/widget/Spinner/getSelectedItem(), net/alteridem/mileage/dialogs/EntryDialog/dismiss(), android/widget/EditText/setError(java.lang.CharSequence), android/widget/Spinner/getSelectedItemPosition(), android/widget/TextView/getText(), java/util/Date/Date(int]
+
+prob: 0,05000
+[java/lang/CharSequence/toString(), java/lang/Double/parseDouble(java.lang.String), net/alteridem/mileage/data/DbHelper/getWritableDatabase()]
+
+prob: 0,05000
+[net/alteridem/mileage/data/DbHelper/getWritableDatabase(), android/widget/ArrayAdapter/setDropDownViewResource(int), java/lang/String/valueOf(double), android/app/Dialog/getWindow(), android/widget/ArrayAdapter/createFromResource(android.content.Context]
+
+prob: 0,05000
+[android/content/res/Resources/getString(int), java/lang/Double/valueOf(double), net/alteridem/mileage/fragments/StatisticsFragment/getResources(), java/util/List/add(java.lang.Object), net/alteridem/mileage/fragments/StatisticsFragment/getActivity(), android/widget/ListView/setAdapter(android.widget.ListAdapter), java/util/ArrayList/ArrayList(), java/lang/String/format(java.lang.String]
+
+prob: 0,05000
+[android/view/Window/getDecorView(), java/lang/CharSequence/toString(), android/app/Activity/getTitle(), java/lang/StringBuilder/StringBuilder(), java/lang/Object/getClass(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/System/identityHashCode(java.lang.Object), java/lang/Class/getCanonicalName(), android/app/Activity/getWindow(]
+
+prob: 0,05000
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/StringBuilder/append(int)]
+
+prob: 0,05000
+[android/widget/EditText/setOnEditorActionListener(android.widget.TextView$OnEditorActionListener), net/alteridem/mileage/dialogs/VehicleDialog/getActivity(), android/widget/Spinner/setSelection(int]
+
+prob: 0,05000
+[net/alteridem/mileage/activities/VehicleActivity_/deleteVehicle(), net/alteridem/mileage/activities/VehicleActivity_/editVehicle(), net/alteridem/mileage/activities/VehicleActivity/onOptionsItemSelected(android.view.MenuItem), android/view/MenuItem/getItemId(), net/alteridem/mileage/activities/VehicleActivity_/showHelp(), net/alteridem/mileage/activities/VehicleActivity_/showSettings(), net/alteridem/mileage/activities/VehicleActivity_/rateApplication(), net/alteridem/mileage/activities/VehicleActivity_/addVehicle(), net/alteridem/mileage/activities/VehicleActivity_/enterFillUp(]
+
+prob: 0,05000
+[net/alteridem/mileage/dialogs/VehicleDialog/getDialog(), android/widget/EditText/setText(java.lang.CharSequence), android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter), android/app/Dialog/setTitle(java.lang.CharSequence), android/view/Window/setSoftInputMode(int), android/app/Dialog/getWindow(), android/widget/EditText/requestFocus()]
+
+prob: 0,05000
+[java/util/concurrent/locks/ReentrantReadWriteLock/readLock(), java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/lang/System/identityHashCode(java.lang.Object), java/util/Set/iterator(), java/util/concurrent/locks/ReentrantReadWriteLock$ReadLock/lock(), java/util/HashMap/entrySet(), java/util/Iterator/next(), java/util/concurrent/locks/ReentrantReadWriteLock$ReadLock/unlock(]
+
+prob: 0,05000
+[java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/io/BufferedWriter/append(java.lang.CharSequence), java/lang/System/identityHashCode(java.lang.Object), java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream), java/io/BufferedWriter/write(int), java/util/concurrent/locks/ReentrantReadWriteLock/readLock(), java/io/BufferedWriter/BufferedWriter(java.io.Writer]
+
+prob: 0,05000
+[java/lang/Integer/toHexString(int), java/util/Set/iterator(), java/net/Socket/getOutputStream(), java/util/concurrent/locks/ReentrantReadWriteLock$ReadLock/lock(), java/util/Map$Entry/getValue(), java/io/BufferedWriter/flush()]
+
+prob: 0,05000
+[java/lang/Integer/toHexString(int), java/util/concurrent/locks/ReentrantReadWriteLock$ReadLock/lock(), java/util/HashMap/get(java.lang.Object)]
+
+prob: 0,05000
+[java.lang.String]
+
+prob: 0,05000
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/io/IOException/printStackTrace(), java/net/Socket/getInputStream(), java/lang/String/substring(int]
+
+prob: 0,05000
+[android/util/Log/w(java.lang.String]
+
+prob: 0,05000
+[java/util/concurrent/locks/ReentrantReadWriteLock$ReadLock/unlock(), java/io/BufferedWriter/close(), java/io/BufferedWriter/write(java.lang.String), java/net/Socket/getOutputStream(), java/io/BufferedWriter/flush()]
+
+prob: 0,05000
+[android/view/Window/setSoftInputMode(int)]
+
+prob: 0,05000
+[android/widget/EditText/requestFocus()]
+
+prob: 0,05000
+[net/alteridem/mileage/dialogs/VehicleDialog/getString(int)]
+
+prob: 0,05000
+[java/io/BufferedWriter/append(java.lang.CharSequence), java/lang/System/identityHashCode(java.lang.Object), java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream), java/io/BufferedWriter/write(int), java/util/concurrent/locks/ReentrantReadWriteLock/readLock(), java/io/BufferedWriter/BufferedWriter(java.io.Writer]
+
+prob: 0,05000
+[java/io/BufferedWriter/close()]
+
+prob: 0,05000
+[java/io/BufferedWriter/write(java.lang.String)]
+
+prob: 0,05000
+[net/alteridem/mileage/data/DbHelper/getWritableDatabase()]
+

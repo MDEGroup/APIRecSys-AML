@@ -1,0 +1,10 @@
+android/os/Handler/postDelayed(java.lang.Runnable,long)
+org/cocos2dx/lib/Cocos2dxActivity/getResources(
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/io/ByteArrayOutputStream/toByteArray(
+android/graphics/Paint/getFontMetricsInt(
+android/app/AlertDialog$Builder/setCancelable(boolean)
+java/util/Set/iterator(
+java/lang/Math/ceil(double)
+java/io/DataInputStream/read(byte[],int,int)
+android/widget/TextView/TextView(android.content.Context

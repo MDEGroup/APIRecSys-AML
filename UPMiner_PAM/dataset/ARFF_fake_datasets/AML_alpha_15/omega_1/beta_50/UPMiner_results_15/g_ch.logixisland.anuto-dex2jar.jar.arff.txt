@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Iterator/hasNext()
+org.api.fake
+android/graphics/Matrix/reset()

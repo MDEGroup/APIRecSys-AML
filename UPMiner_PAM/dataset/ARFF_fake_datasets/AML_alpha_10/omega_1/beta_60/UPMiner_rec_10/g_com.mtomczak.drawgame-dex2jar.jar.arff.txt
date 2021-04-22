@@ -1,0 +1,10 @@
+javax/xml/parsers/SAXParserFactory/newInstance()
+android/graphics/LinearGradient/setLocalMatrix(android.graphics.Matrix
+java/util/Date/Date()
+android/view/View/onDraw(android.graphics.Canvas
+org/xml/sax/InputSource/InputSource(java.io.InputStream
+java/util/HashMap/clear()
+com/mtomczak/drawgame/Drawgame/getSystemService(java.lang.String)
+android/graphics/Path/rMoveTo(float,float)
+android/graphics/Path/moveTo(float,float
+android/app/Activity/onCreate(android.os.Bundle

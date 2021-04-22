@@ -1,0 +1,12 @@
+android/view/KeyEvent/getRepeatCount()
+org.api.fake
+aws/apps/keyeventdisplay/monitors/LogCatMonitor/execute(java.lang.String[])
+java/lang/StringBuilder/toString(
+java/lang/String/valueOf(java.lang.Object)
+aws/apps/keyeventdisplay/monitors/LogCatMonitor/start(
+java/lang/StringBuilder/append(java.lang.String)
+android/text/method/LinkMovementMethod/getInstance()
+java/io/BufferedReader/BufferedReader(java.io.Reader,int
+aws/apps/keyeventdisplay/monitors/KernelLogMonitor/start()
+android/view/KeyEvent/getKeyCode(
+android/widget/TextView/TextView(android.content.Context

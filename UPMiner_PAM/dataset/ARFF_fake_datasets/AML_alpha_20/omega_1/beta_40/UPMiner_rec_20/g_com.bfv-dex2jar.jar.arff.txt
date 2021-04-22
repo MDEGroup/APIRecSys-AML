@@ -1,0 +1,9 @@
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)
+java/lang/String/equals(java.lang.Object)
+android/graphics/Canvas/rotate(float)
+org.api.fake
+android/widget/ArrayAdapter/add(java.lang.Object)
+java/lang/StringBuilder/toString()
+java/util/ArrayList/get(int)
+java/util/ArrayList/size()
+java/lang/StringBuilder/append(java.lang.String)

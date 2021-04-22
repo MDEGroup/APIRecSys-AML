@@ -1,0 +1,43 @@
+int)  0,13793
+int  0,06897
+android/content/Intent/getIntExtra(java.lang.String  0,03448
+com/seleuco/mame4all/views/InputView/requestLayout(), android/view/View/invalidate(), android/view/View/requestLayout(), com/seleuco/mame4all/views/InputView/setVisibility(int), java/lang/Integer/valueOf(java.lang.String  0,03448
+android/graphics/Canvas/getClipBounds(), android/graphics/Paint/setStyle(android.graphics.Paint$Style), android/graphics/Paint/setARGB(int  0,03448
+java/util/zip/ZipInputStream/ZipInputStream(java.io.InputStream), com/seleuco/mame4all/MAME4all/getResources(), java/io/BufferedOutputStream/write(byte[  0,03448
+java/io/File/createNewFile(), java/lang/StringBuilder/append(java.lang.String), java/util/zip/ZipEntry/isDirectory(), java/io/FileOutputStream/FileOutputStream(java.lang.String), java/io/File/File(java.lang.String)  0,03448
+com/seleuco/mame4all/views/InputView/setAlpha(int), com/seleuco/mame4all/MAME4all/getResources(), com/seleuco/mame4all/views/InputView/requestFocus()  0,03448
+java/lang/String/valueOf(java.lang.Object), java/lang/Exception/printStackTrace(), java/io/File/mkdirs(), java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream), java/util/zip/ZipInputStream/getNextEntry(), android/content/res/Resources/openRawResource(int), java/util/zip/ZipEntry/getName(), java/io/BufferedOutputStream/flush(), java/io/File/exists(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,03448
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuffer/toString(), java/lang/StringBuffer/StringBuffer(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), java/lang/String/valueOf(int  0,03448
+java/lang/StringBuilder/append(java.lang.String), android/view/MotionEvent/getPointerCount(), android/view/MotionEvent/getAction(), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String  0,03448
+com/seleuco/mame4all/views/FilterView/requestLayout(), com/seleuco/mame4all/views/FilterView/invalidate(), com/seleuco/mame4all/MAME4all/showDialog(int)  0,03448
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), com/seleuco/mame4all/views/InputView/invalidate(), com/seleuco/mame4all/MAME4all/getWindowManager()  0,03448
+android/view/View/getLayoutParams(), com/seleuco/mame4all/MAME4all/getResources(), android/view/View/setBackgroundDrawable(android.graphics.drawable.Drawable), com/seleuco/mame4all/views/FilterView/getLayoutParams(), com/seleuco/mame4all/MAME4all/findViewById(int), android/content/res/Resources/getConfiguration(), android/widget/FrameLayout$LayoutParams/setMargins(int  0,03448
+android/content/res/Resources/getDrawable(int), java/lang/Integer/intValue(), com/seleuco/mame4all/views/InputView/bringToFront()  0,03448
+boolean)  0,03448
+com/seleuco/mame4all/MAME4all/getLayoutInflater(), android/graphics/drawable/BitmapDrawable/setTileModeXY(android.graphics.Shader$TileMode  0,03448
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,03448
+android/app/AlertDialog$Builder/setCancelable(boolean), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,03448
+android/graphics/drawable/BitmapDrawable/setBounds(android.graphics.Rect), android/graphics/Canvas/drawText(java.lang.String  0,03448
+android/view/MotionEvent/getY(int), android/view/MotionEvent/getX(int), android/view/MotionEvent/getPointerId(int), com/seleuco/mame4all/input/InputHandlerExt/handleImageStates(), com/seleuco/mame4all/MAME4all/showDialog(int), android/view/MotionEvent/getAction(), com/seleuco/mame4all/input/InputHandlerExt/getButtonValue(int  0,03448
+com/seleuco/mame4all/input/InputHandlerExt/getStickValue(int), java/util/ArrayList/size(), java/util/ArrayList/get(int), android/view/MotionEvent/getPointerCount()  0,03448
+com/seleuco/mame4all/prefs/KeySelect/setContentView(android.view.View  0,03448
+android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,03448
+java.util.ArrayList)  0,03448
+java/lang/StringBuffer/append(java.lang.String)  0,03448
+java/lang/String/split(java.lang.String), android/view/View/setVisibility(int), com/seleuco/mame4all/views/InputView/invalidate()  0,03448
+java/nio/ShortBuffer/allocate(int), java/nio/ByteBuffer/asShortBuffer(), javax/microedition/khronos/opengles/GL10/glTexSubImage2D(int  0,03448
+javax/microedition/khronos/opengles/GL10/glBindTexture(int  0,03448
+java/nio/ByteOrder/nativeOrder(), java/nio/ByteBuffer/asShortBuffer(), java/nio/FloatBuffer/position(int), java/nio/ShortBuffer/position(int), java/nio/ShortBuffer/put(short), java/nio/FloatBuffer/put(float  0,03448
+java/nio/ByteBuffer/order(java.nio.ByteOrder), java/nio/ByteBuffer/allocateDirect(int), java/nio/ByteBuffer/asFloatBuffer()  0,03448
+java/lang/Math/toDegrees(double), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/text/DecimalFormat/format(double  0,03448
+java/lang/Math/abs(float), android/view/WindowManager/getDefaultDisplay(), android/view/Display/getRotation(), java/lang/StringBuilder/append(float), java/lang/Math/atan(double)  0,03448
+android/graphics/Canvas/concat(android.graphics.Matrix), android/graphics/Canvas/drawText(java.lang.String  0,03448
+android.preference.Preference)  0,03448
+com/seleuco/mame4all/prefs/UserPreferences/getPreferenceScreen(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/preference/ListPreference/getEntry(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(  0,03448
+android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), android/preference/PreferenceScreen/getSharedPreferences(), android/preference/ListPreference/setSummary(java.lang.CharSequence), android/preference/PreferenceActivity/onResume()  0,03448
+android/content/res/Resources/getDrawable(int)  0,03448
+android/view/MotionEvent/getY(int), android/view/MotionEvent/getX(int), android/view/MotionEvent/getPointerId(int)  0,03448
+java/util/ArrayList/size()  0,03448
+java/util/ArrayList/get(int)  0,03448
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString()  0,03448
+android/graphics/Canvas/drawText(java.lang.String  0,03448

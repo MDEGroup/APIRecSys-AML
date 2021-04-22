@@ -1,0 +1,12 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+dalvik/system/DexClassLoader/DexClassLoader(java.lang.String,java.lang.String,java.lang.String,java.lang.ClassLoader)
+java/io/BufferedOutputStream/BufferedOutputStream(java.io.OutputStream,int
+java/net/Socket/getInputStream()
+org/kde/necessitas/origo/QtActivity/finish(
+org/kflog/cumulus/CumulusActivity/isFinishing()
+org/kflog/cumulus/CumulusActivity/stopService(android.content.Intent
+java/lang/StringBuffer/append(float
+java/lang/System/loadLibrary(java.lang.String
+android/util/Log/w(java.lang.String,java.lang.String)
+android/content/ActivityNotFoundException/getMessage(
+org/kflog/cumulus/CumulusActivity/getWindowManager()

@@ -1,0 +1,13 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/io/PrintWriter/print(boolean)
+android/graphics/Canvas/restoreToCount(int)
+java/util/ArrayList/remove(int)
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+android/support/v4/widget/SwipeRefreshLayout/isInEditMode()
+java/lang/Math/min(float,float)
+android/view/View/getVisibility()
+org.api.fake
+android/view/View/getLayoutParams()
+android/util/Log/v(java.lang.String,java.lang.String)

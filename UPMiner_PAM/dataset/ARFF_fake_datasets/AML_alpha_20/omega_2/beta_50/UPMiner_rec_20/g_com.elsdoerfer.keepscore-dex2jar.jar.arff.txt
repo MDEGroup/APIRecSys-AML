@@ -1,0 +1,9 @@
+com/elsdoerfer/keepscore/Setup/findViewById(int)
+android/app/AlertDialog$Builder/setIcon(int)
+android/app/AlertDialog$Builder/setNegativeButton(int,android.content.DialogInterface$OnClickListener
+org.api.fake
+java/lang/StringBuilder/toString(
+android/database/Cursor/moveToFirst(
+android/database/Cursor/getInt(int
+java/lang/StringBuilder/StringBuilder(java.lang.String
+org.rand.api

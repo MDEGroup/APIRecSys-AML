@@ -1,0 +1,7 @@
+android/widget/TextView/setText(java.lang.CharSequence)
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+org.api.fake
+android/content/res/Resources/getString(int)
+android/text/TextPaint/setTextSize(float)
+java/lang/StringBuilder/append(java.lang.String)
+org.rand.api

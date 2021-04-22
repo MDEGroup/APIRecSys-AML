@@ -1,0 +1,10 @@
+java/util/Map$Entry/getValue(
+java/util/List/size()
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/StringBuilder(
+android/net/Uri/encode(java.lang.String)
+android/os/Parcel/readException(
+android/os/Parcel/writeLong(long)
+org/xmlpull/v1/XmlSerializer/text(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+android/database/Cursor/isAfterLast(

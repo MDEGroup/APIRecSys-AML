@@ -1,0 +1,8 @@
+android/app/ActivityManager/getMemoryInfo(android.app.ActivityManager$MemoryInfo)
+android/widget/Toast/makeText(android.content.Context,java.lang.CharSequence,int
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/util/List/iterator(
+java/lang/Exception/printStackTrace(
+android/content/SharedPreferences/edit()
+android/content/res/Resources/getString(int)
+java/util/Locale/setDefault(java.util.Locale

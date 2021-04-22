@@ -1,0 +1,8 @@
+java/util/List/get(int)
+org.api.fake
+java/util/Iterator/hasNext()
+android/graphics/Matrix/reset()
+ch/logixisland/anuto/view/game/TowerInfoFragment/getResources()
+android/content/res/Resources/getString(int
+java/lang/StringBuilder/append(java.lang.String)
+org.rand.api

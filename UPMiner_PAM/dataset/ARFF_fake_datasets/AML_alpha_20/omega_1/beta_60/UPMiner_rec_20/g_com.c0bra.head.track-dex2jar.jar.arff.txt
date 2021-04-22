@@ -1,0 +1,13 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+android/widget/Scroller/computeScrollOffset()
+java/util/ArrayList/get(int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+android/view/View/getVisibility()
+org.api.fake
+android/support/v4/view/ViewPager/getPaddingTop()
+android/widget/Scroller/isFinished()
+java/util/ArrayList/size()
+android/support/v4/view/ViewPager/getWidth()
+android/util/Log/v(java.lang.String,java.lang.String)
+android/view/MotionEvent/getEdgeFlags()

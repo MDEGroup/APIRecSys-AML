@@ -1,0 +1,10 @@
+android/view/View/getVisibility()
+org.api.fake
+android/support/v4/view/ViewPager/getScrollX()
+android/view/View/getLayoutParams()
+android/graphics/Canvas/translate(float,float)
+java/util/ArrayList/size()
+java/util/ArrayList/add(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+android/support/v4/view/ViewPager/scrollTo(int,int)
+android/util/Log/v(java.lang.String,java.lang.String)

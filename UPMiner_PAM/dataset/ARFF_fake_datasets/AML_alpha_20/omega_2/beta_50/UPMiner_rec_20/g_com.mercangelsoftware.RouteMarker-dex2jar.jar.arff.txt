@@ -1,0 +1,4 @@
+android/app/AlertDialog$Builder/show(
+com/mercangelsoftware/RouteMarker/MainActivity/setContentView(int)
+java/lang/StringBuffer/StringBuffer(
+android/hardware/SensorManager/getOrientation(float[],float[])

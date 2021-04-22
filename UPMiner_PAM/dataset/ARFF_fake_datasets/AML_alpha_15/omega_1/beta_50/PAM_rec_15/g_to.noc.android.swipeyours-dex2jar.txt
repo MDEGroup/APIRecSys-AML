@@ -1,0 +1,140 @@
+int  0,06299
+java.lang.String  0,03937
+org.threeten.bp.format.ResolverStyle)  0,03937
+java.util.Map  0,03150
+java.text.ParsePosition)  0,03150
+java.lang.CharSequence  0,03150
+java/lang/StringBuilder/append(java.lang.String)  0,03150
+java.lang.Object[)  0,02362
+int)  0,02362
+java.lang.StringBuilder)  0,02362
+java.lang.Object  0,02362
+java.lang.Class  0,02362
+java/lang/String/length()  0,02362
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,02362
+java/lang/StringBuilder/toString()  0,02362
+java/util/Locale/getVariant(), java/util/Collections/emptyList(), java/lang/String/equals(java.lang.Object), java/util/concurrent/ConcurrentMap/get(java.lang.Object)  0,01575
+java.util.Map)  0,01575
+java.lang.reflect.Type)  0,01575
+java.util.SortedMap)  0,01575
+int[)  0,01575
+java.util.Locale)  0,01575
+java/util/ArrayList/ArrayList(), java/util/List/size(), java/util/List/get(int), java/util/concurrent/ConcurrentMap/putIfAbsent(java.lang.Object  0,01575
+java.util.Calendar  0,01575
+java/lang/String/length(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int  0,01575
+java/util/Map/put(java.lang.Object  0,01575
+java/lang/String/substring(int  0,01575
+java/util/List/add(java.lang.Object)  0,01575
+java/lang/StringBuilder/append(java.lang.Object)  0,01575
+java/util/Iterator/next()  0,01575
+org.threeten.bp.format.FormatStyle  0,00787
+java/math/BigInteger/divideAndRemainder(java.math.BigInteger), java/math/BigInteger/longValue(), java/math/BigDecimal/toBigIntegerExact(), java/lang/StringBuilder/append(java.lang.Object), java/math/BigDecimal/movePointRight(int  0,00787
+java/lang/ArithmeticException/ArithmeticException(java.lang.String)  0,00787
+java/math/BigInteger/intValue()  0,00787
+java/math/BigInteger/bitLength()  0,00787
+to/noc/android/swipeyours/MainActivity/findViewById(int), java/lang/Class/getCanonicalName(), android/nfc/cardemulation/CardEmulation/isDefaultServiceForCategory(android.content.ComponentName  0,00787
+java/lang/Math/max(int  0,00787
+java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/util/Map/get(java.lang.Object), java/util/List/iterator(), java/lang/StringBuilder/toString(), java/util/SortedMap/put(java.lang.Object  0,00787
+java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(), java/util/Map$Entry/getKey(), java/lang/Long/longValue(), java/lang/StringBuilder/append(java.lang.Object)  0,00787
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map/entrySet(), java/lang/StringBuilder/append(java.lang.Object)  0,00787
+java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/HashMap/entrySet(), java/util/Map$Entry/getValue(), java/util/Iterator/next(), java/util/HashMap/put(java.lang.Object  0,00787
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Iterator/next(), java/util/Map/keySet(), java/lang/Long/longValue()  0,00787
+java/io/File/isDirectory(), java/lang/String/length(), java/util/zip/ZipFile/getInputStream(java.util.zip.ZipEntry), java/io/File/File(java.lang.String  0,00787
+java/util/Map/get(java.lang.Object), java/lang/StringBuilder/append(long), java/util/Set/iterator(  0,00787
+java/lang/String/isEmpty()  0,00787
+java/io/DataInputStream/readUTF(), java/io/DataInputStream/readByte(), java/net/URL/openStream(), java/util/Arrays/asList(java.lang.Object[), java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/InputStream/close(), java/io/DataInputStream/readShort(), java/io/DataInputStream/readFully(byte[), java/util/Set/add(java.lang.Object), java/util/Set/addAll(java.util.Collection), java/util/HashSet/HashSet(int), java/io/StreamCorruptedException/StreamCorruptedException(java.lang.String), java/util/concurrent/atomic/AtomicReferenceArray/AtomicReferenceArray(java.lang.Object[), java/lang/String/equals(java.lang.Object  0,00787
+java/lang/StringBuilder/append(long), java/util/Map$Entry/getValue(  0,00787
+java/net/URL/toExternalForm(), java/util/Iterator/hasNext(), java/util/concurrent/ConcurrentNavigableMap/putIfAbsent(java.lang.Object  0,00787
+java.lang.Integer  0,00787
+java.util.Formatter  0,00787
+java/nio/ByteBuffer/put(byte[), java/nio/ByteBuffer/put(byte), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/String/replace(char  0,00787
+java/util/regex/Matcher/matches()  0,00787
+java/text/DateFormatSymbols/getEras(), java/text/DateFormatSymbols/getWeekdays(), java/text/DateFormatSymbols/getShortMonths(), java/text/DateFormatSymbols/getMonths(), java/text/DateFormatSymbols/getShortWeekdays(), java/lang/StringBuilder/toString(  0,00787
+org.apache.commons.lang3.ClassUtils$Interfaces)  0,00787
+java.lang.String[  0,00787
+org.threeten.bp.temporal.TemporalAccessor  0,00787
+java/lang/Object/toString(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/List/size(), java/lang/StringBuilder/length(), java/util/List/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(int  0,00787
+us/fatehi/creditcardnumber/ServiceCode2/getDescription(), java/lang/StringBuilder/toString(  0,00787
+to/noc/android/swipeyours/SetCardActivity/findViewById(int), us/fatehi/creditcardnumber/ServiceCode3/getValue(), us/fatehi/creditcardnumber/CardBrand/name(), us/fatehi/creditcardnumber/ServiceCode3/getDescription(), java/lang/StringBuilder/StringBuilder(), us/fatehi/creditcardnumber/ServiceCode1/getDescription()  0,00787
+android/view/View/setVisibility(int)  0,00787
+us/fatehi/creditcardnumber/ServiceCode2/getValue()  0,00787
+java/util/Iterator/next(), java/lang/Iterable/iterator()  0,00787
+us/fatehi/creditcardnumber/ServiceCode1/getValue()  0,00787
+java.lang.Object)  0,00787
+org.threeten.bp.format.ResolverStyle  0,00787
+java/util/Calendar/getMaximum(int), java/util/Calendar/getLeastMaximum(int), java/util/Calendar/getMinimum(int), java/lang/StringBuilder/StringBuilder(), java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String), java/lang/Math/min(int  0,00787
+org/threeten/bp/temporal/ChronoField/ordinal()  0,00787
+java/util/Calendar/getGreatestMinimum(int)  0,00787
+java.lang.reflect.GenericArrayType  0,00787
+java.lang.Class)  0,00787
+java/lang/reflect/ParameterizedType/getOwnerType(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,00787
+java/lang/reflect/ParameterizedType/getRawType()  0,00787
+java/lang/reflect/TypeVariable/getGenericDeclaration(), java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/insert(int  0,00787
+java/io/BufferedReader/close(), java/lang/StringBuilder/append(int), java/lang/String/length(), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/util/Map/put(java.lang.Object  0,00787
+java/io/BufferedReader/close(), java/lang/StringBuilder/append(int), java/lang/String/length(), java/lang/String/substring(int  0,00787
+java.util.List  0,00787
+java/lang/Byte/valueOf(byte)  0,00787
+java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/Integer/parseInt(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/StringTokenizer/StringTokenizer(java.lang.String  0,00787
+org.threeten.bp.zone.TzdbZoneRulesCompiler$TZDBMonthDayTime)  0,00787
+java/io/File/getName()  0,00787
+float[)  0,00787
+java/lang/Class/getName(), java/lang/StringBuilder/toString(), java/lang/Object/toString(), java/lang/reflect/ParameterizedType/getActualTypeArguments(  0,00787
+java/lang/Class/getName(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Object/getClass(  0,00787
+short[)  0,00787
+double[)  0,00787
+char[)  0,00787
+long[)  0,00787
+byte[)  0,00787
+boolean[)  0,00787
+java/util/Map/containsKey(java.lang.Object), java/util/List/add(java.lang.Object)  0,00787
+java/util/Iterator/remove(), java/lang/StringBuilder/toString(), java/util/Iterator/next()  0,00787
+java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/StringBuilder/toString(), java/util/Map/put(java.lang.Object  0,00787
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle/setArrayEnd(java.lang.String), org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle/setContentEnd(java.lang.String), org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle/setArrayStart(java.lang.String), org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle/setContentStart(java.lang.String  0,00787
+java/lang/StringBuilder/append(java.lang.String), java/util/SortedMap/get(java.lang.Object), java/util/SortedMap/remove(java.lang.Object)  0,00787
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/substring(int  0,00787
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(char), java/lang/StringBuilder/length(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(long), java/lang/StringBuilder/StringBuilder(int), java/lang/StringBuilder/setCharAt(int  0,00787
+java/util/regex/Matcher/region(int  0,00787
+org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle/setFieldSeparator(java.lang.String), org/apache/commons/lang3/builder/MultilineRecursiveToStringStyle/setArraySeparator(java.lang.String)  0,00787
+java/lang/Class/isArray(), java/lang/reflect/Field/getName(), java/lang/reflect/AccessibleObject/setAccessible(java.lang.reflect.AccessibleObject[  0,00787
+java/lang/Double/isInfinite(), java/lang/Character/isDigit(char), java/lang/String/substring(int  0,00787
+java.util.Locale  0,00787
+org.threeten.bp.temporal.ChronoField  0,00787
+[Ljava/lang/Object;/clone(), java/lang/Class/getComponentType(), java/lang/StringBuilder/append(java.lang.String), java/lang/reflect/Array/newInstance(java.lang.Class  0,00787
+java/util/HashMap/get(java.lang.Object)  0,00787
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/String/toCharArray(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(  0,00787
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/io/ObjectOutputStream/ObjectOutputStream(java.io.OutputStream), java/io/ByteArrayOutputStream/ByteArrayOutputStream(), java/io/ObjectOutputStream/writeObject(java.lang.Object  0,00787
+java/util/ArrayList/ArrayList(), java/text/DateFormatSymbols/getAmPmStrings(), java/text/DateFormatSymbols/DateFormatSymbols(java.util.Locale), java/lang/String/charAt(int), java/lang/StringBuilder/StringBuilder(), java/lang/String/substring(int), java/util/List/add(java.lang.Object), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,00787
+java/util/ArrayList/ArrayList(), java/io/File/File(java.io.File  0,00787
+java/util/ArrayList/ArrayList(), java/lang/String/indexOf(java.lang.String), java/util/StringTokenizer/StringTokenizer(java.lang.String  0,00787
+java/util/ArrayList/ArrayList(), java/util/List/size(), java/util/List/get(int), java/lang/StringBuilder/toString(  0,00787
+java/util/List/add(java.lang.Object), java/util/StringTokenizer/hasMoreTokens()  0,00787
+java/util/StringTokenizer/nextToken()  0,00787
+boolean)  0,00787
+java/lang/Integer/intValue(), java/lang/Long/valueOf(long), java/util/concurrent/atomic/AtomicLong/incrementAndGet(), java/lang/String/format(java.lang.String  0,00787
+java/lang/Throwable/toString(), java/util/List/toArray(java.lang.Object[), java/util/List/add(java.lang.Object)  0,00787
+java.util.ArrayList)  0,00787
+java/util/ArrayList/iterator(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(int)  0,00787
+org/apache/commons/lang3/text/ExtendedMessageFormat/getFormats(), java/text/MessageFormat/toPattern(), java/text/ParsePosition/ParsePosition(int), java/text/MessageFormat/applyPattern(java.lang.String), java/text/ParsePosition/getIndex(), java/text/MessageFormat/setFormats(java.text.Format[)  0,00787
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/setLength(int)  0,00787
+java/lang/String/length(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/String/contains(java.lang.CharSequence), java/lang/StringBuilder/toString(), java/lang/String/split(java.lang.String  0,00787
+java/lang/StringBuilder/StringBuilder(int), java/lang/String/substring(int), java/lang/Character/toTitleCase(char)  0,00787
+java.text.ParsePosition  0,00787
+java/util/ArrayList/ArrayList(int), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,00787
+java/util/ArrayList/toArray(java.lang.Object[), java/util/Iterator/next(), java/util/List/iterator(), java/util/ArrayList/add(java.lang.Object)  0,00787
+java/lang/Character/toLowerCase(char), java/lang/Character/isLowerCase(char), java/lang/String/substring(int)  0,00787
+java/lang/Character/toLowerCase(char), java/lang/Character/isLowerCase(char), java/lang/String/toCharArray(), java/lang/Character/toTitleCase(char  0,00787
+java/lang/Character/toUpperCase(char), java/lang/Character/isWhitespace(char), java/lang/String/String(char[), java/lang/Character/isTitleCase(char), java/lang/Character/isUpperCase(char)  0,00787
+java/lang/Character/isWhitespace(char), java/lang/StringBuilder/toString()  0,00787
+java/lang/Character/isTitleCase(char), java/lang/String/length(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int  0,00787
+java/lang/Class/getSimpleName()  0,00787
+java/util/Map/keySet()  0,00787
+java/util/Map/entrySet()  0,00787
+java/util/Map/containsKey(java.lang.Object)  0,00787
+java/util/ArrayList/toArray(java.lang.Object[)  0,00787
+java/util/Set/iterator()  0,00787
+java/util/Map$Entry/getKey()  0,00787
+java/lang/StringBuilder/StringBuilder(int)  0,00787
+java/lang/String/equals(java.lang.Object)  0,00787
+java/lang/StringBuilder/append(int)  0,00787
+java/lang/StringBuilder/append(char)  0,00787
+java/lang/StringBuilder/StringBuilder()  0,00787

@@ -1,0 +1,8 @@
+android/graphics/Bitmap/copy(android.graphics.Bitmap$Config,boolean
+android/view/View/setSystemUiVisibility(int)
+java/lang/Throwable/toString()
+android/graphics/Bitmap/getPixels(int[],int,int,int,int,int,int)
+java/lang/StringBuilder/append(java.lang.String)
+org/theiner/quick3d/LeftEyePhoto/getActivity()
+android/graphics/Bitmap/getHeight(
+java/lang/StackTraceElement/getClassName(

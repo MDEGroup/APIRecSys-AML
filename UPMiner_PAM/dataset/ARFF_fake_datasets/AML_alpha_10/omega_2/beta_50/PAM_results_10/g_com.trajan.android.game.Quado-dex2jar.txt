@@ -1,0 +1,195 @@
+prob: 0,16667
+[android.graphics.Canvas]
+
+prob: 0,05556
+[java/lang/Double/parseDouble(java.lang.String)]
+
+prob: 0,05556
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,03704
+[android.graphics.Canvas)]
+
+prob: 0,03704
+[java.lang.Class]
+
+prob: 0,03704
+[java.lang.reflect.Type)]
+
+prob: 0,03704
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/String/String(char[]]
+
+prob: 0,03704
+[retrofit.client.Request)]
+
+prob: 0,03704
+[com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,03704
+[java/lang/NumberFormatException/NumberFormatException(java.lang.String)]
+
+prob: 0,03704
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,03704
+[java/util/List/iterator()]
+
+prob: 0,03704
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01852
+[java.util.Map)]
+
+prob: 0,01852
+[java/lang/Integer/parseInt(java.lang.String)]
+
+prob: 0,01852
+[java/lang/StringBuilder/append(java.lang.Object), java/lang/Number/doubleValue(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01852
+[java/lang/Long/parseLong(java.lang.String), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01852
+[org.apache.http.HttpResponse)]
+
+prob: 0,01852
+[java/lang/ThreadLocal/remove(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01852
+[android/graphics/drawable/GradientDrawable/setGradientRadius(float), android/graphics/drawable/GradientDrawable/setGradientType(int), android/graphics/drawable/GradientDrawable/setGradientCenter(float]
+
+prob: 0,01852
+[java.lang.reflect.Type]
+
+prob: 0,01852
+[android/graphics/Paint/setColor(int), android/graphics/Canvas/drawText(java.lang.String]
+
+prob: 0,01852
+[java/lang/Object/toString(), java/lang/reflect/Array/getLength(java.lang.Object), java/util/Iterator/next(), java/lang/Iterable/iterator(), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/util/Map/entrySet(), java/lang/StringBuilder/toString(), java/lang/reflect/Array/get(java.lang.Object]
+
+prob: 0,01852
+[java.lang.String]
+
+prob: 0,01852
+[java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/String/endsWith(java.lang.String]
+
+prob: 0,01852
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01852
+[com.google.gson.reflect.TypeToken]
+
+prob: 0,01852
+[java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/StringBuilder/toString(), java/lang/reflect/ParameterizedType/getRawType(), java/lang/StringBuilder/append(java.lang.String), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,01852
+[java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/Class/getDeclaredMethod(java.lang.String]
+
+prob: 0,01852
+[java/lang/Integer/intValue(), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,01852
+[com.google.gson.JsonElement)]
+
+prob: 0,01852
+[java/lang/Double/toString(double), java/io/Writer/append(java.lang.CharSequence), java/lang/StringBuilder/toString(]
+
+prob: 0,01852
+[retrofit.RestMethodInfo]
+
+prob: 0,01852
+[int]
+
+prob: 0,01852
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/deleteCharAt(int), java/util/List/add(java.lang.Object), java/lang/StringBuilder/length(), java/lang/StringBuilder/toString()]
+
+prob: 0,01852
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Double/isInfinite(double), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(double), java/lang/StringBuilder/toString(), com/google/gson/internal/bind/JsonTreeReader/isLenient(]
+
+prob: 0,01852
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/String/String(char[]]
+
+prob: 0,01852
+[java/util/Iterator/hasNext(), java/net/URL/toString(), java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/List/iterator(), java/util/Map/entrySet(), java/util/List/add(java.lang.Object), java/net/HttpURLConnection/getURL(]
+
+prob: 0,01852
+[java/util/Iterator/hasNext(), java/util/List/size(), java/util/Iterator/next(), java/util/List/add(java.lang.Object)]
+
+prob: 0,01852
+[java/util/Iterator/hasNext(), com/google/appengine/api/urlfetch/HTTPRequest/HTTPRequest(java.net.URL]
+
+prob: 0,01852
+[java/net/HttpURLConnection/getHeaderFields(), java/net/HttpURLConnection/getContentLength(), java/net/HttpURLConnection/getInputStream(), java/util/Map$Entry/getValue(), java/net/HttpURLConnection/getContentType(), java/util/ArrayList/ArrayList(), java/net/HttpURLConnection/getResponseMessage(), java/net/HttpURLConnection/getResponseCode(), java/util/Set/iterator(), java/net/HttpURLConnection/getErrorStream()]
+
+prob: 0,01852
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/lang/Integer/valueOf(int), java/util/List/iterator()]
+
+prob: 0,01852
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/String/valueOf(int]
+
+prob: 0,01852
+[java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), java/io/IOException/getMessage(), java/io/FileInputStream/FileInputStream(java.io.File), java/lang/StringBuilder/toString(), java/util/List/size(), android/util/Log/d(java.lang.String]
+
+prob: 0,01852
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Double/isNaN(double), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(double)]
+
+prob: 0,01852
+[java.lang.reflect.ParameterizedType]
+
+prob: 0,01852
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(double)]
+
+prob: 0,01852
+[java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(double)]
+
+prob: 0,01852
+[java/util/Map/size(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01852
+[com/trajan/android/game/Quado/entities/Block/getX(), java/util/List/iterator()]
+
+prob: 0,01852
+[android.graphics.Rect]
+
+prob: 0,01852
+[com/trajan/android/game/Quado/entities/Bar/getX(), com/trajan/android/game/Quado/entities/Bar/getY(), com/trajan/android/game/Quado/entities/Ball/getX(), com/trajan/android/game/Quado/entities/Ball/getHeight(), java/lang/Math/ceil(double), com/trajan/android/game/Quado/entities/Bar/getHeight(), android/graphics/Rect/intersect(android.graphics.Rect), com/trajan/android/game/Quado/entities/Ball/getY(), java/lang/Math/abs(int), com/trajan/android/game/Quado/entities/Bar/getWidth(]
+
+prob: 0,01852
+[com.trajan.android.game.Quado.components.GameState)]
+
+prob: 0,01852
+[java.lang.Integer]
+
+prob: 0,01852
+[java/io/FileWriter/FileWriter(java.io.File]
+
+prob: 0,01852
+[java/util/List/get(int)]
+
+prob: 0,01852
+[retrofit.client.Response]
+
+prob: 0,01852
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/util/ArrayList/ArrayList(int), com/google/appengine/api/urlfetch/HTTPResponse/getContent(), com/google/appengine/api/urlfetch/HTTPResponse/getResponseCode(), com/google/appengine/api/urlfetch/HTTPHeader/getValue(), com/google/appengine/api/urlfetch/HTTPHeader/getName(), com/google/appengine/api/urlfetch/HTTPResponse/getHeaders(), com/google/appengine/api/urlfetch/HTTPResponse/getFinalUrl(]
+
+prob: 0,01852
+[java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,01852
+[java/net/URL/toString()]
+
+prob: 0,01852
+[java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,01852
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01852
+[java/lang/Double/isNaN(double)]
+
+prob: 0,01852
+[java/lang/Double/isInfinite(double)]
+
+prob: 0,01852
+[java/lang/StringBuilder/append(java.lang.String)]
+

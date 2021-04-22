@@ -1,0 +1,3 @@
+org.api.fake
+android/graphics/RectF/centerX()
+android/appwidget/AppWidgetManager/updateAppWidget(android.content.ComponentName,android.widget.RemoteViews)

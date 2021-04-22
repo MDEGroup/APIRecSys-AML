@@ -1,0 +1,60 @@
+prob: 0,21739
+[org.api.fake]
+
+prob: 0,21739
+[org.rand.api]
+
+prob: 0,13043
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,08696
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), android/util/Log/e(java.lang.String]
+
+prob: 0,08696
+[java/io/File/canWrite(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/io/File/exists(), android/util/Log/i(java.lang.String]
+
+prob: 0,04348
+[android/media/MediaPlayer/setDataSource(java.lang.String), android/media/MediaPlayer/prepare(), android/media/MediaPlayer/reset(), android/media/MediaPlayer/setOnVideoSizeChangedListener(android.media.MediaPlayer$OnVideoSizeChangedListener), android/media/MediaPlayer/setOnCompletionListener(android.media.MediaPlayer$OnCompletionListener), android/media/MediaPlayer/setOnPreparedListener(android.media.MediaPlayer$OnPreparedListener), android/media/MediaPlayer/setLooping(boolean)]
+
+prob: 0,04348
+[java/util/zip/ZipEntry/isDirectory(), android/content/SharedPreferences$Editor/commit(), java/lang/StringBuilder/StringBuilder(), android/os/StatFs/getBlockSize(), java/io/File/mkdirs(), android/content/SharedPreferences$Editor/putLong(java.lang.String]
+
+prob: 0,04348
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,04348
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setCancelable(boolean), android/widget/ListView/ListView(android.content.Context), android/app/AlertDialog$Builder/setView(android.view.View), android/app/AlertDialog$Builder/show(), android/app/AlertDialog$Builder/setNeutralButton(int]
+
+prob: 0,04348
+[android.view.MotionEvent)]
+
+prob: 0,04348
+[java/lang/Class/getField(java.lang.String)]
+
+prob: 0,04348
+[java.lang.String)]
+
+prob: 0,04348
+[android/os/Environment/getExternalStorageDirectory(), java/io/File/File(java.lang.String), java/io/File/getPath()]
+
+prob: 0,04348
+[java/lang/StringBuilder/StringBuilder(), android/content/Context/getExternalFilesDir(java.lang.String)]
+
+prob: 0,04348
+[int]
+
+prob: 0,04348
+[java/lang/Class/forName(java.lang.String), android/content/res/Resources/getText(int), java/lang/reflect/Field/getInt(java.lang.Object)]
+
+prob: 0,04348
+[java/lang/Class/forName(java.lang.String), android/util/Log/v(java.lang.String]
+
+prob: 0,04348
+[java/lang/Class/forName(java.lang.String), android/util/Log/w(java.lang.String]
+
+prob: 0,04348
+[java/io/File/File(java.lang.String), java/io/File/getPath()]
+
+prob: 0,04348
+[android/util/Log/w(java.lang.String]
+

@@ -1,0 +1,46 @@
+int)  0,26667
+com/terlici/dragndroplist/DragNDropListView/getChildAt(int), com/terlici/dragndroplist/DragNDropListView/pointToPosition(int  0,06667
+android/view/View/getId(), java/util/HashMap/clear(), java/util/HashMap/containsKey(java.lang.Object), java/util/HashMap/put(java.lang.Object  0,06667
+android/widget/TextView/setText(java.lang.CharSequence), android/content/Intent/getExtras(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/ImageButton/setOnClickListener(android.view.View$OnClickListener), android/os/Bundle/getString(java.lang.String), net/project104/civyshkrpncalc/ActivityParser/findViewById(int), java/util/ArrayList/iterator(), java/util/Iterator/next(), java/lang/StringBuilder/subSequence(int  0,03333
+com/terlici/dragndroplist/DragNDropListView/getChildAt(int), com/terlici/dragndroplist/DragNDropListView/getChildCount(), android/widget/ImageView/setVisibility(int), com/terlici/dragndroplist/DragNDropListView/getLastVisiblePosition(), net/project104/civyshkrpncalc/ActivityMain/getResources(), android/view/View/getBottom(), android/content/res/Resources/getDimension(int), com/terlici/dragndroplist/DragNDropListView/getHeight(), java/util/LinkedList/size(), android/view/View/getTop(), com/terlici/dragndroplist/DragNDropListView/getFirstVisiblePosition(  0,03333
+com/terlici/dragndroplist/DragNDropListView/getChildAt(int), com/terlici/dragndroplist/DragNDropListView/getChildCount(), java/util/Set/isEmpty(), java/util/Set/contains(java.lang.Object), android/animation/ValueAnimator/start(), android/view/View/getTag(), android/animation/ValueAnimator/addUpdateListener(android.animation.ValueAnimator$AnimatorUpdateListener), java/lang/Integer/valueOf(int), java/util/Set/remove(java.lang.Object  0,03333
+java/util/Iterator/hasNext()  0,03333
+java/lang/Class/getField(java.lang.String), android/content/res/Resources/getIdentifier(java.lang.String  0,03333
+android/support/constraint/Placeholder/isInEditMode(), android/graphics/Canvas/drawText(java.lang.String  0,03333
+android.view.View  0,03333
+java/lang/Integer/intValue(), android/support/constraint/Guideline/setId(int), android/support/constraint/Barrier/setReferencedIds(int[), android/support/constraint/ConstraintLayout/addView(android.view.View  0,03333
+android/view/View/setTranslationX(float), android/view/View/setVisibility(int), java/util/HashMap/containsKey(java.lang.Object), android/support/constraint/ConstraintLayout/getChildCount(), java/util/Iterator/next()  0,03333
+android/support/constraint/ConstraintLayout/getContext(), android/content/res/TypedArray/getDimensionPixelOffset(int  0,03333
+android/widget/EditText/setText(java.lang.CharSequence)  0,03333
+android.content.res.TypedArray)  0,03333
+android/view/View/getScaleX(), android/view/View/getVisibility(), android/view/View/getPivotX(), android/view/View/getRotation()  0,03333
+android/view/View/getPivotY()  0,03333
+android/support/constraint/ConstraintLayout/getChildAt(int)  0,03333
+android/view/View/getTranslationY()  0,03333
+android/view/View/getTranslationZ()  0,03333
+android/view/View/getElevation()  0,03333
+android/view/View/getScaleY()  0,03333
+android/view/View/getAlpha()  0,03333
+android/view/View/getLayoutParams(), android/support/constraint/Constraints/getChildAt(int), java/lang/RuntimeException/RuntimeException(java.lang.String), java/util/HashMap/get(java.lang.Object)  0,03333
+java/math/BigDecimal/subtract(java.math.BigDecimal), java/math/BigDecimal/add(java.math.BigDecimal), java/math/BigDecimal/BigDecimal(double  0,03333
+java/math/BigDecimal/negate(), java/math/BigDecimal/subtract(java.math.BigDecimal), java/math/BigDecimal/BigDecimal(int)  0,03333
+java/math/BigDecimal/BigDecimal(double), java/math/BigDecimal/compareTo(java.math.BigDecimal), java/math/BigDecimal/doubleValue(), java/math/BigDecimal/multiply(java.math.BigDecimal), java/lang/Math/sqrt(double), java/math/BigDecimal/divide(java.math.BigDecimal  0,03333
+java/math/BigDecimal/pow(int)  0,03333
+android/support/constraint/solver/widgets/ConstraintWidgetContainer/resetAnchors(), android/support/constraint/solver/widgets/ConstraintWidgetContainer/setX(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/Math/max(int  0,03333
+android/support/constraint/solver/widgets/ConstraintWidgetContainer/getHeight(), android/support/constraint/solver/widgets/ConstraintWidgetContainer/setWidth(int), android/support/constraint/solver/widgets/ConstraintWidgetContainer/getWidth(), android/support/constraint/solver/widgets/ConstraintWidgetContainer/createObjectVariables(android.support.constraint.solver.LinearSystem), android/support/constraint/solver/widgets/ConstraintWidgetContainer/resetSolverVariables(android.support.constraint.solver.Cache)  0,03333
+int  0,03333
+android/support/constraint/ConstraintLayout/getWidth(), android/view/View/getVisibility(), android/graphics/Paint/Paint(), android/graphics/Canvas/drawLine(float  0,03333
+android/support/constraint/ConstraintLayout/getHeight()  0,03333
+java/util/ArrayList/iterator(), android/widget/ViewAnimator/showNext(), android/os/Bundle/getBoolean(java.lang.String), android/os/Bundle/getSerializable(java.lang.String), java/util/List/add(java.lang.Object), android/os/Bundle/getStringArrayList(java.lang.String), android/os/Bundle/getInt(java.lang.String), java/math/BigDecimal/BigDecimal(java.lang.String), android/app/Activity/onRestoreInstanceState(android.os.Bundle  0,03333
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int  0,03333
+net/project104/a/k/c(), java/lang/String/length(), java/util/ArrayList/toArray(java.lang.Object[), java/util/ArrayList/size(), java/util/List/get(int), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/toString()  0,03333
+java/lang/Thread/isInterrupted(), java/util/ArrayList/toArray(java.lang.Object[), net/project104/a/k/ordinal(), java/util/Arrays/asList(java.lang.Object[), java/lang/Thread/currentThread(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/addAll(java.util.Collection), java/lang/RuntimeException/RuntimeException(java.lang.String  0,03333
+java/util/ArrayList/ArrayList(int), android/os/Bundle/getString(java.lang.String), java/util/Iterator/next(), java/util/ArrayList/size()  0,03333
+java/util/ArrayList/ArrayList(int), java/math/BigDecimal/longValueExact()  0,03333
+android/view/ViewTreeObserver/addOnScrollChangedListener(android.view.ViewTreeObserver$OnScrollChangedListener), net/project104/a/k/values(), java/util/LinkedList/LinkedList(), net/project104/civyshkrpncalc/ActivityMain/requestWindowFeature(int), java/util/Collection/iterator(), android/util/Log/w(java.lang.String  0,03333
+java/lang/Integer/toString(int), android/animation/ArgbEvaluator/ArgbEvaluator()  0,03333
+android/support/constraint/ConstraintLayout/getContext()  0,03333
+android/support/constraint/ConstraintLayout/getChildCount()  0,03333
+android/view/View/getLayoutParams()  0,03333
+java/math/BigDecimal/compareTo(java.math.BigDecimal), java/math/BigDecimal/doubleValue(), java/math/BigDecimal/multiply(java.math.BigDecimal), java/lang/Math/sqrt(double)  0,03333
+android/view/View/getId()  0,03333

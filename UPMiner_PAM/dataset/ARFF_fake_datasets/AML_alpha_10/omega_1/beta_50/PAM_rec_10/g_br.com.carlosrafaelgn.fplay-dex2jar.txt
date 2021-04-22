@@ -1,0 +1,250 @@
+org.api.fake  0,18129
+int  0,09357
+android.view.KeyEvent)  0,07018
+int)  0,04678
+boolean  0,03509
+java.lang.Object)  0,02339
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02339
+android.view.View  0,01754
+java/lang/String/String(char[  0,01754
+java.lang.String  0,01754
+java/lang/StringBuilder/append(int)  0,01754
+android/os/SystemClock/uptimeMillis()  0,01754
+java/lang/String/length()  0,01754
+javax.microedition.khronos.egl.EGLConfig)  0,01170
+javax.microedition.khronos.egl.EGLDisplay  0,01170
+br.com.carlosrafaelgn.fplay.activity.ActivityHost  0,01170
+cl)  0,01170
+java.lang.String[  0,01170
+boolean)  0,01170
+java.io.FileInputStream)  0,01170
+int[)  0,01170
+java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/String/length()  0,01170
+android.view.View)  0,01170
+java.lang.String)  0,01170
+java/lang/String/charAt(int)  0,01170
+java/lang/StringBuilder/append(java.lang.String)  0,01170
+android/content/Context/getText(int  0,00585
+java/lang/Throwable/printStackTrace(), android/graphics/Canvas/drawText(java.lang.String  0,00585
+java/lang/Throwable/printStackTrace(), java/lang/System/gc(), android/graphics/Bitmap/getWidth(), android/graphics/Matrix/postRotate(float), android/graphics/Matrix/Matrix(), android/graphics/BitmapFactory/decodeStream(java.io.InputStream  0,00585
+java/lang/Throwable/printStackTrace(), android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,00585
+java/lang/Throwable/printStackTrace(), java/lang/ClassLoader/loadClass(java.lang.String), java/lang/reflect/Method/getName(), java/lang/Integer/valueOf(int), java/lang/Class/getClassLoader(), java/lang/reflect/Method/invoke(java.lang.Object  0,00585
+java/lang/Throwable/printStackTrace(), java/lang/StringBuilder/append(java.lang.String), android/database/Cursor/getLong(int), android/content/ContentResolver/query(android.net.Uri  0,00585
+java/lang/ThreadLocal/remove(), java/util/Map/put(java.lang.Object  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgButton/setNextFocusLeftId(int), br/com/carlosrafaelgn/fplay/ui/BgButton/setNextFocusUpId(int), br/com/carlosrafaelgn/fplay/ui/BgButton/setNextFocusRightId(int), br/com/carlosrafaelgn/fplay/ui/BgSeekBar/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout/addView(android.view.View), br/com/carlosrafaelgn/fplay/ui/BgSeekBar/setNextFocusDownId(int), br/com/carlosrafaelgn/fplay/ui/BgSeekBar/setId(int), br/com/carlosrafaelgn/fplay/ui/BgSeekBar/setNextFocusUpId(int), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgSeekBar/setNextFocusRightId(int), bc/setGravity(int), bc/setLayoutParams(android.view.ViewGroup$LayoutParams), bc/addView(android.view.View), br/com/carlosrafaelgn/fplay/ui/BgSeekBar/setNextFocusLeftId(int)  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgButton/setNextFocusUpId(int), br/com/carlosrafaelgn/fplay/ui/BgButton/setNextFocusRightId(int), br/com/carlosrafaelgn/fplay/ui/BgButton/setNextFocusLeftId(int), br/com/carlosrafaelgn/fplay/ui/BgListView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/RelativeLayout$LayoutParams/addRule(int  0,00585
+n/getCount(), android/widget/RelativeLayout/getVisibility()  0,00585
+java/lang/Class/forName(java.lang.String), java/lang/Class/getDeclaredMethod(java.lang.String  0,00585
+java/lang/Integer/intValue(), java/lang/Throwable/printStackTrace(), android/util/SparseArray/get(int), java/io/BufferedOutputStream/flush(), java/lang/String/length()  0,00585
+android/view/ViewGroup/setPadding(int  0,00585
+g/getText(int), android/widget/LinearLayout/removeView(android.view.View), java/lang/System/gc(), android/widget/LinearLayout/addView(android.view.View  0,00585
+android/view/ContextMenu/addSubMenu(int  0,00585
+android/net/Uri/getPath(), android/os/ParcelFileDescriptor/getFileDescriptor(), android/os/Handler/Handler(android.os.Handler$Callback), java/io/File/File(java.lang.String), android/net/Uri/parse(java.lang.String), android/os/ParcelFileDescriptor/getStatSize(), android/os/ParcelFileDescriptor/close(), java/net/URL/toString(), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor  0,00585
+android/media/MediaPlayer/setDataSource(java.lang.String)  0,00585
+java/lang/reflect/Constructor/newInstance(java.lang.Object[), br/com/carlosrafaelgn/fplay/activity/ActivityVisualizer/findViewById(int), br/com/carlosrafaelgn/fplay/ui/BgButton/setTextColor(android.content.res.ColorStateList), java/lang/Throwable/printStackTrace(), br/com/carlosrafaelgn/fplay/ui/BgButton/requestFocus(), br/com/carlosrafaelgn/fplay/ui/BgButton/setOnClickListener(android.view.View$OnClickListener), br/com/carlosrafaelgn/fplay/activity/ActivityVisualizer/getIntent(), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/view/Window/clearFlags(int), br/com/carlosrafaelgn/fplay/ui/BgButton/isInTouchMode(), android/app/Activity/onCreate(android.os.Bundle), android/widget/TextView/setTextColor(android.content.res.ColorStateList), android/widget/RelativeLayout/setBackgroundDrawable(android.graphics.drawable.Drawable), java/lang/Boolean/valueOf(boolean), br/com/carlosrafaelgn/fplay/activity/ActivityVisualizer/setVolumeControlStream(int), java/lang/Class/getConstructor(java.lang.Class[), br/com/carlosrafaelgn/fplay/ui/InterceptableLayout/addView(android.view.View), java/lang/String/startsWith(java.lang.String), br/com/carlosrafaelgn/fplay/activity/ActivityVisualizer/setRequestedOrientation(int), br/com/carlosrafaelgn/fplay/activity/ActivityVisualizer/setContentView(int), android/content/Intent/getStringExtra(java.lang.String), br/com/carlosrafaelgn/fplay/activity/ActivityVisualizer/getWindow(  0,00585
+java/lang/reflect/Constructor/newInstance(java.lang.Object[), android/view/View/setEnabled(boolean)  0,00585
+android/view/Window/addFlags(int)  0,00585
+android/widget/RelativeLayout/bringToFront()  0,00585
+br/com/carlosrafaelgn/fplay/ui/InterceptableLayout/setOnClickListener(android.view.View$OnClickListener)  0,00585
+android/text/StaticLayout/getLineStart(int), java/lang/String/substring(int  0,00585
+android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/TextView/setPadding(int  0,00585
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(double), java/lang/StringBuilder/toString(  0,00585
+android/text/TextPaint/setTextSize(float), android/graphics/Canvas/translate(float  0,00585
+java/lang/Long/valueOf(long), java/util/List/size()  0,00585
+java/lang/Long/valueOf(long), java/lang/CharSequence/toString(), java/lang/StringBuilder/append(long), java/lang/String/substring(int  0,00585
+java/lang/String/equals(java.lang.Object), android/net/Uri/parse(java.lang.String), android/database/Cursor/moveToNext(), android/content/Context/getText(int), android/database/Cursor/close(), android/content/ContentResolver/query(android.net.Uri  0,00585
+android/database/Cursor/close(), java/lang/String/lastIndexOf(int), java/lang/String/substring(int), android/content/ContentResolver/query(android.net.Uri  0,00585
+android/database/Cursor/getInt(int)  0,00585
+android/content/Context/fileList(), android/database/Cursor/getLong(int), android/database/Cursor/close(), java/lang/String/equals(java.lang.Object), java/lang/String/substring(int  0,00585
+android/widget/Button/setTransformationMethod(android.text.method.TransformationMethod), android/widget/Button/setFocusableInTouchMode(boolean), android/widget/Button/setTypeface(android.graphics.Typeface), java/lang/CharSequence/toString(), android/widget/Button/setTextSize(int  0,00585
+android/widget/Button/setFocusable(boolean)  0,00585
+eb  0,00585
+s  0,00585
+android/widget/ListView/setOverscrollHeader(android.graphics.drawable.Drawable), br/com/carlosrafaelgn/fplay/ui/BgListView/setOverScrollMode(int), android/widget/ListView/setChildrenDrawingCacheEnabled(boolean), android/widget/ListView/setOverscrollFooter(android.graphics.drawable.Drawable), android/widget/ListView/setScrollingCacheEnabled(boolean)  0,00585
+java/lang/reflect/Field/get(java.lang.Object), java/lang/reflect/Field/setAccessible(boolean), java/lang/Class/getDeclaredField(java.lang.String), at/getContext(), at/getTextCursorDrawable(), android/content/res/Resources/getDrawable(int), java/lang/reflect/Field/set(java.lang.Object  0,00585
+android/app/Notification/Notification(), android/content/Context/getPackageName(), android/app/Notification$Builder/Notification$Builder(android.content.Context  0,00585
+android/app/Notification$Builder/build()  0,00585
+android/content/Context/getPackageName(), android/content/ContentResolver/query(android.net.Uri  0,00585
+java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/Throwable/printStackTrace(), android/content/res/Resources/getIdentifier(java.lang.String  0,00585
+android/content/IntentFilter/addAction(java.lang.String), android/app/NotificationChannel/NotificationChannel(java.lang.String  0,00585
+android/app/NotificationManager/deleteNotificationChannel(java.lang.String)  0,00585
+android/media/MediaRouter/removeCallback(android.media.MediaRouter$Callback)  0,00585
+java/lang/Thread/interrupt(), br/com/carlosrafaelgn/fplay/playback/Player/getApplicationContext(), br/com/carlosrafaelgn/fplay/playback/Player/stopSelf(), android/media/session/MediaSession/setCallback(android.media.session.MediaSession$Callback), java/util/HashSet/clear()  0,00585
+android/content/Context/unregisterReceiver(android.content.BroadcastReceiver)  0,00585
+java/lang/System/exit(int)  0,00585
+android/media/session/MediaSession/setActive(boolean)  0,00585
+br/com/carlosrafaelgn/fplay/playback/Player/stopForeground(boolean)  0,00585
+android/app/NotificationManager/deleteNotificationChannelGroup(java.lang.String)  0,00585
+android/media/RemoteControlClient/setOnGetPlaybackPositionListener(android.media.RemoteControlClient$OnGetPlaybackPositionListener)  0,00585
+android/media/session/MediaSession/release()  0,00585
+android/media/AudioManager/unregisterMediaButtonEventReceiver(android.content.ComponentName)  0,00585
+android/media/AudioManager/unregisterRemoteControlClient(android.media.RemoteControlClient)  0,00585
+java/lang/Thread/join(long)  0,00585
+android/content/Context/getSystemService(java.lang.String)  0,00585
+android/os/Looper/quit()  0,00585
+android/media/RemoteControlClient/setPlaybackPositionUpdateListener(android.media.RemoteControlClient$OnPlaybackPositionUpdateListener  0,00585
+java.lang.Object[)  0,00585
+android/content/Context/getPackageManager(), android/os/SystemClock/uptimeMillis()  0,00585
+java/util/HashSet/HashSet(int)  0,00585
+java/util/HashSet/add(java.lang.Object)  0,00585
+android/util/SparseArray/get(int), android/content/pm/PackageManager/hasSystemFeature(java.lang.String), java/lang/String/equals(java.lang.Object)  0,00585
+java/lang/Math/exp(double  0,00585
+android/media/RemoteControlClient/RemoteControlClient(android.app.PendingIntent)  0,00585
+android/media/AudioManager/registerRemoteControlClient(android.media.RemoteControlClient)  0,00585
+android/media/session/PlaybackState$Builder/build(), android/os/SystemClock/elapsedRealtime()  0,00585
+android/media/session/MediaSession/setSessionActivity(android.app.PendingIntent)  0,00585
+android/media/session/PlaybackState$Builder/PlaybackState$Builder()  0,00585
+android/app/PendingIntent/getBroadcast(android.content.Context  0,00585
+ax$b/getParent()  0,00585
+ax$b/setPressed(boolean)  0,00585
+ax$b/playSoundEffect(int), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), android/view/ViewParent/requestDisallowInterceptTouchEvent(boolean)  0,00585
+ax$b/isEnabled()  0,00585
+ax$b/invalidate()  0,00585
+android/view/MotionEvent/getAction(  0,00585
+java/net/HttpURLConnection/setReadTimeout(int)  0,00585
+android/widget/ListView/setFocusableInTouchMode(boolean)  0,00585
+java/net/HttpURLConnection/setInstanceFollowRedirects(boolean), java/net/URL/URL(java.lang.String)  0,00585
+java/net/HttpURLConnection/setConnectTimeout(int)  0,00585
+java/net/HttpURLConnection/setRequestMethod(java.lang.String)  0,00585
+java/net/HttpURLConnection/setDoInput(boolean)  0,00585
+java/net/HttpURLConnection/setDoOutput(boolean)  0,00585
+java/net/HttpURLConnection/setUseCaches(boolean)  0,00585
+java/net/URL/openConnection(  0,00585
+android/content/Intent/setData(android.net.Uri)  0,00585
+android/provider/Settings$System/canWrite(android.content.Context), java/lang/StringBuilder/append(java.lang.String)  0,00585
+java/lang/Integer/toString(int)  0,00585
+android/widget/ListView/setDefaultFocusHighlightEnabled(boolean)  0,00585
+ax$c/setPressed(boolean)  0,00585
+ax$c/playSoundEffect(int)  0,00585
+ax$c/invalidate(), android/view/MotionEvent/getAction(), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), android/view/ViewParent/requestDisallowInterceptTouchEvent(boolean)  0,00585
+ax$c/isEnabled()  0,00585
+ax$c/getParent(  0,00585
+java/util/ArrayList/ArrayList()  0,00585
+java/lang/Long/longValue()  0,00585
+java/util/List/add(java.lang.Object)  0,00585
+android/widget/ListView/setBackgroundDrawable(android.graphics.drawable.Drawable)  0,00585
+java/util/List/get(int)  0,00585
+java/util/concurrent/atomic/AtomicLongArray/AtomicLongArray(int)  0,00585
+java/util/concurrent/atomic/AtomicLongArray/set(int  0,00585
+java/lang/Class/getMethods(), android/view/Window/setBackgroundDrawable(android.graphics.drawable.Drawable)  0,00585
+android/app/Activity/setContentView(android.view.View)  0,00585
+br/com/carlosrafaelgn/fplay/activity/ActivityHost/getApplicationContext()  0,00585
+java/lang/reflect/Method/getParameterTypes()  0,00585
+br/com/carlosrafaelgn/fplay/activity/ActivityHost/setTitle(java.lang.CharSequence)  0,00585
+br/com/carlosrafaelgn/fplay/activity/ActivityHost/getWindow()  0,00585
+java/lang/reflect/Proxy/newProxyInstance(java.lang.ClassLoader  0,00585
+android/widget/ListView/setAnimationCacheEnabled(boolean)  0,00585
+java.lang.StringBuilder)  0,00585
+at/getText()  0,00585
+java/lang/Object/toString()  0,00585
+java/lang/Integer/parseInt(java.lang.String  0,00585
+android/util/SparseArray/size()  0,00585
+android/util/SparseArray/keyAt(int)  0,00585
+android/content/Context/openFileOutput(java.lang.String  0,00585
+java/io/BufferedInputStream/read(byte[  0,00585
+cb  0,00585
+android/widget/ListView/setHorizontalScrollBarEnabled(boolean)  0,00585
+android/widget/TextView/setTextAppearance(android.content.Context  0,00585
+java.text.ParsePosition)  0,00585
+android.content.Intent)  0,00585
+android/view/View/setPointerIcon(android.view.PointerIcon)  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgSeekBar/setImportantForAccessibility(int)  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgSeekBar/getContext()  0,00585
+android/view/View/setDrawingCacheEnabled(boolean)  0,00585
+android/view/PointerIcon/getSystemIcon(android.content.Context  0,00585
+android/widget/ListView/setDivider(android.graphics.drawable.Drawable)  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgSeekBar/isEnabled()  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgSeekBar/playSoundEffect(int)  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgSeekBar/invalidate()  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgSeekBar/getParent()  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgSeekBar/setPressed(boolean  0,00585
+java/lang/reflect/GenericArrayType/getGenericComponentType()  0,00585
+java/lang/reflect/Array/newInstance(java.lang.Class  0,00585
+java.lang.reflect.Type)  0,00585
+java.lang.Class  0,00585
+android/os/PowerManager$WakeLock/acquire()  0,00585
+android/widget/ListView/setDrawingCacheEnabled(boolean)  0,00585
+java/nio/ByteBuffer/asShortBuffer()  0,00585
+android/media/MediaCodec$BufferInfo/MediaCodec$BufferInfo()  0,00585
+android/media/MediaCodec/releaseOutputBuffer(int  0,00585
+android/os/Looper/prepare()  0,00585
+android/os/Looper/loop()  0,00585
+java/lang/Object/notifyAll()  0,00585
+android/media/AudioManager/abandonAudioFocus(android.media.AudioManager$OnAudioFocusChangeListener)  0,00585
+android/content/Intent/resolveActivity(android.content.pm.PackageManager)  0,00585
+android/os/Looper/myLooper()  0,00585
+android/os/Handler/sendEmptyMessageAtTime(int  0,00585
+android/widget/ListView/setVerticalFadingEdgeEnabled(boolean)  0,00585
+android/widget/ListView/setVerticalScrollBarEnabled(boolean)  0,00585
+android/widget/ListView/setSelector(android.graphics.drawable.Drawable)  0,00585
+android/widget/ListView/setCacheColorHint(int)  0,00585
+android/widget/ListView/setFocusable(boolean)  0,00585
+android/widget/ListView/setHorizontalFadingEdgeEnabled(boolean)  0,00585
+android/widget/ListView/setDividerHeight(int  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgListView/invalidate()  0,00585
+android/view/MotionEvent/getMetaState()  0,00585
+android/view/View$OnClickListener/onClick(android.view.View)  0,00585
+android/view/MotionEvent/getDownTime()  0,00585
+br/com/carlosrafaelgn/fplay/ui/BgListView/getParent()  0,00585
+android/widget/ListView/onTouchEvent(android.view.MotionEvent)  0,00585
+android/view/MotionEvent/obtain(long  0,00585
+java/net/URL/getDefaultPort()  0,00585
+java/net/URL/getProtocol()  0,00585
+java/net/URL/getQuery()  0,00585
+java/net/URL/getPort()  0,00585
+java/net/URL/getPath()  0,00585
+java/net/URL/getHost()  0,00585
+java/lang/String/contains(java.lang.CharSequence)  0,00585
+java/net/URL/URL(java.lang.String  0,00585
+java/nio/channels/SocketChannel/socket()  0,00585
+java/net/Socket/setSendBufferSize(int)  0,00585
+java/nio/channels/SocketChannel/read(java.nio.ByteBuffer)  0,00585
+java/nio/ByteBuffer/position(int)  0,00585
+java/nio/ByteBuffer/wrap(byte[)  0,00585
+java/net/Socket/setSoTimeout(int)  0,00585
+java/net/Socket/setReceiveBufferSize(int)  0,00585
+java/io/IOException/IOException()  0,00585
+java/nio/ByteBuffer/get()  0,00585
+java/nio/channels/SocketChannel/write(java.nio.ByteBuffer)  0,00585
+java/nio/ByteBuffer/remaining()  0,00585
+java/nio/channels/ServerSocketChannel/accept()  0,00585
+java/lang/String/getBytes()  0,00585
+java/nio/ByteBuffer/put(byte[  0,00585
+java/lang/Thread/sleep(long)  0,00585
+java/nio/channels/ServerSocketChannel/socket()  0,00585
+java/net/InetSocketAddress/InetSocketAddress(java.net.InetAddress  0,00585
+java/lang/Double/valueOf(double)  0,00585
+java/io/RandomAccessFile/RandomAccessFile(java.lang.String  0,00585
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod)  0,00585
+java/lang/StringBuilder/append(java.lang.CharSequence)  0,00585
+a/getText(int)  0,00585
+android/text/method/LinkMovementMethod/getInstance()  0,00585
+android/widget/TextView/setTextSize(int  0,00585
+b/getText(int)  0,00585
+b/a(h  0,00585
+n/ai()  0,00585
+java/lang/Class/getName()  0,00585
+java/lang/Object/getClass()  0,00585
+java/lang/Throwable/getMessage()  0,00585
+android/graphics/Canvas/drawText(java.lang.String  0,00585
+java/lang/Class/forName(java.lang.String)  0,00585
+java/lang/Integer/intValue()  0,00585
+android/view/Window/setBackgroundDrawable(android.graphics.drawable.Drawable)  0,00585
+java/util/HashSet/clear()  0,00585
+android/content/Context/getPackageManager()  0,00585
+android/view/MotionEvent/getAction(), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), android/view/ViewParent/requestDisallowInterceptTouchEvent(boolean)  0,00585
+java/lang/String/charAt(int), android/net/Uri/parse(java.lang.String)  0,00585
+java/lang/String/charAt(int), java/lang/String/length()  0,00585
+java/net/URL/URL(java.lang.String)  0,00585
+android/os/SystemClock/elapsedRealtime()  0,00585
+java/lang/CharSequence/toString(), java/lang/StringBuilder/append(long)  0,00585
+android/database/Cursor/getLong(int)  0,00585
+android/view/MotionEvent/getAction()  0,00585
+java/lang/StringBuilder/StringBuilder()  0,00585
+java/lang/StringBuilder/append(long)  0,00585
+java/lang/String/substring(int  0,00585
+java/lang/String/equals(java.lang.Object)  0,00585
+android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), android/view/ViewParent/requestDisallowInterceptTouchEvent(boolean)  0,00585
+java/lang/CharSequence/toString()  0,00585
+java/lang/Throwable/printStackTrace()  0,00585

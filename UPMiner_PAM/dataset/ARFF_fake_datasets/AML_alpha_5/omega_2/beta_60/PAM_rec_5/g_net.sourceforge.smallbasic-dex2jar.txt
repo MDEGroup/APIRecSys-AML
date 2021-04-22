@@ -1,0 +1,144 @@
+int)  0,06818
+java.lang.String)  0,06061
+android/util/Log/w(java.lang.String  0,04545
+int  0,03788
+org.xmlpull.v1.XmlPullParser  0,02273
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,02273
+android/widget/FrameLayout/getChildCount(), android/view/View/getLayoutParams(), java/lang/Math/max(int  0,01515
+android.content.Intent  0,01515
+android.text.Spannable)  0,01515
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01515
+float  0,01515
+androidx.core.provider.FontRequest  0,01515
+android/text/TextPaint/isElegantTextHeight(), android/text/TextPaint/getLetterSpacing(), android/text/TextPaint/getTextSize(), android/text/TextPaint/getTextSkewX()  0,01515
+java.lang.String  0,01515
+android.os.CancellationSignal  0,01515
+java/util/Iterator/hasNext(), java/util/Iterator/next()  0,01515
+java/lang/StringBuilder/append(int)  0,01515
+java/lang/StringBuilder/StringBuilder()  0,01515
+java/lang/StringBuilder/append(java.lang.String)  0,01515
+java.lang.StringBuilder)  0,00758
+android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/putSparseParcelableArray(java.lang.String  0,00758
+android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/Bundle(), android/app/Notification$Action$Builder/setAllowGeneratedReplies(boolean), android/app/Notification$Action$Builder/Notification$Action$Builder(int  0,00758
+java/util/Set/size(), android/os/Bundle/putString(java.lang.String  0,00758
+java/util/ArrayList/iterator(), android/os/Bundle/getString(java.lang.String  0,00758
+android/os/Bundle/getCharSequence(java.lang.String), android/os/Bundle/getCharSequenceArray(java.lang.String), android/os/Bundle/getStringArrayList(java.lang.String), java/util/Set/add(java.lang.Object), java/util/HashSet/HashSet()  0,00758
+android/os/Bundle/getCharSequence(java.lang.String), android/os/Bundle/getString(java.lang.String), android/os/Bundle/containsKey(java.lang.String)  0,00758
+java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getDeclaredField(java.lang.String), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object  0,00758
+android/widget/FrameLayout/getChildCount(), android/view/View/getLayoutParams(), android/widget/FrameLayout/offsetDescendantRectToMyCoords(android.view.View  0,00758
+android/widget/FrameLayout/getChildCount(), android/view/MotionEvent/offsetLocation(float  0,00758
+android/widget/FrameLayout/getPaddingBottom()  0,00758
+android/text/TextPaint/getFlags(), android/text/TextPaint/getTextLocale(), android/graphics/Typeface/equals(java.lang.Object), java/util/Locale/equals(java.lang.Object), android/os/LocaleList/equals(java.lang.Object), android/text/TextUtils/equals(java.lang.CharSequence  0,00758
+android/graphics/Rect/height()  0,00758
+android/widget/FrameLayout/getPaddingLeft(), android/graphics/Canvas/rotate(float  0,00758
+android/widget/FrameLayout/isFocused(), android/view/KeyEvent/isAltPressed(), android/graphics/Rect/setEmpty(), android/view/KeyEvent/isShiftPressed(), android/view/View/requestFocus(int), android/view/FocusFinder/findNextFocus(android.view.ViewGroup  0,00758
+android/view/MotionEvent/getY(int), android/widget/OverScroller/isFinished(), android/view/MotionEvent/getAction(), android/widget/FrameLayout/getScrollY(), android/widget/OverScroller/springBack(int  0,00758
+android/view/ViewConfiguration/get(android.content.Context), android/widget/OverScroller/OverScroller(android.content.Context), android/widget/FrameLayout/getContext(), android/view/ViewConfiguration/getScaledMaximumFlingVelocity(), android/widget/FrameLayout/setWillNotDraw(boolean), android/view/ViewConfiguration/getScaledMinimumFlingVelocity(), android/view/ViewConfiguration/getScaledTouchSlop(), android/widget/FrameLayout/setDescendantFocusability(int), android/widget/FrameLayout/setFocusable(boolean  0,00758
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/Class/getDeclaredConstructor(java.lang.Class[), java/lang/String/isEmpty(), java/lang/StringBuilder/StringBuilder(), java/lang/String/substring(int), java/lang/Package/getName()  0,00758
+java/lang/StringBuilder/append(java.lang.String), android/view/MotionEvent/findPointerIndex(int), java/lang/StringBuilder/toString()  0,00758
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/media/AudioTrack/write(byte[  0,00758
+java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,00758
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Object/getClass(), java/lang/Class/getName(), java/io/ObjectOutputStream/writeObject(java.lang.Object), java/io/ObjectOutputStream/ObjectOutputStream(java.io.OutputStream), java/lang/RuntimeException/RuntimeException(java.lang.String  0,00758
+java/lang/StringBuilder/append(java.lang.String), android/media/MediaPlayer/setDataSource(android.content.Context  0,00758
+java/lang/StringBuilder/append(java.lang.String), android/text/TextPaint/getTextScaleX(), android/text/TextPaint/getTextLocales(), android/text/TextPaint/getTextLocale(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(float), java/lang/StringBuilder/toString(), android/text/TextPaint/getTypeface(  0,00758
+android/os/Handler/hasMessages(int  0,00758
+android/content/Context/getPackageManager(), java/util/Iterator/hasNext(), java/util/List/iterator(), android/util/Log/w(java.lang.String  0,00758
+java/util/Map/containsKey(java.lang.Object)  0,00758
+java/lang/Class/forName(java.lang.String), android/view/Menu/size(), android/widget/TextView/getContext(), android/content/Intent/getAction(), android/content/pm/ResolveInfo/loadLabel(android.content.pm.PackageManager), java/util/List/size(), java/lang/Class/isInstance(java.lang.Object), android/view/Menu/add(int  0,00758
+java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getMethod(java.lang.String  0,00758
+android/app/Notification$MessagingStyle$Message/Notification$MessagingStyle$Message(java.lang.CharSequence  0,00758
+java/util/regex/Matcher/group(int), java/lang/String/charAt(int), java/lang/Character/isDigit(char), java/lang/String/equals(java.lang.Object), java/lang/Integer/parseInt(java.lang.String), java/util/regex/Matcher/find(), java/lang/String/toLowerCase(java.util.Locale), java/lang/String/length(), java/util/Locale/getDefault(), java/util/regex/Pattern/matcher(java.lang.CharSequence  0,00758
+java.util.regex.MatchResult)  0,00758
+android/view/GestureDetector$OnGestureListener/onScroll(android.view.MotionEvent  0,00758
+android/text/TextPaint/getFontVariationSettings()  0,00758
+android.view.KeyEvent)  0,00758
+java/lang/String/valueOf(java.lang.Object), android/graphics/Bitmap/getWidth(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/String/format(java.lang.String  0,00758
+android.graphics.drawable.Drawable  0,00758
+boolean)  0,00758
+android.content.Context)  0,00758
+android/view/MenuItem/setShowAsAction(int)  0,00758
+android/util/SparseIntArray/SparseIntArray(), android/view/Window/addOnFrameMetricsAvailableListener(android.view.Window$OnFrameMetricsAvailableListener  0,00758
+androidx.lifecycle.a$b  0,00758
+java.lang.reflect.Method[)  0,00758
+android/widget/TextView/getTextLocale(), android/widget/TextView/getTextDirection(), android/widget/TextView/getTransformationMethod(), android/widget/TextView/getLayoutDirection(), java/lang/String/codePointAt(int), android/icu/text/DecimalFormatSymbols/getDigitStrings(), android/widget/TextView/getInputType(), java/lang/Character/getDirectionality(int), android/icu/text/DecimalFormatSymbols/getInstance(java.util.Locale  0,00758
+java/io/File/createNewFile(), java/io/File/File(java.io.File  0,00758
+java.io.InputStream)  0,00758
+double  0,00758
+float[  0,00758
+android/content/Context/getSystemService(java.lang.Class), android/content/Context/getPackageManager(), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/util/Iterator/hasNext(), android/content/pm/PackageManager/queryBroadcastReceivers(android.content.Intent  0,00758
+android/app/Activity/getSharedPreferences(java.lang.String  0,00758
+android.view.LayoutInflater$Factory2)  0,00758
+android.content.res.Resources  0,00758
+java/lang/Class/getInterfaces(), java/util/Map/get(java.lang.Object), java/lang/Class/getCanonicalName(), java/util/List/addAll(java.util.Collection), java/util/Map/put(java.lang.Object  0,00758
+java/lang/reflect/Constructor/setAccessible(boolean), java/lang/Class/forName(java.lang.String), java/lang/Class/getCanonicalName(), java/lang/Class/getPackage(), java/lang/reflect/Constructor/isAccessible(  0,00758
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)  0,00758
+java/lang/Math/min(double  0,00758
+android/os/Bundle/getLong(java.lang.String), android/os/Bundle/getParcelableArray(java.lang.String), android/os/Bundle/getString(java.lang.String  0,00758
+android/os/Bundle/getStringArray(java.lang.String), android/os/Bundle/getParcelable(java.lang.String), android/app/RemoteInput/getChoices(), android/app/RemoteInput/getExtras()  0,00758
+android/app/RemoteInput/getLabel(), android/app/RemoteInput/getResultKey(), android/app/RemoteInput/getAllowFreeFormInput()  0,00758
+android/app/RemoteInput$Builder/setAllowFreeFormInput(boolean), android/app/RemoteInput$Builder/RemoteInput$Builder(java.lang.String), android/os/Bundle/putParcelableArray(java.lang.String  0,00758
+android/net/Uri/getPath(), android/content/Intent/getDataString(), android/util/Log/i(java.lang.String  0,00758
+android/text/PrecomputedText$Params/equals(java.lang.Object), android/text/TextPaint/getTextScaleX(), android/text/TextPaint/getTextLocales()  0,00758
+java/util/zip/GZIPInputStream/GZIPInputStream(java.io.InputStream), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[), android/util/Log/i(java.lang.String  0,00758
+android/content/Intent/putExtra(java.lang.String  0,00758
+java/net/InetAddress/getHostAddress(), java/net/NetworkInterface/getDisplayName(), android/util/Log/i(java.lang.String  0,00758
+java/net/InetAddress/isLoopbackAddress()  0,00758
+java/net/NetworkInterface/getNetworkInterfaces()  0,00758
+java/net/NetworkInterface/getInetAddresses()  0,00758
+java/lang/String/startsWith(java.lang.String)  0,00758
+java/util/Enumeration/nextElement()  0,00758
+android/app/NativeActivity/startActivity(android.content.Intent), android/content/Intent/Intent(java.lang.String  0,00758
+java/io/File/canWrite(), java/lang/StringBuilder/append(java.lang.String), java/io/File/File(java.lang.String  0,00758
+java.io.DataInputStream)  0,00758
+java/io/File/getName(), java/io/File/File(java.io.File  0,00758
+java/io/BufferedReader/close(), java/io/FileNotFoundException/toString(), android/util/Log/i(java.lang.String  0,00758
+android/text/TextPaint/getFontFeatureSettings()  0,00758
+android/app/NativeActivity/getSystemService(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(float), android/location/Location/getAccuracy(), android/location/Location/getSpeed(), android/location/LocationManager/getLastKnownLocation(java.lang.String), android/location/Location/getAltitude(  0,00758
+android/app/NativeActivity/getSystemService(java.lang.String), java/lang/StringBuilder/append(java.lang.String), android/location/LocationManager/isProviderEnabled(java.lang.String), android/util/Log/i(java.lang.String  0,00758
+android/location/Location/getProvider(), android/location/Location/getBearing(), android/location/Location/getLongitude(), java/lang/StringBuilder/append(double), android/location/Location/getLatitude(), java/lang/StringBuilder/toString()  0,00758
+android/content/Intent/createChooser(android.content.Intent  0,00758
+byte[  0,00758
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(  0,00758
+java/util/LinkedHashMap/entrySet(), java/lang/Class/getName(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object)  0,00758
+java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/graphics/Rect/Rect(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(java.lang.Object  0,00758
+java/lang/StringBuilder/append(java.lang.CharSequence)  0,00758
+java/lang/String/split(java.lang.String  0,00758
+android/media/MediaPlayer/start()  0,00758
+java/io/ByteArrayOutputStream/ByteArrayOutputStream()  0,00758
+android/graphics/drawable/Drawable/getBounds(), android/graphics/drawable/Drawable/invalidateSelf(), android/graphics/drawable/Drawable/setCallback(android.graphics.drawable.Drawable$Callback), android/graphics/drawable/Drawable/getLevel(), android/graphics/drawable/Drawable/setBounds(android.graphics.Rect), android/graphics/drawable/Drawable/setLevel(int), android/graphics/drawable/Drawable/getConstantState(), android/graphics/drawable/Drawable/getState(), android/graphics/drawable/Drawable/isVisible(  0,00758
+android/graphics/drawable/Drawable/getBounds(), android/graphics/Rect/inset(int  0,00758
+android/app/Notification$Action/getSemanticAction(), android/os/Bundle/getBoolean(java.lang.String), android/app/RemoteInput/getChoices(), android/app/RemoteInput/getExtras(), android/app/RemoteInput/getResultKey(), android/app/RemoteInput/getAllowFreeFormInput(), android/os/Bundle/getBoolean(java.lang.String  0,00758
+android/app/Notification$Action/getExtras(), android/app/Notification$Action/getRemoteInputs(), android/app/Notification$Action/getAllowGeneratedReplies()  0,00758
+android/os/Bundle/getBoolean(java.lang.String), android/os/Bundle/getBundle(java.lang.String), java/util/List/clear(), android/os/Bundle/getParcelableArray(java.lang.String), java/util/List/addAll(java.util.Collection), java/lang/Boolean/valueOf(boolean  0,00758
+android/content/Intent/makeMainActivity(android.content.ComponentName), android/content/Intent/Intent(), android/content/Intent/setComponent(android.content.ComponentName), android/util/Log/e(java.lang.String  0,00758
+android.os.Parcelable)  0,00758
+android/graphics/drawable/Drawable/draw(android.graphics.Canvas), android/graphics/drawable/BitmapDrawable/getBitmap(), android/graphics/drawable/Drawable/getIntrinsicWidth(), android/graphics/Bitmap/createBitmap(int  0,00758
+android/text/TextPaint/getTextScaleX(), android/text/TextPaint/getTextLocales(), android/text/TextPaint/getTextLocale(), java/lang/Integer/valueOf(int), android/text/TextPaint/getTypeface(), android/text/TextPaint/getFlags(), java/lang/Float/valueOf(float  0,00758
+android.graphics.Matrix  0,00758
+android/content/Intent/removeExtra(java.lang.String), java/util/ArrayList/isEmpty(), android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String  0,00758
+java/util/ArrayList/isEmpty(), java/util/ArrayList/toArray(java.lang.Object[), android/os/Bundle/putParcelableArrayList(java.lang.String  0,00758
+java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/getClass(), java/lang/Boolean/booleanValue(  0,00758
+java/lang/Integer/intValue(), java/util/Date/toString(), android/app/Application/openFileInput(java.lang.String), android/util/Log/i(java.lang.String  0,00758
+java/lang/Float/floatValue(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/Long/longValue(), java/lang/Double/doubleValue()  0,00758
+android/os/ParcelFileDescriptor/getFd(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), android/system/Os/stat(java.lang.String  0,00758
+android/system/OsConstants/S_ISREG(int), android/system/Os/readlink(java.lang.String), java/io/File/File(java.lang.String)  0,00758
+androidx.core.text.PrecomputedTextCompat$Params)  0,00758
+java/util/WeakHashMap/WeakHashMap(), java/util/ArrayList/isEmpty(), java/util/WeakHashMap/put(java.lang.Object  0,00758
+java/util/ArrayList/remove(int)  0,00758
+android.graphics.Color)  0,00758
+android/content/pm/ShortcutInfo$Builder/setDisabledMessage(java.lang.CharSequence), android/content/pm/ShortcutInfo$Builder/build(), android/content/pm/ShortcutInfo$Builder/setShortLabel(java.lang.CharSequence), android/content/pm/ShortcutInfo$Builder/setIcon(android.graphics.drawable.Icon), android/content/pm/ShortcutInfo$Builder/ShortcutInfo$Builder(android.content.Context  0,00758
+java/lang/Boolean/valueOf(boolean)  0,00758
+android.content.res.Resources)  0,00758
+androidx.core.app.ShareCompat$IntentBuilder)  0,00758
+java.io.File)  0,00758
+android/net/Uri/encode(java.lang.String), java/io/File/getPath(), android/net/Uri$Builder/Uri$Builder(), java/util/Map$Entry/getKey(), android/net/Uri$Builder/encodedPath(java.lang.String), java/lang/String/length()  0,00758
+java/util/Iterator/hasNext(), android/app/Notification$Builder/build(), android/os/Bundle/putAll(android.os.Bundle), android/app/Notification$Builder/setExtras(android.os.Bundle), android/app/Notification$Builder/getNotification(), android/os/Bundle/keySet()  0,00758
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator()  0,00758
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), android/net/Uri$Builder/build(), android/net/Uri/encode(java.lang.String  0,00758
+java/util/HashMap/entrySet(), android/net/Uri$Builder/authority(java.lang.String), java/lang/StringBuilder/append(java.lang.String)  0,00758
+java/lang/StringBuilder/append(boolean)  0,00758
+android/os/Bundle/getBoolean(java.lang.String), android/os/Bundle/getBundle(java.lang.String)  0,00758
+android/text/TextPaint/getLetterSpacing(), android/text/TextPaint/getTextSize(), android/text/TextPaint/getTextSkewX(), android/text/TextPaint/getTypeface()  0,00758
+java/util/Set/iterator()  0,00758
+java/io/File/File(java.io.File  0,00758
+java/lang/StringBuilder/toString()  0,00758

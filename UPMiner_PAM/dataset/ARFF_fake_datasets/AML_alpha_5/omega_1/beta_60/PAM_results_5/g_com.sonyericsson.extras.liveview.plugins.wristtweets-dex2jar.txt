@@ -1,0 +1,147 @@
+prob: 0,09375
+[java.lang.String]
+
+prob: 0,06250
+[java.util.Map]
+
+prob: 0,06250
+[java.lang.String)]
+
+prob: 0,06250
+[java.util.Map)]
+
+prob: 0,06250
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,06250
+[int]
+
+prob: 0,06250
+[java/util/regex/Pattern/matcher(java.lang.CharSequence)]
+
+prob: 0,06250
+[android.os.Parcel]
+
+prob: 0,06250
+[java/lang/String/length()]
+
+prob: 0,06250
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,03125
+[java/lang/Long/toString(long), java/util/List/size(), java/lang/Long/longValue(), java/util/List/get(int), java/lang/Long/Long(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/List/addAll(java.util.Collection), java/lang/StringBuilder/append(java.lang.Object]
+
+prob: 0,03125
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/isEmpty(), java/net/HttpURLConnection/getResponseMessage(), java/util/List/isEmpty(), java/util/Map/get(java.lang.Object), java/net/HttpURLConnection/getHeaderFields(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(]
+
+prob: 0,03125
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/length(), java/util/Map/isEmpty(), java/util/Map/get(java.lang.Object), java/util/Iterator/next(), java/util/Map/keySet()]
+
+prob: 0,03125
+[java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getAction(), android/net/Uri/getQueryParameter(java.lang.String), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/content/Intent/getData(), android/preference/PreferenceActivity/onNewIntent(android.content.Intent), java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,03125
+[java/util/zip/GZIPInputStream/GZIPInputStream(java.io.InputStream), java/io/BufferedReader/read(char[]), java/lang/StringBuilder/append(char[]]
+
+prob: 0,03125
+[java/util/Iterator/hasNext(), java/util/Set/iterator(), java/lang/StringBuilder/deleteCharAt(int]
+
+prob: 0,03125
+[java/util/Map/size()]
+
+prob: 0,03125
+[java/lang/StringBuilder/StringBuilder(), java/net/URI/URI(java.lang.String), java/lang/String/toLowerCase()]
+
+prob: 0,03125
+[java/util/concurrent/ConcurrentHashMap/get(java.lang.Object), java/lang/Long/longValue(), java/lang/String/substring(int]
+
+prob: 0,03125
+[java/lang/Object/toString(), java/util/Iterator/hasNext(), java/util/Set/iterator(), java/lang/StringBuffer/StringBuffer(java.lang.String), java/util/HashMap/get(java.lang.Object), java/util/HashMap/keySet(]
+
+prob: 0,03125
+[java/lang/StringBuffer/length(), java/util/Iterator/next()]
+
+prob: 0,03125
+[java/lang/StringBuffer/StringBuffer(int), java/lang/StringBuffer/append(char), java/lang/StringBuffer/toString(), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int), java/lang/Integer/toHexString(int), java/lang/StringBuilder/StringBuilder(java.lang.String]
+
+prob: 0,03125
+[java/lang/String/length(), java/lang/String/substring(int)]
+
+prob: 0,03125
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/StringBuffer/append(char), java/lang/Integer/parseInt(java.lang.String]
+
+prob: 0,03125
+[java/lang/Integer/Integer(int)]
+
+prob: 0,03125
+[java.math.BigInteger)]
+
+prob: 0,03125
+[android/content/SharedPreferences$Editor/commit(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/SharedPreferences/edit(), android/content/SharedPreferences$Editor/putString(java.lang.String]
+
+prob: 0,03125
+[android/app/AlertDialog$Builder/setIcon(int), android/view/LayoutInflater/inflate(int]
+
+prob: 0,03125
+[java/util/regex/Matcher/group(int), java/lang/String/valueOf(java.lang.Object), java/util/regex/Matcher/matches(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(]
+
+prob: 0,03125
+[android.content.Intent)]
+
+prob: 0,03125
+[java/util/ArrayList/ArrayList(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/String/substring(int]
+
+prob: 0,03125
+[java/util/regex/Pattern/compile(java.lang.String)]
+
+prob: 0,03125
+[java/util/regex/Matcher/group()]
+
+prob: 0,03125
+[java/util/ArrayList/get(int)]
+
+prob: 0,03125
+[android.content.res.Resources]
+
+prob: 0,03125
+[a.a.c.a)]
+
+prob: 0,03125
+[java/net/URI/getAuthority(), java/lang/String/substring(int]
+
+prob: 0,03125
+[java/net/URI/getPort(), java/lang/String/equals(java.lang.Object), java/lang/String/lastIndexOf(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/net/URI/getScheme()]
+
+prob: 0,03125
+[java/net/URI/getRawPath()]
+
+prob: 0,03125
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,03125
+[java/util/List/size()]
+
+prob: 0,03125
+[java/util/List/get(int)]
+
+prob: 0,03125
+[java/lang/StringBuffer/append(char), java/lang/StringBuffer/toString(), java/lang/StringBuffer/append(java.lang.String)]
+
+prob: 0,03125
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/SharedPreferences/edit(), android/content/SharedPreferences$Editor/putString(java.lang.String]
+
+prob: 0,03125
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,03125
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03125
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,03125
+[java/lang/StringBuilder/toString()]
+
+prob: 0,03125
+[java/lang/StringBuilder/append(java.lang.String)]
+

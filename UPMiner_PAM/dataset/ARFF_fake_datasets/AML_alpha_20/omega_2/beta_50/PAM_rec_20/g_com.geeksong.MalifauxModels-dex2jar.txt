@@ -1,0 +1,30 @@
+org.api.fake  0,16327
+org.rand.api  0,16327
+java.lang.String  0,12245
+org.json.JSONObject)  0,06122
+org.apache.cordova.CordovaDialogsHelper$Result)  0,06122
+boolean  0,06122
+boolean)  0,04082
+java/util/ArrayList/ArrayList(), android/content/Intent/createChooser(android.content.Intent  0,02041
+android/content/Intent/setData(android.net.Uri), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putExtra(java.lang.String  0,02041
+android/widget/ProgressBar/ProgressBar(android.content.Context), android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,02041
+android/net/Uri/getHost(), java/util/regex/Matcher/matches(), java/lang/Integer/equals(java.lang.Object), java/lang/Integer/valueOf(int), java/lang/Exception/toString(), java/util/regex/Pattern/matcher(java.lang.CharSequence), android/net/Uri/getPort(), android/net/Uri/getPath(), android/net/Uri/getScheme(  0,02041
+android/net/Uri/getPath(), java/net/URL/openConnection(), android/content/ContentResolver/getType(android.net.Uri), java/lang/String/split(java.lang.String), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/net/HttpURLConnection/getHeaderField(java.lang.String), android/net/Uri/toString(), java/net/HttpURLConnection/setDoInput(boolean  0,02041
+android/webkit/WebSettings/setGeolocationDatabasePath(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,02041
+android/webkit/WebSettings/setUserAgentString(java.lang.String)  0,02041
+java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/d(java.lang.String  0,02041
+java/util/LinkedList/isEmpty(), java/lang/StringBuilder/append(int), java/lang/Object/getClass(), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,02041
+java/util/ArrayList/size()  0,02041
+java/util/LinkedList/iterator(), java/lang/StringBuilder/append(java.lang.String), java/util/LinkedList/removeFirst(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(int), java/util/LinkedList/size(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(  0,02041
+java/util/Iterator/hasNext()  0,02041
+java/lang/Class/newInstance(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/Exception/printStackTrace(  0,02041
+java/lang/Class/forName(java.lang.String), java/lang/Class/isAssignableFrom(java.lang.Class), java/io/PrintStream/println(java.lang.String)  0,02041
+android/view/animation/AlphaAnimation/setAnimationListener(android.view.animation.Animation$AnimationListener), android/view/animation/AlphaAnimation/setDuration(long), android/app/Dialog/dismiss(), android/view/animation/AlphaAnimation/AlphaAnimation(float  0,02041
+android/app/Dialog/setContentView(android.view.View), android/widget/ImageView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/ImageView/setImageResource(int), android/os/Handler/Handler(), android/widget/ImageView/setMinimumWidth(int), android/view/Display/getHeight(), android/view/Window/setFlags(int  0,02041
+android/text/Html/fromHtml(java.lang.String), org/json/JSONArray/getString(int), android/content/Intent/setType(java.lang.String), android/content/Intent/putExtra(java.lang.String  0,02041
+android/widget/RelativeLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/ProgressBar/ProgressBar(android.content.Context), android/app/ProgressDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/widget/ProgressBar/setLayoutParams(android.view.ViewGroup$LayoutParams), android/view/Window/setBackgroundDrawable(android.graphics.drawable.Drawable), android/view/Window/clearFlags(int), android/app/ProgressDialog/setContentView(android.view.View), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/widget/RelativeLayout$LayoutParams/addRule(int  0,02041
+android/app/ProgressDialog/show()  0,02041
+java.io.OutputStream)  0,02041
+java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/String/split(java.lang.String), android/net/Uri/getSchemeSpecificPart(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[), java/lang/String/getBytes(), java/lang/String/indexOf(int), android/util/Base64/decode(java.lang.String  0,02041
+java/util/ArrayList/add(java.lang.Object)  0,02041
+android/content/Intent/putExtra(java.lang.String  0,02041

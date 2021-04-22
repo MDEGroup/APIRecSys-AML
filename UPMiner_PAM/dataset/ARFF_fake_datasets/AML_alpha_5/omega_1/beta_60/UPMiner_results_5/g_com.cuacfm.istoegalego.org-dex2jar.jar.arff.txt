@@ -1,0 +1,6 @@
+java/io/BufferedReader/readLine(
+android/widget/RemoteViews/setTextViewText(int,java.lang.CharSequence)
+android/widget/TextView/setOnTouchListener(android.view.View$OnTouchListener)
+android/util/Log/v(java.lang.String,java.lang.String)
+android/widget/RemoteViews/setImageViewResource(int,int
+com/cuacfm/istoegalego/org/IstoeGalegoScreen/getAssets(

@@ -1,0 +1,60 @@
+prob: 0,11765
+[java.lang.String]
+
+prob: 0,11765
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,05882
+[android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,05882
+[weather/widget/graph/WeatherGraphView/setContentView(int), java/lang/StringBuilder/StringBuilder(java.lang.String), weather/widget/graph/WeatherGraphView/getApplicationContext(), java/lang/StringBuilder/toString(]
+
+prob: 0,05882
+[com.jjoe64.graphview.GraphViewDataInterface[]]
+
+prob: 0,05882
+[java/lang/String/replaceAll(java.lang.String]
+
+prob: 0,05882
+[java/util/ArrayList/ArrayList(), java/util/List/size(), java/lang/Double/doubleValue(), java/util/List/toArray(java.lang.Object[]), java/lang/Double/valueOf(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,05882
+[android/widget/LinearLayout/addView(android.view.View), android/app/Activity/onCreate(android.os.Bundle), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,05882
+[org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), java/io/InputStream/read(byte[]), java/lang/String/String(byte[]]
+
+prob: 0,05882
+[android/widget/TextView/setFocusable(boolean), android/widget/TextView/setFocusableInTouchMode(boolean), android/app/Activity/onCreate(android.os.Bundle), java/lang/String/equals(java.lang.Object), android/widget/EditText/setText(java.lang.CharSequence), android/widget/EditText/setEnabled(boolean), weather/widget/settings/Settingsmenu/findViewById(int), weather/widget/settings/Settingsmenu/setContentView(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/EditText/setText(int), weather/widget/settings/Settingsmenu/getApplicationContext(), android/widget/CheckBox/setChecked(boolean]
+
+prob: 0,05882
+[com/jjoe64/graphview/GraphView$GraphViewContentView/getHeight(), com/jjoe64/graphview/GraphView$GraphViewContentView/getWidth(), android/graphics/Paint/setTextSize(float), android/graphics/Paint/getTextBounds(java.lang.String]
+
+prob: 0,05882
+[weather/widget/graph/WeatherGraphView/getString(int), com/jjoe64/graphview/LineGraphView/getGraphViewStyle(), java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String), weather/widget/graph/WeatherGraphView/findViewById(int)]
+
+prob: 0,05882
+[float]
+
+prob: 0,05882
+[android/text/Editable/toString(), android/widget/EditText/getText(), java/lang/String/replace(java.lang.CharSequence]
+
+prob: 0,05882
+[android.content.Context]
+
+prob: 0,05882
+[java/lang/Integer/intValue(), android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,05882
+[android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,05882
+[java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,05882
+[java/lang/String/valueOf(java.lang.Object)]
+
+prob: 0,05882
+[java/lang/StringBuilder/append(java.lang.String)]
+

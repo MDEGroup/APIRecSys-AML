@@ -1,0 +1,6 @@
+java/lang/Process/getErrorStream()
+android/content/SharedPreferences/getBoolean(java.lang.String,boolean
+android/app/Notification$Builder/setContentIntent(android.app.PendingIntent
+java/lang/Process/getOutputStream(
+android/content/ComponentName/getClassName()
+android/app/AlertDialog$Builder/setCancelable(boolean)

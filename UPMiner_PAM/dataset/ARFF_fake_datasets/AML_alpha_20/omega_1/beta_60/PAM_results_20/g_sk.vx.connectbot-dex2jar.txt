@@ -1,0 +1,627 @@
+prob: 0,07692
+[int)]
+
+prob: 0,06838
+[int]
+
+prob: 0,05983
+[android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,05128
+[android.view.View]
+
+prob: 0,03419
+[java.lang.String)]
+
+prob: 0,02564
+[java.lang.String[]]
+
+prob: 0,02564
+[android/content/res/Resources/getText(int), java/lang/String/format(java.lang.String]
+
+prob: 0,02564
+[android/content/res/Resources/getString(int)]
+
+prob: 0,02564
+[sk/vx/connectbot/util/HostDatabase/getReadableDatabase(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,02564
+[java/util/List/add(java.lang.Object)]
+
+prob: 0,02564
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01709
+[android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,01709
+[java/lang/Thread/start(), java/lang/Thread/setName(java.lang.String)]
+
+prob: 0,01709
+[java/lang/String/split(java.lang.String)]
+
+prob: 0,01709
+[com/trilead/ssh2/channel/StreamForwarder/start(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01709
+[java/lang/Thread/Thread(java.lang.Runnable)]
+
+prob: 0,01709
+[android/net/Uri/encode(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/regex/Matcher/matches(), java/lang/StringBuilder/append(int]
+
+prob: 0,01709
+[java/util/regex/Matcher/group(int), android/net/Uri/parse(java.lang.String), java/lang/Integer/parseInt(java.lang.String), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString()]
+
+prob: 0,01709
+[java/util/regex/Pattern/matcher(java.lang.CharSequence)]
+
+prob: 0,01709
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01709
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,01709
+[java/io/File/getName()]
+
+prob: 0,01709
+[android/content/res/Resources/getString(int]
+
+prob: 0,01709
+[android/content/res/Resources/getText(int)]
+
+prob: 0,01709
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,00855
+[android.view.MotionEvent)]
+
+prob: 0,00855
+[java/lang/StringBuilder/toString(), java/net/Socket/getOutputStream(), com/trilead/ssh2/channel/StreamForwarder/setDaemon(boolean), java/net/Socket/getPort(), java/net/ServerSocket/accept(]
+
+prob: 0,00855
+[android/view/View/requestFocus(), java/lang/Object/equals(java.lang.Object), android/text/method/SingleLineTransformationMethod/getInstance(), java/lang/String/length(), android/widget/EditText/setHint(java.lang.CharSequence), android/widget/EditText/requestFocus(), android/widget/EditText/setText(java.lang.CharSequence), android/widget/TextView/setVisibility(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/EditText/setInputType(int), android/widget/RelativeLayout/setVisibility(int), android/widget/Button/requestFocus(]
+
+prob: 0,00855
+[android/widget/EditText/setTransformationMethod(android.text.method.TransformationMethod)]
+
+prob: 0,00855
+[android/text/method/PasswordTransformationMethod/getInstance()]
+
+prob: 0,00855
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,00855
+[android/widget/ImageView/setOnLongClickListener(android.view.View$OnLongClickListener), sk/vx/connectbot/ConsoleActivity/getSystemService(java.lang.String), android/widget/EditText/setOnKeyListener(android.view.View$OnKeyListener), sk/vx/connectbot/ConsoleActivity/setVolumeControlStream(int), android/content/Intent/getData(), android/view/GestureDetector/GestureDetector(android.view.GestureDetector$OnGestureListener), sk/vx/connectbot/ConsoleActivity/getIntent(), android/content/res/Resources/getConfiguration(), android/widget/ViewFlipper/setOnTouchListener(android.view.View$OnTouchListener), android/widget/ImageView/setOnClickListener(android.view.View$OnClickListener), android/app/Activity/onCreate(android.os.Bundle), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), sk/vx/connectbot/ConsoleActivity/setContentView(int), android/view/animation/AnimationUtils/loadAnimation(android.content.Context]
+
+prob: 0,00855
+[sk/vx/connectbot/ConsoleActivity/findViewById(int), android/widget/ViewFlipper/setLongClickable(boolean), sk/vx/connectbot/ConsoleActivity/getResources(), android/view/LayoutInflater/from(android.content.Context)]
+
+prob: 0,00855
+[com.trilead.ssh2.signature.DSAPrivateKey]
+
+prob: 0,00855
+[com.trilead.ssh2.signature.DSASignature]
+
+prob: 0,00855
+[java/io/IOException/IOException(java.lang.String), java/lang/StringBuffer/length(), java/lang/StringBuffer/setCharAt(int]
+
+prob: 0,00855
+[android/app/ListActivity/onCreate(android.os.Bundle), android/view/LayoutInflater/from(android.content.Context), sk/vx/connectbot/PubkeyListActivity/getSystemService(java.lang.String), sk/vx/connectbot/PubkeyListActivity/setTitle(java.lang.CharSequence)]
+
+prob: 0,00855
+[android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)]
+
+prob: 0,00855
+[sk/vx/connectbot/PubkeyListActivity/setContentView(int)]
+
+prob: 0,00855
+[java.lang.String]
+
+prob: 0,00855
+[java/security/KeyPair/getPublic(), java/security/PrivateKey/getEncoded(), java/lang/StringBuilder/append(java.lang.String), android/os/Handler/sendEmptyMessage(int), java/io/File/length(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,00855
+[java/security/KeyPair/getPublic(), java/security/SecureRandom/setSeed(byte[]), sk/vx/connectbot/util/PubkeyDatabase/close(), android/util/Log/e(java.lang.String]
+
+prob: 0,00855
+[android/app/backup/SharedPreferencesBackupHelper/SharedPreferencesBackupHelper(android.content.Context]
+
+prob: 0,00855
+[boolean)]
+
+prob: 0,00855
+[android/content/res/AssetManager/list(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), sk/vx/connectbot/HelpActivity/getPackageName(), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,00855
+[sk/vx/connectbot/HelpActivity/setTitle(java.lang.CharSequence), sk/vx/connectbot/HelpActivity/getAssets(), android/widget/Button/Button(android.content.Context), sk/vx/connectbot/HelpActivity/getPackageManager()]
+
+prob: 0,00855
+[java.lang.String[])]
+
+prob: 0,00855
+[java/util/Iterator/hasNext(), android/content/res/Resources/getConfiguration(), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), java/lang/String/format(java.lang.String]
+
+prob: 0,00855
+[java/util/Iterator/hasNext(), android/preference/Preference/setSummary(java.lang.CharSequence), android/preference/Preference/setSummary(int), java/util/Iterator/next(), java/lang/String/equals(java.lang.Object), java/lang/Integer/parseInt(java.lang.String), android/preference/ListPreference/getEntries(]
+
+prob: 0,00855
+[java/util/Iterator/hasNext(), android/content/SharedPreferences$Editor/putBoolean(java.lang.String]
+
+prob: 0,00855
+[java/util/Iterator/hasNext(), java/util/Set/iterator(), java/nio/charset/Charset/displayName(), java/nio/charset/Charset/availableCharsets(), java/util/LinkedList/LinkedList(), java/util/Map$Entry/getValue()]
+
+prob: 0,00855
+[java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Arrays/equals(byte[]]
+
+prob: 0,00855
+[java/util/Iterator/hasNext(), java/util/List/iterator()]
+
+prob: 0,00855
+[java/util/Iterator/hasNext(), android/util/Log/e(java.lang.String]
+
+prob: 0,00855
+[sk/vx/connectbot/util/UberColorPickerDialog/setContentView(android.view.View), sk/vx/connectbot/util/UberColorPickerDialog/getWindow(), android/util/DisplayMetrics/DisplayMetrics(), sk/vx/connectbot/util/UberColorPickerDialog/dismiss(), sk/vx/connectbot/util/UberColorPickerDialog/setTitle(java.lang.CharSequence), android/app/Dialog/onCreate(android.os.Bundle), sk/vx/connectbot/util/UberColorPickerDialog/getContext(), android/view/WindowManager/getDefaultDisplay(), android/view/Window/getWindowManager(), android/view/Display/getMetrics(android.util.DisplayMetrics]
+
+prob: 0,00855
+[android/content/SharedPreferences$Editor/clear(), android/content/SharedPreferences$Editor/commit()]
+
+prob: 0,00855
+[sk/vx/connectbot/SettingsActivity/addPreferencesFromResource(int), android/content/SharedPreferences$Editor/putBoolean(java.lang.String]
+
+prob: 0,00855
+[sk.vx.connectbot.util.FileChooserCallback]
+
+prob: 0,00855
+[com/lamerman/FileDialog/setContentView(int), android/content/res/Resources/getText(int), com/lamerman/FileDialog/getResources(), android/content/Intent/getIntExtra(java.lang.String]
+
+prob: 0,00855
+[java/util/Set/iterator(), android/preference/ListPreference/findIndexOfValue(java.lang.String), java/util/Map/keySet(), sk/vx/connectbot/HostEditorActivity/findPreference(java.lang.CharSequence)]
+
+prob: 0,00855
+[java/util/TreeMap/put(java.lang.Object]
+
+prob: 0,00855
+[android/net/Uri/getScheme(), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,00855
+[sk/vx/connectbot/HostListActivity/setListAdapter(android.widget.ListAdapter), android/content/SharedPreferences$Editor/commit()]
+
+prob: 0,00855
+[android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,00855
+[sk/vx/connectbot/util/HostDatabase/getReadableDatabase(), java/util/Iterator/hasNext(), java/util/List/size(), java/util/Iterator/next(), java/lang/StringBuilder/toString(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,00855
+[java/lang/Boolean/valueOf(java.lang.String), android/database/Cursor/getLong(int), java/util/List/add(java.lang.Object), android/database/Cursor/getString(int), android/database/Cursor/moveToNext(), java/lang/Boolean/booleanValue()]
+
+prob: 0,00855
+[android/database/Cursor/getColumnIndexOrThrow(java.lang.String), java/util/LinkedList/LinkedList(), android/database/Cursor/getInt(int]
+
+prob: 0,00855
+[java/util/Map/entrySet()]
+
+prob: 0,00855
+[sk/vx/connectbot/PortForwardListActivity/setTitle(java.lang.CharSequence), android/content/res/Resources/getText(int), android/content/Intent/getLongExtra(java.lang.String]
+
+prob: 0,00855
+[com/trilead/ssh2/channel/StreamForwarder/isAlive(), java/net/Socket/Socket(java.lang.String]
+
+prob: 0,00855
+[java/util/Map$Entry/getKey(), java/util/SortedMap/entrySet(]
+
+prob: 0,00855
+[java/nio/charset/Charset/isRegistered()]
+
+prob: 0,00855
+[java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,00855
+[java/nio/charset/Charset/canEncode()]
+
+prob: 0,00855
+[java/util/Iterator/next(), java/lang/Integer/valueOf(int), android/content/res/Resources/getString(int]
+
+prob: 0,00855
+[java/io/OutputStream/close(), com/trilead/ssh2/channel/StreamForwarder/isAlive(), java/lang/StringBuilder/append(java.lang.String), java/io/OutputStream/flush(), java/io/IOException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/io/OutputStream/write(byte[]]
+
+prob: 0,00855
+[java/io/InputStream/read(byte[]), java/io/InputStream/close(), com/trilead/ssh2/channel/StreamForwarder/join()]
+
+prob: 0,00855
+[android.os.IBinder)]
+
+prob: 0,00855
+[sk/vx/connectbot/WizardActivity/getPackageManager(), sk/vx/connectbot/WizardActivity/getResources(), android/widget/ViewFlipper/addView(android.view.View), sk/vx/connectbot/WizardActivity/setContentView(int), android/view/LayoutInflater/inflate(int]
+
+prob: 0,00855
+[java/lang/Runnable/run(), java/lang/StringBuilder/append(java.lang.String), java/lang/Object/wait(long), java/io/PrintWriter/PrintWriter(java.io.Writer), java/lang/StringBuilder/toString(), java/lang/Exception/getMessage(]
+
+prob: 0,00855
+[java/lang/Exception/printStackTrace(java.io.PrintWriter)]
+
+prob: 0,00855
+[java/util/LinkedList/size()]
+
+prob: 0,00855
+[java/io/StringWriter/StringWriter()]
+
+prob: 0,00855
+[java/io/StringWriter/toString()]
+
+prob: 0,00855
+[java/lang/System/currentTimeMillis()]
+
+prob: 0,00855
+[java/lang/String/equals(java.lang.Object), java/lang/String/substring(int), java/lang/StringBuffer/append(java.lang.String), java/lang/String/trim(), java/io/CharArrayReader/CharArrayReader(char[]), java/lang/StringBuffer/length()]
+
+prob: 0,00855
+[java/lang/String/equals(java.lang.Object), android/util/Log/d(java.lang.String]
+
+prob: 0,00855
+[java/lang/String/equals(java.lang.Object), java/lang/String/length()]
+
+prob: 0,00855
+[java/util/LinkedList/removeFirst()]
+
+prob: 0,00855
+[java/util/LinkedList/getFirst()]
+
+prob: 0,00855
+[android/content/res/Resources/openRawResourceFd(int)]
+
+prob: 0,00855
+[android/media/MediaPlayer/setOnCompletionListener(android.media.MediaPlayer$OnCompletionListener)]
+
+prob: 0,00855
+[android/content/res/AssetFileDescriptor/getFileDescriptor()]
+
+prob: 0,00855
+[android/media/MediaPlayer/setDataSource(java.io.FileDescriptor]
+
+prob: 0,00855
+[java/util/Vector/size()]
+
+prob: 0,00855
+[java/lang/StringBuilder/append(int), java/lang/StringBuffer/append(java.lang.String)]
+
+prob: 0,00855
+[java/lang/StringBuffer/toString()]
+
+prob: 0,00855
+[java/util/Vector/elementAt(int)]
+
+prob: 0,00855
+[java/lang/StringBuffer/StringBuffer()]
+
+prob: 0,00855
+[java/nio/ByteBuffer/compact(), android/util/Log/e(java.lang.String]
+
+prob: 0,00855
+[java/nio/ByteBuffer/allocate(int)]
+
+prob: 0,00855
+[java/nio/ByteBuffer/position()]
+
+prob: 0,00855
+[java/nio/CharBuffer/array()]
+
+prob: 0,00855
+[java/nio/ByteBuffer/arrayOffset()]
+
+prob: 0,00855
+[java/nio/CharBuffer/allocate(int)]
+
+prob: 0,00855
+[java/nio/ByteBuffer/position(int)]
+
+prob: 0,00855
+[java/nio/charset/CoderResult/isUnderflow()]
+
+prob: 0,00855
+[java/nio/ByteBuffer/limit(int)]
+
+prob: 0,00855
+[java/nio/ByteBuffer/capacity()]
+
+prob: 0,00855
+[java/nio/charset/CharsetDecoder/onUnmappableCharacter(java.nio.charset.CodingErrorAction)]
+
+prob: 0,00855
+[java/nio/charset/Charset/newDecoder(), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,00855
+[java/lang/Long/valueOf(long)]
+
+prob: 0,00855
+[android/content/ContentValues/put(java.lang.String]
+
+prob: 0,00855
+[sk.vx.connectbot.bean.HostBean)]
+
+prob: 0,00855
+[java/util/regex/Pattern/compile(java.lang.String), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/LinkedList/LinkedList(java.util.Collection)]
+
+prob: 0,00855
+[java/lang/String/String(char[])]
+
+prob: 0,00855
+[java/util/LinkedHashSet/LinkedHashSet()]
+
+prob: 0,00855
+[java/util/regex/Matcher/group()]
+
+prob: 0,00855
+[java/util/regex/Matcher/find()]
+
+prob: 0,00855
+[java/util/List/addAll(java.util.Collection), java/util/LinkedList/LinkedList(java.util.Collection), java/lang/Thread/start(), android/content/Intent/getLongExtra(java.lang.String]
+
+prob: 0,00855
+[java/lang/System/arraycopy(java.lang.Object]
+
+prob: 0,00855
+[android/graphics/Canvas/drawLine(float]
+
+prob: 0,00855
+[android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener)]
+
+prob: 0,00855
+[android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter)]
+
+prob: 0,00855
+[sk/vx/connectbot/ColorsActivity/getResources()]
+
+prob: 0,00855
+[android/widget/GridView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)]
+
+prob: 0,00855
+[java/util/Arrays/asList(java.lang.Object[])]
+
+prob: 0,00855
+[sk/vx/connectbot/ColorsActivity/setContentView(int)]
+
+prob: 0,00855
+[java.nio.ByteBuffer)]
+
+prob: 0,00855
+[android.content.Intent)]
+
+prob: 0,00855
+[android/graphics/Canvas/translate(float]
+
+prob: 0,00855
+[java/security/interfaces/DSAParams/getP()]
+
+prob: 0,00855
+[java/security/interfaces/DSAParams/getQ()]
+
+prob: 0,00855
+[java/security/interfaces/DSAPrivateKey/getParams()]
+
+prob: 0,00855
+[java/security/spec/PKCS8EncodedKeySpec/PKCS8EncodedKeySpec(byte[])]
+
+prob: 0,00855
+[java/security/interfaces/RSAPrivateCrtKey/getPublicExponent()]
+
+prob: 0,00855
+[java/security/KeyPair/KeyPair(java.security.PublicKey]
+
+prob: 0,00855
+[java.security.PublicKey)]
+
+prob: 0,00855
+[android/app/AlertDialog$Builder/setTitle(int), java/util/List/size(), java/util/List/toArray(java.lang.Object[]), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,00855
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,00855
+[android/app/AlertDialog$Builder/create()]
+
+prob: 0,00855
+[android/widget/ListView/setAdapter(android.widget.ListAdapter)]
+
+prob: 0,00855
+[android/app/Dialog/setContentView(android.view.View)]
+
+prob: 0,00855
+[android/app/Dialog/setTitle(int)]
+
+prob: 0,00855
+[android/app/Dialog/show()]
+
+prob: 0,00855
+[android/view/View/getContext()]
+
+prob: 0,00855
+[android/app/Dialog/Dialog(android.content.Context)]
+
+prob: 0,00855
+[android/preference/ListPreference/getEntries()]
+
+prob: 0,00855
+[android/preference/ListPreference/getEntryValues()]
+
+prob: 0,00855
+[android/preference/ListPreference/setEntries(java.lang.CharSequence[])]
+
+prob: 0,00855
+[android/preference/ListPreference/setEntryValues(java.lang.CharSequence[])]
+
+prob: 0,00855
+[sk/vx/connectbot/util/UberColorPickerDialog$ColorPickerView/invalidate()]
+
+prob: 0,00855
+[android/graphics/Paint/setColor(int)]
+
+prob: 0,00855
+[android/graphics/Color/colorToHSV(int]
+
+prob: 0,00855
+[boolean]
+
+prob: 0,00855
+[java/net/InetAddress/getHostAddress()]
+
+prob: 0,00855
+[java/lang/StringBuilder/setLength(int)]
+
+prob: 0,00855
+[java/lang/Integer/parseInt(java.lang.String]
+
+prob: 0,00855
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,00855
+[sk/vx/connectbot/GeneratePubkeyActivity/findViewById(int)]
+
+prob: 0,00855
+[android/widget/RadioGroup/setOnCheckedChangeListener(android.widget.RadioGroup$OnCheckedChangeListener)]
+
+prob: 0,00855
+[android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener)]
+
+prob: 0,00855
+[java/net/Socket/getInetAddress()]
+
+prob: 0,00855
+[android/widget/EditText/setOnFocusChangeListener(android.view.View$OnFocusChangeListener)]
+
+prob: 0,00855
+[android/widget/EditText/addTextChangedListener(android.text.TextWatcher)]
+
+prob: 0,00855
+[sk/vx/connectbot/GeneratePubkeyActivity/setContentView(int)]
+
+prob: 0,00855
+[android/view/LayoutInflater/from(android.content.Context]
+
+prob: 0,00855
+[android/app/ProgressDialog/setMessage(java.lang.CharSequence)]
+
+prob: 0,00855
+[android/app/ProgressDialog/show()]
+
+prob: 0,00855
+[android/app/ProgressDialog/ProgressDialog(android.content.Context)]
+
+prob: 0,00855
+[sk/vx/connectbot/GeneratePubkeyActivity/getResources()]
+
+prob: 0,00855
+[android/app/ProgressDialog/setCancelable(boolean)]
+
+prob: 0,00855
+[android/app/ProgressDialog/setIndeterminate(boolean]
+
+prob: 0,00855
+[java.nio.CharBuffer)]
+
+prob: 0,00855
+[java/net/Socket/getInputStream()]
+
+prob: 0,00855
+[android/graphics/Canvas/drawText(java.lang.String]
+
+prob: 0,00855
+[android.os.Parcel]
+
+prob: 0,00855
+[android/view/accessibility/AccessibilityEvent/obtain(int)]
+
+prob: 0,00855
+[android/view/accessibility/AccessibilityEvent/setAddedCount(int)]
+
+prob: 0,00855
+[java/lang/StringBuffer/replace(int]
+
+prob: 0,00855
+[java/io/InputStream/read(byte[]]
+
+prob: 0,00855
+[android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,00855
+[android/view/Menu/add(int)]
+
+prob: 0,00855
+[android/view/MenuItem/setShowAsAction(int)]
+
+prob: 0,00855
+[android/view/MenuItem/setAlphabeticShortcut(char)]
+
+prob: 0,00855
+[android/view/Menu/add(java.lang.CharSequence)]
+
+prob: 0,00855
+[android/view/MenuItem/setEnabled(boolean)]
+
+prob: 0,00855
+[android/view/MenuItem/setTitle(int)]
+
+prob: 0,00855
+[sk/vx/connectbot/ConsoleActivity/getString(int)]
+
+prob: 0,00855
+[android/view/Menu/setQwertyMode(boolean)]
+
+prob: 0,00855
+[android/view/MenuItem/setOnMenuItemClickListener(android.view.MenuItem$OnMenuItemClickListener)]
+
+prob: 0,00855
+[android/text/ClipboardManager/hasText()]
+
+prob: 0,00855
+[android/view/MenuItem/setIcon(int)]
+
+prob: 0,00855
+[android/app/Activity/onCreateOptionsMenu(android.view.Menu]
+
+prob: 0,00855
+[java/net/Socket/close()]
+
+prob: 0,00855
+[java/io/IOException/IOException(java.lang.String)]
+
+prob: 0,00855
+[java/util/Map$Entry/getValue()]
+
+prob: 0,00855
+[java/util/List/toArray(java.lang.Object[])]
+
+prob: 0,00855
+[android/app/AlertDialog$Builder/setTitle(int)]
+
+prob: 0,00855
+[java/lang/String/valueOf(java.lang.Object)]
+
+prob: 0,00855
+[java/io/IOException/getMessage()]
+
+prob: 0,00855
+[java/util/Set/iterator()]
+
+prob: 0,00855
+[java/util/List/size()]
+
+prob: 0,00855
+[java/lang/String/length()]
+
+prob: 0,00855
+[android/app/Activity/onCreate(android.os.Bundle), android/widget/Button/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,00855
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00855
+[java/util/Iterator/next()]
+
+prob: 0,00855
+[android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,00855
+[java/lang/StringBuilder/toString()]
+

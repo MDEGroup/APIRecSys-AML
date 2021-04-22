@@ -1,0 +1,10 @@
+java/security/MessageDigest/digest()
+android/app/AlertDialog$Builder/setTitle(int)
+java/lang/reflect/Field/get(java.lang.Object)
+java/io/BufferedReader/readLine(
+java/io/BufferedReader/close()
+java/io/OutputStreamWriter/flush(
+android/os/Parcel/writeInt(int
+android/content/pm/PackageManager/setComponentEnabledSetting(android.content.ComponentName,int,int
+com/gsamlabs/bbm/rootcompanion/IBatteryStatsService$Stub/hasBatteryStatsPermission()
+java/io/InputStream/close(

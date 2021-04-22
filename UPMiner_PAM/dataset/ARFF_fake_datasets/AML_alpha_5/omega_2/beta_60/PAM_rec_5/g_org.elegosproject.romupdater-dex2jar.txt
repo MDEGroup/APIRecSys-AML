@@ -1,0 +1,69 @@
+android.view.View  0,15909
+android/app/AlertDialog/show()  0,06818
+android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/AlertDialog/show(), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,04545
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,04545
+android/view/MenuItem/getItemId()  0,04545
+java.lang.reflect.Type  0,04545
+int)  0,04545
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Double/parseDouble(java.lang.String), java/lang/String/startsWith(java.lang.String), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(  0,04545
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/util/List/iterator(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,04545
+java/lang/Boolean/valueOf(boolean), android/util/Log/i(java.lang.String  0,04545
+java/lang/StringBuilder/StringBuilder()  0,04545
+android/app/AlertDialog$Builder/setCancelable(boolean)  0,04545
+java/lang/StringBuilder/append(java.lang.String)  0,04545
+android/app/AlertDialog$Builder/setCancelable(boolean), android/app/AlertDialog$Builder/create(), java/lang/StringBuilder/toString(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), java/util/Collections/sort(java.util.List  0,02273
+java/util/Vector/isEmpty(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), java/lang/Boolean/booleanValue(), org/elegosproject/romupdater/VersionsList/getString(int), android/widget/ListView/setAdapter(android.widget.ListAdapter)  0,02273
+android/content/Intent/putExtra(java.lang.String  0,02273
+java/lang/Long/parseLong(java.lang.String)  0,02273
+java/lang/StringBuilder/append(java.lang.String), java/util/List/get(int), java/util/logging/Logger/log(java.util.logging.Level  0,02273
+org/elegosproject/romupdater/VersionsList/finish()  0,02273
+org/elegosproject/romupdater/ROMUpdater/getString(int), android/content/SharedPreferences$Editor/putBoolean(java.lang.String  0,02273
+android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/setCancelable(boolean), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,02273
+java/io/File/isDirectory(), android/app/AlertDialog$Builder/setCancelable(boolean), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence), android/app/AlertDialog$Builder/create(), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,02273
+org/elegosproject/romupdater/ROMSuperActivity/getString(int), android/app/AlertDialog$Builder/setCancelable(boolean), android/app/Activity/onOptionsItemSelected(android.view.MenuItem), android/app/AlertDialog$Builder/create(), org/elegosproject/romupdater/ROMSuperActivity/finish()  0,02273
+org/elegosproject/romupdater/ROMSuperActivity/getString(int), java/io/BufferedInputStream/read(byte[), java/io/File/File(java.lang.String), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,02273
+org/elegosproject/romupdater/ROMSuperActivity/getString(int), java/lang/Boolean/valueOf(boolean), org/apache/http/params/HttpConnectionParams/setConnectionTimeout(org.apache.http.params.HttpParams  0,02273
+org/elegosproject/romupdater/ROMSuperActivity/getPackageManager()  0,02273
+java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/DataInputStream/readLine(), java/io/File/File(java.lang.String), java/lang/String/substring(int), java/io/DataInputStream/available(), java/io/FileInputStream/FileInputStream(java.io.File), java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream), java/lang/String/startsWith(java.lang.String  0,02273
+java/lang/Exception/printStackTrace(), java/lang/String/indexOf(java.lang.String)  0,02273
+java/util/Collections/reverseOrder(), java/lang/String/valueOf(java.lang.Object), android/content/SharedPreferences/getString(java.lang.String  0,02273
+android/app/ProgressDialog/setMessage(java.lang.CharSequence), java/io/IOException/printStackTrace(), android/app/ProgressDialog/setCancelable(boolean), java/io/FileOutputStream/close(), java/net/URLConnection/getContentLength(), android/app/ProgressDialog/setProgressStyle(int), android/app/ProgressDialog/setMax(int), java/net/URLConnection/getInputStream()  0,02273
+android/app/ProgressDialog/setMessage(java.lang.CharSequence), org/elegosproject/romupdater/ROMSuperActivity$DownloadJSON/publishProgress(java.lang.Object[), android/app/AlertDialog$Builder/setCancelable(boolean)  0,02273
+java/net/URL/openConnection(), java/lang/String/valueOf(java.lang.Object), java/net/URLEncoder/encode(java.lang.String  0,02273
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Double/parseDouble(java.lang.String), java/lang/Double/isNaN(double), java/lang/StringBuilder/toString(), java/lang/Double/isInfinite(double  0,02273
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/List/remove(int), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,02273
+java/lang/StringBuilder/StringBuilder(), java/lang/Integer/parseInt(java.lang.String)  0,02273
+org/elegosproject/romupdater/VersionsList/getString(int), android/content/SharedPreferences/getString(java.lang.String  0,02273
+org/elegosproject/romupdater/VersionsList/getString(int), java/lang/StringBuilder/append(java.lang.String), android/app/AlertDialog$Builder/setCancelable(boolean), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,02273
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/List/get(int), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Set/iterator(  0,02273
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getKey(), java/util/Map$Entry/getValue(  0,02273
+java/util/Iterator/hasNext(), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,02273
+java/util/Map$Entry/getKey(), java/util/List/size(), java/util/Map/containsKey(java.lang.Object), java/util/Map$Entry/getValue(), java/util/Map/entrySet()  0,02273
+android/widget/ListView/setAdapter(android.widget.ListAdapter), java/io/File/isDirectory(), java/lang/StringBuilder/append(java.lang.String)  0,02273
+android/widget/ListView/setAdapter(android.widget.ListAdapter), android/app/AlertDialog$Builder/create()  0,02273
+org/elegosproject/romupdater/VersionSelector/finish()  0,02273
+java/lang/Integer/intValue(), java/lang/Runtime/getRuntime(), java/io/OutputStream/flush(), java/lang/Runtime/exec(java.lang.String), android/util/Log/e(java.lang.String  0,02273
+java/lang/String/valueOf(java.lang.Object), android/app/AlertDialog$Builder/create(), java/lang/StringBuilder/toString(), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02273
+java/lang/String/valueOf(java.lang.Object), org/elegosproject/romupdater/Preferences/getString(int)  0,02273
+int  0,02273
+java/lang/Double/toString(double), java/lang/StringBuilder/append(java.lang.String), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(double), java/lang/StringBuilder/toString(  0,02273
+java/io/Writer/append(java.lang.CharSequence), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,02273
+android/widget/ExpandableListView/setAdapter(android.widget.ExpandableListAdapter), android/app/AlertDialog$Builder/setCancelable(boolean), android/app/AlertDialog/show()  0,02273
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(char), java/util/Map/entrySet(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object)  0,02273
+java/net/URI/URI(java.lang.String), android/util/Log/e(java.lang.String  0,02273
+java.lang.reflect.ParameterizedType  0,02273
+boolean  0,02273
+java/net/HttpURLConnection/disconnect(), java/net/URL/openConnection(), java/lang/StringBuilder/append(int), java/net/URL/URL(java.lang.String), org/apache/http/params/BasicHttpParams/BasicHttpParams(), android/util/Log/e(java.lang.String  0,02273
+java/net/URL/URL(java.lang.String)  0,02273
+android/app/ProgressDialog/setProgressStyle(int)  0,02273
+java/lang/String/valueOf(java.lang.Object), android/content/SharedPreferences/getString(java.lang.String  0,02273
+java/lang/String/valueOf(java.lang.Object), android/app/AlertDialog$Builder/create(), java/lang/StringBuilder/toString()  0,02273
+java/net/URI/URI(java.lang.String)  0,02273
+java/lang/String/startsWith(java.lang.String)  0,02273
+java/lang/NumberFormatException/NumberFormatException(java.lang.String)  0,02273
+java/net/URL/openConnection()  0,02273
+java/util/List/iterator()  0,02273
+android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence)  0,02273
+java/lang/StringBuilder/append(java.lang.Object)  0,02273
+java/lang/StringBuilder/toString()  0,02273
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02273

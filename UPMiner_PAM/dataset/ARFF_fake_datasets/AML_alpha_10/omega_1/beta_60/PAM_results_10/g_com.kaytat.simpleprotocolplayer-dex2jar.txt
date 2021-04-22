@@ -1,0 +1,57 @@
+prob: 0,08333
+[java/lang/StringBuilder/append(int), java/lang/String/format(java.lang.String]
+
+prob: 0,08333
+[android/app/Activity/getAssets(), android/app/Activity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), android/content/res/AssetManager/open(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), android/util/Log/e(java.lang.String]
+
+prob: 0,08333
+[java/io/InputStream/available(), java/io/InputStream/read(byte[]), android/app/Activity/findViewById(int)]
+
+prob: 0,08333
+[java/lang/StringBuilder/append(java.lang.String), android/media/AudioTrack/stop(), android/util/Log/i(java.lang.String]
+
+prob: 0,08333
+[java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getDeclaredField(java.lang.String), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object]
+
+prob: 0,08333
+[android/util/Log/w(java.lang.String]
+
+prob: 0,08333
+[java/util/ArrayList/iterator(), android/app/Activity/getSharedPreferences(java.lang.String]
+
+prob: 0,08333
+[android/view/Window/setSoftInputMode(int), java/lang/StringBuilder/append(java.lang.String), android/widget/AutoCompleteTextView/setAdapter(android.widget.ListAdapter), android/widget/AutoCompleteTextView/setText(java.lang.CharSequence), android/app/Activity/findViewById(int), android/content/res/Resources/getString(int), android/app/Activity/getSharedPreferences(java.lang.String]
+
+prob: 0,08333
+[android/app/Activity/getWindow()]
+
+prob: 0,08333
+[android/widget/Spinner/setSelection(int)]
+
+prob: 0,08333
+[java/lang/StringBuilder/append(boolean)]
+
+prob: 0,08333
+[android/content/res/Resources/getStringArray(int)]
+
+prob: 0,08333
+[android.content.Intent)]
+
+prob: 0,08333
+[java/util/Iterator/hasNext(), android/os/Bundle/putSparseParcelableArray(java.lang.String]
+
+prob: 0,08333
+[java.lang.String]
+
+prob: 0,08333
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,08333
+[android/app/Notification$Builder/build(), android/os/Bundle/putAll(android.os.Bundle), android/app/Notification$Builder/setExtras(android.os.Bundle), android/os/Bundle/keySet(), android/os/Bundle/Bundle(android.os.Bundle)]
+
+prob: 0,08333
+[android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/Bundle(), android/app/Notification$Action$Builder/setAllowGeneratedReplies(boolean), android/app/Notification$Action$Builder/Notification$Action$Builder(int]
+
+prob: 0,08333
+[java/lang/StringBuilder/append(java.lang.String)]
+

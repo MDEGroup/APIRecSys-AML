@@ -1,0 +1,33 @@
+prob: 0,20000
+[org.api.fake]
+
+prob: 0,20000
+[org.rand.api]
+
+prob: 0,20000
+[java.lang.String[]]
+
+prob: 0,10000
+[java.lang.String)]
+
+prob: 0,05000
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,05000
+[android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(int), java/lang/StringBuilder/append(java.lang.String), android/text/Html/fromHtml(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence), android/app/AlertDialog$Builder/create(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), android/app/AlertDialog$Builder/setNeutralButton(int]
+
+prob: 0,05000
+[android.view.View]
+
+prob: 0,05000
+[java/io/IOException/IOException(), android/util/Log/e(java.lang.String]
+
+prob: 0,05000
+[java/lang/IllegalStateException/IllegalStateException(java.lang.Throwable), android/content/res/XmlResourceParser/getAttributeValue(java.lang.String]
+
+prob: 0,05000
+[com/googlecode/traein/ViewStationActivity/setContentView(int), com/googlecode/traein/ViewStationActivity/managedQuery(android.net.Uri]
+
+prob: 0,05000
+[com/googlecode/traein/ViewStationActivity/requestWindowFeature(int), com/googlecode/traein/ViewStationActivity/setProgressBarIndeterminate(boolean)]
+

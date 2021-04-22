@@ -1,0 +1,9 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+android/database/sqlite/SQLiteDatabase/endTransaction(
+android/content/ContentValues/put(java.lang.String,java.lang.Double
+java/lang/String/valueOf(int
+java/lang/Double/valueOf(double)
+android/view/WindowManager/getDefaultDisplay(
+android/widget/Toast/show()
+android/view/Display/getWidth()
+java/util/ArrayList/ArrayList()

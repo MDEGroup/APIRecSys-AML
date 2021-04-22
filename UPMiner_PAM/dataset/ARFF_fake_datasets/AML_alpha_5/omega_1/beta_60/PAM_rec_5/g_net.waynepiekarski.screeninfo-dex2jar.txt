@@ -1,0 +1,107 @@
+int  0,35833
+android.os.Parcel  0,06667
+java.lang.String  0,06667
+java/util/Iterator/hasNext(), java/util/Iterator/next()  0,06667
+java.io.FileDescriptor  0,04167
+java/util/Set/iterator()  0,04167
+java/util/ArrayList/iterator(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/concurrent/atomic/AtomicInteger/get(), android/os/Looper/myLooper()  0,02500
+android/util/Log/w(java.lang.String  0,02500
+android.net.Uri)  0,02500
+android/util/Log/v(java.lang.String  0,02500
+java/lang/StringBuilder/append(int)  0,02500
+java/lang/StringBuilder/StringBuilder()  0,02500
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/ArrayList/contains(java.lang.Object), android/os/Handler/getLooper(), java/util/ArrayList/clear(  0,01667
+java/util/ArrayList/ArrayList(), java/util/ArrayList/isEmpty(), java/util/concurrent/ExecutorService/submit(java.lang.Runnable), java/util/Map/containsKey(java.lang.Object), java/util/Map/size(), java/util/Map/keySet(  0,01667
+android/os/Handler/removeMessages(int)  0,01667
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/Integer/valueOf(int), java/lang/StringBuilder/toString()  0,01667
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,01667
+boolean)  0,01667
+java/lang/Integer/toHexString(int)  0,01667
+com.google.android.gms.wearable.internal.t  0,01667
+android.net.Uri  0,01667
+java/util/Map/entrySet()  0,01667
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,01667
+java/util/Map/get(java.lang.Object)  0,01667
+java/lang/Integer/valueOf(int)  0,01667
+java/lang/StringBuilder/toString()  0,01667
+java/util/ArrayList/size()  0,01667
+java/util/ArrayList/add(java.lang.Object)  0,01667
+java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), com/google/android/gms/a/az/put(java.lang.Object  0,00833
+java/util/Iterator/hasNext(), java/util/Iterator/next(), android/os/Bundle/size(), android/os/Bundle/keySet(  0,00833
+java/util/Iterator/hasNext(), java/util/Iterator/next(), android/os/Handler/getLooper(), android/os/Handler/removeMessages(int  0,00833
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), android/support/v4/b/a/a(int), java/util/Map/entrySet()  0,00833
+android/view/View/getLeft()  0,00833
+java/util/concurrent/ExecutorService/submit(java.lang.Runnable), java/util/Map/get(java.lang.Object), java/util/ArrayList/add(java.lang.Object), java/util/Set/iterator(), java/lang/Integer/intValue(), java/util/Map/put(java.lang.Object  0,00833
+java/util/Map/clear(), java/lang/Integer/valueOf(int), java/util/Set/add(java.lang.Object)  0,00833
+java/util/ArrayList/ArrayList(), java/lang/NullPointerException/NullPointerException(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object)  0,00833
+android.os.IBinder  0,00833
+android.support.v4.app.d)  0,00833
+java/lang/Runnable/run(), java/util/ArrayList/clear(  0,00833
+android/os/Looper/myLooper(), java/util/ArrayList/toArray(java.lang.Object[), android/os/Handler/getLooper()  0,00833
+java.util.ArrayList)  0,00833
+android.content.Intent)  0,00833
+android.accounts.Account  0,00833
+android/app/UiModeManager/getCurrentModeType(), android/view/Window/addFlags(int), android/view/View/setVisibility(int), android/app/Activity/onCreate(android.os.Bundle), android/app/ActionBar/hide(), android/view/View/setOnClickListener(android.view.View$OnClickListener), net/waynepiekarski/screeninfo/FullscreenActivity/setContentView(int), net/waynepiekarski/screeninfo/FullscreenActivity/getWindow(), net/waynepiekarski/screeninfo/FullscreenActivity/getActionBar(), net/waynepiekarski/screeninfo/FullscreenActivity/getSystemService(java.lang.String), net/waynepiekarski/screeninfo/FullscreenActivity/findViewById(int  0,00833
+java/util/Map/size(), android/support/v4/b/a/put(java.lang.Object  0,00833
+android.content.ServiceConnection  0,00833
+java/util/Map$Entry/getKey(), android/os/Bundle/putParcelable(java.lang.String  0,00833
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,00833
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int), java/lang/Class/getName()  0,00833
+android/graphics/Canvas/getHeight(), net/waynepiekarski/screeninfo/OverlayView/getHeight(), android/graphics/Canvas/getWidth(), java/lang/StringBuilder/append(java.lang.String), android/graphics/Paint/ascent()  0,00833
+android/view/View/onDraw(android.graphics.Canvas)  0,00833
+android/graphics/Canvas/drawColor(int)  0,00833
+android.support.v4.app.i  0,00833
+java.io.PrintWriter  0,00833
+java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object  0,00833
+java/lang/StringBuilder/append(int), java/util/Map/size(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Map$Entry/getKey(), java/lang/StringBuilder/append(java.lang.Object), java/util/Map$Entry/getValue(  0,00833
+java/lang/StringBuilder/append(int), android/graphics/Canvas/drawLine(float  0,00833
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String  0,00833
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/support/v4/app/k/n(), android/app/Dialog/setContentView(android.view.View), android/app/Dialog/setCancelable(boolean), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), android/support/v4/app/k/g(), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(  0,00833
+android/util/SparseArray/SparseArray(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,00833
+java.lang.StringBuilder)  0,00833
+android/view/View/getViewTreeObserver(), java/util/Map/values(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/Map$Entry/getKey(), java/util/Map/get(java.lang.Object), java/util/Map/keySet(  0,00833
+java/util/Set/retainAll(java.util.Collection), java/util/ArrayList/add(java.lang.Object), android/transition/Transition/removeTarget(android.view.View), java/util/Map/isEmpty()  0,00833
+android/os/Bundle/getParcelable(java.lang.String), java/lang/StringBuilder/append(java.lang.Object)  0,00833
+android/view/View/setTransitionName(java.lang.String)  0,00833
+java/util/ArrayList/removeAll(java.util.Collection)  0,00833
+android/view/ViewTreeObserver/removeOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener), android/view/View/getViewTreeObserver(), android/transition/Transition/excludeTarget(android.view.View  0,00833
+java/util/Map/get(java.lang.Object), java/util/Map/size(), java/util/Set/iterator(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Map/keySet(  0,00833
+java/lang/Object/hashCode()  0,00833
+android/os/Bundle/setClassLoader(java.lang.ClassLoader), java/util/Map/entrySet()  0,00833
+java/util/ArrayList/size(), java/util/ArrayList/get(int), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/Handler/removeCallbacks(java.lang.Runnable)  0,00833
+java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/get(int)  0,00833
+android.content.DialogInterface$OnCancelListener)  0,00833
+android.view.LayoutInflater$Factory2)  0,00833
+android.app.Activity  0,00833
+java.lang.String)  0,00833
+java/lang/Integer/intValue(), android/content/pm/PackageManager/getApplicationInfo(java.lang.String  0,00833
+android/util/Log/isLoggable(java.lang.String  0,00833
+android/view/View/getRight(), android/view/View/isSelected(  0,00833
+android/view/View/isHorizontalScrollBarEnabled()  0,00833
+android/view/View/getId()  0,00833
+java/lang/System/identityHashCode(java.lang.Object)  0,00833
+android/view/View/isEnabled()  0,00833
+java/lang/StringBuilder/append(char)  0,00833
+android/view/View/isLongClickable()  0,00833
+java/lang/Object/getClass()  0,00833
+android/view/View/getBottom()  0,00833
+android/content/res/Resources/getResourcePackageName(int)  0,00833
+android/view/View/willNotDraw()  0,00833
+android/content/res/Resources/getResourceTypeName(int)  0,00833
+android/view/View/getVisibility()  0,00833
+android/view/View/isFocusable()  0,00833
+android/view/View/isFocused()  0,00833
+android/view/View/getResources()  0,00833
+android/view/View/isClickable()  0,00833
+android/view/View/isPressed()  0,00833
+android/content/res/Resources/getResourceEntryName(int)  0,00833
+android/view/View/isVerticalScrollBarEnabled()  0,00833
+android/view/View/getTop()  0,00833
+java/util/Map$Entry/getValue()  0,00833
+android/view/ViewTreeObserver/removeOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener)  0,00833
+java/util/Map/isEmpty()  0,00833
+java/util/ArrayList/contains(java.lang.Object)  0,00833
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00833
+java/lang/StringBuilder/append(java.lang.Object)  0,00833
+java/util/Map$Entry/getKey()  0,00833
+java/lang/StringBuilder/append(java.lang.String)  0,00833

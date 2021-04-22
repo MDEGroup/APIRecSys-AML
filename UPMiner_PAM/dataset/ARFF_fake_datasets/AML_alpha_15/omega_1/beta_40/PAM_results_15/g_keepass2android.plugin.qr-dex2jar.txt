@@ -1,0 +1,315 @@
+prob: 0,07955
+[android/util/Log/w(java.lang.String]
+
+prob: 0,06818
+[int]
+
+prob: 0,06818
+[java.lang.String]
+
+prob: 0,04545
+[com.google.zxing.BarcodeFormat]
+
+prob: 0,04545
+[java/lang/StringBuilder/toString()]
+
+prob: 0,03409
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02273
+[java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/String/charAt(int]
+
+prob: 0,02273
+[com.google.zxing.client.android.result.ResultHandler]
+
+prob: 0,02273
+[java.lang.String)]
+
+prob: 0,02273
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,02273
+[com.google.zxing.common.BitArray]
+
+prob: 0,02273
+[java/lang/String/length()]
+
+prob: 0,02273
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,02273
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01136
+[com.google.zxing.oned.rss.FinderPattern]
+
+prob: 0,01136
+[java/util/List/subList(int]
+
+prob: 0,01136
+[com/google/zxing/client/result/EmailAddressResultParser/parseNameValuePairs(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/String/startsWith(java.lang.String), com/google/zxing/client/result/EmailAddressResultParser/urlDecode(java.lang.String), java/lang/String/indexOf(int)]
+
+prob: 0,01136
+[com/google/zxing/oned/EAN8Writer/appendPattern(boolean[]]
+
+prob: 0,01136
+[boolean)]
+
+prob: 0,01136
+[android.graphics.Point)]
+
+prob: 0,01136
+[android/view/WindowManager/getDefaultDisplay(), android/util/Log/i(java.lang.String]
+
+prob: 0,01136
+[android.graphics.Bitmap]
+
+prob: 0,01136
+[com/google/zxing/client/android/CaptureActivity/getIntent(), android/content/Intent/getAction(), android/content/Intent/hasExtra(java.lang.String), com/google/zxing/client/android/CaptureActivity/getApplication(), com/google/zxing/client/android/CaptureActivity/findViewById(int), android/view/SurfaceHolder/addCallback(android.view.SurfaceHolder$Callback), android/content/Intent/getIntExtra(java.lang.String]
+
+prob: 0,01136
+[android/hardware/Camera/getParameters(), android/content/Context/getSystemService(java.lang.String), android/graphics/Point/Point(), android/view/Display/getSize(android.graphics.Point), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01136
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01136
+[org/json/JSONObject/JSONObject(java.lang.String)]
+
+prob: 0,01136
+[keepass2android/plugin/qr/QRActivity$PlaceholderFragment/getActivity(), android/view/WindowManager/getDefaultDisplay(), android/widget/ImageView/setImageBitmap(android.graphics.Bitmap), android/app/Activity/getSystemService(java.lang.String), android/widget/TextView/setVisibility(int), java/lang/StringBuilder/toString(]
+
+prob: 0,01136
+[android/view/Display/getMetrics(android.util.DisplayMetrics)]
+
+prob: 0,01136
+[org/json/JSONObject/JSONObject(java.util.Map), org/json/JSONException/toString()]
+
+prob: 0,01136
+[android.view.ViewGroup]
+
+prob: 0,01136
+[android/graphics/Rect/offset(int]
+
+prob: 0,01136
+[java/util/ArrayList/ArrayList(int), com/google/zxing/client/result/SMSMMSResultParser/parseNameValuePairs(java.lang.String), java/util/List/toArray(java.lang.Object[]), java/lang/String/substring(int]
+
+prob: 0,01136
+[java/util/ArrayList/ArrayList(int), java/util/Map/containsKey(java.lang.Object), java/util/List/add(java.lang.Object), java/util/Iterator/hasNext(), java/lang/Math/max(int]
+
+prob: 0,01136
+[java/util/ArrayList/ArrayList(int), android/graphics/Rect/height(), android/graphics/Paint/setAlpha(int), com/google/zxing/client/android/ViewfinderView/postInvalidateDelayed(long]
+
+prob: 0,01136
+[java/util/ArrayList/ArrayList(int), java/util/Collection/isEmpty(), java/util/Iterator/next(), java/lang/String/isEmpty(), java/util/List/get(int), java/util/Collection/iterator(]
+
+prob: 0,01136
+[java/util/List/size()]
+
+prob: 0,01136
+[android.view.View]
+
+prob: 0,01136
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/length()]
+
+prob: 0,01136
+[com.google.zxing.oned.rss.Pair)]
+
+prob: 0,01136
+[java/lang/String/valueOf(char), java/lang/StringBuilder/append(char), java/util/regex/Pattern/matcher(java.lang.CharSequence), org/json/JSONObject/getString(java.lang.String), java/lang/String/isEmpty(), android/util/Log/w(java.lang.String]
+
+prob: 0,01136
+[java/lang/String/valueOf(java.lang.Object)]
+
+prob: 0,01136
+[java/util/regex/Matcher/replaceAll(java.lang.String)]
+
+prob: 0,01136
+[org/json/JSONObject/optString(java.lang.String)]
+
+prob: 0,01136
+[java/lang/Character/toUpperCase(char), java/util/Arrays/toString(char[]), java/lang/Character/isDigit(char), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01136
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/util/ArrayList/ArrayList(int), java/util/List/toArray(java.lang.Object[])]
+
+prob: 0,01136
+[java/io/InputStream/read(byte[]), android/os/Bundle/getParcelable(java.lang.String), java/lang/String/isEmpty(), java/lang/String/String(byte[]]
+
+prob: 0,01136
+[java/net/HttpURLConnection/disconnect(), java/net/URI/URI(java.lang.String), java/net/URI/toURL(), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/net/HttpURLConnection/setRequestProperty(java.lang.String]
+
+prob: 0,01136
+[android/animation/AnimatorSet/addListener(android.animation.Animator$AnimatorListener), android/animation/ObjectAnimator/ofFloat(java.lang.Object]
+
+prob: 0,01136
+[java/lang/StringBuilder/toString(), android/text/SpannableString/SpannableString(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), com/google/zxing/client/android/result/AddressBookResultHandler/getResult(), java/lang/StringBuilder/StringBuilder(int), java/text/DateFormat/format(java.lang.Object), android/telephony/PhoneNumberUtils/formatNumber(java.lang.String), android/text/Spannable/setSpan(java.lang.Object]
+
+prob: 0,01136
+[android.os.Bundle]
+
+prob: 0,01136
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01136
+[java/lang/Math/min(float]
+
+prob: 0,01136
+[com/google/zxing/multi/qrcode/detector/MultiFinderPatternFinder/handlePossibleCenter(int[]]
+
+prob: 0,01136
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/insert(int]
+
+prob: 0,01136
+[java/lang/StringBuilder/append(int), java/lang/String/equals(java.lang.Object), java/lang/String/substring(int), java/lang/Integer/parseInt(java.lang.String), java/lang/String/valueOf(int]
+
+prob: 0,01136
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/String/substring(int), java/lang/StringBuilder/toString(), java/lang/String/isEmpty(), java/lang/String/substring(int]
+
+prob: 0,01136
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01136
+[java/lang/StringBuilder/append(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01136
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), keepass2android/pluginsdk/PluginAccessException/printStackTrace(), java/util/Set/iterator(), java/util/Iterator/hasNext(), java/lang/StringBuilder/toString(), keepass2android/pluginsdk/PluginActionBroadcastReceiver$OpenEntryAction/getContext(]
+
+prob: 0,01136
+[java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), com/google/zxing/WriterException/printStackTrace(), android/util/DisplayMetrics/DisplayMetrics(), android/widget/ImageView/setVisibility(int), com/google/zxing/WriterException/getMessage(), com/google/zxing/BarcodeFormat/toString()]
+
+prob: 0,01136
+[int)]
+
+prob: 0,01136
+[java.lang.String[]]
+
+prob: 0,01136
+[android/content/Context/getString(int), java/util/HashMap/keySet()]
+
+prob: 0,01136
+[java/util/Iterator/hasNext(), java/lang/String/trim(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(int), java/lang/String/substring(int]
+
+prob: 0,01136
+[java/util/Iterator/hasNext(), java/util/Collection/size(), java/util/List/toArray(java.lang.Object[]), java/util/List/add(java.lang.Object)]
+
+prob: 0,01136
+[android.net.wifi.WifiConfiguration)]
+
+prob: 0,01136
+[android/content/Context/getPackageManager(), android/content/Context/getSharedPreferences(java.lang.String]
+
+prob: 0,01136
+[java/lang/Class/forName(java.lang.String), java/lang/reflect/Field/getName(), java/lang/reflect/Field/get(java.lang.Object), java/lang/reflect/Field/setAccessible(boolean), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01136
+[java.util.ArrayList)]
+
+prob: 0,01136
+[org/json/JSONException/printStackTrace(), java/lang/NullPointerException/printStackTrace(), org/json/JSONObject/keys(), java/util/HashMap/HashMap(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,01136
+[org/json/JSONException/printStackTrace(), java/util/Iterator/hasNext(), android/util/Log/d(java.lang.String]
+
+prob: 0,01136
+[org/json/JSONObject/get(java.lang.String), java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01136
+[org/json/JSONObject/get(java.lang.String), java/lang/Object/toString(), android/content/Intent/getStringExtra(java.lang.String), java/util/Iterator/next()]
+
+prob: 0,01136
+[java.util.Date]
+
+prob: 0,01136
+[java/lang/String/charAt(int), java/lang/String/length(), java/text/ParseException/ParseException(java.lang.String]
+
+prob: 0,01136
+[android/view/MenuItem/setVisible(boolean), android/view/Menu/findItem(int), com/google/zxing/client/android/encode/EncodeActivity/getIntent(), android/app/Activity/onCreateOptionsMenu(android.view.Menu), android/view/MenuItem/setTitle(int), com/google/zxing/client/android/encode/EncodeActivity/getMenuInflater(), android/content/Intent/getStringExtra(java.lang.String), java/lang/String/equals(java.lang.Object), android/view/MenuInflater/inflate(int]
+
+prob: 0,01136
+[com/google/zxing/client/android/encode/EncodeActivity/getIntent(), android/util/Log/w(java.lang.String]
+
+prob: 0,01136
+[com.google.zxing.datamatrix.encoder.SymbolInfo)]
+
+prob: 0,01136
+[android/content/res/Resources/openRawResourceFd(int), android/media/MediaPlayer/MediaPlayer(), android/util/Log/w(java.lang.String]
+
+prob: 0,01136
+[android/media/MediaPlayer/setOnCompletionListener(android.media.MediaPlayer$OnCompletionListener)]
+
+prob: 0,01136
+[android/content/res/AssetFileDescriptor/getFileDescriptor()]
+
+prob: 0,01136
+[android/media/MediaPlayer/prepare()]
+
+prob: 0,01136
+[android/content/res/AssetFileDescriptor/getStartOffset()]
+
+prob: 0,01136
+[java/lang/Integer/intValue(), java/util/Map$Entry/getKey(), java/util/Collection/clear()]
+
+prob: 0,01136
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/String/substring(int]
+
+prob: 0,01136
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Collection/add(java.lang.Object), java/util/Map$Entry/getValue(), java/util/Map/entrySet(]
+
+prob: 0,01136
+[com/google/zxing/client/android/book/SearchBookContentsActivity/setContentView(int), java/lang/StringBuilder/append(java.lang.String), android/view/LayoutInflater/inflate(int]
+
+prob: 0,01136
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), android/view/View/setEnabled(boolean), android/os/AsyncTask/executeOnExecutor(java.util.concurrent.Executor]
+
+prob: 0,01136
+[com/google/zxing/oned/ITFWriter/appendPattern(boolean[]]
+
+prob: 0,01136
+[android/text/SpannableString/SpannableString(java.lang.CharSequence), android/widget/TextView/setText(java.lang.CharSequence), java/lang/String/indexOf(java.lang.String]
+
+prob: 0,01136
+[java/util/Date/getTime(), java/lang/Long/valueOf(long), java/lang/String/isEmpty()]
+
+prob: 0,01136
+[java.lang.StringBuilder]
+
+prob: 0,01136
+[java/util/Collection/isEmpty()]
+
+prob: 0,01136
+[java/util/List/get(int)]
+
+prob: 0,01136
+[java/lang/String/indexOf(int)]
+
+prob: 0,01136
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,01136
+[java/lang/String/charAt(int)]
+
+prob: 0,01136
+[java/lang/Integer/intValue(), java/util/Map$Entry/getKey()]
+
+prob: 0,01136
+[java/lang/String/substring(int)]
+
+prob: 0,01136
+[java/util/Set/iterator()]
+
+prob: 0,01136
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/String/substring(int]
+
+prob: 0,01136
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,01136
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01136
+[java/util/Iterator/next()]
+
+prob: 0,01136
+[java/util/Iterator/hasNext()]
+

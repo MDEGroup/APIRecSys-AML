@@ -1,0 +1,60 @@
+android/content/Intent/putExtra(java.lang.String  0,35294
+java/lang/Throwable/toString(), java/lang/StringBuilder/append(int), java/lang/StackTraceElement/getLineNumber(), java/lang/StackTraceElement/getClassName()  0,23529
+java/lang/StringBuilder/StringBuilder()  0,20588
+java/lang/StringBuilder/append(java.lang.String)  0,14706
+java/lang/StringBuilder/toString()  0,11765
+android/view/View/getSystemUiVisibility()  0,08824
+android/widget/ImageView/setImageBitmap(android.graphics.Bitmap)  0,08824
+android/graphics/Bitmap/getPixels(int[  0,05882
+java.lang.String)  0,05882
+android/content/pm/PackageManager/hasSystemFeature(java.lang.String)  0,05882
+android/view/SurfaceView/getHolder()  0,05882
+org/theiner/quick3d/RightEyePhoto/getActivity()  0,05882
+android/app/Activity/onCreate(android.os.Bundle)  0,05882
+android/widget/ImageView/setImageResource(int)  0,05882
+android/view/Window/getDecorView()  0,05882
+android/widget/ImageView/setVisibility(int)  0,05882
+java/lang/Throwable/getStackTrace()  0,05882
+android/view/View/setSystemUiVisibility(int), java/lang/Throwable/toString(), java/lang/Throwable/getStackTrace(), android/app/FragmentManager/beginTransaction(), android/app/Activity/onCreate(android.os.Bundle), java/lang/StringBuilder/StringBuilder(), android/app/FragmentTransaction/add(int  0,02941
+android/view/View/setSystemUiVisibility(int), android/widget/ImageView/setImageBitmap(android.graphics.Bitmap), android/view/Window/getDecorView(), org/theiner/quick3d/ShowFotos/getApplicationContext(), java/lang/Throwable/getStackTrace(), android/content/Intent/getStringExtra(java.lang.String), java/lang/Boolean/booleanValue(), android/widget/TextView/setText(int  0,02941
+android/view/View/setSystemUiVisibility(int), java/lang/Throwable/getStackTrace(), org/theiner/quick3d/ShowAnaglyph/setContentView(int), android/widget/ImageView/setImageBitmap(android.graphics.Bitmap), android/widget/ImageView/setVisibility(int), android/widget/ImageView/setImageResource(int), android/content/Intent/getStringExtra(java.lang.String), java/lang/Boolean/booleanValue(  0,02941
+java/lang/Throwable/toString(), java/lang/StringBuilder/append(int), org/theiner/quick3d/ShowWiggle/getIntent(), android/widget/ImageView/setImageResource(int), java/util/Timer/Timer()  0,02941
+android.hardware.Camera)  0,02941
+java/lang/StringBuilder/append(java.lang.String), android/widget/ImageView/setImageBitmap(android.graphics.Bitmap), java/lang/Throwable/getStackTrace(), org/theiner/quick3d/ShowWiggle/findViewById(int), java/lang/StringBuilder/toString(  0,02941
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(java.lang.String), org/theiner/quick3d/ShowFotos/findViewById(int), org/theiner/quick3d/ShowFotos/getIntent(), java/lang/StackTraceElement/getLineNumber(), java/lang/StackTraceElement/getClassName(), org/theiner/quick3d/ShowFotos/getWindow()  0,02941
+android/widget/ImageView/setVisibility(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/Throwable/getStackTrace(), android/widget/ImageView/setImageBitmap(android.graphics.Bitmap), java/lang/Boolean/booleanValue(), android/widget/TextView/setText(int  0,02941
+android/widget/ImageView/setVisibility(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/Boolean/booleanValue(  0,02941
+java/lang/Boolean/valueOf(boolean)  0,02941
+org/theiner/quick3d/ShowFotos/setContentView(int)  0,02941
+android/view/Window/getDecorView(), android/view/View/setSystemUiVisibility(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/Timer/scheduleAtFixedRate(java.util.TimerTask  0,02941
+org/theiner/quick3d/LeftEyePhoto/getActivity(), java/lang/StringBuilder/append(java.lang.String), java/lang/Throwable/getStackTrace(), android/media/MediaPlayer/create(android.content.Context  0,02941
+org/theiner/quick3d/LeftEyePhoto/getActivity(), android/app/Activity/getPackageManager(), android/app/Fragment/onActivityCreated(android.os.Bundle), java/lang/StringBuilder/toString(), android/widget/Toast/makeText(android.content.Context  0,02941
+java/io/IOException/printStackTrace(), android/app/AlertDialog$Builder/setTitle(int), java/lang/StringBuilder/append(java.lang.String), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,02941
+org/theiner/quick3d/ShowCardboard/findViewById(int)  0,02941
+org/theiner/quick3d/Quick3DMain/getApplicationContext(), java/util/Date/Date()  0,02941
+org/theiner/quick3d/ShowCardboard/getApplicationContext()  0,02941
+org/theiner/quick3d/ShowCardboard/setContentView(int)  0,02941
+org/theiner/quick3d/ShowCardboard/getWindow()  0,02941
+org/theiner/quick3d/ShowCardboard/getIntent()  0,02941
+android/app/Activity/onCreate(android.os.Bundle  0,02941
+java/lang/Throwable/printStackTrace(), android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,02941
+android/graphics/Bitmap/eraseColor(int), android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,02941
+android/widget/ImageView/setAlpha(int), android/hardware/Camera/setPreviewDisplay(android.view.SurfaceHolder), java/io/IOException/toString(), android/widget/Toast/makeText(android.content.Context  0,02941
+java/io/IOException/getStackTrace()  0,02941
+android/hardware/Camera$Parameters/setFocusMode(java.lang.String)  0,02941
+android/hardware/Camera/startPreview()  0,02941
+android/hardware/Camera/setParameters(android.hardware.Camera$Parameters)  0,02941
+org/theiner/quick3d/ShowAnaglyph/findViewById(int)  0,02941
+org/theiner/quick3d/ShowAnaglyph/getWindow()  0,02941
+org/theiner/quick3d/ShowAnaglyph/getIntent()  0,02941
+org/theiner/quick3d/ShowAnaglyph/getApplicationContext()  0,02941
+android/content/Intent/Intent(android.content.Context  0,02941
+android/app/Activity/getPackageManager(), android/app/Fragment/onActivityCreated(android.os.Bundle), java/lang/StringBuilder/toString(), android/widget/Toast/makeText(android.content.Context  0,02941
+android/hardware/Camera/setPreviewDisplay(android.view.SurfaceHolder), java/lang/StringBuilder/append(int), android/hardware/Camera/open(int)  0,02941
+android/hardware/Camera/open(int)  0,02941
+java/lang/Boolean/booleanValue()  0,02941
+android/content/Intent/getStringExtra(java.lang.String)  0,02941
+android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,02941
+android/view/View/setSystemUiVisibility(int)  0,02941
+java/lang/Throwable/toString()  0,02941
+java/lang/StringBuilder/append(int)  0,02941

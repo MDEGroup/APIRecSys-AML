@@ -1,0 +1,8 @@
+android/widget/ProgressBar/setLayoutParams(android.view.ViewGroup$LayoutParams
+java/lang/Exception/printStackTrace(
+java/lang/Exception/getMessage(
+org.api.fake
+android/util/Log/d(java.lang.String,java.lang.String
+java/lang/String/substring(int
+org/json/JSONObject/getInt(java.lang.String
+org.rand.api

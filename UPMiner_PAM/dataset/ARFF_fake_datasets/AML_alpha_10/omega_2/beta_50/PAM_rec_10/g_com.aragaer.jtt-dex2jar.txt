@@ -1,0 +1,45 @@
+int  0,15584
+org.api.fake  0,09091
+org.rand.api  0,09091
+int)  0,09091
+boolean  0,07792
+b.a.a.c.e)  0,05195
+android.view.ViewGroup  0,03896
+android.view.View)  0,03896
+float  0,03896
+java/lang/StringBuilder/append(java.lang.String)  0,02597
+java/util/ArrayList/isEmpty(), android/app/Notification$Builder/build(), android/app/Notification$Builder/setAutoCancel(boolean), android/app/Notification$Builder/setRemoteInputHistory(java.lang.CharSequence[), java/util/ArrayList/iterator(), android/app/Notification$Builder/setTicker(java.lang.CharSequence  0,01299
+java.util.Calendar)  0,01299
+java.util.Calendar  0,01299
+java/text/SimpleDateFormat/format(java.lang.Object), android/content/Context/sendStickyBroadcast(android.content.Intent), java/lang/Long/valueOf(long), android/content/Intent/putExtra(java.lang.String  0,01299
+android/graphics/Canvas/rotate(float  0,01299
+java/lang/Integer/intValue(), java/lang/Class/getMethod(java.lang.String  0,01299
+java/lang/String/split(java.lang.String  0,01299
+java/lang/String/valueOf(java.lang.Object), android/graphics/Bitmap/getWidth(), java/lang/StringBuilder/append(int), java/lang/String/format(java.lang.String  0,01299
+java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getDeclaredField(java.lang.String), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object  0,01299
+android.content.Intent)  0,01299
+android/location/LocationManager/requestLocationUpdates(java.lang.String  0,01299
+android/preference/Preference/getKey(), android/app/Activity/checkSelfPermission(java.lang.String), android/app/Activity/startActivity(android.content.Intent), android/location/LocationManager/isProviderEnabled(java.lang.String), android/widget/Toast/show(), java/lang/String/equals(java.lang.Object), android/preference/PreferenceFragment/requestPermissions(java.lang.String[  0,01299
+int[  0,01299
+android/preference/CheckBoxPreference/setChecked(boolean), android/preference/PreferenceFragment/getString(int), java/lang/CharSequence/toString(), android/preference/PreferenceFragment/getActivity(), java/lang/String/substring(int), android/preference/ListPreference/getEntry(), java/util/Locale/getDisplayLanguage(java.util.Locale), android/preference/ListPreference/setEntries(java.lang.CharSequence[), android/preference/PreferenceFragment/addPreferencesFromResource(int), java/lang/StringBuilder/toString(), android/preference/CheckBoxPreference/setEnabled(boolean), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String  0,01299
+android/content/SharedPreferences/contains(java.lang.String), android/app/ActionBar/setTitle(int), android/widget/Toast/makeText(android.content.Context  0,01299
+android/content/SharedPreferences/contains(java.lang.String), android/preference/Preference/setOnPreferenceChangeListener(android.preference.Preference$OnPreferenceChangeListener)  0,01299
+java/lang/StringBuilder/append(java.lang.String), android/preference/PreferenceFragment/getActivity()  0,01299
+android/app/FragmentTransaction/commit(), android/app/Activity/setTheme(int), android/content/Intent/Intent(android.content.Context  0,01299
+android/widget/Scroller/isFinished(), android/view/ViewGroup/getScrollX(), java/util/ArrayList/size(), android/widget/Scroller/getCurrX(), android/widget/Scroller/getCurrY(), android/widget/Scroller/abortAnimation(), java/util/ArrayList/get(int), android/view/ViewGroup/getScrollY(), android/view/ViewGroup/scrollTo(int  0,01299
+java/lang/Runnable/run()  0,01299
+android/view/ViewGroup/getPaddingBottom(), android/graphics/Canvas/rotate(float), android/graphics/Canvas/restoreToCount(int), android/graphics/Canvas/save(), android/widget/EdgeEffect/isFinished(), android/widget/EdgeEffect/draw(android.graphics.Canvas), android/view/ViewGroup/getHeight(), android/widget/EdgeEffect/finish(), android/graphics/Canvas/translate(float  0,01299
+java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/StringBuilder/append(java.lang.String), android/view/ViewGroup/getId(), java/lang/Integer/toHexString(int), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/view/ViewGroup/getChildAt(int), java/lang/Math/max(int  0,01299
+android/view/ViewGroup/getChildCount()  0,01299
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String)  0,01299
+android/view/MotionEvent/getY(int), android/view/MotionEvent/getY(), android/widget/Scroller/abortAnimation(), android/view/MotionEvent/findPointerIndex(int), java/lang/Math/abs(int  0,01299
+android/view/MotionEvent/getY(int), android/view/VelocityTracker/computeCurrentVelocity(int  0,01299
+android/widget/Scroller/computeScrollOffset(), android/widget/Scroller/getCurrX()  0,01299
+android/widget/Scroller/getFinalX(), android/view/ViewGroup/getWidth(), android/view/MotionEvent/getX(), android/view/VelocityTracker/obtain(), android/view/MotionEvent/getX(int), android/view/MotionEvent/getPointerId(int), android/view/MotionEvent/getAction(), java/lang/Math/abs(float), android/view/VelocityTracker/addMovement(android.view.MotionEvent)  0,01299
+android/view/SoundEffectConstants/getContantForFocusDirection(int), java/lang/Class/getSimpleName(), android/view/ViewParent/getParent(), java/lang/StringBuilder/append(java.lang.String), android/view/FocusFinder/getInstance(), android/view/ViewGroup/playSoundEffect(int), android/util/Log/e(java.lang.String  0,01299
+android/view/accessibility/AccessibilityNodeInfo/getText(), java/lang/StringBuilder/toString(), android/view/accessibility/AccessibilityNodeInfo/getActions(  0,01299
+java/lang/StringBuilder/append(java.lang.CharSequence), android/view/accessibility/AccessibilityNodeInfo/isCheckable(), android/view/accessibility/AccessibilityNodeInfo/isClickable(), java/lang/StringBuilder/append(java.lang.Object), android/view/accessibility/AccessibilityNodeInfo/isLongClickable(), android/view/accessibility/AccessibilityNodeInfo/isPassword(), android/view/accessibility/AccessibilityNodeInfo/isSelected()  0,01299
+android/view/accessibility/AccessibilityNodeInfo/getClassName(), java/lang/StringBuilder/append(java.lang.String), android/view/accessibility/AccessibilityNodeInfo/isScrollable(), android/view/accessibility/AccessibilityNodeInfo/isFocused(), android/graphics/Rect/Rect(), android/view/accessibility/AccessibilityNodeInfo/getViewIdResourceName(), android/view/accessibility/AccessibilityNodeInfo/getPackageName(), java/lang/StringBuilder/StringBuilder(), android/view/accessibility/AccessibilityNodeInfo/isEnabled(), android/view/accessibility/AccessibilityNodeInfo/getContentDescription(), android/view/accessibility/AccessibilityNodeInfo/isChecked(), java/lang/Object/toString(), android/view/accessibility/AccessibilityNodeInfo/getBoundsInScreen(android.graphics.Rect), android/view/accessibility/AccessibilityNodeInfo/getBoundsInParent(android.graphics.Rect), android/view/accessibility/AccessibilityNodeInfo/isFocusable(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/append(boolean)  0,01299
+android/app/Service/registerReceiver(android.content.BroadcastReceiver  0,01299
+java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String  0,01299
+java/util/ArrayList/size()  0,01299

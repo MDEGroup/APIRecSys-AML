@@ -1,0 +1,8 @@
+android/content/Intent/getBooleanExtra(java.lang.String,boolean
+android/preference/CheckBoxPreference/setChecked(boolean)
+net/smartrover/skyrover2/pilot/MainActivity/getPackageName()
+java/util/Timer/cancel(
+android/bluetooth/BluetoothAdapter/startLeScan(android.bluetooth.BluetoothAdapter$LeScanCallback)
+android/widget/LinearLayout/addView(android.view.View,android.view.ViewGroup$LayoutParams)
+android/app/Activity/getSystemService(java.lang.String
+android/widget/TextView/TextView(android.content.Context

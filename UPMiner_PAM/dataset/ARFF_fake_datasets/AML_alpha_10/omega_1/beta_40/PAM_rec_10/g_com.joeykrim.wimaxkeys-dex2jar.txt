@@ -1,0 +1,41 @@
+android.database.sqlite.SQLiteDatabase)  0,11765
+android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteException/toString(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,08824
+int  0,05882
+com.google.android.apps.analytics.Referrer)  0,05882
+java.util.Date  0,05882
+java/util/ArrayList/ArrayList(), java/lang/String/split(java.lang.String), java/io/BufferedReader/close(), java/io/FileReader/FileReader(java.lang.String), java/io/File/File(java.lang.String), java/io/File/mkdir(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), android/util/Log/e(java.lang.String  0,02941
+java/io/File/exists()  0,02941
+java/io/File/list(java.io.FilenameFilter)  0,02941
+java/io/File/delete()  0,02941
+java/lang/StringBuilder/toString()  0,02941
+java/io/BufferedReader/close(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/split(java.lang.String), java/io/File/File(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/Exception/printStackTrace(), android/util/Log/d(java.lang.String  0,02941
+android.database.sqlite.SQLiteDatabase  0,02941
+com.bugsense.trace.BugSenseHandler$Processor  0,02941
+android/view/Display/getHeight(), java/lang/Integer/toString(int), android/view/Display/getOrientation(), android/util/Log/i(java.lang.String  0,02941
+android/database/sqlite/SQLiteException/toString(), java/security/SecureRandom/nextInt(), java/lang/Long/valueOf(long), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,02941
+android/database/sqlite/SQLiteException/toString(), java/lang/Long/valueOf(long), com/google/android/apps/analytics/PersistentHitStore$DataBaseHelper/getWritableDatabase(), android/util/Log/e(java.lang.String  0,02941
+android/app/NotificationManager/notify(int  0,02941
+com/joeykrim/wimaxkeys/WimaxKeys/getSharedPreferences(java.lang.String  0,02941
+com/joeykrim/wimaxkeys/WimaxKeys/getString(int  0,02941
+com/joeykrim/wimaxkeys/WimaxKeys/getPackageName(), com/joeykrim/wimaxkeys/WimaxKeys/getPackageManager(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/e(java.lang.String  0,02941
+java.lang.Throwable)  0,02941
+java.lang.String  0,02941
+android/util/Log/w(java.lang.String  0,02941
+long)  0,02941
+org/apache/http/impl/DefaultHttpClientConnection/flush(), java/lang/StringBuilder/append(int), org/apache/http/HttpConnectionMetrics/getResponseCount(), org/apache/http/HttpResponse/getHeaders(java.lang.String), org/apache/http/HttpResponse/getStatusLine(), org/apache/http/ProtocolVersion/greaterEquals(org.apache.http.ProtocolVersion), android/util/Log/v(java.lang.String  0,02941
+org/apache/http/impl/DefaultHttpClientConnection/getMetrics()  0,02941
+org/apache/http/HttpEntity/consumeContent()  0,02941
+org/apache/http/impl/DefaultHttpClientConnection/receiveResponseEntity(org.apache.http.HttpResponse)  0,02941
+org/apache/http/HttpConnectionMetrics/getRequestCount()  0,02941
+org/apache/http/impl/DefaultHttpClientConnection/receiveResponseHeader()  0,02941
+java/lang/Long/valueOf(long), com/google/android/apps/analytics/PersistentHitStore$DataBaseHelper/getWritableDatabase(), android/content/ContentValues/put(java.lang.String  0,02941
+org/apache/http/StatusLine/getStatusCode()  0,02941
+android.content.Intent)  0,02941
+java/lang/Process/getInputStream(), java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/parseInt(java.lang.String), java/lang/String/valueOf(java.lang.Object), com/joeykrim/wimaxkeys/WimaxKeys/getString(int)  0,02941
+java/lang/StringBuilder/append(java.lang.String)  0,02941
+java/lang/StringBuilder/append(int)  0,02941
+android/util/Log/v(java.lang.String  0,02941
+java/lang/Long/valueOf(long), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,02941
+java/lang/Long/valueOf(long)  0,02941
+android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,02941
+android/database/sqlite/SQLiteException/toString()  0,02941

@@ -1,0 +1,8 @@
+android/widget/CheckBox/setChecked(boolean
+android/widget/Button/setOnClickListener(android.view.View$OnClickListener
+java/util/LinkedHashMap/LinkedHashMap(java.util.Map
+android/widget/Toast/makeText(android.content.Context,java.lang.CharSequence,int)
+com/bogdancornianu/Wake2Radio/WakeupActivity/getSystemService(java.lang.String
+com/bogdancornianu/Wake2Radio/MainActivity/findViewById(int)
+java/util/Map$Entry/getKey()
+java/io/IOException/printStackTrace()

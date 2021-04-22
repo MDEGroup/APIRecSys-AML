@@ -1,0 +1,31 @@
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/d(java.lang.String  0,21429
+java.lang.String  0,14286
+android/content/Intent/putExtra(java.lang.String  0,07143
+java.lang.String)  0,07143
+org/tomshiro/ada/AdaDB/getWritableDatabase(), java/lang/StringBuilder/append(java.lang.String), android/database/sqlite/SQLiteDatabase/execSQL(java.lang.String  0,03571
+org/tomshiro/ada/AdaDB/getWritableDatabase(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/e(java.lang.String  0,03571
+org/tomshiro/ada/ReportDisplayActivity/findViewById(int), java/lang/String/valueOf(java.lang.Object), java/lang/Exception/printStackTrace()  0,03571
+java/lang/String/valueOf(java.lang.Object), android/os/Environment/getExternalStorageDirectory(), java/io/File/File(java.lang.String)  0,03571
+int)  0,03571
+android/util/Log/w(java.lang.String  0,03571
+java/lang/Integer/intValue(), android/view/ViewGroup/getChildAt(int), android/view/ViewGroup/getChildCount(), java/lang/StringBuilder/append(int)  0,03571
+android/view/ViewGroup/getChildCount(), java/lang/String/valueOf(java.lang.Object), java/io/File/File(java.lang.String), java/lang/Exception/printStackTrace()  0,03571
+java/lang/StringBuilder/append(java.lang.String), org/w3c/dom/Element/hasAttribute(java.lang.String), org/w3c/dom/Element/getAttribute(java.lang.String), org/w3c/dom/Node/getNodeName(), android/util/Log/d(java.lang.String  0,03571
+android/app/Activity/onCreate(android.os.Bundle), org/tomshiro/ada/ReportSetupActivity/setContentView(int)  0,03571
+int[)  0,03571
+android/widget/Spinner/getSelectedItemPosition(), java/lang/StringBuilder/append(int)  0,03571
+android/widget/RelativeLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), java/lang/StringBuilder/append(int), android/widget/RelativeLayout/setId(int), android/widget/RelativeLayout/RelativeLayout(android.content.Context  0,03571
+android/widget/RelativeLayout/addView(android.view.View), android/util/Log/d(java.lang.String  0,03571
+android/widget/Button/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/Button/setText(java.lang.CharSequence), android/widget/Button/setId(int)  0,03571
+java/lang/String/equals(java.lang.Object)  0,03571
+java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/String/format(java.lang.String  0,03571
+java/util/zip/ZipInputStream/ZipInputStream(java.io.InputStream), java/lang/StringBuilder/append(java.lang.String), java/util/zip/ZipEntry/isDirectory(), android/util/Log/e(java.lang.String  0,03571
+java/io/IOException/printStackTrace()  0,03571
+java/util/zip/ZipInputStream/read()  0,03571
+java/util/zip/ZipEntry/getName()  0,03571
+boolean  0,03571
+java.lang.String[)  0,03571
+java/util/ArrayList/ArrayList(), android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String  0,03571
+android/util/Log/e(java.lang.String  0,03571
+java/lang/String/valueOf(java.lang.Object)  0,03571
+java/lang/StringBuilder/append(java.lang.String)  0,03571

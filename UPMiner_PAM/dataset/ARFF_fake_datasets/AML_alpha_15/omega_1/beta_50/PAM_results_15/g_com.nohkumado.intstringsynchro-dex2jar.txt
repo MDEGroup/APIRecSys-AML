@@ -1,0 +1,306 @@
+prob: 0,07353
+[android.view.ViewGroup]
+
+prob: 0,05882
+[int]
+
+prob: 0,04412
+[java.util.ArrayList]
+
+prob: 0,04412
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Collection/iterator()]
+
+prob: 0,04412
+[java/lang/String/length()]
+
+prob: 0,02941
+[java/lang/String/trim()]
+
+prob: 0,02941
+[java/util/HashMap/get(java.lang.Object)]
+
+prob: 0,02941
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,02941
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/HashMap/keySet(]
+
+prob: 0,02941
+[java/util/Iterator/hasNext(), android/widget/TableRow/setBackground(android.graphics.drawable.Drawable), android/widget/TableRow$LayoutParams/TableRow$LayoutParams(int]
+
+prob: 0,02941
+[java/io/File/canRead(), java/io/File/getAbsolutePath(), java/io/File/isDirectory(), java/lang/System/getProperty(java.lang.String)]
+
+prob: 0,02941
+[android/widget/LinearLayout/refreshDrawableState(), android/widget/LinearLayout/addView(android.view.View), android/widget/LinearLayout/invalidate(]
+
+prob: 0,02941
+[java.lang.String]
+
+prob: 0,02941
+[java.lang.String)]
+
+prob: 0,02941
+[java/io/File/File(java.io.File]
+
+prob: 0,02941
+[java/io/File/File(java.lang.String)]
+
+prob: 0,02941
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02941
+[java/lang/StringBuffer/toString()]
+
+prob: 0,02941
+[java/util/ArrayList/size()]
+
+prob: 0,02941
+[java/util/Collection/iterator()]
+
+prob: 0,02941
+[java/util/Iterator/next()]
+
+prob: 0,02941
+[java/util/Iterator/hasNext()]
+
+prob: 0,01471
+[java/util/Iterator/next(), java/lang/StringBuffer/toString(), android/util/Log/e(java.lang.String]
+
+prob: 0,01471
+[java/util/HashMap/size()]
+
+prob: 0,01471
+[com/nohkumado/nohutils/ColumPrinter/add(java.lang.String[]), java/io/File/list(java.io.FilenameFilter), java/io/File/isFile(), com/nohkumado/nohutils/ColumPrinter/print(), java/lang/StringBuffer/append(java.lang.String]
+
+prob: 0,01471
+[java/util/ArrayList/ArrayList(), java/util/Iterator/next(), java/util/ArrayList/size(), java/util/TreeMap/keySet(), java/util/ArrayList/add(java.lang.Object), java/util/TreeMap/containsKey(java.lang.Object), java/lang/String/startsWith(java.lang.String), java/lang/StringBuffer/append(java.lang.String), java/util/ArrayList/toString(), java/lang/StringBuffer/StringBuffer(]
+
+prob: 0,01471
+[java/util/ArrayList/ArrayList(), android/widget/TextView/setText(java.lang.CharSequence), android/app/FragmentManager/findFragmentByTag(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,01471
+[java/util/ArrayList/ArrayList(), com/nohkumado/intstringsynchro/StringFile/getAbsolutePath(), java/lang/String/equals(java.lang.Object), java/util/ArrayList/add(java.lang.Object), com/nohkumado/intstringsynchro/DialogFragSelectProject/show(android.app.FragmentManager]
+
+prob: 0,01471
+[java/util/ArrayList/ArrayList(), java/io/File/isHidden(), java/util/Iterator/hasNext(), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuffer/toString(), java/util/Collection/iterator()]
+
+prob: 0,01471
+[java/util/ArrayList/ArrayList(), java/io/File/isHidden(), java/util/regex/Matcher/matches(), java/util/Iterator/next(), android/util/Log/d(java.lang.String]
+
+prob: 0,01471
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/toArray(java.lang.Object[]), java/util/Iterator/next(), java/util/ArrayList/size(), java/util/ArrayList/add(java.lang.Object), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01471
+[android.content.Intent)]
+
+prob: 0,01471
+[android/os/Bundle/getStringArrayList(java.lang.String), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,01471
+[android/os/Bundle/getBoolean(java.lang.String), android/os/Bundle/getInt(java.lang.String)]
+
+prob: 0,01471
+[android/os/Bundle/getString(java.lang.String)]
+
+prob: 0,01471
+[java/lang/AssertionError/AssertionError()]
+
+prob: 0,01471
+[java/lang/Integer/parseInt(java.lang.String), android/text/Editable/toString(), android/widget/EditText/getText()]
+
+prob: 0,01471
+[java/lang/StringBuffer/append(int), java/lang/Double/parseDouble(java.lang.String), java/lang/StringBuffer/append(double)]
+
+prob: 0,01471
+[java.util.HashMap]
+
+prob: 0,01471
+[java/util/ArrayList/remove(int), java/lang/String/replace(java.lang.CharSequence]
+
+prob: 0,01471
+[java/util/Stack/empty(), java/util/Stack/pop(), android/widget/TextView/getText(), java/util/ArrayList/size()]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.Object), java/util/Collection/iterator(), java/lang/StringBuilder/toString()]
+
+prob: 0,01471
+[java/lang/Object/toString(), com/nohkumado/intstringsynchro/DialogFragAddLang/getActivity(), java/lang/String/equals(java.lang.Object), com/nohkumado/intstringsynchro/DialogFragAddLang/dismiss(), android/widget/Spinner/getSelectedItem(), android/app/Activity/getResources(]
+
+prob: 0,01471
+[java/lang/Object/toString(), java/io/File/File(java.lang.String)]
+
+prob: 0,01471
+[com/nohkumado/nohutils/test/UtilsTesterTest/assertNotEquals(java.lang.Object]
+
+prob: 0,01471
+[java/util/TreeMap/put(java.lang.Object]
+
+prob: 0,01471
+[java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/StringBuffer(), java/lang/String/equals(java.lang.Object), java/lang/StringBuffer/toString(]
+
+prob: 0,01471
+[android/widget/TextView/setText(java.lang.CharSequence), java/lang/String/replace(java.lang.CharSequence]
+
+prob: 0,01471
+[android/widget/TextView/setText(java.lang.CharSequence), android/widget/TextView/TextView(android.content.Context)]
+
+prob: 0,01471
+[com/github/angads25/filepicker/view/FilePickerDialog/setDialogSelectionListener(com.github.angads25.filepicker.controller.DialogSelectionListener), android/content/res/Resources/getString(int), com/github/angads25/filepicker/view/FilePickerDialog/FilePickerDialog(android.content.Context]
+
+prob: 0,01471
+[java/lang/String/length(), com/nohkumado/intstringsynchro/MainActivity/getResources(), com/github/angads25/filepicker/view/FilePickerDialog/show(), com/github/angads25/filepicker/model/DialogProperties/DialogProperties()]
+
+prob: 0,01471
+[java/lang/String/length(), android/util/Log/e(java.lang.String]
+
+prob: 0,01471
+[java/lang/String/length(), java/io/File/exists(), java/io/File/File(java.lang.String), java/lang/StringBuffer/toString(), android/util/Log/d(java.lang.String]
+
+prob: 0,01471
+[java/lang/String/length(), java/lang/StringBuffer/append(java.lang.Object), java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,01471
+[android/content/res/Resources/getString(int), android/text/Editable/toString(), android/widget/EditText/getText()]
+
+prob: 0,01471
+[android/content/res/Resources/getString(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01471
+[android/content/res/Resources/getString(int), java/io/File/canRead()]
+
+prob: 0,01471
+[android/app/FragmentManager/beginTransaction()]
+
+prob: 0,01471
+[com/nohkumado/intstringsynchro/MainActivity/getFragmentManager()]
+
+prob: 0,01471
+[java/util/regex/Matcher/group(int), java/lang/String/split(java.lang.String), java/util/regex/Pattern/matcher(java.lang.CharSequence), java/lang/StringBuffer/StringBuffer(), java/lang/System/getProperty(java.lang.String), java/util/regex/Matcher/find(]
+
+prob: 0,01471
+[java/util/regex/Matcher/group(int), java/util/ArrayList/ArrayList(), java/util/regex/Pattern/compile(java.lang.String), java/io/File/File(java.io.File]
+
+prob: 0,01471
+[java/util/regex/Matcher/group(int), java/lang/String/toLowerCase(), java/lang/String/toUpperCase(), java/lang/StringBuffer/toString(), java/lang/String/substring(int]
+
+prob: 0,01471
+[java/util/regex/Pattern/compile(java.lang.String), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01471
+[boolean)]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/util/Collection/iterator(), java/util/TreeMap/keySet(), java/lang/StringBuilder/toString(), java/lang/String/endsWith(java.lang.String]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuffer/toString(), java/util/Collection/iterator(), java/lang/StringBuffer/StringBuffer()]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Objects/equals(java.lang.Object]
+
+prob: 0,01471
+[android/widget/ScrollView/scrollTo(int]
+
+prob: 0,01471
+[java/io/File/exists(), java/util/ArrayList/size(), java/lang/StringBuffer/StringBuffer(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01471
+[java/util/Arrays/toString(java.lang.Object[])]
+
+prob: 0,01471
+[java/util/Collection/iterator(), java/util/ArrayList/get(int), java/util/Iterator/next()]
+
+prob: 0,01471
+[java/lang/StringBuffer/append(java.lang.Object), java/lang/StringBuilder/StringBuilder(), com/nohkumado/nohutils/test/NTreeNodeTest/doTrans(boolean]
+
+prob: 0,01471
+[android/util/ArrayMap/get(java.lang.Object), java/lang/Integer/Integer(int), java/util/TreeMap/size(), java/lang/String/format(java.lang.String]
+
+prob: 0,01471
+[java/lang/Integer/Integer(int), android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), android/widget/LinearLayout/findViewById(int), android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter), java/util/ArrayList/get(int)]
+
+prob: 0,01471
+[android.view.View]
+
+prob: 0,01471
+[java/io/File/getName()]
+
+prob: 0,01471
+[java/util/Iterator/hasNext(), android/os/Bundle/get(java.lang.String), java/util/Iterator/next(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01471
+[java/util/Iterator/hasNext(), android/util/ArrayMap/containsKey(java.lang.Object)]
+
+prob: 0,01471
+[java/util/Iterator/hasNext(), com/nohkumado/nohutils/test/SortedArrayTest/doTrans(boolean]
+
+prob: 0,01471
+[java/util/Iterator/hasNext(), java/util/TreeMap/get(java.lang.Object), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01471
+[java/util/Iterator/hasNext(), android/widget/TableRow/setBackground(android.graphics.drawable.Drawable), android/widget/TableRow/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/TableRow/addView(android.view.View), android/widget/TableRow/TableRow(android.content.Context), com/nohkumado/intstringsynchro/MainActivity/getDrawable(int), android/widget/TableLayout/addView(android.view.View), java/util/Map$Entry/getValue(), android/widget/TableRow$LayoutParams/setMargins(int]
+
+prob: 0,01471
+[java.lang.StringBuilder]
+
+prob: 0,01471
+[android/widget/LinearLayout/removeAllViews(), java/util/ArrayList/size()]
+
+prob: 0,01471
+[java.util.ArrayList)]
+
+prob: 0,01471
+[java.lang.StringBuilder)]
+
+prob: 0,01471
+[android/widget/TextView/getScrollY(), android/text/Layout/getLineForVertical(int), android/widget/TextView/getLayout(), java/util/ArrayList/size(), android/app/Activity/runOnUiThread(java.lang.Runnable), com/nohkumado/nohutils/view/LoggerFrag/getActivity(]
+
+prob: 0,01471
+[android/widget/TextView/getHeight(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01471
+[com.nohkumado.intstringsynchro.ArrayEntry)]
+
+prob: 0,01471
+[java/lang/StringBuilder/StringBuilder(), android/widget/Toast/show(), com/nohkumado/intstringsynchro/StringFile/getParent()]
+
+prob: 0,01471
+[android/widget/TableLayout/findViewById(int)]
+
+prob: 0,01471
+[com/nohkumado/intstringsynchro/DialogTokenMenu/getMenuInflater(), com/nohkumado/intstringsynchro/StringXmlTableFrag/getActivity(), android/widget/TextView/getHint(), android/widget/Button/getHint(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,01471
+[android/widget/TextView/getText(), com/nohkumado/intstringsynchro/DialogArray/getMenuInflater(), java/lang/CharSequence/toString(), com/nohkumado/intstringsynchro/DialogTokenMenu/show()]
+
+prob: 0,01471
+[com/nohkumado/intstringsynchro/DialogArray/show(), com/nohkumado/intstringsynchro/DialogTokenMenu/setOnMenuItemClickListener(android.widget.PopupMenu$OnMenuItemClickListener), java/lang/Object/equals(java.lang.Object), java/lang/String/length()]
+
+prob: 0,01471
+[java/util/ArrayList/ArrayList(), java/io/File/File(java.io.File]
+
+prob: 0,01471
+[java/util/ArrayList/ArrayList(), java/lang/StringBuffer/append(java.lang.Object), java/util/Iterator/next(), android/util/Log/d(java.lang.String]
+
+prob: 0,01471
+[java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/StringBuffer(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01471
+[java/io/File/exists(), java/io/File/File(java.lang.String), java/lang/StringBuffer/toString(), android/util/Log/d(java.lang.String]
+
+prob: 0,01471
+[java/util/TreeMap/get(java.lang.Object)]
+
+prob: 0,01471
+[java/util/Iterator/next(), android/util/Log/d(java.lang.String]
+
+prob: 0,01471
+[java/lang/StringBuffer/append(java.lang.Object)]
+
+prob: 0,01471
+[java/lang/StringBuffer/append(java.lang.String)]
+
+prob: 0,01471
+[java/lang/String/equals(java.lang.Object)]
+

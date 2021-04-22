@@ -1,0 +1,8 @@
+org.api.fake
+android/util/FloatMath/cos(float)
+android/graphics/Canvas/translate(float,float)
+android/content/res/XmlResourceParser/getName()
+java/io/ByteArrayOutputStream/writeTo(java.io.OutputStream)
+java/io/IOException/printStackTrace()
+bbth/game/units/Unit/getX()
+java/util/ArrayList/ArrayList()

@@ -1,0 +1,9 @@
+android/support/v4/content/res/TypedArrayUtils/obtainAttributes(android.content.res.Resources,android.content.res.Resources$Theme,android.util.AttributeSet,int[])
+org.api.fake
+android/content/res/Resources/getAnimation(int)
+android/animation/Keyframe/ofInt(float,int
+org/xmlpull/v1/XmlPullParser/getName()
+java/lang/StringBuilder/append(java.lang.String)
+android/content/Context/getResources(
+org.rand.api
+android/view/animation/AccelerateDecelerateInterpolator/AccelerateDecelerateInterpolator(

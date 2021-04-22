@@ -1,0 +1,16 @@
+android.app.Notification  0,15385
+java/text/NumberFormat/format(long), android/net/wifi/WifiInfo/getLinkSpeed(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/text/NumberFormat/getNumberInstance(  0,07692
+android/content/res/Resources/getString(int), android/view/Window/setFeatureDrawableResource(int  0,07692
+java/net/InetAddress/getHostAddress(), net/orleaf/android/wifistate/core/NetworkStateInfo$States/equals(java.lang.Object), java/net/InetAddress/isLoopbackAddress(), java/net/NetworkInterface/getNetworkInterfaces(), java/net/SocketException/printStackTrace(), android/net/wifi/WifiInfo/getIpAddress(), java/util/Enumeration/hasMoreElements(), java/util/Enumeration/nextElement(), android/net/wifi/WifiManager/getDhcpInfo(), java/net/InetAddress/isAnyLocalAddress(), java/net/NetworkInterface/getInetAddresses(), java/net/InetAddress/isLinkLocalAddress(  0,07692
+android/os/Handler/postDelayed(java.lang.Runnable  0,07692
+android.view.View  0,07692
+net/orleaf/android/wifistate/core/WifiStateStatusActivity/registerForContextMenu(android.view.View), android/view/Window/setFeatureDrawableResource(int  0,07692
+android.preference.Preference)  0,07692
+java/io/BufferedReader/close(), java/lang/StringBuilder/append(java.lang.String), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(), android/content/Context/getAssets(  0,07692
+android/content/res/AssetManager/open(java.lang.String), java/util/Locale/getLanguage(), java/util/Locale/getDefault(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,07692
+int  0,07692
+android.content.Intent)  0,07692
+net/orleaf/android/AboutActivity/getPackageName(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,07692
+java/lang/AssertionError/AssertionError(java.lang.Object), android/widget/TextView/setText(java.lang.CharSequence), net/orleaf/android/AboutActivity/getWindow(), net/orleaf/android/AboutActivity/requestWindowFeature(int), net/orleaf/android/AboutActivity/setTitle(java.lang.CharSequence), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), net/orleaf/android/AboutActivity/getResources()  0,07692
+android/net/wifi/WifiManager/getWifiState(), android/telephony/TelephonyManager/getDataState(), java/lang/String/equals(java.lang.Object), android/net/NetworkInfo/getState(), android/net/wifi/WifiManager/getConnectionInfo(), android/net/wifi/WifiManager/getScanResults(), android/content/Context/getResources(), android/content/res/Resources/getString(int), net/orleaf/android/wifistate/core/NetworkStateInfo$States/compareTo(java.lang.Enum), android/net/ConnectivityManager/getNetworkInfo(int), android/net/NetworkInfo/isAvailable(), android/net/wifi/WifiInfo/getSupplicantState(  0,07692
+android/net/NetworkInfo/getExtraInfo(), android/net/wifi/WifiInfo/getSSID(), android/net/NetworkInfo/getDetailedState()  0,07692

@@ -1,0 +1,8 @@
+com/diegocarloslima/fgelv/sample/SampleActivity/getLayoutInflater(
+android/graphics/drawable/Drawable/setState(int[]
+android/view/View/getLeft(
+com/diegocarloslima/fgelv/sample/SampleActivity/setContentView(int)
+com/diegocarloslima/fgelv/lib/FloatingGroupExpandableListView/isPressed()
+android/widget/ImageView/setBackgroundColor(int)
+android/view/View/getRight()
+android/view/View/getHeight(

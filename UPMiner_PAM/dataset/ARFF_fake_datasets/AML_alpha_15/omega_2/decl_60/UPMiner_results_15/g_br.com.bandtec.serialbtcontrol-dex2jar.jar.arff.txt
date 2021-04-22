@@ -1,0 +1,6 @@
+android/text/TextPaint/setTextSize(float)
+android/widget/TextView/setText(java.lang.CharSequence)
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+org.api.fake
+br/com/bandtec/serialbtcontrol/b/b(int
+org.rand.api

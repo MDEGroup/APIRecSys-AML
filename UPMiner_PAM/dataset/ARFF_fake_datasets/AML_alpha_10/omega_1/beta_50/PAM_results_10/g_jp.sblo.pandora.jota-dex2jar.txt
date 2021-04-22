@@ -1,0 +1,426 @@
+prob: 0,07609
+[int]
+
+prob: 0,06522
+[int)]
+
+prob: 0,03261
+[boolean)]
+
+prob: 0,03261
+[java.lang.String]
+
+prob: 0,02174
+[jp/sblo/pandora/jota/Main/startActivityForResult(android.content.Intent]
+
+prob: 0,02174
+[android.view.View]
+
+prob: 0,02174
+[java.lang.String)]
+
+prob: 0,02174
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,02174
+[android/preference/ListPreference/setKey(java.lang.String)]
+
+prob: 0,02174
+[java.lang.Object)]
+
+prob: 0,02174
+[android/preference/PreferenceManager/createPreferenceScreen(android.content.Context)]
+
+prob: 0,02174
+[java/io/File/getName(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02174
+[android/content/SharedPreferences$Editor/commit(), android/content/SharedPreferences/edit(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/content/SharedPreferences$Editor/putString(java.lang.String]
+
+prob: 0,02174
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(]
+
+prob: 0,02174
+[android/text/TextPaint/setTextSize(float)]
+
+prob: 0,02174
+[java.lang.CharSequence]
+
+prob: 0,02174
+[android/text/Editable/replace(int]
+
+prob: 0,02174
+[android.text.Spannable]
+
+prob: 0,02174
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,02174
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01087
+[java/lang/Object/toString(), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,01087
+[java/lang/Object/toString(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01087
+[android/database/Cursor/getColumnIndex(java.lang.String), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,01087
+[android/database/Cursor/getColumnIndex(java.lang.String), android/os/Handler/postDelayed(java.lang.Runnable]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/text/EditText/p(), jp/sblo/pandora/jota/Main/getContentResolver()]
+
+prob: 0,01087
+[android/view/MenuItem/setVisible(boolean), android/view/MenuItem/setIcon(int), android/app/Activity/onPrepareOptionsMenu(android.view.Menu), android/view/Menu/findItem(int), android/view/MenuItem/setEnabled(boolean]
+
+prob: 0,01087
+[android/preference/ListPreference/setEntryValues(java.lang.CharSequence[]), android/preference/PreferenceCategory/addPreference(android.preference.Preference), android/content/res/Resources/getStringArray(int)]
+
+prob: 0,01087
+[java/lang/String/length(), android/view/MenuItem/setTitle(int), android/view/MenuItem/setTitle(java.lang.CharSequence), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01087
+[java/util/ArrayList/ArrayList(), java/io/File/File(java.lang.String), jp/sblo/pandora/jota/Main/getSharedPreferences(java.lang.String]
+
+prob: 0,01087
+[java/util/ArrayList/ArrayList(), android/content/res/Resources/getIdentifier(java.lang.String]
+
+prob: 0,01087
+[java/util/ArrayList/ArrayList(), java/io/File/getName(), android/widget/Toast/show(), android/widget/TextView/setText(java.lang.CharSequence), java/util/Collections/sort(java.util.List]
+
+prob: 0,01087
+[java/util/ArrayList/removeAll(java.util.Collection), java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/io/File/exists(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size()]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/text/EditText/setBackgroundColor(int), android/widget/ImageView/setVisibility(int), jp/sblo/pandora/jota/text/EditText/setShowLineNumbers(boolean), android/view/View/setBackgroundColor(int), jp/sblo/pandora/jota/text/EditText/a(java.lang.String]
+
+prob: 0,01087
+[java/lang/Long/valueOf(long), java/lang/String/format(java.lang.String]
+
+prob: 0,01087
+[android/graphics/drawable/Drawable/draw(android.graphics.Canvas), android/graphics/Rect/set(android.graphics.Rect), android/graphics/Bitmap/getDensity(), android/graphics/drawable/BitmapDrawable/getBitmap(), android/graphics/drawable/Drawable/getIntrinsicWidth(), android/graphics/drawable/Drawable/setBounds(android.graphics.Rect), android/graphics/drawable/BitmapDrawable/setTargetDensity(android.util.DisplayMetrics), android/graphics/drawable/PaintDrawable/setIntrinsicHeight(int), android/graphics/Bitmap/createBitmap(int]
+
+prob: 0,01087
+[android/preference/ListPreference/setTitle(int)]
+
+prob: 0,01087
+[android/graphics/Canvas/translate(float]
+
+prob: 0,01087
+[java/io/BufferedReader/close(), android/content/res/Resources/getAssets(), java/lang/String/format(java.lang.String]
+
+prob: 0,01087
+[java/io/BufferedReader/close(), java/io/IOException/printStackTrace(), java/lang/String/replaceAll(java.lang.String]
+
+prob: 0,01087
+[android/content/Intent/Intent(java.lang.String]
+
+prob: 0,01087
+[android/preference/PreferenceCategory/setTitle(int)]
+
+prob: 0,01087
+[java/io/OutputStream/close(), android/content/res/AssetManager/list(java.lang.String), java/io/IOException/printStackTrace(), java/io/File/File(java.lang.String), java/io/InputStream/close(), java/io/File/isFile(), java/io/File/listFiles(), java/io/OutputStream/write(byte[]]
+
+prob: 0,01087
+[java/io/InputStream/read(byte[]), java/lang/StringBuilder/append(java.lang.String), android/content/res/AssetManager/open(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01087
+[android/preference/ListPreference/setOnPreferenceChangeListener(android.preference.Preference$OnPreferenceChangeListener)]
+
+prob: 0,01087
+[java/lang/Integer/intValue(), java/lang/String/format(java.lang.String]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsToolbarActivity/setContentView(int), jp/sblo/pandora/jota/SettingsToolbarActivity/setTitle(int), jp/sblo/pandora/jota/SettingsToolbarActivity/getString(int), android/app/Activity/onCreate(android.os.Bundle), jp/sblo/pandora/jota/SettingsToolbarActivity/findViewById(int), jp/sblo/pandora/jota/SettingsToolbarActivity/getApplicationContext(), android/content/SharedPreferences/getBoolean(java.lang.String]
+
+prob: 0,01087
+[android/preference/Preference/setTitle(int)]
+
+prob: 0,01087
+[java/lang/String/equals(java.lang.Object), android/text/method/TextKeyListener/clearMetaKeyState(android.text.Editable]
+
+prob: 0,01087
+[android/graphics/Typeface/create(java.lang.String]
+
+prob: 0,01087
+[android/app/Activity/getSharedPreferences(java.lang.String]
+
+prob: 0,01087
+[android/app/ProgressDialog/setMessage(java.lang.CharSequence), android/app/ProgressDialog/show(), android/os/AsyncTask/onPreExecute(), java/lang/Runnable/run(), android/app/Activity/getString(int), android/app/ProgressDialog/setProgressStyle(int), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/app/ProgressDialog/setCancelable(boolean), android/app/ProgressDialog/setIndeterminate(boolean]
+
+prob: 0,01087
+[android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/RecoveryActivity/openFileInput(java.lang.String), java/io/InputStream/read(byte[])]
+
+prob: 0,01087
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,01087
+[android/text/Editable/length(), android/content/Intent/setType(java.lang.String), android/content/Intent/Intent(java.lang.String)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsActivity/setPreferenceScreen(android.preference.PreferenceScreen)]
+
+prob: 0,01087
+[android/graphics/Paint/setAntiAlias(boolean), android/content/res/Resources$Theme/obtainStyledAttributes(int[]), android/content/Context/getTheme(), android/content/res/TypedArray/getIndex(int), android/graphics/Paint/setColor(int), android/content/res/ColorStateList/getDefaultColor(), android/graphics/Paint/setStyle(android.graphics.Paint$Style), android/content/Context/getResources(), android/graphics/Paint/Paint(), android/graphics/Paint/setTextAlign(android.graphics.Paint$Align), android/content/res/Resources/getDrawable(int), android/content/res/TypedArray/getColorStateList(int]
+
+prob: 0,01087
+[android/preference/Preference/setKey(java.lang.String)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/Main/getLayoutInflater(), android/app/AlertDialog$Builder/setTitle(int), android/widget/EditText/setOnEditorActionListener(android.widget.TextView$OnEditorActionListener), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,01087
+[android/app/AlertDialog/show()]
+
+prob: 0,01087
+[android/app/AlertDialog$Builder/create()]
+
+prob: 0,01087
+[android/text/Editable/subSequence(int]
+
+prob: 0,01087
+[android.text.Editable]
+
+prob: 0,01087
+[java/lang/String/subSequence(int]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/FileSelectorActivity/finish(), java/io/File/File(java.lang.String), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/EditText/setEnabled(boolean), android/os/Bundle/get(java.lang.String), jp/sblo/pandora/jota/FileSelectorActivity/setContentView(int), android/os/Bundle/getInt(java.lang.String]
+
+prob: 0,01087
+[java/io/File/getParent(), java/io/File/isDirectory(), android/widget/Spinner/setSelection(int), java/lang/String/equals(java.lang.Object), android/content/Intent/getExtras(), android/os/Bundle/getString(java.lang.String)]
+
+prob: 0,01087
+[android/widget/Spinner/setVisibility(int)]
+
+prob: 0,01087
+[android/preference/ListPreference/setSummary(int)]
+
+prob: 0,01087
+[android.graphics.Path]
+
+prob: 0,01087
+[java/lang/String/equalsIgnoreCase(java.lang.String), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/Main/getIntent()]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsActivity/setTitle(int)]
+
+prob: 0,01087
+[android.text.Spanned]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsActivity/getString(int), android/preference/Preference/setSummary(int), android/preference/CheckBoxPreference/setSummary(int), android/preference/Preference/Preference(android.content.Context), android/preference/PreferenceCategory/PreferenceCategory(android.content.Context), android/preference/CheckBoxPreference/CheckBoxPreference(android.content.Context), android/preference/ListPreference/setEntries(java.lang.CharSequence[]), android/preference/Preference/setOnPreferenceClickListener(android.preference.Preference$OnPreferenceClickListener]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsActivity/getString(int), java/io/File/getName(), android/preference/Preference/setEnabled(boolean), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsActivity/getString(int), android/content/Intent/setData(android.net.Uri), android/net/Uri/parse(java.lang.String), jp/sblo/pandora/jota/SettingsActivity/finish()]
+
+prob: 0,01087
+[java/lang/StringBuilder/append(java.lang.String), android/text/Annotation/Annotation(android.os.Parcel), java/lang/RuntimeException/RuntimeException(java.lang.String), android/os/Parcel/readInt(), android/os/Parcel/readString(), android/text/SpannableString/SpannableString(java.lang.CharSequence)]
+
+prob: 0,01087
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/preference/PreferenceScreen/addPreference(android.preference.Preference), android/preference/ListPreference/ListPreference(android.content.Context), android/preference/ListPreference/setEntries(java.lang.CharSequence[]]
+
+prob: 0,01087
+[java/lang/StringBuilder/append(java.lang.String), jp/sblo/pandora/jota/SettingsActivity/startActivity(android.content.Intent), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01087
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,01087
+[android/content/Context/getPackageManager()]
+
+prob: 0,01087
+[android/os/Environment/getExternalStorageDirectory(), android/content/Context/getApplicationInfo()]
+
+prob: 0,01087
+[android/content/Intent/removeExtra(java.lang.String), android/os/Environment/getExternalStorageDirectory(), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01087
+[android/content/Intent/setData(android.net.Uri), android/net/Uri/parse(java.lang.String), jp/sblo/pandora/jota/Main/setResult(int]
+
+prob: 0,01087
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01087
+[java/lang/StringBuilder/append(int), android/view/KeyEvent/getAction(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01087
+[android/content/Intent/setAction(java.lang.String)]
+
+prob: 0,01087
+[android/content/res/Resources/getString(int)]
+
+prob: 0,01087
+[java/lang/System/currentTimeMillis()]
+
+prob: 0,01087
+[android/content/Intent/Intent()]
+
+prob: 0,01087
+[android/content/Intent/createChooser(android.content.Intent]
+
+prob: 0,01087
+[android/graphics/Path/computeBounds(android.graphics.RectF]
+
+prob: 0,01087
+[java/lang/CharSequence/length()]
+
+prob: 0,01087
+[android/preference/CheckBoxPreference/setTitle(int)]
+
+prob: 0,01087
+[android/view/View/onRestoreInstanceState(android.os.Parcelable)]
+
+prob: 0,01087
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/text/v$n/getSuperState()]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/text/v/post(java.lang.Runnable)]
+
+prob: 0,01087
+[android/util/Log/e(java.lang.String]
+
+prob: 0,01087
+[android/content/res/Resources/getDisplayMetrics()]
+
+prob: 0,01087
+[android/view/LayoutInflater/inflate(int]
+
+prob: 0,01087
+[jp.sblo.pandora.jota.text.v$b]
+
+prob: 0,01087
+[android.view.KeyEvent)]
+
+prob: 0,01087
+[android/preference/ListPreference/setDialogTitle(int)]
+
+prob: 0,01087
+[android/widget/Scroller/startScroll(int]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/text/v/dispatchKeyEvent(android.view.KeyEvent)]
+
+prob: 0,01087
+[android/util/Log/d(java.lang.String]
+
+prob: 0,01087
+[android/view/inputmethod/InputMethodManager/restartInput(android.view.View)]
+
+prob: 0,01087
+[java/lang/reflect/Field/get(java.lang.Object)]
+
+prob: 0,01087
+[java/lang/reflect/Field/setAccessible(boolean)]
+
+prob: 0,01087
+[android/preference/CheckBoxPreference/setKey(java.lang.String)]
+
+prob: 0,01087
+[android/view/inputmethod/InputMethodManager/peekInstance()]
+
+prob: 0,01087
+[java/lang/Boolean/valueOf(boolean)]
+
+prob: 0,01087
+[java/lang/Class/getDeclaredField(java.lang.String)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/text/v/dispatchKeyEventPreIme(android.view.KeyEvent)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/AboutActivity/setTitle(int)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/AboutActivity/findViewById(int)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/AboutActivity/getIntent()]
+
+prob: 0,01087
+[android/webkit/WebView/setFocusable(boolean)]
+
+prob: 0,01087
+[android/webkit/WebView/addJavascriptInterface(java.lang.Object]
+
+prob: 0,01087
+[android/content/SharedPreferences/contains(java.lang.String)]
+
+prob: 0,01087
+[android/preference/ListPreference/setTitle(java.lang.CharSequence)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsShortcutActivity/getString(int)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsShortcutActivity/getPreferenceManager()]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsShortcutActivity/setTitle(int)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsShortcutActivity/setPreferenceScreen(android.preference.PreferenceScreen)]
+
+prob: 0,01087
+[android/preference/PreferenceActivity/onCreate(android.os.Bundle)]
+
+prob: 0,01087
+[jp/sblo/pandora/jota/SettingsActivity/getResources()]
+
+prob: 0,01087
+[android/preference/ListPreference/setEntryValues(java.lang.CharSequence[])]
+
+prob: 0,01087
+[android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,01087
+[java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01087
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/Integer/toString(int), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01087
+[android/preference/PreferenceScreen/addPreference(android.preference.Preference), android/preference/ListPreference/ListPreference(android.content.Context)]
+
+prob: 0,01087
+[android/content/Intent/getExtras(), android/os/Bundle/getString(java.lang.String)]
+
+prob: 0,01087
+[java/lang/Integer/toString(int)]
+
+prob: 0,01087
+[android/os/Environment/getExternalStorageDirectory()]
+
+prob: 0,01087
+[android/content/SharedPreferences$Editor/commit()]
+
+prob: 0,01087
+[java/lang/StringBuilder/toString()]
+
+prob: 0,01087
+[android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,01087
+[android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,01087
+[java/io/File/getName()]
+
+prob: 0,01087
+[java/lang/StringBuilder/append(java.lang.String)]
+

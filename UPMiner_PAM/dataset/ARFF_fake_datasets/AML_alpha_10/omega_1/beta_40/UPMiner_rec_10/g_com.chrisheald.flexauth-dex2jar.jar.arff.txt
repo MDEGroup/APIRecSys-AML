@@ -1,0 +1,8 @@
+android/content/SharedPreferences$Editor/putLong(java.lang.String,long
+java/net/HttpURLConnection/disconnect()
+java/io/OutputStream/write(byte[]
+android/database/Cursor/getInt(int
+com/chrisheald/flexauth/FlexAuth/getSharedPreferences(java.lang.String,int)
+android/widget/Toast/show(
+android/widget/EditText/setError(java.lang.CharSequence)
+com/chrisheald/flexauth/TokenAdapter/clear()

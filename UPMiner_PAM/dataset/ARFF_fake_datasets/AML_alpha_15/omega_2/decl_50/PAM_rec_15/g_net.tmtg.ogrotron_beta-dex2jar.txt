@@ -1,0 +1,37 @@
+java/lang/StringBuilder/append(java.lang.String)  0,23529
+java/lang/StringBuilder/toString()  0,17647
+jgame/platform/StdGame/viewHeight(), jgame/platform/StdGame/viewWidth(), jgame/platform/StdGame/getKeyDesc(int), java/lang/StringBuilder/append(java.lang.String), jgame/platform/StdGame/drawString(java.lang.String  0,11765
+java.lang.String)  0,11765
+examples/ogrotron/Ogrotron/getAccelY(), examples/ogrotron/Ogrotron/drawImage(double  0,05882
+examples/ogrotron/Ogrotron/getAccelZ(), examples/ogrotron/Ogrotron/getMouseY(), java/lang/Math/abs(double), java/lang/StringBuilder/append(java.lang.String)  0,05882
+examples/ogrotron/Ogrotron/pfWidth(), examples/ogrotron/Ogrotron/getAccelY(), examples/ogrotron/Ogrotron$Player/setDir(int  0,05882
+examples/ogrotron/Ogrotron/pfWidth(), java/lang/StringBuilder/append(int), examples/ogrotron/Ogrotron/pfTilesX(), examples/ogrotron/Ogrotron/setBGImage(java.lang.String), java/lang/StringBuilder/StringBuilder(), examples/ogrotron/Ogrotron/random(double  0,05882
+java/lang/StringBuilder/append(int), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/util/Enumeration/hasMoreElements()  0,05882
+java/lang/Class/getName()  0,05882
+java/lang/String/substring(int)  0,05882
+java/lang/Object/getClass()  0,05882
+jgame/platform/StdGame/getImageSize(java.lang.String), jgame/platform/StdGame/drawString(java.lang.String  0,05882
+jgame/platform/StdGame/stop(), jgame/platform/StdGame/isApplet(), jgame/platform/StdGame/clearKey(int), jgame/platform/StdGame/enableAudio(), jgame/platform/StdGame/getKey(int), jgame/platform/StdGame/setGameState(java.lang.String), jgame/platform/StdGame/addGameState(java.lang.String), jgame/platform/JGEngine$JGView/post(java.lang.Runnable), jgame/platform/StdGame/getGameSpeed(), jgame/platform/StdGame/wakeUpOnKey(int), jgame/platform/StdGame/inGameState(java.lang.String), jgame/platform/StdGame/disableAudio(), jgame/platform/StdGame/removeGameState(java.lang.String), jgame/platform/StdGame/exitEngine(java.lang.String  0,05882
+examples/ogrotron/Ogrotron/getMouseX()  0,05882
+jgame/platform/StdGame/getFontHeight(jgame.JGFont)  0,05882
+jgame/platform/StdGame/setColor(jgame.JGColor)  0,05882
+java/lang/Thread/sleep(long), java/lang/Exception/printStackTrace(), java/lang/StringBuilder/StringBuilder(), java/lang/Thread/yield(), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/System/currentTimeMillis(), jgame/impl/JGameError/printStackTrace(  0,05882
+double  0,05882
+android/graphics/Paint/setAntiAlias(boolean), java/lang/Thread/start(), android/graphics/Canvas/Canvas(), java/lang/Thread/Thread(java.lang.Runnable), android/graphics/Bitmap/createBitmap(int  0,05882
+jgame/platform/JGActivity/setContentView(android.view.View), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), jgame/platform/JGActivity/getAssets(), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/toString(), jgame/platform/JGActivity/getSystemService(java.lang.String  0,05882
+android/hardware/SensorManager/getDefaultSensor(int)  0,05882
+android/view/WindowManager/getDefaultDisplay()  0,05882
+jgame/platform/JGEngine$JGView/requestFocus()  0,05882
+android/view/Display/getPixelFormat()  0,05882
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Integer/parseInt(java.lang.String), java/util/Enumeration/nextElement(), java/lang/StringBuilder/toString(), java/util/Vector/elements(  0,05882
+android/content/res/AssetManager/open(java.lang.String)  0,05882
+jgame/platform/JGEngine/getAssets()  0,05882
+java/lang/Double/parseDouble(java.lang.String)  0,05882
+java/lang/String/equals(java.lang.Object)  0,05882
+examples/ogrotron/Ogrotron/viewXOfs(), examples/ogrotron/Ogrotron/getKey(int), examples/ogrotron/Ogrotron/hasAccelerometer(), examples/ogrotron/Ogrotron/getAccelX()  0,05882
+java/util/Vector/size(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/util/Vector/addElement(java.lang.Object), java/util/Vector/Vector(int  0,05882
+java.lang.String  0,05882
+examples/ogrotron/Ogrotron/setGameSpeed(double), examples/ogrotron/Ogrotron/setHighscores(int  0,05882
+java/lang/StringBuilder/append(java.lang.Object)  0,05882
+java/lang/Integer/parseInt(java.lang.String), java/util/Enumeration/nextElement()  0,05882
+java/lang/StringBuilder/StringBuilder()  0,05882

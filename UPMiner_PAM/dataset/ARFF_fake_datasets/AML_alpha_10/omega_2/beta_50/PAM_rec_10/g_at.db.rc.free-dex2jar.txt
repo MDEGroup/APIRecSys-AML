@@ -1,0 +1,40 @@
+org.api.fake  0,20000
+org.rand.api  0,20000
+int  0,13333
+java/io/DataOutputStream/write(byte[), java/net/Socket/getInputStream(), javax/crypto/Cipher/init(int  0,04444
+android/content/Intent/putExtra(java.lang.String  0,04444
+java/io/DataInputStream/readInt(), java/lang/Exception/printStackTrace(), java/io/DataInputStream/DataInputStream(java.io.InputStream), javax/crypto/Cipher/doFinal(byte[  0,02222
+java/io/ByteArrayInputStream/ByteArrayInputStream(byte[), java/io/ByteArrayOutputStream/toByteArray(), java/io/DataInputStream/available()  0,02222
+java/io/ByteArrayOutputStream/write(byte[), java/io/DataInputStream/readFully(byte[), java/io/ByteArrayOutputStream/ByteArrayOutputStream()  0,02222
+java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/DataOutputStream/write(int), java/io/DataInputStream/close(), java/io/DataOutputStream/close()  0,02222
+java/io/DataInputStream/readUTF(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[), java/security/PublicKey/getEncoded()  0,02222
+java/lang/String/equals(java.lang.Object)  0,02222
+javax/crypto/Cipher/getInstance(java.lang.String)  0,02222
+java/io/DataInputStream/readFloat()  0,02222
+java/io/DataOutputStream/DataOutputStream(java.io.OutputStream)  0,02222
+java/security/KeyPair/getPrivate()  0,02222
+java/security/KeyPair/getPublic()  0,02222
+at/db/rc/activities/Master/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), at/db/rc/activities/Master/findViewById(int), at/db/rc/activities/Master/getIntent(), java/lang/Exception/toString(), at/db/rc/activities/Master/getSystemService(java.lang.String), at/db/rc/activities/Master/setTitle(int), android/hardware/SensorManager/registerListener(android.hardware.SensorEventListener  0,02222
+java/io/DataInputStream/readUnsignedShort(), java/io/DataInputStream/readFully(byte[), java/lang/Exception/getMessage(  0,02222
+at/db/rc/controls/TouchSink/invalidate(), android/graphics/Paint/setColor(int), android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,02222
+android/widget/ArrayAdapter/setDropDownViewResource(int), at/db/rc/activities/SettingsEditor/findViewById(int), android/widget/Button/setFocusableInTouchMode(boolean), android/widget/ArrayAdapter/createFromResource(android.content.Context  0,02222
+android/app/AlertDialog/setButton(java.lang.CharSequence  0,02222
+android/net/ConnectivityManager/getActiveNetworkInfo(), java/lang/Exception/toString(), android/content/res/Resources/openRawResource(int), at/db/rc/activities/ServerFileWriter$DownloadTask/execute(java.lang.Object[), android/util/Log/e(java.lang.String  0,02222
+at/db/rc/activities/ServerFileWriter/getSystemService(java.lang.String), at/db/rc/activities/ServerFileWriter/getResources(), android/net/NetworkInfo/isConnected(), android/os/AsyncTask/get()  0,02222
+java/io/IOException/IOException(java.lang.String), java/io/DataInputStream/readByte(), java/io/DataInputStream/readInt()  0,02222
+java/io/IOException/IOException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString()  0,02222
+java/io/File/File(java.io.File  0,02222
+java.io.File)  0,02222
+java/net/DatagramPacket/DatagramPacket(byte[  0,02222
+java/lang/StringBuilder/append(java.lang.String), at/db/rc/activities/Master/getString(int), android/widget/Toast/makeText(android.content.Context  0,02222
+android.view.MotionEvent)  0,02222
+javax/net/SocketFactory/createSocket(java.lang.String  0,02222
+java/net/Socket/getInetAddress(), java/util/Random/nextInt(), java/util/Random/Random(), java/io/DataInputStream/readByte(), java/io/DataOutputStream/write(int), java/io/DataOutputStream/flush(), java/net/Socket/getPort(), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream  0,02222
+java/io/DataOutputStream/writeInt(int), java/io/DataOutputStream/writeUTF(java.lang.String), java/io/DataOutputStream/writeFloat(float)  0,02222
+javax/sound/sampled/Mixer/getLine(javax.sound.sampled.Line$Info), java/io/PrintStream/println(java.lang.String), javax/sound/sampled/LineUnavailableException/printStackTrace(), javax/sound/sampled/Line/isOpen(), javax/sound/sampled/Line/close(), javax/sound/sampled/Line$Info/toString(), javax/sound/sampled/AudioSystem/getMixer(javax.sound.sampled.Mixer$Info), javax/sound/sampled/Mixer/getTargetLineInfo(), javax/sound/sampled/AudioSystem/getMixerInfo(), javax/sound/sampled/Line/open(), java/lang/StringBuilder/append(java.lang.Object), java/lang/String/contains(java.lang.CharSequence), javax/sound/sampled/FloatControl/setValue(float  0,02222
+javax/sound/sampled/Mixer/getLine(javax.sound.sampled.Line$Info), java/io/PrintStream/println(java.lang.String), javax/sound/sampled/LineUnavailableException/printStackTrace(), javax/sound/sampled/Line/isOpen(), javax/sound/sampled/Line/close(), javax/sound/sampled/Line$Info/toString(), javax/sound/sampled/AudioSystem/getMixer(javax.sound.sampled.Mixer$Info), javax/sound/sampled/Mixer/getTargetLineInfo(), javax/sound/sampled/AudioSystem/getMixerInfo(), javax/sound/sampled/Line/open(), java/lang/StringBuilder/append(java.lang.Object), java/lang/String/contains(java.lang.CharSequence  0,02222
+java/util/Iterator/next(), javax/sound/sampled/FloatControl/getValue(), java/util/List/iterator(), java/util/Iterator/hasNext(), java/lang/String/toLowerCase()  0,02222
+java/lang/String/toLowerCase(), java/util/List/size(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString()  0,02222
+javax/crypto/Cipher/doFinal(byte[  0,02222
+java/io/DataInputStream/readByte(), java/io/DataOutputStream/write(int), java/io/DataOutputStream/flush()  0,02222
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString()  0,02222

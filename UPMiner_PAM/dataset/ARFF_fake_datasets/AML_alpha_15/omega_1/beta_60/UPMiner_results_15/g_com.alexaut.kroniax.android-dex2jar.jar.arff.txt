@@ -1,0 +1,10 @@
+org.api.fake
+java/lang/String/substring(int)
+java/lang/StringBuilder/toString()
+java/nio/ByteBuffer/limit(int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/isPrimitive()
+java/lang/StringBuilder/StringBuilder()
+com/badlogic/gdx/scenes/scene2d/ui/Container/resetTransform(com.badlogic.gdx.graphics.glutils.ShapeRenderer)
+java/nio/FloatBuffer/position()
+java/lang/String/length()

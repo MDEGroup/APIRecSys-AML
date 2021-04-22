@@ -1,0 +1,6 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+com/nathaniel/amendroid7z/Settings/findViewById(int)
+android/widget/TextView/setText(java.lang.CharSequence
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod)
+java/lang/StringBuilder/toString(
+android/app/Activity/onCreate(android.os.Bundle

@@ -1,0 +1,213 @@
+prob: 0,19048
+[int)]
+
+prob: 0,14286
+[int]
+
+prob: 0,03571
+[android/util/Log/w(java.lang.String]
+
+prob: 0,03571
+[android/text/TextUtils/isEmpty(java.lang.CharSequence)]
+
+prob: 0,02381
+[java/lang/Object/toString(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,02381
+[java/lang/String/trim()]
+
+prob: 0,02381
+[android/support/v7/widget/Toolbar/getContext(), android/widget/TextView/setTextAppearance(android.content.Context]
+
+prob: 0,02381
+[android/view/View/getRight(), android/graphics/drawable/Drawable/setBounds(int]
+
+prob: 0,02381
+[org.xmlpull.v1.XmlPullParser]
+
+prob: 0,02381
+[android/view/View/setOnClickListener(android.view.View$OnClickListener), android/view/View/setVisibility(int), android/widget/EditText/getText()]
+
+prob: 0,01190
+[android.view.View]
+
+prob: 0,01190
+[java/lang/Double/toString(double), java/lang/String/indexOf(java.lang.String]
+
+prob: 0,01190
+[android.net.Uri]
+
+prob: 0,01190
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object), java/util/Map$Entry/getValue(]
+
+prob: 0,01190
+[java/util/LinkedHashMap/entrySet(), java/lang/Class/getName(), java/lang/Object/getClass()]
+
+prob: 0,01190
+[java.lang.Class[]]
+
+prob: 0,01190
+[android/view/MenuItem/setOnMenuItemClickListener(android.view.MenuItem$OnMenuItemClickListener), android/view/MenuItem/setTitleCondensed(java.lang.CharSequence), android/view/MenuItem/setCheckable(boolean), android/view/MenuItem/setEnabled(boolean), android/view/MenuItem/setIcon(int), android/content/Context/isRestricted(), android/util/Log/w(java.lang.String]
+
+prob: 0,01190
+[float]
+
+prob: 0,01190
+[float[]]
+
+prob: 0,01190
+[android.graphics.drawable.Drawable)]
+
+prob: 0,01190
+[android/view/ViewGroup/removeViewInLayout(android.view.View), android/view/ViewGroup/indexOfChild(android.view.View), android/view/LayoutInflater/inflate(int]
+
+prob: 0,01190
+[org.xmlpull.v1.XmlPullParser)]
+
+prob: 0,01190
+[android/graphics/Canvas/getMatrix(android.graphics.Matrix), android/graphics/Canvas/translate(float]
+
+prob: 0,01190
+[android/support/v7/widget/aw/d(), android/support/v7/widget/aw/h(), java/lang/Math/max(int]
+
+prob: 0,01190
+[android/support/v7/widget/at/getSelectedItemPosition(), android/support/v7/widget/aw/k(), android/support/v7/widget/at/getViewTreeObserver(), android/support/v7/widget/aw/m(), android/view/ViewTreeObserver/addOnGlobalLayoutListener(android.view.ViewTreeObserver$OnGlobalLayoutListener), android/support/v7/widget/aw/h(int), android/support/v7/widget/aw/g(int), android/support/v7/widget/aw/a(android.widget.PopupWindow$OnDismissListener), android/widget/ListView/setChoiceMode(int]
+
+prob: 0,01190
+[android.view.View)]
+
+prob: 0,01190
+[android/view/accessibility/AccessibilityEvent/setClassName(java.lang.CharSequence), java/lang/Class/getName(), java/lang/Object/getClass(), android/view/accessibility/AccessibilityEvent/setContentDescription(java.lang.CharSequence), android/support/v7/widget/ActionBarContextView/getContext(), android/view/accessibility/AccessibilityEvent/getEventType(), android/support/v7/widget/a/onInitializeAccessibilityEvent(android.view.accessibility.AccessibilityEvent), android/view/accessibility/AccessibilityEvent/setSource(android.view.View), android/view/accessibility/AccessibilityEvent/setPackageName(java.lang.CharSequence]
+
+prob: 0,01190
+[android/content/Context/getPackageName()]
+
+prob: 0,01190
+[android/support/v7/view/menu/ActionMenuItemView/getContext(), android/content/res/Resources/getDisplayMetrics(), android/graphics/Rect/height(), android/support/v7/view/menu/ActionMenuItemView/getLocationOnScreen(int[]), android/widget/Toast/setGravity(int]
+
+prob: 0,01190
+[android.support.a.a.q]
+
+prob: 0,01190
+[java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/Object/toString(), android/graphics/Rect/Rect(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(java.lang.Object]
+
+prob: 0,01190
+[android/support/v7/widget/cf/getContext(), android/widget/TextView/setText(java.lang.CharSequence), android/support/v7/widget/cf/setLongClickable(boolean), android/widget/ImageView/ImageView(android.content.Context), android/widget/TextView/setVisibility(int), android/view/View/getParent(), android/support/v7/widget/cf/addView(android.view.View]
+
+prob: 0,01190
+[android/support/v7/widget/cf/getHeight(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01190
+[android/graphics/Rect/height(), java/lang/Math/max(int]
+
+prob: 0,01190
+[org/xmlpull/v1/XmlSerializer/endTag(java.lang.String]
+
+prob: 0,01190
+[android/support/v4/widget/NestedScrollView/getPaddingTop(), java/lang/Math/max(int]
+
+prob: 0,01190
+[android/view/View/isFocused(), android/view/FocusFinder/getInstance(), android/support/v4/widget/NestedScrollView/findFocus(), android/view/View/requestFocus(int), android/view/FocusFinder/findNextFocus(android.view.ViewGroup]
+
+prob: 0,01190
+[android/support/v4/widget/NestedScrollView/getHeight(), android/support/v4/widget/NestedScrollView/getPaddingBottom(), android/support/v4/widget/NestedScrollView/requestFocus(), android/support/v4/widget/NestedScrollView/getDescendantFocusability()]
+
+prob: 0,01190
+[java/lang/String/charAt(int), java/lang/String/length(), java/lang/StringBuilder/append(java.lang.Object), java/lang/Character/isDigit(char), java/lang/Double/parseDouble(java.lang.String), java/lang/Character/valueOf(char]
+
+prob: 0,01190
+[android/view/MotionEvent/offsetLocation(float]
+
+prob: 0,01190
+[java/lang/StringBuilder/append(java.lang.String), org/xmlpull/v1/XmlPullParser/setInput(java.io.InputStream]
+
+prob: 0,01190
+[java/lang/StringBuilder/append(java.lang.String), android/view/ViewParent/requestDisallowInterceptTouchEvent(boolean), android/util/Log/e(java.lang.String]
+
+prob: 0,01190
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01190
+[java/lang/StringBuilder/append(int), android/support/v4/widget/NestedScrollView/getScrollX(), android/support/v4/widget/NestedScrollView/getParent(), android/view/MotionEvent/getAction(), android/view/VelocityTracker/addMovement(android.view.MotionEvent)]
+
+prob: 0,01190
+[android/graphics/Rect/setEmpty(), android/view/KeyEvent/isShiftPressed()]
+
+prob: 0,01190
+[android/view/View/getLayoutParams(), android/support/v7/widget/bi/getTop(), android/support/v7/widget/bi/getPaddingTop(), android/support/v7/widget/bi/getPaddingBottom(), android/support/v7/widget/bi/getBottom(), android/view/ViewGroup/getBaseline(), android/support/v7/widget/bi/getChildCount(), java/lang/RuntimeException/RuntimeException(java.lang.String), android/support/v7/widget/bi/getChildAt(int), android/view/View/getBaseline(]
+
+prob: 0,01190
+[java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/append(char), java/lang/Character/charValue(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01190
+[android/widget/PopupWindow/getBackground(), android/util/Log/e(java.lang.String]
+
+prob: 0,01190
+[android/graphics/drawable/Drawable/getPadding(android.graphics.Rect), android/content/res/Resources/getDisplayMetrics(), android/support/v7/widget/bo/setFocusable(boolean)]
+
+prob: 0,01190
+[android/widget/PopupWindow/setTouchInterceptor(android.view.View$OnTouchListener), android/view/View/getWidth(), android/widget/PopupWindow/setHeight(int), android/widget/PopupWindow/isShowing(), android/widget/PopupWindow/setWidth(int), android/widget/PopupWindow/update(android.view.View]
+
+prob: 0,01190
+[android/graphics/drawable/Drawable/setState(int[]), android/graphics/drawable/Drawable/setCallback(android.graphics.drawable.Drawable$Callback), android/support/v4/b/a/r/invalidateSelf(), android/graphics/drawable/Drawable/setBounds(android.graphics.Rect), android/graphics/drawable/Drawable/setVisible(boolean]
+
+prob: 0,01190
+[android/support/v4/f/a/a(int), java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Map/size(), java/util/Iterator/next(), java/util/Set/iterator(), android/support/v4/f/a/put(java.lang.Object]
+
+prob: 0,01190
+[java/util/Iterator/next(), java/util/ArrayList/clear(), java/util/ArrayList/addAll(java.util.Collection), java/util/concurrent/CopyOnWriteArrayList/remove(java.lang.Object), java/util/ArrayList/get(int), java/lang/ref/WeakReference/get(), java/util/concurrent/CopyOnWriteArrayList/iterator(]
+
+prob: 0,01190
+[java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getKey()]
+
+prob: 0,01190
+[java.lang.String]
+
+prob: 0,01190
+[android/text/style/TextAppearanceSpan/TextAppearanceSpan(java.lang.String]
+
+prob: 0,01190
+[android/net/Uri/getPathSegments(), android/content/Context/getPackageManager(), android/text/TextUtils/isEmpty(java.lang.CharSequence), android/content/res/Resources/getIdentifier(java.lang.String]
+
+prob: 0,01190
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), android/view/LayoutInflater/inflate(int]
+
+prob: 0,01190
+[android.content.Context]
+
+prob: 0,01190
+[android/content/ComponentName/flattenToShortString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName]
+
+prob: 0,01190
+[com/Ryan/Calculator/MainActivity/findViewById(int), java/lang/String/charAt(int), java/lang/String/length(), java/lang/String/substring(int]
+
+prob: 0,01190
+[android/view/View/setVisibility(int), android/view/View/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,01190
+[com/Ryan/Calculator/MainActivity/getActionBar(), com/Ryan/Calculator/MainActivity/findViewById(int), java/util/Arrays/asList(java.lang.Object[]), android/widget/EditText/getFilters(]
+
+prob: 0,01190
+[java/util/ArrayList/toArray(java.lang.Object[]), android/app/Activity/onCreate(android.os.Bundle), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), com/Ryan/Calculator/MainActivity/setContentView(int), android/app/ActionBar/hide(), android/widget/EditText/setFilters(android.text.InputFilter[]), android/view/View/setSystemUiVisibility(int), java/util/ArrayList/ArrayList(java.util.Collection)]
+
+prob: 0,01190
+[android/view/FocusFinder/getInstance(), android/support/v4/widget/NestedScrollView/findFocus(), android/view/View/requestFocus(int), android/view/FocusFinder/findNextFocus(android.view.ViewGroup]
+
+prob: 0,01190
+[android/graphics/Canvas/translate(float]
+
+prob: 0,01190
+[android/graphics/drawable/Drawable/getPadding(android.graphics.Rect), android/content/res/Resources/getDisplayMetrics()]
+
+prob: 0,01190
+[java/util/Iterator/hasNext()]
+
+prob: 0,01190
+[java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size()]
+
+prob: 0,01190
+[java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01190
+[java/lang/StringBuilder/toString()]
+

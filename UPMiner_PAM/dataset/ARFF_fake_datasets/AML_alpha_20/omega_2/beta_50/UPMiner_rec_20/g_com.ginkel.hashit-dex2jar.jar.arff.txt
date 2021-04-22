@@ -1,0 +1,10 @@
+android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence,android.graphics.drawable.Drawable)
+android/view/View/findViewById(int)
+android/content/SharedPreferences/getAll()
+org.api.fake
+android/preference/PreferenceCategory/addPreference(android.preference.Preference)
+android/view/Window/getWindowManager(
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod)
+android/widget/EditText/requestFocus()
+com/ginkel/hashit/SettingsActivity/a(android.preference.PreferenceCategory,int,android.preference.Preference$OnPreferenceClickListener,boolean)
+org.rand.api

@@ -1,0 +1,8 @@
+android/widget/RemoteViews/setTextViewText(int,java.lang.CharSequence)
+android/widget/CheckBox/isChecked(
+java/lang/Integer/valueOf(int
+java/lang/StringBuilder/toString(
+android/text/Editable/toString()
+android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int,int)
+weather/widget/graph/WeatherGraphView/setContentView(int)
+java/lang/String/equals(java.lang.Object

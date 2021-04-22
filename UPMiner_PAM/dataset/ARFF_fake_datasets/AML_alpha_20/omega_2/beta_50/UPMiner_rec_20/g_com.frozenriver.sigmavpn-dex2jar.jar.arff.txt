@@ -1,0 +1,9 @@
+android/content/SharedPreferences/getString(java.lang.String,java.lang.String)
+android/content/SharedPreferences/getInt(java.lang.String,int
+java/lang/String/valueOf(int
+android/app/Activity/getPreferences(int)
+org.api.fake
+android/app/ActionBar$Tab/setTabListener(android.app.ActionBar$TabListener)
+android/content/Intent/putExtra(java.lang.String,java.lang.String)
+org.rand.api
+java/util/Random/nextBytes(byte[]

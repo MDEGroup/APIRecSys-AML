@@ -1,0 +1,21 @@
+android.os.Parcel  0,40789
+com.google.android.gms.internal.zzec  0,11842
+com.google.android.gms.internal.zzdy  0,09211
+com/google/android/gms/common/internal/safeparcel/zzb$zza/zzb$zza(java.lang.String  0,09211
+int)  0,06579
+java.lang.String  0,05263
+int  0,02632
+com.google.android.gms.internal.zzjs  0,02632
+android/os/Bundle/readFromParcel(android.os.Parcel), android/os/Parcel/recycle(), android/os/IBinder/transact(int  0,01316
+com.google.android.gms.internal.zzhm  0,01316
+java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(int), java/lang/Class/getClassLoader(), java/util/Map/get(java.lang.Object), android/os/RemoteException/RemoteException(), java/lang/Class/forName(java.lang.String  0,01316
+java/lang/Class/newInstance(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/length()  0,01316
+java/lang/StringBuilder/append(int), com/google/android/gms/common/internal/safeparcel/zzb/zzs(android.os.Parcel  0,01316
+java/lang/Integer/intValue(), android/content/res/Resources/getDisplayMetrics(), java/lang/Class/getMethod(java.lang.String  0,01316
+java/net/HttpURLConnection/disconnect(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(int), java/lang/String/concat(java.lang.String), java/net/HttpURLConnection/getResponseCode(  0,01316
+java/net/URL/openConnection(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/length(), java/net/URL/URL(java.lang.String), java/lang/RuntimeException/getMessage()  0,01316
+java/lang/IndexOutOfBoundsException/getMessage(), java/lang/StringBuilder/append(int)  0,01316
+java/io/IOException/getMessage(), java/lang/String/String(java.lang.String)  0,01316
+com.google.android.gms.dynamic.zzd  0,01316
+java/lang/Class/getFields(), java/util/Map/put(java.lang.Object  0,01316
+java/lang/String/trim(), java/lang/String/length(), java/lang/String/equals(java.lang.Object), java/lang/String/concat(java.lang.String), java/lang/Integer/parseInt(java.lang.String), java/lang/String/matches(java.lang.String), java/lang/String/split(java.lang.String), java/lang/String/valueOf(java.lang.Object), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/String/String(java.lang.String  0,01316

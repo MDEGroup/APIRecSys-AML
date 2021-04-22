@@ -1,0 +1,13 @@
+java/util/ArrayList/iterator()
+android/graphics/Rect/Rect()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/Object/getClass()
+android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName,int)
+java/lang/Class/getMethods()
+java/lang/Exception/printStackTrace()
+java/lang/reflect/Field/get(java.lang.Object)
+java/io/OutputStream/close()
+android/view/accessibility/AccessibilityEvent/obtain(int)
+org.api.fake
+java/lang/Class/getDeclaredField(java.lang.String)

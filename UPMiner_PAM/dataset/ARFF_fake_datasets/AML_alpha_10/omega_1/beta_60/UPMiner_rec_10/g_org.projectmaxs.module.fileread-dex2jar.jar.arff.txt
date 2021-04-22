@@ -1,0 +1,10 @@
+java/io/ByteArrayOutputStream/toByteArray(
+java/util/Map$Entry/getValue(
+java/lang/StringBuilder/toString(
+android/net/Uri/encode(java.lang.String)
+android/os/Parcel/readException(
+android/os/Parcel/writeLong(long)
+org/xmlpull/v1/XmlSerializer/text(java.lang.String)
+android/net/Uri/parse(java.lang.String)
+java/io/InputStream/read(byte[])
+android/database/Cursor/isAfterLast(

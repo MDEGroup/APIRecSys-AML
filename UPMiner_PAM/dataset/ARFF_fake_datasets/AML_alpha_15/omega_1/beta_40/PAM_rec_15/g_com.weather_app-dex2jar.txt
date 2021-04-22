@@ -1,0 +1,91 @@
+org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), org/apache/http/client/methods/HttpPost/setHeader(java.lang.String  0,10000
+int  0,06250
+java.io.FileDescriptor  0,06250
+java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/set(int  0,05000
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder()  0,05000
+android.view.View  0,03750
+java/lang/StringBuilder/append(int)  0,03750
+android/util/Log/v(java.lang.String  0,03750
+java/lang/StringBuilder/append(java.lang.String)  0,03750
+android.app.Notification  0,02500
+java.lang.String  0,02500
+int)  0,02500
+float  0,02500
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String  0,02500
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()  0,02500
+java/sql/Time/getHours()  0,02500
+android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,02500
+java/util/ArrayList/toArray(java.lang.Object[)  0,02500
+android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context)  0,02500
+java/lang/String/valueOf(java.lang.Object)  0,02500
+java/lang/StringBuilder/toString()  0,02500
+java/lang/StringBuilder/StringBuilder()  0,02500
+org/apache/http/util/EntityUtils/toString(org.apache.http.HttpEntity), org/json/JSONObject/JSONObject(java.lang.String), java/lang/String/substring(int  0,01250
+android.view.ViewGroup  0,01250
+android/os/Handler/hasMessages(int), android/content/Intent/getFlags(), android/content/Context/getContentResolver(), android/util/Log/v(java.lang.String  0,01250
+java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String  0,01250
+android/content/Intent/getScheme()  0,01250
+java/util/HashMap/get(java.lang.Object)  0,01250
+com/weather_app/Day_Hour_Display/setContentView(int), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String  0,01250
+com/weather_app/Day_Hour_Display$Load/execute(java.lang.Object[)  0,01250
+com/weather_app/Road_Traffic_Information/setContentView(int), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String  0,01250
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,01250
+android/widget/TextView/setTypeface(android.graphics.Typeface  0,01250
+com/weather_app/Home_City_list/setContentView(int), android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), com/weather_app/Home_City_list/findViewById(int), com/weather_app/Home_City_list$spinner/execute(java.lang.Object[), android/widget/Toast/makeText(android.content.Context  0,01250
+android/widget/Toast/show(), android/app/Activity/onCreate(android.os.Bundle), android/content/SharedPreferences/edit()  0,01250
+android.app.Activity  0,01250
+android/app/Dialog/setContentView(android.view.View), android/app/Dialog/setCancelable(boolean), android/app/Dialog/setOwnerActivity(android.app.Activity), android/support/v4/app/DialogFragment/getView(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(  0,01250
+android/support/v4/app/DialogFragment/getActivity()  0,01250
+android/os/Bundle/getBundle(java.lang.String)  0,01250
+android/app/Dialog/onRestoreInstanceState(android.os.Bundle)  0,01250
+java.lang.StringBuilder)  0,01250
+android/content/Intent/removeExtra(java.lang.String), java/util/ArrayList/isEmpty(), android/content/Intent/getAction(), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String  0,01250
+android/content/Intent/setAction(java.lang.String)  0,01250
+java/lang/Runnable/run(), java/util/ArrayList/get(int), android/os/Handler/removeCallbacks(java.lang.Runnable), android/os/Handler/getLooper(), java/util/ArrayList/clear(  0,01250
+android/os/Looper/myLooper(), java/util/ArrayList/size(), java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,01250
+java.util.ArrayList)  0,01250
+android.support.v4.app.BackStackRecord)  0,01250
+java/io/PrintWriter/PrintWriter(java.io.Writer)  0,01250
+android/content/Intent/Intent(android.content.Context  0,01250
+android/content/SharedPreferences$Editor/commit(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Calendar/getInstance(), java/text/SimpleDateFormat/SimpleDateFormat(java.lang.String), android/content/SharedPreferences$Editor/putString(java.lang.String  0,01250
+android.content.Context  0,01250
+android/graphics/Canvas/translate(float  0,01250
+android/view/MotionEvent/getEdgeFlags(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/view/VelocityTracker/computeCurrentVelocity(int  0,01250
+android/support/v4/view/ViewPager/getScrollX()  0,01250
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/support/v4/view/ViewPager/scrollTo(int  0,01250
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), android/support/v4/app/ListFragment/getView(), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String  0,01250
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(  0,01250
+android/os/SystemClock/uptimeMillis()  0,01250
+android/widget/TabHost/newTabSpec(java.lang.String), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String  0,01250
+android.view.View)  0,01250
+android/widget/Scroller/computeScrollOffset(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/widget/Scroller/abortAnimation(), java/lang/Math/abs(int), android/view/VelocityTracker/obtain(), android/widget/Scroller/getFinalX(), android/view/MotionEvent/getAction(), java/lang/Math/abs(float), android/widget/Scroller/getCurrX(), android/view/MotionEvent/getY(  0,01250
+android/view/VelocityTracker/recycle()  0,01250
+java/lang/StringBuilder/append(java.lang.String), com/weather_app/Home_City_list/getString(int), android/content/SharedPreferences$Editor/commit(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/content/SharedPreferences$Editor/putString(java.lang.String  0,01250
+java/lang/StringBuilder/append(java.lang.String), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), java/lang/StringBuilder/toString(), android/content/SharedPreferences/getString(java.lang.String  0,01250
+java/lang/String/valueOf(java.lang.Object), java/sql/Time/Time(long), java/lang/StringBuilder/append(java.lang.String), android/widget/LinearLayout/getLayoutParams(), java/lang/String/substring(int  0,01250
+java/io/OutputStream/close(), java/net/URL/openConnection(), java/net/HttpURLConnection/setReadTimeout(int), java/net/HttpURLConnection/setInstanceFollowRedirects(boolean), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setConnectTimeout(int), java/lang/Exception/printStackTrace(), java/io/FileOutputStream/FileOutputStream(java.io.File), java/net/HttpURLConnection/getInputStream(  0,01250
+org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), org/apache/http/util/EntityUtils/toString(org.apache.http.HttpEntity), org/apache/http/HttpResponse/getEntity(), java/lang/StringBuilder/toString(), org/apache/http/client/methods/HttpPost/setHeader(java.lang.String  0,01250
+org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String  0,01250
+java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int  0,01250
+android.support.v4.view.PagerAdapter)  0,01250
+com/weather_app/Day_tab$weather/execute(java.lang.Object[), java/lang/String/length(), android/widget/LinearLayout/setVisibility(int), com/weather_app/Day_tab/findViewById(int), android/content/SharedPreferences/getString(java.lang.String  0,01250
+android/app/ListActivity/onCreate(android.os.Bundle)  0,01250
+com/weather_app/Day_tab/setContentView(int)  0,01250
+org/json/JSONObject/getString(java.lang.String), org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient(), org/json/JSONArray/getJSONObject(int), org/apache/http/client/methods/HttpPost/HttpPost(java.lang.String)  0,01250
+com/weather_app/Hour_Display/findViewById(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/SharedPreferences/edit(), com/weather_app/Hour_Display/setContentView(int)  0,01250
+android/widget/TextView/setText(java.lang.CharSequence), android/app/Activity/onCreate(android.os.Bundle)  0,01250
+java.lang.ClassLoader)  0,01250
+android/os/Bundle/Bundle(), android/os/Bundle/putParcelableArray(java.lang.String  0,01250
+java/util/LinkedHashMap/entrySet(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/LinkedHashMap/remove(java.lang.Object), java/lang/StringBuilder/append(java.lang.String)  0,01250
+java/util/Iterator/next()  0,01250
+android/view/ViewConfiguration/get(android.content.Context), android/support/v4/view/ViewPager/setFocusable(boolean), android/view/ViewConfiguration/getScaledMinimumFlingVelocity(), android/support/v4/view/ViewPager/setDescendantFocusability(int), android/support/v4/view/ViewPager/setWillNotDraw(boolean), android/support/v4/view/ViewPager/getContext(), android/content/Context/getResources(), android/content/res/Resources/getDisplayMetrics(), android/widget/Scroller/Scroller(android.content.Context  0,01250
+java/lang/Class/getName()  0,01250
+java/util/Set/iterator()  0,01250
+java/util/LinkedHashMap/isEmpty()  0,01250
+android/widget/ListView/setEmptyView(android.view.View), android/os/Handler/post(java.lang.Runnable)  0,01250
+android/view/View/findViewById(int), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)  0,01250
+android/os/Bundle/Bundle()  0,01250
+java/lang/Math/max(int  0,01250
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01250
+java/util/ArrayList/add(java.lang.Object)  0,01250
+android/content/SharedPreferences/getString(java.lang.String  0,01250

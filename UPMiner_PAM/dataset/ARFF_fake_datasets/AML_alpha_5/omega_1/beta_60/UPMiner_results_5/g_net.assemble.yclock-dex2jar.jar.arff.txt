@@ -1,0 +1,6 @@
+android/content/SharedPreferences/getInt(java.lang.String,int
+android/app/Notification$Builder/setWhen(long
+android/content/SharedPreferences/contains(java.lang.String)
+android/util/Log/d(java.lang.String,java.lang.String
+android/app/Notification$Builder/setProgress(int,int,boolean)
+android/app/AlarmManager/set(int,long,android.app.PendingIntent)

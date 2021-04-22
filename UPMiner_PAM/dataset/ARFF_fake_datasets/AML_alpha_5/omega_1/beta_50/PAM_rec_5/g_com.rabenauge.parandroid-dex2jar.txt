@@ -1,0 +1,3 @@
+long  0,77778
+com/rabenauge/parandroid/h/a(), com/rabenauge/parandroid/e/a(long), com/rabenauge/parandroid/f/a(long), com/rabenauge/parandroid/h/a(long), com/rabenauge/parandroid/j/a(long), com/rabenauge/parandroid/Launcher/finish(), java/lang/Long/longValue(), android/media/MediaPlayer/setVolume(float  0,11111
+javax.microedition.khronos.egl.EGLConfig)  0,11111

@@ -1,0 +1,117 @@
+org.api.fake  0,18667
+int  0,09333
+int)  0,08667
+android.view.View  0,03333
+java.io.FileDescriptor  0,03333
+float  0,02667
+android.view.ViewGroup  0,02000
+com.agapep.audiobible.model.BibleAudioReference)  0,02000
+android/util/Log/v(java.lang.String  0,02000
+android/content/Intent/Intent(android.content.Context  0,01333
+android.util.AttributeSet)  0,01333
+java/lang/Class/getName(), java/lang/Object/getClass()  0,01333
+android.app.Notification  0,01333
+java.lang.String  0,01333
+android/support/v4/widget/DrawerLayout/getWidth(), android/view/View/getWidth(), android/view/View/getLayoutParams(), android/view/View/getTop(  0,01333
+android/support/v4/widget/DrawerLayout/invalidate()  0,01333
+android/content/Intent/putExtra(java.lang.String  0,01333
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,01333
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,01333
+android/util/Log/w(java.lang.String  0,01333
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/size(), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String  0,01333
+android.view.View)  0,01333
+android.support.v4.view.PagerAdapter)  0,01333
+java.lang.ClassLoader)  0,01333
+java/util/ArrayList/get(int)  0,01333
+java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()  0,01333
+java/lang/StringBuilder/StringBuilder()  0,01333
+java/lang/StringBuilder/append(java.lang.String)  0,01333
+com/agapep/audiobible/ui/activities/BibleListActivity/requestWindowFeature(int), android/view/View/findViewById(int), android/content/Intent/getStringExtra(java.lang.String), com/agapep/audiobible/ui/activities/BibleListActivity/getIntent(), android/view/View/setOnClickListener(android.view.View$OnClickListener), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String  0,00667
+android/view/View/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/os/Handler/post(java.lang.Runnable), android/support/v4/app/ListFragment/getView()  0,00667
+com/agapep/audiobible/ui/fragments/PlayerFragment/getView()  0,00667
+com/agapep/audiobible/ui/activities/BibleListActivity/getSupportFragmentManager()  0,00667
+android/os/Bundle/Bundle(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder()  0,00667
+android/os/Bundle/Bundle(), java/lang/StringBuilder/toString()  0,00667
+java/util/ArrayList/toArray(java.lang.Object[), android/os/Bundle/putParcelableArray(java.lang.String  0,00667
+java/util/ArrayList/toArray(java.lang.Object[), java/util/ArrayList/size(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/Handler/removeCallbacks(java.lang.Runnable)  0,00667
+java/util/LinkedHashMap/entrySet(), java/util/Iterator/next(), java/util/Map$Entry/getKey(), java/util/Map$Entry/getValue(  0,00667
+java/util/Set/iterator(), java/util/LinkedHashMap/remove(java.lang.Object)  0,00667
+java/util/LinkedHashMap/isEmpty()  0,00667
+java/lang/StringBuilder/StringBuilder(), android/content/SharedPreferences/getBoolean(java.lang.String  0,00667
+android/graphics/Paint/setColor(int), android/widget/TextView/getLeft(), android/support/v4/view/PagerTitleStrip/onDraw(android.graphics.Canvas), android/support/v4/view/PagerTabStrip/getWidth(), android/widget/TextView/getRight(), android/support/v4/view/PagerTabStrip/getHeight(), android/support/v4/view/PagerTabStrip/getPaddingLeft(), android/graphics/Canvas/drawRect(float  0,00667
+android/os/Handler/hasMessages(int), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), android/util/Log/v(java.lang.String  0,00667
+android/content/Intent/getFlags(), android/content/Context/getContentResolver(), java/util/HashMap/get(java.lang.Object), java/lang/StringBuilder/toString()  0,00667
+com/agapep/audiobible/services/AudioService/getApplicationContext(), com/agapep/audiobible/services/AudioService/getBaseContext(), android/util/Log/d(java.lang.String  0,00667
+android/content/Intent/getScheme()  0,00667
+java/io/OutputStream/close(), java/lang/NullPointerException/printStackTrace(), java/lang/StringBuilder/append(java.lang.String), com/agapep/audiobible/services/DownloadAudioTask/cancel(boolean), java/io/File/getAbsolutePath(), java/io/OutputStream/write(byte[  0,00667
+java/io/InputStream/read(byte[)  0,00667
+java/lang/Long/valueOf(long), android/util/Log/d(java.lang.String  0,00667
+android/content/SharedPreferences$Editor/commit()  0,00667
+java.io.PrintWriter  0,00667
+java.lang.String)  0,00667
+java.lang.Object)  0,00667
+android/view/VelocityTracker/clear(), android/view/MotionEvent/getDownTime(), android/view/VelocityTracker/computeCurrentVelocity(int  0,00667
+android.app.Activity  0,00667
+android/app/Dialog/setContentView(android.view.View), android/support/v4/app/DialogFragment/getActivity(), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/support/v4/app/DialogFragment/getView(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(  0,00667
+android/app/Dialog/setCancelable(boolean)  0,00667
+android/media/MediaPlayer/MediaPlayer()  0,00667
+android/app/Dialog/setOwnerActivity(android.app.Activity)  0,00667
+android/net/Uri/encode(java.lang.String), java/util/Iterator/next(), java/util/Map$Entry/getKey(), android/net/Uri$Builder/encodedPath(java.lang.String), java/lang/String/length(), android/net/Uri$Builder/build(), android/net/Uri/encode(java.lang.String  0,00667
+java/util/Iterator/hasNext(), java/util/HashMap/entrySet(), java/lang/StringBuilder/append(char), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), android/net/Uri$Builder/authority(java.lang.String), java/lang/StringBuilder/append(java.lang.String)  0,00667
+java/io/File/getPath()  0,00667
+android/net/Uri$Builder/Uri$Builder()  0,00667
+java.io.File)  0,00667
+java.lang.StringBuilder)  0,00667
+android/content/Intent/removeExtra(java.lang.String), java/util/ArrayList/isEmpty(), android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String  0,00667
+java/io/IOException/printStackTrace(), java/lang/IllegalArgumentException/printStackTrace(), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,00667
+boolean)  0,00667
+java.util.ArrayList)  0,00667
+android.support.v4.app.BackStackRecord)  0,00667
+java.io.BufferedReader)  0,00667
+android.content.Intent)  0,00667
+android.content.Context  0,00667
+android/view/View/isHorizontalScrollBarEnabled(), java/lang/System/identityHashCode(java.lang.Object), java/lang/StringBuilder/append(char), android/view/View/isLongClickable(), android/content/res/Resources/getResourcePackageName(int), android/view/View/willNotDraw(), android/content/res/Resources/getResourceTypeName(int), android/view/View/getVisibility(), android/view/View/isFocusable(), android/view/View/isFocused(), android/view/View/getResources(), android/view/View/isClickable(), android/view/View/isPressed(), android/content/res/Resources/getResourceEntryName(int), android/view/View/isVerticalScrollBarEnabled(), android/view/View/getTop(), android/view/View/getLeft(), android/view/View/isSelected(  0,00667
+android/view/View/getId(), java/lang/StringBuilder/StringBuilder(int), android/view/View/isEnabled()  0,00667
+android/media/MediaPlayer/setOnErrorListener(android.media.MediaPlayer$OnErrorListener)  0,00667
+java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences$Editor/remove(java.lang.String), java/util/List/size(), java/lang/StringBuilder/StringBuilder()  0,00667
+java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/toHexString(int), java/lang/StringBuilder/toString()  0,00667
+java/lang/StringBuilder/append(java.lang.String), java/io/File/File(java.io.File  0,00667
+android/view/ViewConfiguration/get(android.content.Context), android/support/v4/view/ViewPager/setFocusable(boolean), android/support/v4/view/ViewPager/setDescendantFocusability(int), android/support/v4/view/ViewPager/setWillNotDraw(boolean), android/support/v4/view/ViewPager/getContext(), android/content/Context/getResources(), android/content/res/Resources/getDisplayMetrics(), android/widget/Scroller/Scroller(android.content.Context  0,00667
+android/graphics/Canvas/translate(float  0,00667
+android/view/MotionEvent/getEdgeFlags(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), android/support/v4/view/ViewPager/getScrollX(), android/view/VelocityTracker/computeCurrentVelocity(int  0,00667
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,00667
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/widget/ListView/setEmptyView(android.view.View), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String  0,00667
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/SystemClock/uptimeMillis(), android/support/v4/view/ViewPager/scrollTo(int  0,00667
+android/support/v4/view/ViewPager/getPaddingLeft(), java/lang/StringBuilder/append(java.lang.String), android/support/v4/view/ViewPager/hasFocus(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Math/max(int  0,00667
+java/lang/StringBuilder/append(int), android/support/v4/view/ViewPager/getWindowToken(), android/view/View/getLayoutParams(), android/support/v4/view/ViewPager/getId()  0,00667
+android/view/SoundEffectConstants/getContantForFocusDirection(int), android/view/ViewParent/getParent(), android/view/FocusFinder/getInstance(), android/support/v4/view/ViewPager/findFocus(), android/util/Log/e(java.lang.String  0,00667
+android/view/View/requestFocus()  0,00667
+java/lang/Class/getSimpleName()  0,00667
+java/lang/Runnable/run(), android/os/Looper/myLooper(), android/os/Handler/getLooper(), java/util/ArrayList/clear(  0,00667
+java/lang/Runnable/run(), android/support/v4/view/ViewPager/scrollTo(int  0,00667
+java/util/ArrayList/size(), android/widget/Scroller/getCurrX(), android/widget/Scroller/getCurrY(), android/support/v4/view/ViewPager/getScrollX(), android/support/v4/view/ViewPager/getScrollY(), java/util/ArrayList/get(int)  0,00667
+android/widget/Scroller/computeScrollOffset(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), java/lang/Math/abs(int), android/widget/Scroller/getCurrX(), android/view/MotionEvent/getY(  0,00667
+android/widget/Scroller/getFinalX(), android/view/VelocityTracker/recycle(), android/view/MotionEvent/getX(), android/widget/Scroller/abortAnimation(), android/view/VelocityTracker/obtain(), android/view/MotionEvent/getAction(), java/lang/Math/abs(float)  0,00667
+com/agapep/audiobible/ui/activities/AboutActivity/findViewById(int), android/content/pm/PackageManager$NameNotFoundException/printStackTrace(), android/text/Html/fromHtml(java.lang.String), java/lang/String/format(java.lang.String  0,00667
+android/graphics/drawable/Drawable/setBounds(int  0,00667
+android/view/View/getRight(), android/view/View/getBottom(), java/lang/Math/max(int  0,00667
+android/support/v4/widget/SlidingPaneLayout/getPaddingLeft(), android/view/View/setVisibility(int), android/support/v4/widget/SlidingPaneLayout/getPaddingTop(), android/support/v4/widget/SlidingPaneLayout/getHeight(), android/support/v4/widget/SlidingPaneLayout/getWidth(), android/support/v4/widget/SlidingPaneLayout/getPaddingRight(), android/support/v4/widget/SlidingPaneLayout/getChildCount()  0,00667
+java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), android/graphics/Rect/Rect(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/StringBuilder(  0,00667
+java/lang/Integer/intValue(), android/widget/ImageView/clearAnimation()  0,00667
+android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/toString(), android/widget/ImageView/startAnimation(android.view.animation.Animation), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String  0,00667
+android/support/v4/app/FragmentActivity/getBaseContext()  0,00667
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), android/util/Log/v(java.lang.String  0,00667
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,00667
+java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int  0,00667
+java/util/ArrayList/remove(int)  0,00667
+java/lang/Integer/toHexString(int)  0,00667
+android/support/v4/view/ViewPager/findFocus()  0,00667
+android/widget/Scroller/abortAnimation()  0,00667
+android/view/View/getRight(), android/view/View/getBottom()  0,00667
+java/io/File/File(java.io.File  0,00667
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,00667
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,00667
+java/util/ArrayList/add(java.lang.Object)  0,00667
+java/lang/StringBuilder/append(int)  0,00667
+java/util/ArrayList/size()  0,00667
+java/lang/StringBuilder/toString()  0,00667

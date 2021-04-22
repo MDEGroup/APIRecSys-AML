@@ -1,0 +1,5 @@
+com/badlogic/gdx/scenes/scene2d/ui/SelectBox/validate()
+java/lang/StringBuilder/append(java.lang.String)
+org.api.fake
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/substring(int)

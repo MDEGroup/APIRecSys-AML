@@ -1,0 +1,10 @@
+android/graphics/Canvas/rotate(float,float,float
+java/lang/Boolean/booleanValue(
+java/lang/StringBuilder/toString(
+java/lang/Float/valueOf(float)
+java/lang/Math/sqrt(double
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Math/toDegrees(double)
+java/util/Stack/pop()
+android/graphics/Picture/getWidth()
+java/lang/String/trim(

@@ -1,0 +1,12 @@
+java/lang/StringBuilder/append(int
+org.api.fake
+org/json/JSONObject/JSONObject(
+java/lang/Class/newInstance()
+java/util/Hashtable/Hashtable(
+javax/net/ssl/HttpsURLConnection/getHeaderFields(
+android/content/Context/getPackageManager()
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/get(int
+javax/xml/parsers/DocumentBuilderFactory/newInstance(
+java/io/IOException/IOException(java.lang.String)

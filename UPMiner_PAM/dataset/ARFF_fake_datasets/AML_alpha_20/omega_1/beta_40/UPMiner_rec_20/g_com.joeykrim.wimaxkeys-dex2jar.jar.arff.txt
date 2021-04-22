@@ -1,0 +1,10 @@
+android/database/Cursor/getLong(int
+java/lang/String/valueOf(int
+java/io/BufferedReader/readLine(
+android/content/ContentValues/put(java.lang.String,java.lang.Integer
+android/database/sqlite/SQLiteDatabase/query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+android/view/Display/getHeight()
+com/joeykrim/wimaxkeys/WimaxKeys/getSharedPreferences(java.lang.String,int)
+java/lang/Long/valueOf(long)
+android/content/Context/getPackageManager(
+java/util/ArrayList/ArrayList()

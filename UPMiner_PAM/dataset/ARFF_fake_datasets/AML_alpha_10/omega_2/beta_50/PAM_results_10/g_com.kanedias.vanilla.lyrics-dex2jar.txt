@@ -1,0 +1,162 @@
+prob: 0,07692
+[java.lang.String)]
+
+prob: 0,05128
+[java.lang.String]
+
+prob: 0,05128
+[android.net.Uri]
+
+prob: 0,05128
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,05128
+[java/util/Iterator/next()]
+
+prob: 0,02564
+[org/jsoup/nodes/Element/hasAttr(java.lang.String), java/util/ArrayList/add(java.lang.Object]
+
+prob: 0,02564
+[android/provider/DocumentsContract/getDocumentId(android.net.Uri), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/toArray(java.lang.Object[]), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,02564
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/insert(int]
+
+prob: 0,02564
+[java/lang/StringBuilder/append(java.lang.String), android/content/ContentResolver/takePersistableUriPermission(android.net.Uri]
+
+prob: 0,02564
+[java/util/Map$Entry/getKey(), java/util/Map/get(java.lang.Object), org/jsoup/safety/Whitelist$AttributeKey/toString(), java/util/Set/iterator(), java/util/Map/containsKey(java.lang.Object), org/jsoup/safety/Whitelist$AttributeValue/toString(]
+
+prob: 0,02564
+[java/util/Set/iterator(), java/util/Map$Entry/getKey(]
+
+prob: 0,02564
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/util/ArrayList/ArrayList(), java/lang/String/length(), org/jsoup/nodes/Element/attr(java.lang.String), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,02564
+[java.lang.String[])]
+
+prob: 0,02564
+[org.jsoup.nodes.Attribute]
+
+prob: 0,02564
+[java/util/ArrayList/ArrayList(), java/util/LinkedHashMap/get(java.lang.Object), java/util/LinkedHashMap/put(java.lang.Object]
+
+prob: 0,02564
+[java.io.File]
+
+prob: 0,02564
+[android/net/Uri/getPath(), java/io/File/getParent(), java/io/File/getName(), android/content/SharedPreferences/contains(java.lang.String), com/kanedias/vanilla/lyrics/LyricsShowActivity/getIntent(), android/content/Intent/getParcelableExtra(java.lang.String), java/lang/CharSequence/toString(), android/widget/TextView/getText(), java/io/File/exists(), java/io/File/File(java.lang.String), java/io/File/File(java.lang.String]
+
+prob: 0,02564
+[android/net/Uri/getPath(), java/io/File/File(java.io.File]
+
+prob: 0,02564
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/net/URL/URL(java.lang.String), java/util/Iterator/next(), org/jsoup/nodes/Document/select(java.lang.String), java/util/List/iterator(]
+
+prob: 0,02564
+[java/util/Iterator/hasNext(), java/util/LinkedHashMap/LinkedHashMap(int), java/util/Map$Entry/getKey(), java/util/LinkedHashMap/put(java.lang.Object]
+
+prob: 0,02564
+[java/util/Iterator/hasNext(), java/lang/String/substring(int]
+
+prob: 0,02564
+[java/util/Iterator/hasNext(), org/jsoup/helper/HttpConnection$Response/addHeader(java.lang.String]
+
+prob: 0,02564
+[java/util/Iterator/hasNext(), java/net/URLEncoder/encode(java.lang.String]
+
+prob: 0,02564
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02564
+[java.io.File)]
+
+prob: 0,02564
+[org/jsoup/select/CombiningEvaluator$Or/rightMostEvaluator(), java/lang/StringBuilder/append(java.lang.String), java/util/List/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), org/jsoup/select/CombiningEvaluator$Or/replaceRightMostEvaluator(org.jsoup.select.Evaluator), java/util/List/clear(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(char), java/util/List/get(int]
+
+prob: 0,02564
+[org/jsoup/nodes/Element/childNodes()]
+
+prob: 0,02564
+[android/util/Log/w(java.lang.String]
+
+prob: 0,02564
+[org.jsoup.nodes.Element)]
+
+prob: 0,02564
+[org/jsoup/select/Elements/iterator()]
+
+prob: 0,02564
+[int)]
+
+prob: 0,02564
+[org/jsoup/Connection$Request/cookies()]
+
+prob: 0,02564
+[org.jsoup.helper.HttpConnection$Response)]
+
+prob: 0,02564
+[java/net/URL/openConnection(), java/util/Map$Entry/getKey(), java/util/Set/iterator(), org/jsoup/Connection$Method/hasBody(), java/net/HttpURLConnection/setDoOutput(boolean), java/util/Iterator/hasNext(), org/jsoup/Connection$Method/name(), java/net/HttpURLConnection/setInstanceFollowRedirects(boolean), org/jsoup/Connection$Request/method(), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/util/Map/size(), javax/net/ssl/HttpsURLConnection/setHostnameVerifier(javax.net.ssl.HostnameVerifier), javax/net/ssl/HttpsURLConnection/setSSLSocketFactory(javax.net.ssl.SSLSocketFactory), java/net/HttpURLConnection/addRequestProperty(java.lang.String]
+
+prob: 0,02564
+[java/net/HttpURLConnection/setReadTimeout(int)]
+
+prob: 0,02564
+[java/net/HttpURLConnection/setConnectTimeout(int)]
+
+prob: 0,02564
+[org/jsoup/Connection$Request/multiHeaders()]
+
+prob: 0,02564
+[java.io.OutputStream]
+
+prob: 0,02564
+[org.jsoup.Connection$Response)]
+
+prob: 0,02564
+[android/view/Window/setFlags(int]
+
+prob: 0,02564
+[org.jsoup.nodes.Element]
+
+prob: 0,02564
+[java.lang.Iterable)]
+
+prob: 0,02564
+[android/app/Activity/getString(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02564
+[android/content/SharedPreferences$Editor/apply(), java/lang/StringBuilder/StringBuilder(), android/app/Activity/getContentResolver(), android/content/Intent/getData(), java/lang/StringBuilder/toString()]
+
+prob: 0,02564
+[android/content/SharedPreferences/edit()]
+
+prob: 0,02564
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,02564
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Map$Entry/getValue(), java/util/Map/entrySet()]
+
+prob: 0,02564
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,02564
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,02564
+[java/util/Map$Entry/getValue()]
+
+prob: 0,02564
+[java/util/Map/entrySet()]
+
+prob: 0,02564
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,02564
+[java/lang/StringBuilder/toString()]
+
+prob: 0,02564
+[java/util/Iterator/hasNext()]
+

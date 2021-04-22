@@ -1,0 +1,4 @@
+java/lang/StringBuilder/toString()
+java/lang/String/lastIndexOf(int
+java/lang/StringBuilder/append(java.lang.String)
+com/badlogic/gdx/utils/GdxRuntimeException/getMessage()

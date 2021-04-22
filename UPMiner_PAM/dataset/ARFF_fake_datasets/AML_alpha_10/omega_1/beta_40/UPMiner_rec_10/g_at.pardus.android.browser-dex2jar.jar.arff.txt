@@ -1,0 +1,7 @@
+java/text/SimpleDateFormat/SimpleDateFormat(java.lang.String,java.util.Locale
+java/io/ByteArrayOutputStream/toByteArray(
+java/net/URL/openStream()
+org.api.fake
+android/app/ProgressDialog/setCancelable(boolean
+java/util/Map/get(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

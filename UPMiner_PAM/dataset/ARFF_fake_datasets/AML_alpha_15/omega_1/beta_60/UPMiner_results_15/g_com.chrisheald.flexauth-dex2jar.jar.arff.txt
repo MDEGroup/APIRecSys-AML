@@ -1,0 +1,5 @@
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/net/HttpURLConnection/disconnect()
+com/chrisheald/flexauth/FlexAuth/getSharedPreferences(java.lang.String,int)
+org.api.fake
+java/security/InvalidKeyException/InvalidKeyException()

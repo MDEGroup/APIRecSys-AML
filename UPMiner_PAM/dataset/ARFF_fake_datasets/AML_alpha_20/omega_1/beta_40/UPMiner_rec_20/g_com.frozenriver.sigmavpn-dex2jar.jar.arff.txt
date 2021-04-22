@@ -1,0 +1,2 @@
+org.api.fake
+android/app/Dialog/findViewById(int)

@@ -1,0 +1,18 @@
+android.view.View  0,13333
+android/app/AlertDialog$Builder/setPositiveButton(int  0,06667
+java.lang.Throwable)  0,06667
+java/lang/Integer/intValue(), java/io/File/getPath(), java/lang/StringBuilder/append(long), java/io/File/File(java.lang.String), java/io/File/getAbsolutePath(), java/lang/Integer/valueOf(java.lang.String), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,06667
+java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,06667
+android/content/Context/getPackageManager(), java/io/File/getName(), android/content/Context/getCacheDir(), java/lang/StringBuilder/append(int), android/content/Context/getPackageName(), android/os/Process/myPid(), java/io/File/exists(), android/content/Context/getFilesDir(), java/lang/StringBuilder/StringBuilder(), java/io/File/getFreeSpace()  0,06667
+int  0,06667
+java.io.File  0,06667
+java/lang/NoSuchMethodException/toString(), java/lang/IllegalArgumentException/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,06667
+java/util/ArrayList/ArrayList(int), java/util/Arrays/equals(byte[  0,06667
+org/apache/http/HttpResponse/getStatusLine(), org/apache/http/params/HttpParams/setParameter(java.lang.String  0,06667
+android/net/Uri$Builder/Uri$Builder(), java/lang/String/format(java.lang.String  0,06667
+java.lang.String)  0,06667
+jp.ne.sakura.kkkon.android.exceptionhandler.ZipEntryFilter)  0,06667
+android/content/pm/PackageManager$NameNotFoundException/toString(), java/lang/StringBuilder/append(long), android/util/Log/e(java.lang.String  0,06667
+java/util/Iterator/hasNext(), android/content/pm/ApplicationInfo/loadLabel(android.content.pm.PackageManager)  0,06667
+java/util/Iterator/hasNext()  0,06667
+java/lang/StringBuilder/append(java.lang.String)  0,06667

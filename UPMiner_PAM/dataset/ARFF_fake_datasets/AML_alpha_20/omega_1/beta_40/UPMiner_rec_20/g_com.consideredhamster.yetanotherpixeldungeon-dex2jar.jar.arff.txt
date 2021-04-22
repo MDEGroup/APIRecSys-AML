@@ -1,0 +1,15 @@
+java/lang/StringBuilder/toString()
+java/lang/Integer/valueOf(int)
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/Archs/setSize(float,float
+java/lang/StringBuilder/append(java.lang.String)
+java/util/HashMap/get(java.lang.Object)
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/HealthBar/setRect(float,float,float,float)
+java/util/Iterator/next()
+java/util/Iterator/hasNext()
+org.api.fake
+java/util/HashSet/add(java.lang.Object)
+android/os/Handler/hasMessages(int)
+android/text/TextUtils/isEmpty(java.lang.CharSequence)
+java/util/ArrayList/ArrayList()
+com/watabou/noosa/Image/height()
+java/util/HashSet/iterator()

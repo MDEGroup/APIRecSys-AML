@@ -1,0 +1,47 @@
+android/content/Intent/Intent(android.content.Context  0,06522
+android.view.View  0,06522
+int)  0,06522
+int  0,06522
+android/database/Cursor/getColumnIndex(java.lang.String), java/lang/Long/toString(long), android/database/Cursor/getLong(int), android/util/Log/e(java.lang.String  0,06522
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,06522
+android/content/Intent/putExtra(java.lang.String  0,04348
+long)  0,04348
+android/database/Cursor/getColumnIndex(java.lang.String), java/util/ArrayList/ArrayList(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,04348
+android/view/LayoutInflater/inflate(int  0,04348
+java/lang/StringBuilder/append(java.lang.String)  0,04348
+java/lang/StringBuilder/append(java.lang.String), java/util/Date/toString(), java/util/Iterator/next(), java/util/List/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(long  0,02174
+java/lang/String/equals(java.lang.Object)  0,02174
+java/lang/String/valueOf(java.lang.Object), android/widget/ListView/setAdapter(android.widget.ListAdapter), java/lang/StringBuilder/append(java.lang.String), com/mfavez/android/feedgoal/FeedChannelsActivity/getString(int  0,02174
+java/lang/String/valueOf(java.lang.Object), android/view/LayoutInflater/inflate(int  0,02174
+java/lang/String/valueOf(java.lang.Object), java/net/URL/toString(), java/util/Iterator/next(), java/util/List/iterator(), java/lang/StringBuilder/toString(), java/util/Date/toString(), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(long  0,02174
+java/lang/String/valueOf(java.lang.Object), android/content/res/Resources/getText(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/text/format/DateFormat/format(java.lang.CharSequence  0,02174
+com/mfavez/android/feedgoal/FeedChannelsActivity/getWindow()  0,02174
+android/widget/ListView/setSelection(int)  0,02174
+android/view/Window/setTitle(java.lang.CharSequence)  0,02174
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(int  0,02174
+android/os/Handler/postDelayed(java.lang.Runnable  0,02174
+com/mfavez/android/feedgoal/FeedWebActivity/findViewById(int), java/net/URL/toString(), android/webkit/WebView/setWebViewClient(android.webkit.WebViewClient), android/webkit/WebSettings/setJavaScriptEnabled(boolean), com/mfavez/android/feedgoal/FeedWebActivity/showDialog(int), android/webkit/WebView/getSettings(), android/webkit/WebSettings/setBuiltInZoomControls(boolean), android/webkit/WebView/loadUrl(java.lang.String), android/content/ContentValues/put(java.lang.String  0,02174
+com/mfavez/android/feedgoal/FeedTabActivity/getIntent(), com/mfavez/android/feedgoal/FeedTabActivity/getTabHost(), android/app/TabActivity/onCreate(android.os.Bundle), com/mfavez/android/feedgoal/FeedTabActivity/registerForContextMenu(android.view.View), android/content/Intent/getExtras(), com/mfavez/android/feedgoal/FeedTabActivity/findViewById(int), android/os/Bundle/getLong(java.lang.String), android/widget/TabHost/setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), com/mfavez/android/feedgoal/FeedTabActivity/setContentView(int  0,02174
+java.lang.String)  0,02174
+android/widget/TabHost/getCurrentTabTag(), com/mfavez/android/feedgoal/FeedTabActivity/startActivityForResult(android.content.Intent  0,02174
+java.lang.String  0,02174
+com/mfavez/android/feedgoal/FeedPrefActivity/findPreference(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), java/lang/Long/toString(long), java/util/Iterator/next(), java/util/List/iterator(), java/lang/StringBuilder/toString(), android/preference/ListPreference/setEntryValues(java.lang.CharSequence[), android/preference/Preference/setEnabled(boolean), java/util/Iterator/hasNext(), android/preference/Preference/setOnPreferenceChangeListener(android.preference.Preference$OnPreferenceChangeListener), android/preference/PreferenceActivity/onCreate(android.os.Bundle  0,02174
+android/preference/PreferenceScreen/removePreference(android.preference.Preference), java/lang/String/valueOf(java.lang.Object), com/mfavez/android/feedgoal/FeedPrefActivity/setTitle(java.lang.CharSequence)  0,02174
+com/mfavez/android/feedgoal/FeedPrefActivity/addPreferencesFromResource(int), java/util/List/size(), java/lang/StringBuilder/StringBuilder(java.lang.String), com/mfavez/android/feedgoal/FeedPrefActivity/getString(int), com/mfavez/android/feedgoal/FeedPrefActivity/getPreferenceScreen(), android/preference/ListPreference/setEntries(java.lang.CharSequence[)  0,02174
+android/content/res/XmlResourceParser/getAttributeValue(java.lang.String  0,02174
+android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,02174
+com/mfavez/android/feedgoal/FeedItemActivity/registerForContextMenu(android.view.View), android/os/Bundle/getLong(java.lang.String), android/content/Intent/getExtras(), com/mfavez/android/feedgoal/FeedItemActivity/getIntent(), com/mfavez/android/feedgoal/FeedItemActivity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), android/widget/TextView/setOnClickListener(android.view.View$OnClickListener), android/widget/Button/setOnClickListener(android.view.View$OnClickListener  0,02174
+com/mfavez/android/feedgoal/FeedItemActivity/findViewById(int)  0,02174
+com/mfavez/android/feedgoal/FeedChannelsActivity/registerForContextMenu(android.view.View), android/content/Intent/getAction(), com/mfavez/android/feedgoal/FeedChannelsActivity/getIntent(), android/content/Intent/getData(), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener  0,02174
+java.util.List)  0,02174
+android/content/ContentValues/putNull(java.lang.String), android/content/ContentValues/put(java.lang.String  0,02174
+android.content.ContentValues)  0,02174
+com/mfavez/android/feedgoal/FeedChannelsActivity/showDialog(int), com/mfavez/android/feedgoal/FeedChannelsActivity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), com/mfavez/android/feedgoal/FeedChannelsActivity/findViewById(int)  0,02174
+com.mfavez.android.feedgoal.common.Item)  0,02174
+java/net/URL/URL(java.lang.String)  0,02174
+android.content.ContentValues  0,02174
+com/mfavez/android/feedgoal/FeedChannelsActivity/findViewById(int)  0,02174
+java/util/Iterator/hasNext()  0,02174
+java/lang/StringBuilder/toString()  0,02174
+android/database/Cursor/getColumnIndex(java.lang.String), android/util/Log/e(java.lang.String  0,02174
+java/lang/Long/toString(long)  0,02174

@@ -1,0 +1,4 @@
+android/content/Context/getPackageName()
+java/lang/StringBuilder/append(java.lang.String)
+org.api.fake
+com/chiralcode/colorpicker/MultiColorPicker/getWidth()

@@ -1,0 +1,9 @@
+java/lang/Object/getClass(
+java/util/Map$Entry/getValue(
+java/io/PrintWriter/print(java.lang.String
+org.api.fake
+android/view/View/getLayoutParams()
+java/util/ArrayList/clear(
+java/lang/Math/min(float,float
+android/view/ViewConfiguration/get(android.content.Context)
+org.rand.api

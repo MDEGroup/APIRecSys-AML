@@ -1,0 +1,105 @@
+java.lang.String)  0,12903
+java.lang.String  0,10753
+int  0,07527
+int)  0,04301
+java/lang/Exception/printStackTrace()  0,04301
+android/util/Log/w(java.lang.String  0,04301
+java/util/ArrayList/ArrayList(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size()  0,03226
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,03226
+java/lang/StringBuilder/StringBuilder()  0,03226
+java.lang.ClassLoader  0,02151
+java/lang/Integer/intValue(), android/bluetooth/BluetoothGattCharacteristic/getService(), android/bluetooth/BluetoothGattService/getUuid(), org/qtproject/qt5/android/bluetooth/QtBluetoothLE$GattEntryType/ordinal(), java/util/Hashtable/get(java.lang.Object), java/util/ArrayList/size(), java/util/List/get(int)  0,02151
+java/util/List/isEmpty(), java/util/ArrayList/get(int  0,02151
+java/util/UUID/toString()  0,02151
+android/app/Activity/getPackageManager(), java/lang/StringBuilder/append(java.lang.String), java/lang/System/load(java.lang.String), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName  0,02151
+android/graphics/Rect/offset(int  0,02151
+java/util/ArrayList/toArray(java.lang.Object[)  0,02151
+java/util/List/isEmpty()  0,02151
+java/util/Iterator/hasNext()  0,02151
+android/content/res/TypedArray/getDrawable(int), android/widget/PopupWindow/setClippingEnabled(boolean), android/view/View/getViewTreeObserver(), android/widget/PopupWindow/PopupWindow(android.content.Context  0,01075
+java/lang/Class/getDeclaredField(java.lang.String), org/json/JSONObject/put(java.lang.String  0,01075
+java/lang/String/valueOf(char), java/lang/reflect/Field/getFloat(java.lang.Object)  0,01075
+java.util.ArrayList  0,01075
+android.bluetooth.BluetoothGattDescriptor  0,01075
+android.bluetooth.BluetoothGattCharacteristic  0,01075
+android/content/ContextWrapper/getResources(), android/app/AlertDialog/setButton(java.lang.CharSequence  0,01075
+long)  0,01075
+dalvik/system/DexClassLoader/DexClassLoader(java.lang.String  0,01075
+java/lang/StringBuilder/append(int), android/content/res/Resources/getDimensionPixelSize(int), android/view/Display/getMetrics(android.util.DisplayMetrics), android/app/Activity/getResources()  0,01075
+java/lang/StringBuilder/append(int), java/util/HashMap/remove(java.lang.Object), org/qtproject/qt5/android/QtLayout/removeView(android.view.View), android/util/Log/e(java.lang.String  0,01075
+android/app/Activity/getComponentName(), android/content/res/Resources/getDrawable(int), android/app/Activity/getSystemService(java.lang.String), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int  0,01075
+android/app/Activity/registerForContextMenu(android.view.View), android/app/Activity/getPackageManager(), android/view/ViewTreeObserver/addOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener), java/lang/StringBuilder/StringBuilder()  0,01075
+android.view.View  0,01075
+android/app/Activity/getAssets(), android/content/res/AssetManager/open(java.lang.String)  0,01075
+boolean  0,01075
+android/view/KeyEvent/getRepeatCount(), java/lang/String/charAt(int), java/lang/Exception/printStackTrace(), android/view/KeyEvent/getCharacters(), android/view/KeyEvent/getMetaState(), android/view/KeyEvent/getKeyCode(), java/lang/reflect/Method/invoke(java.lang.Object  0,01075
+java/lang/String/length()  0,01075
+android/view/Window/addFlags(int), android/view/View/setSystemUiVisibility(int), java/lang/Class/getDeclaredField(java.lang.String), org/qtproject/qt5/android/QtLayout/requestLayout(  0,01075
+javax/net/ssl/TrustManagerFactory/getTrustManagers(), android/util/Log/e(java.lang.String  0,01075
+javax/net/ssl/TrustManagerFactory/init(java.security.KeyStore)  0,01075
+javax/net/ssl/TrustManagerFactory/getDefaultAlgorithm()  0,01075
+javax/net/ssl/TrustManagerFactory/getInstance(java.lang.String)  0,01075
+java/security/cert/X509Certificate/getEncoded()  0,01075
+javax/net/ssl/X509TrustManager/getAcceptedIssuers()  0,01075
+android/content/ClipData/getItemAt(int), android/content/ClipboardManager/hasPrimaryClip(), android/content/ClipData$Item/getUri(), android/content/ClipboardManager/getPrimaryClip(), android/net/Uri/toString(  0,01075
+android/content/ClipData/getItemCount()  0,01075
+java/lang/Object/wait()  0,01075
+java/util/ArrayList/clear()  0,01075
+java/lang/InterruptedException/printStackTrace()  0,01075
+android/hardware/SensorManager/getDefaultSensor(int)  0,01075
+java/util/HashSet/add(java.lang.Object)  0,01075
+java/lang/System/currentTimeMillis()  0,01075
+java/io/IOException/printStackTrace(), java/lang/StringBuilder/toString(), org/qtproject/qt5/android/bluetooth/QtBluetoothSocketServer/isAlive(), org/qtproject/qt5/android/bluetooth/QtBluetoothSocketServer/interrupt(), android/util/Log/d(java.lang.String  0,01075
+android/bluetooth/BluetoothServerSocket/close()  0,01075
+java/io/IOException/toString()  0,01075
+java/lang/Integer/intValue(), java/util/HashSet/iterator(), java/util/HashSet/HashSet(), android/hardware/Sensor/getType(), android/hardware/SensorManager/getSensorList(int), java/lang/Exception/printStackTrace(  0,01075
+android/bluetooth/BluetoothServerSocket/accept(), android/bluetooth/BluetoothAdapter/getDefaultAdapter(), android/bluetooth/BluetoothAdapter/listenUsingRfcommWithServiceRecord(java.lang.String  0,01075
+android/bluetooth/BluetoothGattService/getUuid(), java/util/Iterator/next(), java/util/UUID/fromString(java.lang.String  0,01075
+android/bluetooth/BluetoothGattDescriptor/getCharacteristic()  0,01075
+java/util/ArrayList/ArrayList(), java/io/File/isDirectory(), java/lang/StringBuilder/append(int), java/lang/Class/getCanonicalName(), java/io/File/exists(), android/os/Bundle/getInt(java.lang.String), android/content/Intent/getStringExtra(java.lang.String), java/lang/String/String(), android/os/Bundle/putString(java.lang.String  0,01075
+java/util/ArrayList/ArrayList(), java/util/ArrayList/toArray(java.lang.Object[), android/location/LocationManager/getGpsStatus(android.location.GpsStatus), android/location/GpsStatus/getSatellites(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/ArrayList/size(), java/lang/Iterable/iterator(  0,01075
+java/util/Iterator/hasNext(), android/bluetooth/BluetoothGattService/getUuid(), android/bluetooth/BluetoothGattCharacteristic/getDescriptors(), java/util/List/add(java.lang.Object), java/lang/Integer/valueOf(int), java/util/List/iterator(), java/util/Hashtable/put(java.lang.Object  0,01075
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/HashSet/size(), java/util/List/iterator()  0,01075
+android/bluetooth/BluetoothGatt/getServices()  0,01075
+java/util/LinkedList/contains(java.lang.Object), java/util/UUID/fromString(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/util/Log/w(java.lang.String  0,01075
+java/util/ArrayList/isEmpty()  0,01075
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/String(byte[  0,01075
+java/lang/StringBuilder/append(java.lang.String), android/hardware/Sensor/getVendor(), android/hardware/Sensor/getName(), java/lang/StringBuilder/append(int), android/hardware/Sensor/getVersion(  0,01075
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(long), org/qtproject/qt5/android/positioning/QtPositioning$PositioningLooper/isAlive(), java/lang/StringBuilder/toString(), android/util/Log/d(java.lang.String  0,01075
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Exception/toString(), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int  0,01075
+android/graphics/drawable/Drawable/getIntrinsicWidth()  0,01075
+android/bluetooth/BluetoothGattService/getIncludedServices(), java/util/List/iterator(), java/util/Iterator/hasNext(), android/bluetooth/BluetoothGatt/getService(java.util.UUID)  0,01075
+java.util.UUID  0,01075
+java/lang/Class/forName(java.lang.String), java/util/Iterator/hasNext(), java/lang/Class/getMethod(java.lang.String  0,01075
+java/lang/Class/forName(java.lang.String), android/content/res/Resources/getString(int), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName  0,01075
+android/widget/PopupWindow/setContentView(android.view.View), android/widget/PopupWindow/setClippingEnabled(boolean), android/view/View/getViewTreeObserver(), android/widget/PopupWindow/PopupWindow(android.content.Context  0,01075
+android/content/res/Resources/getDisplayMetrics(), org/qtproject/qt5/android/bindings/QtActivity/getResources(), java/lang/StringBuilder/append(java.lang.String)  0,01075
+android/view/ViewConfiguration/get(android.content.Context), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,01075
+android/widget/ScrollView/addView(android.view.View), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,01075
+org/qtproject/qt5/android/QtLayout/getLocationOnScreen(int[), android/graphics/Rect/Rect(), android/view/Display/getMetrics(android.util.DisplayMetrics), android/graphics/Rect/width(), android/util/DisplayMetrics/DisplayMetrics(), android/view/WindowManager/getDefaultDisplay(), android/app/Activity/getWindowManager(  0,01075
+android/app/Activity/getWindow(), android/view/Window/getDecorView(), android/view/View/getWindowVisibleDisplayFrame(android.graphics.Rect)  0,01075
+android/view/Window/getDecorView(), java/lang/reflect/Field/getInt(java.lang.Object), android/view/Window/clearFlags(int), java/lang/Exception/printStackTrace()  0,01075
+android/bluetooth/BluetoothGattCharacteristic/getUuid(), android/bluetooth/BluetoothGattCharacteristic/getService(), org/qtproject/qt5/android/bluetooth/QtBluetoothLE$IoJobType/ordinal(), java/util/ArrayList/size(), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/w(java.lang.String  0,01075
+java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/lang/Runnable/run(), java/util/Iterator/next(), java/util/ArrayList/ArrayList(java.util.Collection  0,01075
+java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/HashMap/containsKey(java.lang.Object), java/lang/StackTraceElement/getClassName(), java/lang/Thread/currentThread(), java/lang/String/equals(java.lang.Object), java/lang/reflect/Method/getParameterTypes(), java/lang/StackTraceElement/getMethodName(), java/lang/Thread/getStackTrace(), java/util/HashMap/get(java.lang.Object), java/util/Iterator/next(  0,01075
+java/util/ArrayList/iterator(), java/lang/System/load(java.lang.String), java/util/Iterator/next(), java/io/File/File(java.lang.String), java/io/File/exists(), android/util/Log/i(java.lang.String  0,01075
+java/util/ArrayList/iterator(), org/json/JSONObject/put(java.lang.String  0,01075
+boolean)  0,01075
+android.bluetooth.BluetoothDevice  0,01075
+android/bluetooth/BluetoothGattCharacteristic/getValue(), android/os/Handler/removeCallbacksAndMessages(java.lang.Object)  0,01075
+java.lang.Object)  0,01075
+java/util/LinkedList/isEmpty(), java/util/concurrent/atomic/AtomicInteger/set(int)  0,01075
+android.os.Bundle)  0,01075
+android/graphics/drawable/GradientDrawable/getConstantState(), java/lang/reflect/Field/getFloat(java.lang.Object), org/json/JSONObject/put(java.lang.String  0,01075
+java/lang/reflect/Field/get(java.lang.Object), java/util/Iterator/hasNext()  0,01075
+java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getMethod(java.lang.String  0,01075
+android/content/ContextWrapper/getResources()  0,01075
+java/util/ArrayList/get(int)  0,01075
+java/lang/Integer/valueOf(int)  0,01075
+android/app/Activity/getWindow()  0,01075
+android/util/DisplayMetrics/DisplayMetrics(), android/view/WindowManager/getDefaultDisplay(), android/app/Activity/getWindowManager(  0,01075
+java/util/ArrayList/add(java.lang.Object)  0,01075
+java/lang/Class/getMethod(java.lang.String  0,01075
+java/util/ArrayList/size()  0,01075
+java/lang/StringBuilder/toString()  0,01075
+java/lang/StringBuilder/append(java.lang.String)  0,01075

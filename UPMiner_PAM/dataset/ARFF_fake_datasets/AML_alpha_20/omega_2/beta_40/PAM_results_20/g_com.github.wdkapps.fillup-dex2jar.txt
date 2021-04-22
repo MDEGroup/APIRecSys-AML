@@ -1,0 +1,291 @@
+prob: 0,16438
+[org.api.fake]
+
+prob: 0,16438
+[org.rand.api]
+
+prob: 0,04795
+[int)]
+
+prob: 0,04110
+[android.graphics.RectF)]
+
+prob: 0,03425
+[int]
+
+prob: 0,02740
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(long), android/util/Log/d(java.lang.String]
+
+prob: 0,02055
+[android.graphics.RectF]
+
+prob: 0,02055
+[java.lang.Object]
+
+prob: 0,02055
+[java.lang.String)]
+
+prob: 0,02055
+[com.github.wdkapps.fillup.VehicleDialog$Listener]
+
+prob: 0,02055
+[com.github.wdkapps.fillup.UnitsDialog$Listener]
+
+prob: 0,02055
+[android.graphics.Canvas)]
+
+prob: 0,02055
+[boolean)]
+
+prob: 0,02055
+[com.androidplot.xy.SimpleXYSeries$ArrayFormat)]
+
+prob: 0,02055
+[java/util/Iterator/next()]
+
+prob: 0,01370
+[android/database/Cursor/getColumnIndex(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,01370
+[java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,01370
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01370
+[java/util/Iterator/hasNext(), java/util/List/size(), java/util/LinkedList/LinkedList()]
+
+prob: 0,01370
+[java/lang/StringBuilder/append(java.lang.String), android/content/Context/getString(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,01370
+[java/util/List/size()]
+
+prob: 0,00685
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,00685
+[java/lang/String/valueOf(java.lang.Object), java/lang/Math/min(long]
+
+prob: 0,00685
+[java/io/File/File(java.io.File]
+
+prob: 0,00685
+[java/util/Iterator/hasNext(), android/graphics/Canvas/drawRect(android.graphics.RectF]
+
+prob: 0,00685
+[java/util/Iterator/hasNext(), java/lang/Long/valueOf(long), java/lang/StringBuilder/append(java.lang.String), java/lang/Float/valueOf(float), android/util/Log/d(java.lang.String]
+
+prob: 0,00685
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/toString(), com/androidplot/xy/XYFramingModel/ordinal(]
+
+prob: 0,00685
+[java/lang/Object/notify(), android/os/Looper/myLooper(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), com/androidplot/Plot/postInvalidate(), com/androidplot/Plot/invalidate(]
+
+prob: 0,00685
+[java/lang/String/toUpperCase(), android/util/AttributeSet/getAttributeCount(), java/lang/String/startsWith(java.lang.String), java/lang/String/length(), android/util/AttributeSet/getAttributeValue(int), java/util/HashMap/HashMap(), android/util/AttributeSet/getAttributeName(int), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,00685
+[java/lang/StringBuilder/append(java.lang.String), android/os/Looper/getMainLooper(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,00685
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/view/MotionEvent/getX()]
+
+prob: 0,00685
+[java/text/Format/format(java.lang.Object), android/graphics/Canvas/drawText(java.lang.String]
+
+prob: 0,00685
+[com/androidplot/xy/YValueMarker/getText(), java/util/Iterator/hasNext(), android/graphics/Canvas/drawLine(float]
+
+prob: 0,00685
+[com/androidplot/xy/XValueMarker/getText(), java/lang/Number/doubleValue(), com/androidplot/xy/XValueMarker/getLinePaint(), com/androidplot/xy/YValueMarker/getTextPosition(), com/androidplot/xy/XValueMarker/getTextPosition(), android/graphics/RectF/height(), com/androidplot/xy/YValueMarker/getLinePaint()]
+
+prob: 0,00685
+[java/util/List/size(), java/lang/Math/max(float]
+
+prob: 0,00685
+[com.github.wdkapps.fillup.ConfirmationDialog$Listener]
+
+prob: 0,00685
+[android/util/Log/w(java.lang.String]
+
+prob: 0,00685
+[com/github/wdkapps/fillup/GasGauge/getWidth(), android/util/Log/d(java.lang.String]
+
+prob: 0,00685
+[android.view.View]
+
+prob: 0,00685
+[java/util/Date/Date()]
+
+prob: 0,00685
+[java.lang.Class[]]
+
+prob: 0,00685
+[android/content/pm/PackageManager/getApplicationInfo(java.lang.String]
+
+prob: 0,00685
+[android/preference/ListPreference/setEntryValues(java.lang.CharSequence[]), com/github/wdkapps/fillup/Settings/getPackageName(), com/github/wdkapps/fillup/Settings/addPreferencesFromResource(int), android/content/res/Resources/getString(int), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), android/preference/Preference/setSummary(java.lang.CharSequence), android/preference/PreferenceActivity/onCreate(android.os.Bundle), com/github/wdkapps/fillup/Settings/findPreference(java.lang.CharSequence), android/preference/ListPreference/setEntries(java.lang.CharSequence[]), com/github/wdkapps/fillup/Settings/getPreferenceScreen(), android/preference/Preference/setOnPreferenceClickListener(android.preference.Preference$OnPreferenceClickListener]
+
+prob: 0,00685
+[android/preference/PreferenceScreen/getSharedPreferences(), com/github/wdkapps/fillup/Settings/getResources()]
+
+prob: 0,00685
+[java/lang/Math/ceil(double)]
+
+prob: 0,00685
+[com/github/wdkapps/fillup/StartupActivity/getPreferences(int), java/lang/String/valueOf(java.lang.Object), android/content/SharedPreferences$Editor/commit(), java/lang/Class/getName(), android/content/SharedPreferences/edit(), android/content/SharedPreferences/getInt(java.lang.String]
+
+prob: 0,00685
+[android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/app/Activity/onCreate(android.os.Bundle), java/util/LinkedList/LinkedList(), com/github/wdkapps/fillup/MainActivity/findViewById(int), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,00685
+[java/util/Date/getMinutes(), java/util/Date/getMonth(), android/widget/TimePicker/setIs24HourView(java.lang.Boolean), java/util/Date/getYear(), android/widget/DatePicker/init(int]
+
+prob: 0,00685
+[java.io.InputStream)]
+
+prob: 0,00685
+[com/androidplot/ui/XPositionMetric/getRelativePosition(float]
+
+prob: 0,00685
+[android/database/sqlite/SQLiteConstraintException/getMessage(), java/lang/StringBuilder/append(java.lang.String), android/content/Context/getString(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,00685
+[com.github.wdkapps.fillup.GasRecord)]
+
+prob: 0,00685
+[java/lang/Double/valueOf(double), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Boolean/valueOf(boolean), java/lang/StringBuilder/append(java.lang.String), java/lang/Float/valueOf(float)]
+
+prob: 0,00685
+[android/database/Cursor/getLong(int)]
+
+prob: 0,00685
+[android/database/Cursor/getFloat(int)]
+
+prob: 0,00685
+[java.io.File)]
+
+prob: 0,00685
+[android/content/ContentValues/put(java.lang.String]
+
+prob: 0,00685
+[java.lang.CharSequence)]
+
+prob: 0,00685
+[com/github/wdkapps/fillup/HtmlViewerActivity/getString(int), android/webkit/WebSettings/setBuiltInZoomControls(boolean), com/github/wdkapps/fillup/HtmlViewerActivity/setTitle(java.lang.CharSequence), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/content/Intent/getBooleanExtra(java.lang.String]
+
+prob: 0,00685
+[java/lang/Math/atan2(double]
+
+prob: 0,00685
+[com.github.wdkapps.fillup.DataEntryModeDialog$Listener]
+
+prob: 0,00685
+[com/github/wdkapps/fillup/PlotActivity/getIntent(), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), android/content/Intent/getSerializableExtra(java.lang.String), com/github/wdkapps/fillup/PlotActivity/setContentView(int), android/widget/ScrollView/getViewTreeObserver(), com/github/wdkapps/fillup/PlotActivity/findViewById(int), java/util/Collections/sort(java.util.List]
+
+prob: 0,00685
+[com/androidplot/ui/YPositionMetric/getLayoutType(), com/androidplot/ui/YPositionMetric/getAbsolutePosition(float]
+
+prob: 0,00685
+[com/androidplot/xy/XYGraphWidget/setMarginRight(float), com/androidplot/xy/XYPlot/getTitleWidget(), com/androidplot/xy/XYGraphWidget/setBackgroundPaint(android.graphics.Paint), com/androidplot/xy/XYPlot/getLayoutManager(), com/androidplot/ui/LayoutManager/moveToTop(java.lang.Object), java/lang/Integer/valueOf(int), com/androidplot/xy/XYPlot/setPlotMarginLeft(float), java/util/ArrayList/ArrayList(), android/graphics/Paint/Paint(), com/androidplot/xy/XYGraphWidget/setMarginTop(float), com/androidplot/xy/XYGraphWidget/position(float]
+
+prob: 0,00685
+[android/graphics/Paint/setColor(int)]
+
+prob: 0,00685
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Date/before(java.util.Date), java/util/Map/keySet(]
+
+prob: 0,00685
+[java/lang/StringBuilder/StringBuilder(), com/androidplot/xy/XYPlot/getSeriesSet(), java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String), java/util/Set/iterator()]
+
+prob: 0,00685
+[java/util/Set/size()]
+
+prob: 0,00685
+[com/github/wdkapps/fillup/StatisticsActivity/findViewById(int), android/content/Intent/getSerializableExtra(java.lang.String), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), android/app/Activity/onCreate(android.os.Bundle]
+
+prob: 0,00685
+[com/github/wdkapps/fillup/StatisticsActivity/getIntent(), android/webkit/WebSettings/setDefaultTextEncodingName(java.lang.String), android/webkit/WebView/setScrollBarStyle(int), com/github/wdkapps/fillup/StatisticsActivity/setContentView(int), android/webkit/WebView/setWebViewClient(android.webkit.WebViewClient), android/webkit/WebView/getSettings()]
+
+prob: 0,00685
+[android/text/Editable/toString(), android/widget/EditText/getText(), android/widget/CheckBox/isChecked(), android/widget/EditText/setError(java.lang.CharSequence), java/lang/String/format(java.lang.String]
+
+prob: 0,00685
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,00685
+[java/lang/Integer/intValue(), java/lang/Float/valueOf(float), java/lang/Float/floatValue(), java/lang/Integer/valueOf(int), java/util/Date/after(java.util.Date), java/lang/Double/valueOf(double]
+
+prob: 0,00685
+[java/util/Set/addAll(java.util.Collection), java/lang/Double/doubleValue()]
+
+prob: 0,00685
+[java/util/Date/after(java.util.Date), java/util/Date/Date(long), java/util/List/add(java.lang.Object), java/util/List/iterator(), java/util/List/isEmpty(), java/util/Iterator/next()]
+
+prob: 0,00685
+[java/util/Scanner/close(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/content/Context/getAssets(]
+
+prob: 0,00685
+[java/util/Scanner/hasNextLine(), android/content/res/AssetManager/open(java.lang.String), java/util/Scanner/nextLine(), java/util/Scanner/Scanner(java.io.InputStream)]
+
+prob: 0,00685
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), com/github/wdkapps/fillup/FileSelectionActivity/findViewById(int), java/lang/String/toLowerCase(java.util.Locale), android/app/Activity/onCreate(android.os.Bundle), java/io/File/File(java.lang.String), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/os/Bundle/getString(java.lang.String), com/github/wdkapps/fillup/FileSelectionActivity/getIntent(), com/github/wdkapps/fillup/FileSelectionActivity/setContentView(int), android/content/Intent/getStringExtra(java.lang.String]
+
+prob: 0,00685
+[com/github/wdkapps/fillup/GasLogListActivity/findViewById(int), android/content/Intent/getSerializableExtra(java.lang.String), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), com/github/wdkapps/fillup/GasLogListActivity/registerForContextMenu(android.view.View), android/widget/ListView/getCount(), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener]
+
+prob: 0,00685
+[com/github/wdkapps/fillup/GasLogListActivity/getIntent(), android/widget/ListView/setSelection(int), com/github/wdkapps/fillup/GasLogListActivity/setContentView(int), android/widget/ListView/setLongClickable(boolean)]
+
+prob: 0,00685
+[java/lang/String/toLowerCase(), java/lang/Float/floatValue(), java/lang/Integer/intValue(), java/util/regex/Matcher/group(int]
+
+prob: 0,00685
+[java/util/regex/Matcher/matches(), java/util/Map/get(java.lang.Object), java/lang/Float/valueOf(java.lang.String), java/util/regex/Pattern/matcher(java.lang.CharSequence), java/lang/NumberFormatException/NumberFormatException()]
+
+prob: 0,00685
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,00685
+[java/lang/Long/valueOf(long)]
+
+prob: 0,00685
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,00685
+[java/lang/Number/doubleValue()]
+
+prob: 0,00685
+[java/util/Set/iterator()]
+
+prob: 0,00685
+[java/lang/Math/max(float]
+
+prob: 0,00685
+[java/util/Date/before(java.util.Date)]
+
+prob: 0,00685
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), android/app/Activity/onCreate(android.os.Bundle)]
+
+prob: 0,00685
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,00685
+[java/lang/Integer/valueOf(int)]
+
+prob: 0,00685
+[java/util/LinkedList/LinkedList()]
+
+prob: 0,00685
+[java/lang/Float/valueOf(float)]
+
+prob: 0,00685
+[java/lang/StringBuilder/append(long)]
+
+prob: 0,00685
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,00685
+[java/lang/String/valueOf(java.lang.Object)]
+

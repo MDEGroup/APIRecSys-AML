@@ -1,0 +1,15 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/net/HttpURLConnection/disconnect()
+android/content/pm/PackageManager/queryIntentActivities(android.content.Intent,int
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/StringBuilder(java.lang.String) java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/String/length(
+java/net/HttpURLConnection/setInstanceFollowRedirects(boolean
+java/util/Map/keySet(
+android/location/Location/getTime(
+org.api.fake
+java/util/Iterator/hasNext()
+android/database/Cursor/getColumnIndex(java.lang.String)
+org.rand.api

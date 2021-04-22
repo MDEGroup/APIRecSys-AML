@@ -1,0 +1,12 @@
+android/content/SharedPreferences/getInt(java.lang.String,int
+java/util/Map/entrySet(
+org.api.fake
+android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int,int,float)
+android/app/ActionBar$Tab/setText(int
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/toString()
+app/easytoken/ImportMethodFragment/getResources(
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+app/easytoken/BareActivity/setContentView(int
+java/security/MessageDigest/getInstance(java.lang.String

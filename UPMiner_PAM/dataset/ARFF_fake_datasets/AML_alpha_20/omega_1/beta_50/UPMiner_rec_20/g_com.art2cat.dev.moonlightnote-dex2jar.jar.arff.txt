@@ -1,0 +1,5 @@
+android/animation/Keyframe/ofInt(float,int
+android/content/res/Resources/getAnimation(int)
+java/lang/String/equals(java.lang.Object)
+android/content/Context/getResources(
+org.api.fake

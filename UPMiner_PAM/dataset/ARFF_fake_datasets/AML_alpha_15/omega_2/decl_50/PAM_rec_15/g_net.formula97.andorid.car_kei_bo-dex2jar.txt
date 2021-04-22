@@ -1,0 +1,31 @@
+int  0,21053
+int)  0,15789
+android.view.View  0,10526
+java.lang.String)  0,05263
+android/text/format/Time/getCurrentTimezone(), java/lang/StringBuilder/append(java.lang.String)  0,05263
+java/util/Calendar/setTimeInMillis(long), java/util/Calendar/set(int  0,05263
+java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String  0,02632
+java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getIntExtra(java.lang.String  0,02632
+android/widget/ListView/setAdapter(android.widget.ListAdapter), java/lang/String/valueOf(java.lang.Object), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/SimpleCursorAdapter/SimpleCursorAdapter(android.content.Context  0,02632
+android/view/Display/getWidth(), java/lang/StringBuilder/append(java.lang.String)  0,02632
+android/view/Display/getWidth(), net/formula97/andorid/car_kei_bo/DbManager/getReadableDatabase(), android/view/WindowManager/getDefaultDisplay(  0,02632
+android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/database/Cursor/getColumnCount()  0,02632
+net/formula97/andorid/car_kei_bo/DbManager/close(), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/getText(), android/widget/TextView/setText(java.lang.CharSequence), android/widget/CheckBox/isChecked(), net/formula97/andorid/car_kei_bo/DbManager/getWritableDatabase(), java/lang/String/valueOf(long), android/widget/Spinner/getSelectedItem(), android/widget/CheckBox/setChecked(boolean), android/util/Log/w(java.lang.String  0,02632
+android/text/SpannableStringBuilder/toString()  0,02632
+net/formula97/andorid/car_kei_bo/CarList/registerForContextMenu(android.view.View), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), android/database/Cursor/getCount(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/i(java.lang.String  0,02632
+net/formula97/andorid/car_kei_bo/DbManager/getReadableDatabase(), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/widget/ListView/setAdapter(android.widget.ListAdapter), net/formula97/andorid/car_kei_bo/CarList/getApplicationContext(), android/database/Cursor/getColumnName(int)  0,02632
+java/lang/String/split(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Integer/parseInt(java.lang.String), java/util/Calendar/set(int  0,02632
+double[[  0,02632
+android/app/Activity/onContextItemSelected(android.view.MenuItem), android/app/AlertDialog$Builder/setNegativeButton(int  0,02632
+java/lang/Math/floor(double), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/d(java.lang.String  0,02632
+java/lang/String/valueOf(double)  0,02632
+android/widget/EditText/getText(), android/app/DatePickerDialog/DatePickerDialog(android.content.Context  0,02632
+android.database.Cursor)  0,02632
+double  0,02632
+android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/Button/setText(int), android/widget/Button/setWidth(int)  0,02632
+net/formula97/andorid/car_kei_bo/FuelMileageAdd/getWindowManager(), android/app/Activity/onResume()  0,02632
+java.lang.String  0,02632
+android/database/Cursor/getString(int), android/database/Cursor/moveToFirst(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,02632
+net/formula97/andorid/car_kei_bo/MileageList/getResources(), android/app/Activity/onCreate(android.os.Bundle), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,02632
+java/lang/Object/toString(), android/app/AlertDialog$Builder/setTitle(int)  0,02632
+android/app/Activity/onResume()  0,02632

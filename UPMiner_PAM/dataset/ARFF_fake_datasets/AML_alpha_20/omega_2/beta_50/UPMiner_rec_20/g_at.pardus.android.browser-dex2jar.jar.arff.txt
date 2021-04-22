@@ -1,0 +1,24 @@
+java/net/HttpURLConnection/disconnect()
+java/text/SimpleDateFormat/SimpleDateFormat(java.lang.String,java.util.Locale
+java/util/Set/add(java.lang.Object
+java/net/URL/openStream()
+java/nio/charset/CharsetEncoder/canEncode(java.lang.CharSequence)
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/toString()
+java/util/Map/get(java.lang.Object)
+java/lang/String/valueOf(long
+java/lang/System/getProperty(java.lang.String,java.lang.String)
+java/lang/String/hashCode()
+java/lang/StringBuilder/StringBuilder()
+java/util/ArrayList/ArrayList(
+java/io/ByteArrayOutputStream/toByteArray(
+android/util/Log/e(java.lang.String,java.lang.String
+android/content/ContentValues/ContentValues(android.content.ContentValues
+java/lang/Class/getSimpleName()
+org.api.fake
+android/app/ProgressDialog/setCancelable(boolean
+java/lang/String/toLowerCase(java.util.Locale)
+java/io/ByteArrayOutputStream/ByteArrayOutputStream(
+java/io/BufferedInputStream/skip(long
+org.rand.api
+java/util/ArrayList/ArrayList()

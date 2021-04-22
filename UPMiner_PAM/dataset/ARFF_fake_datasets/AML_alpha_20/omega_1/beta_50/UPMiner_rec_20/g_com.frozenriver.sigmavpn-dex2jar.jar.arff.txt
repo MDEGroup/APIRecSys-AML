@@ -1,0 +1,4 @@
+android/content/SharedPreferences/getBoolean(java.lang.String,boolean)
+android/app/Activity/getPreferences(int)
+com/frozenriver/sigmavpn/SigmaVPNClient/getPreferences(int)
+org.api.fake

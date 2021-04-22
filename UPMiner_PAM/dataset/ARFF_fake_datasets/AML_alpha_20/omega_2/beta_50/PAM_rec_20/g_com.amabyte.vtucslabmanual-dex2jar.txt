@@ -1,0 +1,200 @@
+org.api.fake  0,11602
+org.rand.api  0,11602
+int  0,11050
+java.lang.String  0,04420
+int)  0,03867
+java.io.FileDescriptor  0,03315
+java.lang.String)  0,03315
+boolean)  0,02762
+java/util/ArrayList/add(java.lang.Object)  0,02762
+android.content.Context  0,02210
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,02210
+java.util.List  0,02210
+android.view.View  0,02210
+java/lang/StringBuilder/append(java.lang.String)  0,02210
+java.io.Writer)  0,01657
+java.lang.Throwable  0,01657
+java.lang.Throwable)  0,01657
+com.a.a.ap  0,01657
+java.util.Map)  0,01657
+java.io.PrintWriter  0,01657
+java.lang.StringBuilder)  0,01657
+android.view.View)  0,01657
+float  0,01657
+android/util/Log/v(java.lang.String  0,01657
+java/util/Iterator/hasNext()  0,01657
+java/io/File/File(java.io.File  0,01105
+android/support/v4/widget/DrawerLayout/getWidth()  0,01105
+android/view/View/getWidth()  0,01105
+android/support/v4/widget/DrawerLayout/invalidate()  0,01105
+java/lang/String/charAt(int), java/lang/String/toLowerCase(), java/lang/StringBuilder/setLength(int), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/toString(  0,01105
+java/lang/Class/getSimpleName()  0,01105
+java/util/ArrayList/remove(int), java/lang/Math/max(int  0,01105
+android/view/View/getLayoutParams(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), android/view/View/getTop(  0,01105
+java/lang/Integer/toHexString(int), java/lang/StringBuilder/toString()  0,01105
+android/view/MotionEvent/getX(), android/widget/Scroller/abortAnimation()  0,01105
+android/widget/Scroller/getCurrX()  0,01105
+android/view/View/getRight(), android/view/View/getBottom()  0,01105
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01105
+android/view/View/getLayoutParams()  0,01105
+java/util/ArrayList/size()  0,01105
+java/lang/StringBuilder/append(int)  0,01105
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,01105
+android/view/View/isEnabled(), java/lang/StringBuilder/append(char), android/content/res/Resources/getResourceTypeName(int), android/view/View/isPressed(), android/content/res/Resources/getResourceEntryName(int), android/view/View/isVerticalScrollBarEnabled(), android/view/View/getTop(), android/view/View/getLeft()  0,00552
+android/view/View/isLongClickable()  0,00552
+java/lang/Object/getClass()  0,00552
+android/content/res/Resources/getResourcePackageName(int)  0,00552
+android/view/View/willNotDraw()  0,00552
+android/view/View/getVisibility()  0,00552
+android/view/View/isFocusable()  0,00552
+android/view/View/isFocused()  0,00552
+android/view/View/getResources()  0,00552
+android/view/View/isClickable()  0,00552
+java/util/regex/Matcher/group(int), java/io/File/getName(), java/util/Set/add(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/regex/Matcher/matches(), java/util/Arrays/sort(java.lang.Object[  0,00552
+java/io/File/getName(), java/util/TreeSet/TreeSet(java.util.Comparator)  0,00552
+java/util/Date/Date()  0,00552
+android/os/StatFs/StatFs(java.lang.String), java/lang/StringBuilder/toString(  0,00552
+java/lang/Runtime/getRuntime(), java/util/Map/entrySet(), java/io/File/getPath(), android/os/StatFs/getBlockCount(), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator()  0,00552
+java/lang/Runtime/availableProcessors()  0,00552
+android/os/Environment/getDataDirectory()  0,00552
+java/lang/StringBuilder/StringBuilder(), java/util/LinkedList/LinkedList()  0,00552
+java/io/BufferedReader/close(), java/io/BufferedWriter/BufferedWriter(java.io.Writer)  0,00552
+java/io/PrintStream/println(java.lang.String)  0,00552
+java/net/URL/URL(java.lang.String)  0,00552
+java/io/BufferedWriter/newLine()  0,00552
+java/io/BufferedWriter/write(java.lang.String)  0,00552
+java/io/StringWriter/StringWriter()  0,00552
+java/net/URLConnection/connect()  0,00552
+java/net/URL/openConnection()  0,00552
+java/net/URL/URL(java.net.URL  0,00552
+java/io/IOException/IOException(java.lang.String), java/net/URI/URI(java.lang.String  0,00552
+android/content/Context/getPackageManager()  0,00552
+android/content/pm/PackageManager/getApplicationInfo(java.lang.String  0,00552
+java.util.ArrayList)  0,00552
+android.support.v4.app.b)  0,00552
+android/os/Looper/myLooper()  0,00552
+java/util/ArrayList/toArray(java.lang.Object[)  0,00552
+android/os/Handler/removeCallbacks(java.lang.Runnable)  0,00552
+android/os/Handler/getLooper()  0,00552
+java/lang/Thread/sleep(long), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next()  0,00552
+java/lang/StringBuilder/append(float)  0,00552
+java/util/List/isEmpty()  0,00552
+java/lang/Thread/currentThread()  0,00552
+java/lang/Thread/interrupt()  0,00552
+java/util/List/size(), java/lang/String/format(java.util.Locale  0,00552
+java/lang/StringBuilder/append(long)  0,00552
+java/lang/Math/min(int  0,00552
+java.util.List)  0,00552
+com/a/a/z/a()  0,00552
+java/util/ArrayList/ArrayList(), java/util/Iterator/next(), java/util/TreeSet/add(java.lang.Object), java/util/Iterator/hasNext()  0,00552
+java/lang/Integer/valueOf(int)  0,00552
+java/io/File/File(java.lang.String)  0,00552
+java/io/FileOutputStream/close()  0,00552
+java/io/File/exists()  0,00552
+java/io/File/renameTo(java.io.File  0,00552
+java/util/LinkedList/size()  0,00552
+java/util/LinkedList/addLast(java.lang.Object)  0,00552
+java/lang/String/length(), java/lang/StringBuilder/StringBuilder(int)  0,00552
+java/util/LinkedList/removeLast()  0,00552
+java/util/LinkedList/getLast()  0,00552
+java/util/LinkedList/add(java.lang.Object)  0,00552
+java/io/Reader/read()  0,00552
+java/util/ArrayList/get(int), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/ArrayList/clear(  0,00552
+java/security/cert/CertificateException/CertificateException(java.lang.Throwable)  0,00552
+java/security/cert/X509Certificate/getPublicKey()  0,00552
+android/widget/TextView/setFocusable(boolean)  0,00552
+android/content/res/Resources/getDisplayMetrics()  0,00552
+android/widget/TextView/setTextAppearance(android.content.Context  0,00552
+android/webkit/WebSettings/setRenderPriority(android.webkit.WebSettings$RenderPriority)  0,00552
+android/webkit/WebSettings/setLoadsImagesAutomatically(boolean)  0,00552
+android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,00552
+java/lang/StringBuilder/toString(), java/util/List/size(), java/util/List/iterator()  0,00552
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,00552
+java/lang/StringBuilder/append(int), java/lang/Class/getName(), android/view/View/isSelected(  0,00552
+java/lang/StringBuilder/append(int), com/a/a/z/b(  0,00552
+java/lang/StringBuilder/append(int), java/util/ArrayList/size()  0,00552
+java/util/Iterator/hasNext(), java/util/Arrays/equals(byte[  0,00552
+java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue()  0,00552
+android/support/v4/c/a/a(int)  0,00552
+java/util/Map/size()  0,00552
+java/util/Iterator/next(), android/os/StatFs/getBlockSize()  0,00552
+java/util/Iterator/next(), java/lang/StringBuilder/toString()  0,00552
+java/util/Map$Entry/getValue(), java/util/Map$Entry/getKey()  0,00552
+android/support/v4/c/a/put(java.lang.Object  0,00552
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,00552
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/replace(java.lang.CharSequence  0,00552
+java/lang/StringBuilder/append(java.lang.String), android/webkit/WebView/loadData(java.lang.String  0,00552
+java/lang/StringBuilder/append(java.lang.String), android/support/v4/view/ViewPager/findFocus()  0,00552
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int)  0,00552
+java/lang/Integer/toString(int)  0,00552
+com/a/a/a/an/a()  0,00552
+com/a/a/a/an/a(java.util.Map)  0,00552
+java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/io/FileOutputStream/flush()  0,00552
+java/util/Map/put(java.lang.Object  0,00552
+java/util/logging/Logger/log(java.util.logging.Level  0,00552
+android/preference/PreferenceCategory/setTitle(int)  0,00552
+com/amabyte/vtucslabmanual/main/SettingsActivity/getPreferenceScreen()  0,00552
+android/preference/PreferenceManager/findPreference(java.lang.CharSequence)  0,00552
+android/preference/PreferenceCategory/PreferenceCategory(android.content.Context)  0,00552
+android/preference/Preference/setOnPreferenceClickListener(android.preference.Preference$OnPreferenceClickListener)  0,00552
+com/amabyte/vtucslabmanual/main/SettingsActivity/addPreferencesFromResource(int)  0,00552
+com/amabyte/vtucslabmanual/main/SettingsActivity/getPreferenceManager()  0,00552
+android/preference/PreferenceScreen/addPreference(android.preference.Preference)  0,00552
+android/preference/PreferenceActivity/onPostCreate(android.os.Bundle  0,00552
+android/graphics/Canvas/rotate(float)  0,00552
+android/graphics/Canvas/translate(float  0,00552
+android/view/SoundEffectConstants/getContantForFocusDirection(int)  0,00552
+android/view/View/requestFocus()  0,00552
+android/view/ViewParent/getParent()  0,00552
+android/view/FocusFinder/getInstance()  0,00552
+android/util/Log/e(java.lang.String  0,00552
+android/support/v4/view/ViewPager/getPaddingLeft()  0,00552
+android/support/v4/view/ViewPager/getWindowToken()  0,00552
+android/support/v4/view/ViewPager/hasFocus()  0,00552
+android/support/v4/view/ViewPager/getId()  0,00552
+android/view/MotionEvent/getEdgeFlags()  0,00552
+android/view/VelocityTracker/obtain()  0,00552
+android/view/VelocityTracker/computeCurrentVelocity(int  0,00552
+android/widget/Scroller/getCurrY()  0,00552
+android/support/v4/view/ViewPager/getScrollX()  0,00552
+android/support/v4/view/ViewPager/scrollTo(int  0,00552
+android/widget/Scroller/getFinalX()  0,00552
+android/view/VelocityTracker/recycle()  0,00552
+android/view/VelocityTracker/addMovement(android.view.MotionEvent)  0,00552
+java/lang/Math/abs(int)  0,00552
+android/widget/Scroller/computeScrollOffset()  0,00552
+android/view/MotionEvent/getAction()  0,00552
+java/lang/Math/abs(float)  0,00552
+android/view/MotionEvent/getY()  0,00552
+android/view/VelocityTracker/obtain(  0,00552
+android/graphics/drawable/Drawable/setBounds(int  0,00552
+android/support/v4/widget/SlidingPaneLayout/getPaddingLeft()  0,00552
+android/view/View/setVisibility(int)  0,00552
+android/support/v4/widget/SlidingPaneLayout/getPaddingTop()  0,00552
+android/support/v4/widget/SlidingPaneLayout/getHeight()  0,00552
+android/support/v4/widget/SlidingPaneLayout/getWidth()  0,00552
+android/support/v4/widget/SlidingPaneLayout/getPaddingRight()  0,00552
+android/support/v4/widget/SlidingPaneLayout/getChildCount()  0,00552
+android/view/View/isHorizontalScrollBarEnabled()  0,00552
+android/view/View/getId()  0,00552
+java/lang/System/identityHashCode(java.lang.Object)  0,00552
+java/lang/StringBuilder/append(char)  0,00552
+java/util/Map/entrySet()  0,00552
+java/io/IOException/IOException(java.lang.String)  0,00552
+java/util/List/iterator()  0,00552
+java/util/ArrayList/ArrayList(), java/util/Iterator/next()  0,00552
+java/lang/String/length()  0,00552
+android/support/v4/view/ViewPager/findFocus()  0,00552
+java/lang/Runnable/run(), java/util/ArrayList/size(), java/util/ArrayList/get(int)  0,00552
+java/lang/Runnable/run()  0,00552
+java/util/ArrayList/get(int), android/util/Log/v(java.lang.String  0,00552
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,00552
+java/util/Set/iterator()  0,00552
+java/lang/Math/max(int  0,00552
+android/widget/Scroller/abortAnimation()  0,00552
+android/view/View/getRight()  0,00552
+java/util/ArrayList/get(int)  0,00552
+java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()  0,00552
+java/lang/StringBuilder/append(java.lang.Object)  0,00552
+java/lang/StringBuilder/StringBuilder()  0,00552
+java/lang/StringBuilder/toString()  0,00552

@@ -1,0 +1,7 @@
+com/actionbarsherlock/internal/view/menu/ActionMenuView/getParent()
+org.api.fake
+android/view/View/getLayoutParams()
+java/lang/StringBuilder/append(java.lang.String)
+android/content/res/Resources/getDisplayMetrics()
+com/actionbarsherlock/widget/SearchView$SearchAutoComplete/setAdapter(android.widget.ListAdapter)
+android/content/ComponentName/flattenToShortString()

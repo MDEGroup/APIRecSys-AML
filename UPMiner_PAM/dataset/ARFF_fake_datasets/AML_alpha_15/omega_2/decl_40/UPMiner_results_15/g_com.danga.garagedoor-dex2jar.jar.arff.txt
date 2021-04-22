@@ -1,0 +1,6 @@
+android/content/SharedPreferences/getString(java.lang.String,java.lang.String)
+android/app/Notification/setLatestEventInfo(android.content.Context,java.lang.CharSequence,java.lang.CharSequence,android.app.PendingIntent
+org.api.fake
+java/lang/StringBuilder/append(boolean)
+org.rand.api
+com/danga/garagedoor/IGarageScanService$Stub/registerCallback(com.danga.garagedoor.IGarageScanCallback)

@@ -1,0 +1,72 @@
+prob: 0,22727
+[org.api.fake]
+
+prob: 0,18182
+[java.lang.String)]
+
+prob: 0,09091
+[android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,09091
+[java/lang/StringBuilder/toString()]
+
+prob: 0,09091
+[int)]
+
+prob: 0,09091
+[java/util/List/isEmpty(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,04545
+[android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,04545
+[java/util/Iterator/next()]
+
+prob: 0,04545
+[android/content/Intent/setData(android.net.Uri), com/addressbook/AddressBookActivity/finish(), com/addressbook/AddressBookActivity/startActivity(android.content.Intent), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence]
+
+prob: 0,04545
+[android.content.Context)]
+
+prob: 0,04545
+[java/lang/String/valueOf(java.lang.Object), java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), java/util/StringTokenizer/StringTokenizer(java.lang.String]
+
+prob: 0,04545
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(long), java/util/Calendar/getInstance(), java/lang/StringBuffer/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuffer/toString(), java/util/Calendar/getTimeInMillis(), java/lang/StringBuffer/StringBuffer(java.lang.String]
+
+prob: 0,04545
+[java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/widget/Toast/show()]
+
+prob: 0,04545
+[java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,04545
+[java/lang/String/equalsIgnoreCase(java.lang.String)]
+
+prob: 0,04545
+[android/app/AlertDialog$Builder/show()]
+
+prob: 0,04545
+[android/app/AlertDialog$Builder/setIcon(int), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,04545
+[android/app/AlertDialog$Builder/setIcon(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence)]
+
+prob: 0,04545
+[android/app/AlertDialog$Builder/setIcon(int), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,04545
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,04545
+[android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence)]
+
+prob: 0,04545
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,04545
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,04545
+[android/app/AlertDialog$Builder/setIcon(int)]
+

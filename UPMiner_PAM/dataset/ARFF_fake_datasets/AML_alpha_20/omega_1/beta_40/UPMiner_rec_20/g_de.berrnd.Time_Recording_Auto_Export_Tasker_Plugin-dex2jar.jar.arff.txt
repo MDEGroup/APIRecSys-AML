@@ -1,0 +1,6 @@
+java/lang/String/format(java.lang.String,java.lang.Object[])
+android/content/Intent/putExtra(java.lang.String,java.lang.String)
+java/util/Date/Date(
+de/berrnd/Time_Recording_Auto_Export_Tasker_Plugin/PluginEditActivityPreferencesFragment/getPreferenceScreen()
+android/content/Intent/setType(java.lang.String
+de/berrnd/Time_Recording_Auto_Export_Tasker_Plugin/PluginEditActivityPreferencesFragment/addPreferencesFromResource(int

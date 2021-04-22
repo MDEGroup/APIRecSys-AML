@@ -1,0 +1,8 @@
+java/io/FileOutputStream/close(
+mobi/omegacentauri/FastLaunch/Popup/setContentView(android.view.View
+java/util/List/iterator(
+android/app/AlertDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener
+android/widget/ListView/setAdapter(android.widget.ListAdapter)
+mobi/omegacentauri/FastLaunch/Popup/requestWindowFeature(int)
+android/content/ComponentName/unflattenFromString(java.lang.String)
+android/app/AlertDialog/setMessage(java.lang.CharSequence)

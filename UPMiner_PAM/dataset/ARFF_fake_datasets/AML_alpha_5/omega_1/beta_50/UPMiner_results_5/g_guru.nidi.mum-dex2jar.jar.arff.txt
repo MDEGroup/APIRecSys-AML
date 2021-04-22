@@ -1,0 +1,10 @@
+java/lang/Math/min(float,float)
+java/lang/reflect/Field/getType()
+java/lang/Thread/sleep(long)
+android/net/http/AndroidHttpClient/execute(org.apache.http.client.methods.HttpUriRequest
+android/graphics/Canvas/drawLine(float,float,float,float,android.graphics.Paint
+java/util/List/iterator(
+android/view/LayoutInflater/from(android.content.Context
+java/lang/Class/getDeclaredFields(
+android/view/View/setOnClickListener(android.view.View$OnClickListener)
+android/support/v4/app/FragmentManager/putFragment(android.os.Bundle,java.lang.String,android.support.v4.app.Fragment)

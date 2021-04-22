@@ -1,0 +1,226 @@
+java/util/Iterator/hasNext()  0,07143
+de/grafelhaft/winespray/app/adapter/realm/RunRealmRecyclerViewAdapter/setOnRecyclerViewItemClickListener(de.grafelhaft.grafellib.adapter.OnRecyclerViewItemClickListener), android/support/v7/widget/RecyclerView/setHasFixedSize(boolean), de/grafelhaft/winespray/app/adapter/realm/RunRealmRecyclerViewAdapter/setOnRecyclerViewItemLongClickListener(de.grafelhaft.grafellib.adapter.OnRecyclerViewItemLongClickListener), de/grafelhaft/winespray/model/realm/RealmHelper/findWhereId(java.lang.Class  0,03571
+java/lang/Long/longValue()  0,03571
+int)  0,03571
+de.grafelhaft.winespray.model.DataPoint)  0,03571
+com/yqritc/recyclerviewflexibledivider/HorizontalDividerItemDecoration$Builder/margin(int  0,03571
+java/lang/Long/valueOf(long), java/lang/Integer/parseInt(java.lang.String), java/lang/Integer/valueOf(int), de/grafelhaft/winespray/model/Parcel/toString(), de/grafelhaft/winespray/app/fragment/ParcelDetailFragment/getActivity(), java/lang/Long/parseLong(java.lang.String), java/lang/String/split(java.lang.String), de/grafelhaft/winespray/model/Parcel/setNumerator(java.lang.Long  0,02381
+de/grafelhaft/winespray/model/Parcel/setDenominator(java.lang.Integer)  0,02381
+de/grafelhaft/winespray/app/BaseActivity/getSupportActionBar()  0,02381
+android/support/v7/app/ActionBar/setTitle(java.lang.CharSequence)  0,02381
+de/grafelhaft/winespray/acrecontrol/IPoint/y(), java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), com/google/android/gms/maps/model/LatLng/LatLng(double  0,02381
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), de/grafelhaft/winespray/model/Area/getSize(  0,02381
+java/lang/Integer/intValue()  0,02381
+com/yqritc/recyclerviewflexibledivider/HorizontalDividerItemDecoration$Builder/build(), com/yqritc/recyclerviewflexibledivider/HorizontalDividerItemDecoration$Builder/margin(int  0,02381
+android/widget/Spinner/getSelectedItemPosition(), java/lang/Double/parseDouble(java.lang.String), de/grafelhaft/winespray/model/Acre/getArea(), android/widget/Spinner/getItemAtPosition(int), de/grafelhaft/winespray/model/Area/setSize(double), java/lang/Object/toString(), io/realm/Realm/copyToRealmOrUpdate(io.realm.RealmModel  0,02381
+android/widget/EditText/getText(), de/grafelhaft/winespray/model/Area/setSizeUseful(double), de/grafelhaft/winespray/model/Acre/setDistrict(de.grafelhaft.winespray.model.District)  0,02381
+java/util/List/size()  0,02381
+android/widget/Spinner/setSelection(int)  0,02381
+io/realm/Realm/where(java.lang.Class), io/realm/RealmQuery/findAll()  0,02381
+android/support/v7/widget/LinearLayoutManager/LinearLayoutManager(android.content.Context  0,02381
+java/lang/Object/toString()  0,02381
+android/support/v4/app/FragmentManager/beginTransaction(), android/support/v4/app/FragmentTransaction/replace(int  0,02381
+io/realm/Realm/where(java.lang.Class)  0,02381
+java/util/Iterator/next()  0,02381
+io/realm/Realm/getDefaultInstance()  0,02381
+android/content/pm/PackageManager$NameNotFoundException/printStackTrace(), android/widget/TextView/setText(java.lang.CharSequence)  0,01190
+io/realm/Realm/createObject(java.lang.Class), de/grafelhaft/winespray/model/Acre/setArea(de.grafelhaft.winespray.model.Area), de/grafelhaft/winespray/model/Acre/setName(java.lang.String), de/grafelhaft/winespray/model/Area/setSize(double), io/realm/Realm/getDefaultInstance(), io/realm/Realm/createObject(java.lang.Class  0,01190
+io/realm/Realm/createObject(java.lang.Class), de/grafelhaft/winespray/model/Acre/setArea(de.grafelhaft.winespray.model.Area), de/grafelhaft/winespray/model/Area/setLocations(java.util.List), io/realm/Realm/copyToRealmOrUpdate(io.realm.RealmModel), de/grafelhaft/winespray/acrecontrol/PolygonBuilder/build(), de/grafelhaft/winespray/acrecontrol/PolygonBuilder/setOutput(int), de/grafelhaft/winespray/acrecontrol/PolygonBuilder/PolygonBuilder(java.util.List  0,01190
+io/realm/Realm/copyToRealmOrUpdate(io.realm.RealmModel), de/grafelhaft/winespray/model/Grape/Grape(), de/grafelhaft/winespray/model/realm/RealmHelper/setAutoId(de.grafelhaft.winespray.model.IModel  0,01190
+de/grafelhaft/winespray/acrecontrol/LocationConverter/calcAreaInSquareMeter(java.util.List)  0,01190
+java/util/Iterator/next(), de/grafelhaft/winespray/model/Area/getLocations(), de/grafelhaft/winespray/model/Acre/getName()  0,01190
+android/util/Log/d(java.lang.String  0,01190
+android/app/FragmentTransaction/commit(), de/grafelhaft/winespray/app/SettingsActivity/getFragmentManager(), android/app/FragmentTransaction/replace(int  0,01190
+java/util/regex/Pattern/compile(java.lang.String), android/support/v4/app/FragmentActivity/getSupportFragmentManager(), de/grafelhaft/winespray/app/fragment/ParcelDetailFragment/getActivity(), de/grafelhaft/winespray/app/dialog/RenameDialog/show(android.support.v4.app.FragmentManager  0,01190
+java/util/regex/Pattern/compile(java.lang.String), android/support/v4/app/FragmentActivity/getSupportFragmentManager(), de/grafelhaft/winespray/model/realm/RealmHelper/setAutoId(de.grafelhaft.winespray.model.IModel  0,01190
+android/view/MenuItem/getItemId()  0,01190
+io/realm/RealmResults/where(), io/realm/Realm/getDefaultInstance(), android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/widget/Spinner/setSelection(int), io/realm/RealmQuery/equalTo(java.lang.String  0,01190
+io/realm/RealmQuery/findFirst(), de/grafelhaft/winespray/model/Parcel/getArea()  0,01190
+de/grafelhaft/winespray/model/Parcel/getArea(), android/widget/TextView/setText(java.lang.CharSequence), de/grafelhaft/winespray/model/Parcel/getDenominator(), de/grafelhaft/winespray/model/Parcel/getGrape()  0,01190
+de/grafelhaft/winespray/app/fragment/ParcelDetailFragment/findViewById(int)  0,01190
+java/lang/Thread/sleep(long), de/grafelhaft/winespray/model/Location/Location(android.location.Location), java/lang/Thread/currentThread(), de/grafelhaft/winespray/app/service/AcreControlService$RecordAsyncTask/publishProgress(java.lang.Object[), de/grafelhaft/winespray/app/service/AcreControlService$RecordAsyncTask/isRecording(), java/util/ArrayList/ArrayList(), java/util/List/add(java.lang.Object  0,01190
+java/lang/Thread/setPriority(int)  0,01190
+de/grafelhaft/winespray/app/service/AcreControlService$RecordAsyncTask/getSleepTime()  0,01190
+java/lang/InterruptedException/printStackTrace()  0,01190
+android/content/ComponentName/getClassName(), android/content/Intent/Intent(android.content.Context  0,01190
+de/grafelhaft/winespray/app/RunDetailActivity/getSupportActionBar(), de/grafelhaft/winespray/model/Run/getStartTime()  0,01190
+de/grafelhaft/grafellib/util/TimeUtils/convertTime(long), android/content/Intent/getLongExtra(java.lang.String  0,01190
+de/grafelhaft/winespray/app/RunDetailActivity/getSupportFragmentManager(), android/support/v4/app/FragmentManager/beginTransaction(), android/support/v4/app/FragmentTransaction/replace(int  0,01190
+de/grafelhaft/winespray/app/RunDetailActivity/findViewById(int), android/support/design/widget/BottomSheetBehavior/from(android.view.View), io/realm/Realm/copyFromRealm(java.lang.Iterable), de/grafelhaft/winespray/model/Run/getRoute(), io/realm/Realm/getDefaultInstance(), de/grafelhaft/winespray/app/RunDetailActivity/isTwoPane()  0,01190
+android/os/Bundle/getLong(java.lang.String), de/grafelhaft/winespray/app/fragment/AcreContentFragment/findViewById(int), de/grafelhaft/winespray/app/fragment/AcreContentFragment/getChildFragmentManager()  0,01190
+de/grafelhaft/winespray/app/AcreDetailActivity/getSupportActionBar(), de/grafelhaft/winespray/model/Acre/setArea(de.grafelhaft.winespray.model.Area), de/grafelhaft/winespray/app/AcreDetailActivity/findViewById(int), android/os/Bundle/getLong(java.lang.String  0,01190
+de/grafelhaft/winespray/app/AcreDetailActivity/setContentView(int), android/support/v7/app/ActionBar/setHomeButtonEnabled(boolean), android/view/View/setOnClickListener(android.view.View$OnClickListener), de/grafelhaft/winespray/app/AcreDetailActivity/getString(int)  0,01190
+de/grafelhaft/winespray/app/AcreDetailActivity/getSupportFragmentManager(), android/support/v4/app/FragmentManager/beginTransaction(), android/support/v4/app/FragmentTransaction/replace(int  0,01190
+android/support/design/widget/BottomSheetBehavior/setHideable(boolean), android/support/design/widget/BottomSheetBehavior/setState(int), android/support/design/widget/BottomSheetBehavior/setPeekHeight(int)  0,01190
+de/grafelhaft/winespray/app/AcreDetailActivity/getResources(), de/grafelhaft/winespray/app/AcreDetailActivity/findViewById(int), android/support/design/widget/BottomSheetBehavior/from(android.view.View)  0,01190
+de/grafelhaft/winespray/app/ParcelListActivity/getSupportFragmentManager()  0,01190
+de/grafelhaft/winespray/app/dialog/RenameDialog/getActivity()  0,01190
+android/support/v7/app/AlertDialog$Builder/create()  0,01190
+android/widget/EditText/addTextChangedListener(android.text.TextWatcher)  0,01190
+android/support/v7/app/AlertDialog$Builder/setNegativeButton(int  0,01190
+de/grafelhaft/winespray/app/adapter/realm/RunRealmRecyclerViewAdapter/setOnRecyclerViewItemClickListener(de.grafelhaft.grafellib.adapter.OnRecyclerViewItemClickListener), de/grafelhaft/winespray/model/Acre/isManaged(), io/realm/RealmQuery/equalTo(java.lang.String  0,01190
+de/grafelhaft/winespray/app/fragment/SessionDetailFragment/getActivity()  0,01190
+de/grafelhaft/winespray/app/fragment/SessionDetailFragment/findViewById(int)  0,01190
+de/grafelhaft/winespray/app/fragment/RouteFragment/getResources(), com/google/android/gms/maps/GoogleMap/addPolyline(com.google.android.gms.maps.model.PolylineOptions), com/google/android/gms/maps/model/PolylineOptions/PolylineOptions(), android/location/Location/getLatitude(), com/google/android/gms/maps/CameraUpdateFactory/newLatLngZoom(com.google.android.gms.maps.model.LatLng  0,01190
+com/google/android/gms/maps/GoogleMap/moveCamera(com.google.android.gms.maps.CameraUpdate)  0,01190
+de/grafelhaft/winespray/acrecontrol/Point/Point(double  0,01190
+java/util/ArrayList/ArrayList(int), io/realm/Realm/getDefaultInstance()  0,01190
+de/grafelhaft/winespray/app/fragment/RunListFragment/getActivity()  0,01190
+de/grafelhaft/winespray/app/fragment/RunListFragment/findViewById(int)  0,01190
+de/grafelhaft/winespray/model/Location/getLatitude()  0,01190
+com/google/android/gms/maps/model/PolygonOptions/addAll(java.lang.Iterable)  0,01190
+java/util/List/size(), java/util/Iterator/next(), io/realm/RealmObject/isManaged(  0,01190
+de/grafelhaft/winespray/app/fragment/MapFragment/getResources(), com/google/android/gms/maps/model/PolylineOptions/color(int)  0,01190
+com/google/android/gms/maps/model/PolygonOptions/fillColor(int)  0,01190
+com/google/android/gms/maps/GoogleMap/addPolygon(com.google.android.gms.maps.model.PolygonOptions)  0,01190
+com/google/android/gms/maps/model/PolygonOptions/PolygonOptions()  0,01190
+com/google/android/gms/maps/model/PolygonOptions/zIndex(float  0,01190
+com/google/android/gms/maps/model/PolylineOptions/zIndex(float), com/google/android/gms/maps/model/PolylineOptions/PolylineOptions()  0,01190
+com/google/android/gms/maps/model/PolylineOptions/addAll(java.lang.Iterable  0,01190
+com/google/maps/android/heatmaps/HeatmapTileProvider$Builder/build()  0,01190
+com/google/maps/android/heatmaps/HeatmapTileProvider$Builder/weightedData(java.util.Collection)  0,01190
+com/google/android/gms/maps/GoogleMap/addTileOverlay(com.google.android.gms.maps.model.TileOverlayOptions)  0,01190
+com/google/android/gms/maps/model/TileOverlayOptions/tileProvider(com.google.android.gms.maps.model.TileProvider), de/grafelhaft/winespray/app/fragment/MapFragment/isAdded()  0,01190
+com/google/maps/android/heatmaps/HeatmapTileProvider$Builder/gradient(com.google.maps.android.heatmaps.Gradient)  0,01190
+com/google/android/gms/maps/model/TileOverlayOptions/zIndex(float)  0,01190
+com/google/android/gms/maps/model/TileOverlayOptions/TileOverlayOptions()  0,01190
+com/google/maps/android/heatmaps/HeatmapTileProvider$Builder/HeatmapTileProvider$Builder(  0,01190
+de/grafelhaft/winespray/model/Grape/setColor(java.lang.String)  0,01190
+de/grafelhaft/winespray/app/ActiveRunActivity/getResources()  0,01190
+android/view/Window/addFlags(int)  0,01190
+de/grafelhaft/winespray/acrecontrol/IPoint/y(), android/location/Location/getLongitude(), java/util/List/get(int), android/location/Location/getLatitude()  0,01190
+com/luseen/spacenavigation/SpaceNavigationView/setCentreButtonColor(int)  0,01190
+boolean)  0,01190
+de/grafelhaft/winespray/app/fragment/AcreDetailFragment/startActivity(android.content.Intent), android/content/Intent/putExtra(java.lang.String  0,01190
+android/widget/EditText/setText(java.lang.CharSequence)  0,01190
+de/grafelhaft/winespray/model/Acre/getDistrict()  0,01190
+de/grafelhaft/winespray/model/Area/getSize(), de/grafelhaft/winespray/app/fragment/AcreDetailFragment/findViewById(int), de/grafelhaft/winespray/model/Area/getSizeUseful(), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,01190
+de/grafelhaft/winespray/model/Parcel/getGrape(), io/realm/Realm/executeTransaction(io.realm.Realm$Transaction), de/grafelhaft/winespray/model/parser/DataSet/getAcres(), java/util/Iterator/next(), java/util/List/iterator(), de/grafelhaft/winespray/model/realm/RealmHelper/findWhereId(java.lang.Class  0,01190
+de/grafelhaft/winespray/model/Grape/getId()  0,01190
+de/grafelhaft/winespray/model/Acre/getParcels()  0,01190
+de/grafelhaft/winespray/app/fragment/importer/CreateAcreFragment/findViewById(int)  0,01190
+de/grafelhaft/winespray/app/fragment/importer/CreateAcreFragment/setRetainInstance(boolean)  0,01190
+android/support/v7/widget/Toolbar/inflateMenu(int)  0,01190
+de/grafelhaft/winespray/app/adapter/AcreRecyclerViewAdapter/setOnRecyclerViewItemLongClickListener(de.grafelhaft.grafellib.adapter.OnRecyclerViewItemLongClickListener), android/support/v7/widget/LinearLayoutManager/LinearLayoutManager(android.content.Context  0,01190
+de/grafelhaft/winespray/model/Session/getStartTime(), android/support/v4/app/FragmentManager/beginTransaction(), android/support/v4/app/FragmentTransaction/replace(int  0,01190
+de/grafelhaft/winespray/model/Parcel/getNumerator()  0,01190
+de/grafelhaft/winespray/model/Grape/getName()  0,01190
+android/widget/TextView/setVisibility(int), java/lang/StringBuilder/append(java.lang.Object)  0,01190
+de/grafelhaft/winespray/model/Acre/toString()  0,01190
+de/grafelhaft/winespray/acrecontrol/Polygon/area(), de/grafelhaft/winespray/model/Acre/getArea()  0,01190
+io/realm/RealmResults/first(), io/realm/RealmQuery/equalTo(java.lang.String  0,01190
+java.lang.String  0,01190
+android/os/Looper/getMainLooper()  0,01190
+de/grafelhaft/winespray/model/Session/getRuns()  0,01190
+org/json/JSONObject/toString()  0,01190
+de/grafelhaft/winespray/model/Run/toJSON()  0,01190
+de/grafelhaft/winespray/model/Session/getId()  0,01190
+org/json/JSONException/printStackTrace()  0,01190
+android/app/TaskStackBuilder/addParentStack(java.lang.Class), android/content/res/Resources/getColor(int)  0,01190
+android/app/PendingIntent/getService(android.content.Context  0,01190
+java/io/BufferedReader/close()  0,01190
+int  0,01190
+de/grafelhaft/winespray/app/adapter/realm/SessionRealmRecyclerViewAdapter/setOnRecyclerViewItemLongClickListener(de.grafelhaft.grafellib.adapter.OnRecyclerViewItemLongClickListener), android/support/v7/widget/LinearLayoutManager/LinearLayoutManager(android.content.Context  0,01190
+java/io/IOException/printStackTrace()  0,01190
+android/os/Environment/getExternalStorageDirectory()  0,01190
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(float)  0,01190
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), de/grafelhaft/grafellib/util/TimeUtils/convertTime(long)  0,01190
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.Object)  0,01190
+java/lang/StringBuilder/append(java.lang.String), android/os/Bundle/getLong(java.lang.String  0,01190
+java/io/File/exists()  0,01190
+de/grafelhaft/winespray/app/AboutActivity/getSupportActionBar()  0,01190
+java/io/File/File(java.lang.String)  0,01190
+java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,01190
+java/io/BufferedReader/BufferedReader(java.io.Reader)  0,01190
+java/io/BufferedReader/readLine()  0,01190
+java/lang/String/contains(java.lang.CharSequence)  0,01190
+java/io/FileReader/FileReader(java.io.File)  0,01190
+java/io/File/getPath(  0,01190
+android/support/v4/app/FragmentManager/beginTransaction(), android/content/Intent/Intent(android.content.Context  0,01190
+de/grafelhaft/winespray/app/AboutActivity/setContentView(int)  0,01190
+de/grafelhaft/winespray/model/realm/RealmHelper/findAll(java.lang.Class), io/realm/RealmResults/iterator(), java/util/Iterator/hasNext()  0,01190
+io/realm/RealmResults/iterator(), de/grafelhaft/winespray/model/Run/getStartTime(), java/util/Iterator/next(), java/lang/StringBuilder/append(java.lang.Object), android/os/Handler/Handler(android.os.Looper), io/realm/Realm/getDefaultInstance(), io/realm/Realm/where(java.lang.Class)  0,01190
+de/grafelhaft/winespray/model/Area/centroid()  0,01190
+com/yqritc/recyclerviewflexibledivider/HorizontalDividerItemDecoration$Builder/build(), java/util/ArrayList/ArrayList()  0,01190
+de/grafelhaft/winespray/app/fragment/NoteListFragment/findViewById(int)  0,01190
+android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,01190
+java/util/ArrayList/ArrayList(), de/grafelhaft/winespray/app/adapter/SelectParcelRecyclerViewAdapter/toggleSelection(android.view.View  0,01190
+java/util/ArrayList/ArrayList(), android/content/Intent/createChooser(android.content.Intent  0,01190
+java/util/ArrayList/ArrayList(), de/grafelhaft/grafellib/util/TimeUtils/formatDate(java.util.Date  0,01190
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/List/add(java.lang.Object), com/google/android/gms/maps/model/LatLng/LatLng(double  0,01190
+de/grafelhaft/winespray/app/ParcelDetailActivity/getIntent()  0,01190
+de.grafelhaft.winespray.model.Session)  0,01190
+android/support/v7/app/AlertDialog$Builder/setNeutralButton(int  0,01190
+android/view/View/setOnClickListener(android.view.View$OnClickListener), de/grafelhaft/winespray/app/adapter/AcreRecyclerViewAdapter/setOnRecyclerViewItemClickListener(de.grafelhaft.grafellib.adapter.OnRecyclerViewItemClickListener)  0,01190
+android/view/View/setOnClickListener(android.view.View$OnClickListener), de/grafelhaft/grafellib/view/ExtendedViewPager/setAdapter(android.support.v4.view.PagerAdapter)  0,01190
+de/grafelhaft/winespray/app/ftu/WelcomeFtuFragment/setOnStepReadyListener(de.grafelhaft.grafellib.fragment.OnStepReadyListener)  0,01190
+de/grafelhaft/grafellib/view/TabLayout/setupWithViewPager(android.support.v4.view.ViewPager)  0,01190
+de/grafelhaft/grafellib/view/ExtendedViewPager/setAdapter(android.support.v4.view.PagerAdapter), de/grafelhaft/winespray/model/realm/RealmHelper/setAutoId(de.grafelhaft.winespray.model.IModel  0,01190
+de/grafelhaft/grafellib/adapter/ViewStatePagerAdapter/ViewStatePagerAdapter(android.support.v4.app.FragmentManager  0,01190
+com/google/android/gms/maps/GoogleMap/getCameraPosition()  0,01190
+io/realm/Realm/copyFromRealm(io.realm.RealmModel), de/grafelhaft/winespray/model/Run/getDataPoints()  0,01190
+com/google/android/gms/maps/GoogleMap/animateCamera(com.google.android.gms.maps.CameraUpdate), com/google/android/gms/maps/model/Polyline/getPoints()  0,01190
+com/google/android/gms/maps/GoogleMap/animateCamera(com.google.android.gms.maps.CameraUpdate), com/google/android/gms/maps/CameraUpdateFactory/newLatLngZoom(com.google.android.gms.maps.model.LatLng  0,01190
+android/location/Location/getLongitude(), java/lang/StringBuilder/append(double), android/location/Location/getAccuracy(), android/location/Location/getSpeed()  0,01190
+android/location/Location/getLongitude(), com/google/android/gms/maps/model/PolylineOptions/color(int)  0,01190
+java/util/List/get(int), io/realm/RealmQuery/findAll()  0,01190
+de/grafelhaft/winespray/acrecontrol/IPoint/x()  0,01190
+android/content/res/Resources/getColor(int), java/util/Iterator/next(), com/google/android/gms/maps/UiSettings/setZoomControlsEnabled(boolean), java/util/Iterator/hasNext(), com/google/android/gms/maps/model/Polyline/setPoints(java.util.List)  0,01190
+android/content/res/Resources/getColor(int), com/google/android/gms/maps/model/PolygonOptions/strokeColor(int), de/grafelhaft/winespray/app/fragment/MapFragment/getResources(), java/util/List/get(int)  0,01190
+android/content/res/Resources/getColor(int), de/grafelhaft/winespray/app/fragment/MapFragment/isAdded(), java/util/List/get(int), com/google/android/gms/maps/GoogleMap/addPolyline(com.google.android.gms.maps.model.PolylineOptions)  0,01190
+android/content/res/Resources/getColor(int), de/grafelhaft/grafellib/util/PrefUtils/readBooleanPref(android.content.Context  0,01190
+android/content/res/Resources/getColor(int), com/google/android/gms/maps/model/Polyline/setPoints(java.util.List), com/google/android/gms/maps/model/LatLng/LatLng(double  0,01190
+com/google/android/gms/maps/CameraUpdateFactory/newLatLng(com.google.android.gms.maps.model.LatLng), java/util/Iterator/next(), java/util/List/add(java.lang.Object), de/grafelhaft/winespray/model/Run/getRoute(), java/util/Iterator/hasNext(), com/google/android/gms/maps/model/LatLng/LatLng(double  0,01190
+io/realm/Realm/getDefaultInstance(), de/grafelhaft/winespray/model/DataPoint/getLocation(), de/grafelhaft/winespray/acrecontrol/PolygonBuilder/build(), java/util/Iterator/next(), de/grafelhaft/winespray/model/DataPoint/isManaged(), java/util/List/add(java.lang.Object), java/util/List/iterator()  0,01190
+io/realm/Realm/getDefaultInstance(), de/grafelhaft/grafellib/fragment/BaseFragment/onOptionsItemSelected(android.view.MenuItem)  0,01190
+io/realm/Realm/getDefaultInstance(), de/grafelhaft/winespray/app/AcreDetailActivity/getIntent()  0,01190
+io/realm/Realm/getDefaultInstance(), de/grafelhaft/winespray/app/fragment/AcreDetailFragment/getActivity(), android/widget/ArrayAdapter/getPosition(java.lang.Object), de/grafelhaft/winespray/model/Acre/getArea()  0,01190
+io/realm/Realm/getDefaultInstance(), com/google/android/gms/maps/model/Polyline/setPoints(java.util.List)  0,01190
+java.util.List)  0,01190
+de/grafelhaft/winespray/app/fragment/RunDetailFragment/getString(int  0,01190
+android/widget/ArrayAdapter/setDropDownViewResource(int), io/realm/Realm/getDefaultInstance(), android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,01190
+de/grafelhaft/winespray/model/Run/getAcre()  0,01190
+de/grafelhaft/winespray/model/Run/hasAcre()  0,01190
+de/grafelhaft/winespray/app/fragment/RunDetailFragment/getActivity()  0,01190
+java/lang/StringBuilder/append(int)  0,01190
+android/widget/TextView/setText(int)  0,01190
+de/grafelhaft/winespray/app/viewholder/AcreViewHolder/getAdapterPosition()  0,01190
+de/grafelhaft/winespray/model/Run/setAcre(de.grafelhaft.winespray.model.Acre)  0,01190
+de/grafelhaft/winespray/model/Area/equals(java.lang.Object)  0,01190
+de/grafelhaft/winespray/model/Acre/getArea(  0,01190
+android/content/Intent/putExtra(java.lang.String  0,01190
+io/realm/Realm/executeTransaction(io.realm.Realm$Transaction)  0,01190
+de/grafelhaft/winespray/acrecontrol/PolygonBuilder/setOutput(int)  0,01190
+android/support/design/widget/BottomSheetBehavior/setState(int), android/support/design/widget/BottomSheetBehavior/setPeekHeight(int)  0,01190
+com/google/android/gms/maps/model/Polyline/getPoints()  0,01190
+de/grafelhaft/winespray/app/fragment/AcreDetailFragment/getActivity()  0,01190
+de/grafelhaft/winespray/model/Area/getSize()  0,01190
+de/grafelhaft/winespray/model/Area/getSizeUseful()  0,01190
+de/grafelhaft/winespray/model/realm/RealmHelper/findAll(java.lang.Class)  0,01190
+de/grafelhaft/winespray/model/Acre/getName()  0,01190
+java/util/ArrayList/ArrayList(), io/realm/Realm/getDefaultInstance(), de/grafelhaft/winespray/model/Run/getDataPoints(), de/grafelhaft/winespray/acrecontrol/PolygonBuilder/PolygonBuilder(java.util.List  0,01190
+com/google/android/gms/maps/CameraUpdateFactory/newLatLng(com.google.android.gms.maps.model.LatLng)  0,01190
+io/realm/Realm/copyFromRealm(io.realm.RealmModel)  0,01190
+android/widget/ArrayAdapter/setDropDownViewResource(int)  0,01190
+android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener)  0,01190
+android/widget/ArrayAdapter/getPosition(java.lang.Object)  0,01190
+android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter)  0,01190
+java/util/Iterator/hasNext(), io/realm/RealmResults/iterator(), io/realm/Realm/where(java.lang.Class)  0,01190
+de/grafelhaft/winespray/model/Parcel/toString()  0,01190
+io/realm/Realm/copyToRealmOrUpdate(io.realm.RealmModel)  0,01190
+de/grafelhaft/winespray/acrecontrol/PolygonBuilder/build()  0,01190
+java/util/List/iterator()  0,01190
+de/grafelhaft/winespray/acrecontrol/PolygonBuilder/PolygonBuilder(java.util.List  0,01190
+de/grafelhaft/winespray/app/fragment/MapFragment/isAdded()  0,01190
+android/widget/TextView/setText(java.lang.CharSequence)  0,01190
+android/location/Location/getLatitude()  0,01190
+android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,01190
+android/widget/Spinner/getSelectedItemPosition(), java/lang/Double/parseDouble(java.lang.String)  0,01190
+de/grafelhaft/winespray/model/Area/setSizeUseful(double)  0,01190
+de/grafelhaft/winespray/model/Run/getDataPoints()  0,01190
+java/util/List/add(java.lang.Object)  0,01190
+io/realm/RealmQuery/findAll()  0,01190
+java/util/List/get(int)  0,01190
+de/grafelhaft/winespray/model/Acre/getArea()  0,01190
+com/google/android/gms/maps/model/LatLng/LatLng(double  0,01190
+java/util/ArrayList/ArrayList()  0,01190

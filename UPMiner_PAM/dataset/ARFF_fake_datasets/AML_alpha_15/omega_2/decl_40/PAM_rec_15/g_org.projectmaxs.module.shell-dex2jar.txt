@@ -1,0 +1,60 @@
+android.os.Parcel  0,12500
+java.lang.String)  0,12500
+java.lang.String  0,06250
+long  0,06250
+android.content.Intent)  0,06250
+java/util/ArrayList/ArrayList(), android/content/ContentResolver/query(android.net.Uri  0,06250
+java/lang/StringBuilder/append(java.lang.Object)  0,06250
+android/util/Log/getStackTraceString(java.lang.Throwable)  0,06250
+android/net/Uri/encode(java.lang.String)  0,06250
+java/util/List/size(), java/io/BufferedReader/readLine(), java/util/List/get(int), java/util/logging/Logger/log(java.util.logging.Level  0,03125
+java/util/List/size(), java/util/List/get(int), java/lang/StringBuilder/append(int), java/util/logging/Logger/log(java.util.logging.Level  0,03125
+java/io/DataOutputStream/flush(), java/lang/StringBuilder/toString(), java/io/DataOutputStream/close()  0,03125
+java.util.ArrayList  0,03125
+java/lang/Double/toString(double), java/lang/StringBuilder/StringBuilder(), android/location/Location/getAltitude(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), android/location/Location/getTime(  0,03125
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/util/logging/LogRecord/getThrown(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/util/logging/Level/intValue(  0,03125
+java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getParcelableExtra(java.lang.String), android/content/Intent/getAction()  0,03125
+android/location/Location/getLongitude()  0,03125
+android/location/Location/hasAltitude()  0,03125
+java/lang/Float/toString(float)  0,03125
+android/location/Location/getLatitude()  0,03125
+java/util/ArrayList/ArrayList(int)  0,03125
+android/location/Location/getProvider()  0,03125
+android/location/Location/hasSpeed()  0,03125
+android/location/Location/getAccuracy()  0,03125
+android/location/Location/getSpeed()  0,03125
+java/lang/Long/toString(long)  0,03125
+android/location/Location/hasAccuracy()  0,03125
+java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), android/os/HandlerThread/start(  0,03125
+java.lang.CharSequence  0,03125
+java.lang.String[  0,03125
+java.io.Reader)  0,03125
+java.io.Writer  0,03125
+long)  0,03125
+java/util/ArrayList/ArrayList(), java/util/logging/Logger/log(java.util.logging.Level  0,03125
+java/lang/String/getBytes()  0,03125
+java/lang/Double/valueOf(double), java/lang/String/format(java.lang.String  0,03125
+java/lang/Throwable/getMessage()  0,03125
+java/lang/String/isEmpty()  0,03125
+java/lang/Integer/toString(int)  0,03125
+java/util/Map/get(java.lang.Object)  0,03125
+java/lang/System/getProperty(java.lang.String)  0,03125
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,03125
+java/lang/Class/forName(java.lang.String)  0,03125
+java/lang/Integer/intValue()  0,03125
+android/os/HandlerThread/HandlerThread(java.lang.String)  0,03125
+org/projectmaxs/shared/module/MAXSModuleIntentService/getString(int)  0,03125
+org/projectmaxs/shared/module/MAXSModuleIntentService/getPackageName()  0,03125
+android/os/HandlerThread/getLooper()  0,03125
+android/app/Service/onCreate()  0,03125
+java/lang/Class/getField(java.lang.String)  0,03125
+java/lang/reflect/Field/get(java.lang.Object)  0,03125
+org/projectmaxs/shared/global/jul/JULHandler$1/formatMessage(java.util.logging.LogRecord)  0,03125
+java/util/logging/LogRecord/getLevel()  0,03125
+java/util/Map/put(java.lang.Object  0,03125
+int  0,03125
+java/lang/String/split(java.lang.String)  0,03125
+java/lang/String/indexOf(java.lang.String)  0,03125
+java/lang/StringBuilder/append(java.lang.String)  0,03125
+java/lang/StringBuilder/StringBuilder()  0,03125
+java/lang/StringBuilder/toString()  0,03125

@@ -1,0 +1,31 @@
+java/lang/Math/min(float  0,11538
+android/util/Log/v(java.lang.String  0,07692
+boolean)  0,07692
+java/lang/StringBuilder/append(java.lang.Object)  0,07692
+android/app/AlertDialog/show(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,03846
+com/google/android/apps/markers/ToolButton$ZoomToolButton/getWidth(), android/graphics/RectF/set(float  0,03846
+android/graphics/Paint/setColor(int), android/graphics/Canvas/getHeight(), android/graphics/Rect/Rect(int  0,03846
+android/graphics/Canvas/concat(android.graphics.Matrix), android/graphics/Canvas/translate(float  0,03846
+android/view/MotionEvent/getY(int), android/view/MotionEvent/getHistoricalX(int  0,03846
+java/io/OutputStream/close(), java/lang/StringBuilder/append(java.lang.String), java/io/File/exists(), android/graphics/Bitmap/compress(android.graphics.Bitmap$CompressFormat  0,03846
+java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/show(), android/util/Log/e(java.lang.String  0,03846
+float  0,03846
+com/google/android/apps/markers/ToolButton$PenToolButton/getPaddingRight(), android/content/res/ColorStateList/getColorForState(int[  0,03846
+float)  0,03846
+android/view/View/setBackgroundDrawable(android.graphics.drawable.Drawable), android/app/Dialog/getWindow(), android/view/Window/clearFlags(int), android/view/Window/setWindowAnimations(int), android/view/Window/getAttributes(), android/app/Dialog/Dialog(android.content.Context), com/google/android/apps/markers/MarkersActivity/getSystemService(java.lang.String), android/view/View/getRootView(), com/google/android/apps/markers/MarkersActivity/getResources(), android/view/Window/setGravity(int), android/app/Dialog/setCanceledOnTouchOutside(boolean), android/view/Window/requestFeature(int), android/content/res/Resources/getDimensionPixelOffset(int), android/view/Window/setAttributes(android.view.WindowManager$LayoutParams), android/view/View/setPadding(int  0,03846
+android.net.Uri)  0,03846
+com/google/android/apps/markers/ToolButton$PenTypeButton/getPaddingRight(), android/content/res/ColorStateList/getColorForState(int[  0,03846
+android/content/Intent/getAction(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/d(java.lang.String  0,03846
+java/lang/String/equals(java.lang.Object), android/content/Intent/getExtras(), com/google/android/apps/markers/MarkersActivity/getIntent(), android/content/Intent/getParcelableExtra(java.lang.String), android/app/Activity/onStart(), java/lang/StringBuilder/StringBuilder()  0,03846
+android/graphics/Typeface/create(java.lang.String  0,03846
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Set/iterator(), java/lang/StringBuilder/toString(), android/os/Bundle/keySet(  0,03846
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog/show(), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context  0,03846
+android/os/Bundle/get(java.lang.String)  0,03846
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,03846
+java/util/Iterator/next()  0,03846
+android/content/Intent/putExtra(java.lang.String  0,03846
+com/google/android/apps/markers/ToolButton$SwatchButton/isPressed(), android/graphics/Paint/setColor(int), android/graphics/drawable/Drawable/draw(android.graphics.Canvas), com/google/android/apps/markers/ToolButton$SwatchButton/getHeight(), android/graphics/Paint/setStrokeWidth(float), com/google/android/apps/markers/ToolButton$SwatchButton/getPaddingLeft(), android/graphics/Canvas/drawColor(int), android/graphics/Paint/setStyle(android.graphics.Paint$Style), android/graphics/Canvas/drawRect(float  0,03846
+android/graphics/Canvas/getClipBounds()  0,03846
+android/app/AlertDialog$Builder/setCancelable(boolean), android/widget/ImageView/ImageView(android.content.Context), android/app/AlertDialog$Builder/setView(android.view.View)  0,03846
+java/lang/StringBuilder/toString()  0,03846
+java/lang/StringBuilder/StringBuilder()  0,03846

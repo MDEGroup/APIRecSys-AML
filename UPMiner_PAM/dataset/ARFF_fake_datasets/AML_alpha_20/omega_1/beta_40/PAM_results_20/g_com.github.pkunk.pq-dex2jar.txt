@@ -1,0 +1,138 @@
+prob: 0,20690
+[org.api.fake]
+
+prob: 0,20690
+[java/util/Iterator/next()]
+
+prob: 0,10345
+[java.lang.String[]]
+
+prob: 0,10345
+[java/util/Map$Entry/getValue()]
+
+prob: 0,06897
+[java.lang.String]
+
+prob: 0,06897
+[android/widget/TableLayout/addView(android.view.View)]
+
+prob: 0,06897
+[com/github/pkunk/pq/ui/PhoneGameplayActivity/findViewById(int)]
+
+prob: 0,06897
+[java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,06897
+[java/util/Set/iterator()]
+
+prob: 0,03448
+[java/lang/StringBuilder/StringBuilder(), com/github/pkunk/pq/c/c/get(int), com/github/pkunk/pq/a/h/add(java.lang.Object), java/lang/Math/abs(int), com/github/pkunk/pq/a/h/size(), com/github/pkunk/pq/a/h/remove(), com/github/pkunk/pq/c/c/size(]
+
+prob: 0,03448
+[java/util/Iterator/hasNext(), com/github/pkunk/pq/a/d/size(), java/util/Map$Entry/getValue(]
+
+prob: 0,03448
+[java/util/Iterator/hasNext(), java/util/List/size(), java/util/List/toArray(java.lang.Object[]), java/lang/String/indexOf(java.lang.String), java/util/Set/iterator(), java/util/List/add(java.lang.Object), java/util/Map/put(java.lang.Object]
+
+prob: 0,03448
+[java/util/Iterator/hasNext(), com/github/pkunk/pq/c/c/size(), java/util/Iterator/next(), android/widget/RadioButton/setOnClickListener(android.view.View$OnClickListener), android/widget/RadioGroup/addView(android.view.View), android/view/ViewGroup/addView(android.view.View), com/github/pkunk/pq/c/c/iterator(]
+
+prob: 0,03448
+[java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence]
+
+prob: 0,03448
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(]
+
+prob: 0,03448
+[java/util/Map$Entry/getKey(), android/widget/TableLayout/getContext(), java/util/Map/entrySet(), java/util/Iterator/hasNext(), android/widget/TableLayout/removeAllViews(), android/widget/ScrollView/fullScroll(int), java/util/Set/iterator(]
+
+prob: 0,03448
+[java/util/Map$Entry/getKey(), java/util/Iterator/next(]
+
+prob: 0,03448
+[java/lang/String/toLowerCase(java.util.Locale)]
+
+prob: 0,03448
+[android/widget/TextView/getTextSize(), android/widget/ImageView/ImageView(android.content.Context), com/github/pkunk/pq/ui/view/a/setBackgroundColor(int), android/widget/TextView/setTextColor(int), android/widget/RelativeLayout$LayoutParams/addRule(int]
+
+prob: 0,03448
+[java.lang.String)]
+
+prob: 0,03448
+[java/util/ArrayList/ArrayList(int), java/util/List/add(java.lang.Object), com/github/pkunk/pq/a/d/entrySet(), java/util/Map$Entry/getKey(), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,03448
+[java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/append(int), java/util/List/add(java.lang.Object), java/util/Iterator/hasNext(), java/util/Iterator/next()]
+
+prob: 0,03448
+[java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/append(int), java/util/List/add(java.lang.Object), java/util/Iterator/hasNext(), com/github/pkunk/pq/a/j/size(), java/util/Map$Entry/getKey(), com/github/pkunk/pq/a/j/entrySet(), java/util/Set/iterator(]
+
+prob: 0,03448
+[android.appwidget.AppWidgetManager]
+
+prob: 0,03448
+[boolean]
+
+prob: 0,03448
+[java/util/Queue/iterator()]
+
+prob: 0,03448
+[java/lang/Integer/valueOf(java.lang.String)]
+
+prob: 0,03448
+[java/lang/Integer/toString(), java/util/Iterator/hasNext(), android/widget/TableLayout/removeAllViews(), android/widget/ScrollView/fullScroll(int)]
+
+prob: 0,03448
+[android/widget/TabWidget/getChildAt(int), android/widget/TextView/setTextColor(int), android/view/View/findViewById(int), android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence), android/widget/TabHost/addTab(android.widget.TabHost$TabSpec), com/github/pkunk/pq/ui/PhoneGameplayActivity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), android/widget/TabHost/setCurrentTab(int), android/widget/TabHost/getTabWidget(]
+
+prob: 0,03448
+[android/widget/TabWidget/getChildCount(), android/widget/TabHost/newTabSpec(java.lang.String), android/widget/TabHost$TabSpec/setContent(int)]
+
+prob: 0,03448
+[java/lang/Integer/intValue(), java/util/Iterator/hasNext(), com/github/pkunk/pq/a/k/get(int), java/lang/String/equals(java.lang.Object), java/util/Set/iterator(), java/util/Map$Entry/getValue(), com/github/pkunk/pq/a/d/entrySet(), java/util/Map$Entry/getKey(]
+
+prob: 0,03448
+[java/lang/Integer/intValue(), java/util/Map$Entry/getValue(]
+
+prob: 0,03448
+[java/lang/Integer/intValue(), java/lang/Math/floor(double), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/length(), com/github/pkunk/pq/a/d/get(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/Queue/poll(), java/util/Queue/size(), java/lang/String/contains(java.lang.CharSequence), com/github/pkunk/pq/a/d/remove(java.lang.Object]
+
+prob: 0,03448
+[java/lang/Integer/intValue(), java/lang/String/split(java.lang.String), java/util/Iterator/hasNext(), java/util/Queue/add(java.lang.Object), java/util/List/iterator(), java/lang/String/equals(java.lang.Object), java/util/LinkedList/LinkedList(]
+
+prob: 0,03448
+[com/github/pkunk/pq/a/k/get(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(), java/util/Set/iterator(), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,03448
+[com/github/pkunk/pq/a/j/size()]
+
+prob: 0,03448
+[com/github/pkunk/pq/a/j/entrySet()]
+
+prob: 0,03448
+[com/github/pkunk/pq/a/d/size()]
+
+prob: 0,03448
+[android/widget/TableLayout/getContext()]
+
+prob: 0,03448
+[java/util/Map/entrySet()]
+
+prob: 0,03448
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,03448
+[java/util/ArrayList/ArrayList(int), java/util/List/add(java.lang.Object)]
+
+prob: 0,03448
+[java/lang/StringBuilder/toString()]
+
+prob: 0,03448
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03448
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,03448
+[java/util/Iterator/hasNext()]
+

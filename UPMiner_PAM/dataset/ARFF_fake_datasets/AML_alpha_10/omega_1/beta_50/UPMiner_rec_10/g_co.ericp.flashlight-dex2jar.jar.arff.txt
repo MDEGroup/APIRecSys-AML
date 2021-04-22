@@ -1,0 +1,10 @@
+android/support/v4/widget/NestedScrollView/getHeight()
+java/util/List/size()
+org.api.fake
+android/view/View/getLayoutParams()
+android/graphics/Path/rLineTo(float,float)
+android/support/v4/widget/NestedScrollView/getScrollX()
+java/lang/StringBuilder/append(java.lang.String)
+android/content/ComponentName/flattenToShortString()
+android/support/v7/widget/v/getPaddingTop()
+java/lang/Math/max(int,int)

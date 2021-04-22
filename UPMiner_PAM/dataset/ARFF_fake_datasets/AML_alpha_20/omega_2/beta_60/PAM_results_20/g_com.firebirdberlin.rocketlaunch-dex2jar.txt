@@ -1,0 +1,48 @@
+prob: 0,21053
+[org.api.fake]
+
+prob: 0,21053
+[org.rand.api]
+
+prob: 0,15789
+[java.lang.String)]
+
+prob: 0,05263
+[android/util/Log/w(java.lang.String]
+
+prob: 0,05263
+[java/lang/Character/toUpperCase(char), java/lang/CharSequence/length(), java/lang/Character/toString(char), java/lang/Integer/valueOf(int), java/lang/CharSequence/charAt(int), java/util/HashMap/HashMap(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,05263
+[android/content/IntentFilter/addAction(java.lang.String), android/widget/EditText/setImeOptions(int), android/widget/EditText/setSingleLine(), android/app/Activity/onCreate(android.os.Bundle), android/widget/EditText/setEnabled(boolean), com/firebirdberlin/rocketlaunch/RocketLaunch/findViewById(int), android/app/ActionBar/setDisplayShowHomeEnabled(boolean), android/app/ActionBar/setDisplayShowTitleEnabled(boolean), android/content/IntentFilter/addDataScheme(java.lang.String), android/widget/EditText/setImeActionLabel(java.lang.CharSequence]
+
+prob: 0,05263
+[android/widget/Filter$FilterResults/Filter$FilterResults(), java/lang/CharSequence/length(), java/lang/String/toLowerCase(), java/lang/CharSequence/toString(), com/firebirdberlin/rocketlaunch/ApplicationInfoArray/add(java.lang.Object]
+
+prob: 0,05263
+[java/util/ArrayList/remove(int), java/util/ArrayList/ArrayList(), android/content/pm/ResolveInfo$DisplayNameComparator/ResolveInfo$DisplayNameComparator(android.content.pm.PackageManager), java/util/Collections/sort(java.util.List]
+
+prob: 0,05263
+[android/content/pm/ResolveInfo/loadLabel(android.content.pm.PackageManager)]
+
+prob: 0,05263
+[com/firebirdberlin/rocketlaunch/ApplicationInfoArray/get(int), android/content/pm/ResolveInfo$DisplayNameComparator/ResolveInfo$DisplayNameComparator(android.content.pm.PackageManager), java/util/Collections/sort(java.util.List]
+
+prob: 0,05263
+[android/content/Context/getCacheDir(), java/io/FileNotFoundException/toString(), java/io/FileInputStream/FileInputStream(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,05263
+[android/content/Context/getCacheDir(), java/io/FileNotFoundException/toString(), java/io/FileOutputStream/FileOutputStream(java.lang.String), android/graphics/Bitmap/compress(android.graphics.Bitmap$CompressFormat]
+
+prob: 0,05263
+[com/firebirdberlin/rocketlaunch/ApplicationsAdapter/getItem(int), com/firebirdberlin/rocketlaunch/ApplicationsAdapter/getCount(), java/lang/String/contains(java.lang.CharSequence)]
+
+prob: 0,05263
+[java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), com/firebirdberlin/rocketlaunch/ApplicationInfoArray/size()]
+
+prob: 0,05263
+[com/firebirdberlin/rocketlaunch/ApplicationsAdapter/getItem(int), com/firebirdberlin/rocketlaunch/ApplicationsAdapter/getCount()]
+
+prob: 0,05263
+[com/firebirdberlin/rocketlaunch/ApplicationInfoArray/size()]
+

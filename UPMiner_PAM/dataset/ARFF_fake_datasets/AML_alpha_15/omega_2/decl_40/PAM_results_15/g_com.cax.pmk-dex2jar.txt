@@ -1,0 +1,108 @@
+prob: 0,18421
+[org.api.fake]
+
+prob: 0,18421
+[org.rand.api]
+
+prob: 0,10526
+[int)]
+
+prob: 0,05263
+[java/lang/StringBuilder/append(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), android/content/Intent/getExtras(), android/webkit/WebView/loadUrl(java.lang.String)]
+
+prob: 0,05263
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,02632
+[android/webkit/WebSettings/setTextZoom(int), android/webkit/WebView/loadData(java.lang.String]
+
+prob: 0,02632
+[com/cax/pmk/widget/Slider/getPaddingLeft(), com/cax/pmk/widget/Slider/getMax(), com/cax/pmk/widget/Slider/getWidth(), com/cax/pmk/widget/Slider/getPaddingRight(), com/cax/pmk/widget/Slider/getProgress(), android/widget/SeekBar$OnSeekBarChangeListener/onProgressChanged(android.widget.SeekBar]
+
+prob: 0,02632
+[com/cax/pmk/InfoActivity/getString(int), android/os/Bundle/getStringArrayList(java.lang.String), java/lang/String/length(), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), java/lang/String/format(java.util.Locale]
+
+prob: 0,02632
+[com/cax/pmk/InfoActivity/getString(int), java/lang/StringBuilder/StringBuilder(), android/graphics/Color/parseColor(java.lang.String), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), com/cax/pmk/InfoActivity/getIntent(), java/lang/StringBuilder/toString(), com/cax/pmk/InfoActivity/findViewById(int), android/content/SharedPreferences/getInt(java.lang.String]
+
+prob: 0,02632
+[android/view/View/setOnLongClickListener(android.view.View$OnLongClickListener), java/util/Iterator/hasNext(), android/view/View/setVisibility(int), com/cax/pmk/MainActivity/findViewById(int), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener), android/widget/TextView/setText(java.lang.CharSequence), java/util/Iterator/next(), java/util/List/iterator(), android/view/View/setOnTouchListener(android.view.View$OnTouchListener]
+
+prob: 0,02632
+[android/webkit/WebView/setBackgroundColor(int), android/os/Bundle/getString(java.lang.String), java/lang/StringBuilder/toString(]
+
+prob: 0,02632
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,02632
+[java/lang/Float/parseFloat(java.lang.String), android/view/View/setVisibility(int), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,02632
+[android/content/ClipboardManager/setPrimaryClip(android.content.ClipData), java/lang/String/length(), java/lang/String/substring(int]
+
+prob: 0,02632
+[com/cax/pmk/MainActivity/getSystemService(java.lang.String)]
+
+prob: 0,02632
+[android/media/SoundPool/SoundPool(int]
+
+prob: 0,02632
+[com/cax/pmk/MainActivity/getAssets(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/widget/RelativeLayout$LayoutParams/addRule(int), android/content/SharedPreferences/getBoolean(java.lang.String]
+
+prob: 0,02632
+[android/widget/Button/getTypeface()]
+
+prob: 0,02632
+[float]
+
+prob: 0,02632
+[android/graphics/Typeface/createFromAsset(android.content.res.AssetManager]
+
+prob: 0,02632
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), android/content/pm/PackageManager$NameNotFoundException/printStackTrace(), java/text/MessageFormat/format(java.lang.String]
+
+prob: 0,02632
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/widget/EditText/setId(int), android/widget/EditText/EditText(android.content.Context), android/text/InputFilter$LengthFilter/InputFilter$LengthFilter(int), android/app/AlertDialog$Builder/show(), android/widget/EditText/setFilters(android.text.InputFilter[]), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,02632
+[java.util.List]
+
+prob: 0,02632
+[java/util/ArrayList/ArrayList(), java/io/File/getName(), java/io/File/isDirectory(), java/lang/StringBuilder/append(java.lang.String), java/io/File/exists(), java/util/Collections/sort(java.util.List]
+
+prob: 0,02632
+[java/io/File/isDirectory(), android/content/Context/getString(int), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence]
+
+prob: 0,02632
+[com/cax/pmk/InstructionActivity/setContentView(int)]
+
+prob: 0,02632
+[com/cax/pmk/InstructionActivity/findViewById(int)]
+
+prob: 0,02632
+[com/cax/pmk/InstructionActivity/getIntent()]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(int), java/lang/String/length(), java/lang/StringBuilder/toString(), java/io/File/exists(), java/io/ObjectInputStream/readObject(), java/lang/String/equals(java.lang.Object), java/lang/Exception/printStackTrace(), java/io/ObjectInputStream/close(), java/lang/String/substring(int]
+
+prob: 0,02632
+[java/io/FileInputStream/close(), java/lang/StringBuilder/append(java.lang.String), com/cax/pmk/MainActivity/openFileInput(java.lang.String)]
+
+prob: 0,02632
+[java/io/ObjectInputStream/ObjectInputStream(java.io.InputStream), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,02632
+[com/cax/pmk/InfoActivity/setContentView(int)]
+
+prob: 0,02632
+[boolean)]
+
+prob: 0,02632
+[android/webkit/WebView/setBackgroundColor(int), android/os/Bundle/getString(java.lang.String)]
+
+prob: 0,02632
+[com/cax/pmk/InfoActivity/getString(int)]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String)]
+

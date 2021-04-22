@@ -1,0 +1,10 @@
+android/util/Log/i(java.lang.String,java.lang.String
+javax/xml/parsers/ParserConfigurationException/printStackTrace(
+java/net/HttpURLConnection/disconnect()
+java/lang/Exception/printStackTrace()
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)
+java/lang/Integer/intValue()
+org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest)
+org/apache/http/params/HttpProtocolParams/setVersion(org.apache.http.params.HttpParams,org.apache.http.ProtocolVersion
+android/app/AlertDialog$Builder/show(
+java/util/StringTokenizer/hasMoreTokens(

@@ -1,0 +1,27 @@
+org.api.fake  0,13333
+org.rand.api  0,13333
+java.lang.String  0,11111
+android.bluetooth.BluetoothDevice  0,06667
+org.json.JSONObject)  0,06667
+org.apache.cordova.CordovaDialogsHelper$Result)  0,06667
+boolean  0,06667
+org.apache.cordova.CordovaArgs  0,06667
+boolean)  0,04444
+android/net/Uri/getHost(), java/util/regex/Matcher/matches(), java/lang/Integer/equals(java.lang.Object), java/lang/Integer/valueOf(int), java/lang/Exception/toString(), java/util/regex/Pattern/matcher(java.lang.CharSequence), android/net/Uri/getPort(), android/net/Uri/getPath(), android/net/Uri/getScheme(  0,02222
+android/net/Uri/getPath(), android/content/ContentResolver/getType(android.net.Uri), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/net/HttpURLConnection/getHeaderField(java.lang.String), android/net/Uri/toString(), java/net/HttpURLConnection/setDoInput(boolean  0,02222
+android/webkit/WebSettings/setGeolocationDatabasePath(java.lang.String), android/webkit/WebSettings/setUserAgentString(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,02222
+java/lang/StringBuilder/append(java.lang.String), android/bluetooth/BluetoothServerSocket/accept(), android/util/Log/i(java.lang.String  0,02222
+java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/d(java.lang.String  0,02222
+java/util/LinkedList/isEmpty(), java/lang/StringBuilder/append(int), java/lang/Object/getClass(), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,02222
+java/util/ArrayList/size()  0,02222
+java/util/LinkedList/iterator(), java/lang/StringBuilder/append(java.lang.String), java/util/LinkedList/removeFirst(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(int), java/util/LinkedList/size(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(  0,02222
+java/util/Iterator/hasNext()  0,02222
+java/lang/Class/newInstance(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/Exception/printStackTrace(  0,02222
+java/lang/Class/forName(java.lang.String), java/lang/Class/isAssignableFrom(java.lang.Class)  0,02222
+android/bluetooth/BluetoothAdapter/cancelDiscovery(), android/util/Log/i(java.lang.String  0,02222
+android/bluetooth/BluetoothSocket/close()  0,02222
+java/net/URL/openConnection(), java/lang/String/split(java.lang.String)  0,02222
+java.io.OutputStream)  0,02222
+java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/String/split(java.lang.String), android/net/Uri/getSchemeSpecificPart(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[), java/lang/String/getBytes(), java/lang/String/indexOf(int), android/util/Base64/decode(java.lang.String  0,02222
+android/widget/ProgressBar/ProgressBar(android.content.Context), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,02222
+android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams)  0,02222

@@ -1,0 +1,6 @@
+android/content/Intent/putExtra(java.lang.String,java.lang.String)
+android/content/Intent/setAction(java.lang.String)
+android/os/Bundle/getString(java.lang.String
+android/app/Activity/getResources(
+android/os/Bundle/putString(java.lang.String,java.lang.String)
+android/os/Bundle/putShort(java.lang.String,short

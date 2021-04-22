@@ -1,0 +1,51 @@
+prob: 0,38462
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,23077
+[java/lang/StringBuilder/append(int), java/io/File/File(java.lang.String)]
+
+prob: 0,15385
+[java/io/File/getParent(), android/content/SharedPreferences$Editor/clear(), android/content/SharedPreferences$Editor/commit(), android/content/Context/getFilesDir(), java/lang/StringBuilder/StringBuilder(), android/content/SharedPreferences/edit(), java/io/File/delete(), java/lang/StringBuilder/toString(]
+
+prob: 0,07692
+[android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,07692
+[java/io/BufferedReader/close(), java/util/ArrayList/ArrayList(), java/io/IOException/printStackTrace(), java/io/IOException/getMessage(), java/util/List/size(), java/io/File/File(java.lang.String), java/util/List/toArray(java.lang.Object[]), android/util/Log/e(java.lang.String]
+
+prob: 0,07692
+[java/util/List/size(), java/io/File/File(java.lang.String), java/io/File/getParent(), java/io/File/isDirectory(), android/os/Environment/getExternalStorageDirectory(), java/util/Arrays/sort(java.lang.Object[]]
+
+prob: 0,07692
+[ar/com/daidalos/afiledialog/FileChooserActivity/getIntent(), android/os/Bundle/getBoolean(java.lang.String), android/os/Bundle/get(java.lang.String), android/content/Intent/getExtras(), android/os/Bundle/getString(java.lang.String), android/content/res/Resources/getColor(int), ar/com/daidalos/afiledialog/FileChooserActivity/findViewById(int), ar/com/daidalos/afiledialog/FileChooserActivity/getResources(), android/app/Activity/onCreate(android.os.Bundle), android/os/Bundle/containsKey(java.lang.String), android/widget/LinearLayout/setBackgroundColor(int), ar/com/daidalos/afiledialog/FileChooserActivity/setContentView(int]
+
+prob: 0,07692
+[android.appwidget.AppWidgetManager]
+
+prob: 0,07692
+[java/io/File/getName(), java/io/File/exists(), java/util/LinkedList/LinkedList(), java/util/List/add(java.lang.Object), java/io/File/listFiles(), android/widget/LinearLayout/removeAllViews()]
+
+prob: 0,07692
+[java/io/File/getName(), java/io/File/exists(), java/lang/String/equals(java.lang.Object), java/lang/String/substring(int]
+
+prob: 0,07692
+[android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,07692
+[java.lang.String)]
+
+prob: 0,07692
+[org/osohm/randomquoteswidget/AppConfiguration/finish(), android/appwidget/AppWidgetManager/getInstance(android.content.Context), java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/util/Log/i(java.lang.String]
+
+prob: 0,07692
+[org/osohm/randomquoteswidget/AppConfiguration/finish(), android/os/Bundle/getInt(java.lang.String]
+
+prob: 0,07692
+[int]
+
+prob: 0,07692
+[java/lang/String/length()]
+
+prob: 0,07692
+[java/lang/StringBuilder/append(int)]
+

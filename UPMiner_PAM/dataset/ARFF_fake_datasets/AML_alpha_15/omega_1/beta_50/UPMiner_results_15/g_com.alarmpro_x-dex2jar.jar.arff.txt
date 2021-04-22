@@ -1,0 +1,8 @@
+android/media/AudioManager/getRingerMode()
+com/alarmpro_x/c/getReadableDatabase()
+org.api.fake
+android/app/TaskStackBuilder/addParentStack(java.lang.Class)
+android/database/Cursor/getInt(int
+com/alarmpro_x/add_alarm/setContentView(int
+com/alarmpro_x/seasons/findViewById(int)
+android/app/Notification$Builder/setTicker(java.lang.CharSequence,android.widget.RemoteViews)

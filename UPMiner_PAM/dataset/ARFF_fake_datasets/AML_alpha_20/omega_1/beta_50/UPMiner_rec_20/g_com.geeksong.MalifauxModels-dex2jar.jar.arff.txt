@@ -1,0 +1,9 @@
+android/widget/ProgressBar/setLayoutParams(android.view.ViewGroup$LayoutParams
+java/lang/Class/getSimpleName()
+java/lang/Exception/getMessage(
+org.api.fake
+java/lang/String/substring(int
+org/json/JSONObject/getInt(java.lang.String
+android/net/Uri/getScheme()
+java/net/URL/URL(java.lang.String)
+android/net/Uri/getHost()

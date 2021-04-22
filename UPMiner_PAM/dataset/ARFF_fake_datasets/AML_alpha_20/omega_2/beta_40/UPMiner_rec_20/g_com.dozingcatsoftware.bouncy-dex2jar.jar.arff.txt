@@ -1,0 +1,18 @@
+java/io/Writer/write(java.lang.String
+java/io/BufferedReader/readLine(
+com/badlogic/gdx/maps/tiled/TiledMapTileLayer/getProperties(
+android/content/Context/getAssets(
+com/dozingcatsoftware/bouncy/elements/DropTargetGroupElement/getIntParameterValueForKey(java.lang.String)
+com/badlogic/gdx/scenes/scene2d/ui/VerticalGroup/getDebug(
+java/lang/StringBuilder/toString(
+java/lang/String/valueOf(char)
+java/lang/Class/isArray()
+java/lang/StringBuilder/StringBuilder() java/lang/StringBuilder/toString()
+com/badlogic/gdx/jnigen/AntScriptGenerator/AntScriptGenerator(
+java/lang/String/length()
+java/util/Map/keySet(
+java/lang/System/currentTimeMillis(
+java/io/BufferedReader/close()
+org.api.fake
+java/lang/Number/longValue(
+org.rand.api

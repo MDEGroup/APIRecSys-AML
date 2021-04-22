@@ -1,0 +1,11 @@
+android/content/Intent/Intent(android.content.Context,java.lang.Class)
+java/lang/System/currentTimeMillis(
+android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence,android.graphics.drawable.Drawable)
+java/util/regex/Matcher/group(int)
+android/content/SharedPreferences/getAll()
+com/ginkel/hashit/PasswordActivity/getIntent()
+org.api.fake
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod)
+java/lang/StringBuilder/append(java.lang.String)
+org.rand.api
+java/lang/String/length()

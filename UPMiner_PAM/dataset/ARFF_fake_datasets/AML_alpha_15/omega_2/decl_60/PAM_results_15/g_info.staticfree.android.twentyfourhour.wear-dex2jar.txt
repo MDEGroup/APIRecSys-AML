@@ -1,0 +1,297 @@
+prob: 0,10169
+[android.os.Parcel]
+
+prob: 0,08475
+[android/util/Log/v(java.lang.String]
+
+prob: 0,06780
+[int]
+
+prob: 0,06780
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int]
+
+prob: 0,06780
+[java.io.FileDescriptor]
+
+prob: 0,06780
+[java/lang/StringBuilder/StringBuilder(int)]
+
+prob: 0,06780
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,05085
+[java.lang.String]
+
+prob: 0,05085
+[java/util/ArrayList/size()]
+
+prob: 0,03390
+[java/lang/StringBuilder/append(int), java/lang/Integer/toHexString(int), java/lang/StringBuilder/toString()]
+
+prob: 0,03390
+[android/util/Log/w(java.lang.String]
+
+prob: 0,03390
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,03390
+[java/util/ArrayList/get(int)]
+
+prob: 0,03390
+[android.content.ServiceConnection]
+
+prob: 0,03390
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,01695
+[java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object]
+
+prob: 0,01695
+[android/view/View/isEnabled()]
+
+prob: 0,01695
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,01695
+[android/view/View/isLongClickable()]
+
+prob: 0,01695
+[java/lang/Object/getClass()]
+
+prob: 0,01695
+[android/view/View/getBottom()]
+
+prob: 0,01695
+[android/content/res/Resources/getResourcePackageName(int)]
+
+prob: 0,01695
+[android/view/View/willNotDraw()]
+
+prob: 0,01695
+[android/content/res/Resources/getResourceTypeName(int)]
+
+prob: 0,01695
+[android/view/View/getVisibility()]
+
+prob: 0,01695
+[android/view/View/isFocusable()]
+
+prob: 0,01695
+[android/view/View/isFocused()]
+
+prob: 0,01695
+[android/view/View/getResources()]
+
+prob: 0,01695
+[android/view/View/isClickable()]
+
+prob: 0,01695
+[android/view/View/isPressed()]
+
+prob: 0,01695
+[android/content/res/Resources/getResourceEntryName(int)]
+
+prob: 0,01695
+[com/google/android/gms/common/api/GoogleApiActivity/getIntent(), java/lang/Integer/intValue(), android/os/Bundle/get(java.lang.String), com/google/android/gms/common/api/GoogleApiActivity/startIntentSenderForResult(android.content.IntentSender]
+
+prob: 0,01695
+[android.accounts.Account]
+
+prob: 0,01695
+[java/util/ArrayList/ArrayList(java.util.Collection), org/json/JSONObject/optString(java.lang.String]
+
+prob: 0,01695
+[java/lang/String/valueOf(java.lang.Object), android/os/Parcel/dataSize(), java/lang/StringBuilder/append(java.lang.String]
+
+prob: 0,01695
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/os/Handler/sendMessageDelayed(android.os.Message]
+
+prob: 0,01695
+[java/lang/String/valueOf(java.lang.Object), android/text/TextUtils/join(java.lang.CharSequence]
+
+prob: 0,01695
+[java/lang/String/valueOf(java.lang.Object), android/util/Log/wtf(java.lang.String]
+
+prob: 0,01695
+[long]
+
+prob: 0,01695
+[com/google/android/gms/dynamic/IObjectWrapper/asBinder(), java/lang/reflect/Field/get(java.lang.Object), java/lang/reflect/Field/setAccessible(boolean), java/lang/StringBuilder/append(java.lang.String), java/lang/reflect/Field/isAccessible(), java/lang/reflect/Field/isSynthetic(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,01695
+[java/lang/StringBuilder/append(java.lang.String), android/view/View/isVerticalScrollBarEnabled(), android/view/View/getTop(), android/view/View/getLeft(), android/view/View/isSelected(]
+
+prob: 0,01695
+[android.view.LayoutInflater$Factory2)]
+
+prob: 0,01695
+[java.lang.String)]
+
+prob: 0,01695
+[java.lang.CharSequence]
+
+prob: 0,01695
+[android.app.Notification]
+
+prob: 0,01695
+[java/lang/String/length(), android/os/Parcel/dataPosition()]
+
+prob: 0,01695
+[com.google.android.gms.common.ConnectionResult)]
+
+prob: 0,01695
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/view/View/getParent(]
+
+prob: 0,01695
+[android.support.v4.app.BackStackRecord$TransitionState]
+
+prob: 0,01695
+[java.io.PrintWriter]
+
+prob: 0,01695
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,01695
+[java/util/Iterator/hasNext(), android/view/View/getViewTreeObserver(), java/util/ArrayList/size()]
+
+prob: 0,01695
+[java/util/Iterator/hasNext(), java/util/Set/retainAll(java.util.Collection), java/util/Map/values(), java/util/ArrayList/add(java.lang.Object), android/view/ViewTreeObserver/removeOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener), java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/Set/iterator()]
+
+prob: 0,01695
+[java/util/Iterator/hasNext(), android/app/Notification$Builder/build()]
+
+prob: 0,01695
+[android/view/View/getViewTreeObserver(), android/view/View/setTransitionName(java.lang.String)]
+
+prob: 0,01695
+[java/util/Map/entrySet()]
+
+prob: 0,01695
+[java/util/ArrayList/removeAll(java.util.Collection)]
+
+prob: 0,01695
+[android/transition/Transition/removeTarget(android.view.View)]
+
+prob: 0,01695
+[java/util/Map/isEmpty()]
+
+prob: 0,01695
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,01695
+[java/util/Map/keySet()]
+
+prob: 0,01695
+[java/util/Map$Entry/getValue(]
+
+prob: 0,01695
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,01695
+[android/support/v4/util/ArrayMap/get(java.lang.Object)]
+
+prob: 0,01695
+[android/transition/Transition/excludeTarget(android.view.View]
+
+prob: 0,01695
+[org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01695
+[android/app/Dialog/setContentView(android.view.View)]
+
+prob: 0,01695
+[android/app/Dialog/setCancelable(boolean)]
+
+prob: 0,01695
+[android/support/v4/app/DialogFragment/getActivity()]
+
+prob: 0,01695
+[android/os/Bundle/getBundle(java.lang.String)]
+
+prob: 0,01695
+[android/app/Dialog/onRestoreInstanceState(android.os.Bundle)]
+
+prob: 0,01695
+[android/app/Dialog/setOwnerActivity(android.app.Activity)]
+
+prob: 0,01695
+[android/support/v4/app/DialogFragment/getView()]
+
+prob: 0,01695
+[java/lang/String/concat(java.lang.String)]
+
+prob: 0,01695
+[android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener)]
+
+prob: 0,01695
+[android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener)]
+
+prob: 0,01695
+[android/os/Bundle/Bundle(android.os.Bundle)]
+
+prob: 0,01695
+[android/os/Bundle/putAll(android.os.Bundle)]
+
+prob: 0,01695
+[android/os/Bundle/remove(java.lang.String)]
+
+prob: 0,01695
+[android/os/Bundle/keySet()]
+
+prob: 0,01695
+[android/os/Bundle/putSparseParcelableArray(java.lang.String]
+
+prob: 0,01695
+[java.lang.StringBuilder)]
+
+prob: 0,01695
+[java/lang/String/String(java.lang.String)]
+
+prob: 0,01695
+[boolean)]
+
+prob: 0,01695
+[android.support.v4.app.BackStackRecord)]
+
+prob: 0,01695
+[android.support.v4.app.FragmentManagerNonConfig)]
+
+prob: 0,01695
+[android/support/v4/util/ArrayMap/put(java.lang.Object]
+
+prob: 0,01695
+[android/view/View/getRight()]
+
+prob: 0,01695
+[android/view/View/isHorizontalScrollBarEnabled()]
+
+prob: 0,01695
+[android/view/View/getId()]
+
+prob: 0,01695
+[java/lang/System/identityHashCode(java.lang.Object)]
+
+prob: 0,01695
+[java/lang/Class/getName()]
+
+prob: 0,01695
+[org/json/JSONObject/optString(java.lang.String]
+
+prob: 0,01695
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,01695
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,01695
+[android/view/ViewTreeObserver/removeOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener), java/util/Map$Entry/getKey(), java/util/Iterator/next()]
+
+prob: 0,01695
+[java/util/Set/iterator()]
+
+prob: 0,01695
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,01695
+[java/lang/StringBuilder/toString()]
+

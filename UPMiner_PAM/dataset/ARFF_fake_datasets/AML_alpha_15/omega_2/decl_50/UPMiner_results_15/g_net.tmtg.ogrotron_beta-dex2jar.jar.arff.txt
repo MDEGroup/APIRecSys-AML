@@ -1,0 +1,12 @@
+java/lang/Math/floor(double)
+examples/ogrotron/Ogrotron/getAccelY()
+jgame/platform/StdGame/exitEngine(java.lang.String
+java/util/Vector/size()
+examples/ogrotron/Ogrotron/getMouseButton(int
+android/graphics/Matrix/setRotate(float,float,float
+examples/ogrotron/Ogrotron/setGameSpeed(double)
+examples/ogrotron/Ogrotron/isMidlet(
+android/graphics/Paint/setAntiAlias(boolean)
+jgame/platform/StdGame/stop()
+android/graphics/Paint/setFilterBitmap(boolean
+java/util/Vector/elements(

@@ -1,0 +1,4 @@
+aws/apps/keyeventdisplay/monitors/LogCatMonitor/start(
+java/lang/StringBuilder/append(java.lang.String)
+org.api.fake
+java/lang/StringBuilder/toString(

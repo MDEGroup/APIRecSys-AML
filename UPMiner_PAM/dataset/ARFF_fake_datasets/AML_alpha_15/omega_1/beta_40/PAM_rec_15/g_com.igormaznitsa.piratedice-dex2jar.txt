@@ -1,0 +1,14 @@
+java.lang.String  0,15385
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,15385
+java/lang/Float/valueOf(float), java/util/ArrayList/add(java.lang.Object), java/lang/String/substring(int  0,07692
+int)  0,07692
+org.xml.sax.Attributes  0,07692
+java/lang/String/equalsIgnoreCase(java.lang.String), android/graphics/Paint/setColor(int), android/graphics/Paint/setStrokeWidth(float), java/lang/String/equals(java.lang.Object), java/lang/Float/floatValue(), android/graphics/Paint/getColor(), android/graphics/Paint/setStrokeCap(android.graphics.Paint$Cap), android/graphics/Paint/setStrokeJoin(android.graphics.Paint$Join), android/graphics/Paint/getStrokeWidth(), android/util/Log/d(java.lang.String  0,07692
+java.util.HashMap)  0,07692
+int  0,07692
+java.lang.Integer  0,07692
+android/util/Log/w(java.lang.String  0,07692
+android.graphics.Matrix)  0,07692
+double  0,07692
+com/igormaznitsa/piratedice/MainActivity/getPackageManager(), android/view/MenuItem/getItemId(), java/lang/Exception/printStackTrace(), android/app/Activity/onOptionsItemSelected(android.view.MenuItem), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,07692
+android/widget/Toast/show()  0,07692

@@ -1,0 +1,8 @@
+android/widget/TextView/setText(java.lang.CharSequence)
+java/lang/Exception/getMessage(
+java/lang/StringBuilder/toString(
+android/hardware/Camera/stopPreview(
+java/util/Map/get(java.lang.Object)
+android/hardware/Camera$Parameters/setPreviewSize(int,int)
+javax/net/ssl/KeyManagerFactory/getInstance(java.lang.String)
+java/util/Map/containsKey(java.lang.Object

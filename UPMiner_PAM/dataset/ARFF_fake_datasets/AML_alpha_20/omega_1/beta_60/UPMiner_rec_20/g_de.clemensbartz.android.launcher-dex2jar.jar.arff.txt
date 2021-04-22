@@ -1,0 +1,12 @@
+android/view/LayoutInflater/from(android.content.Context)
+java/util/StringTokenizer/StringTokenizer(java.lang.String,java.lang.String
+de/clemensbartz/android/launcher/Launcher/findViewById(int)
+android/content/Intent/putExtra(java.lang.String,android.os.Bundle
+android/view/View/setTag(java.lang.Object
+android/view/View/getLayoutParams()
+de/clemensbartz/android/launcher/Launcher/findViewById(int
+java/lang/String/split(java.lang.String)
+android/widget/LinearLayout/removeViewAt(int)
+java/lang/ref/WeakReference/get()
+java/util/List/get(int
+android/widget/TextView/setGravity(int

@@ -1,0 +1,117 @@
+prob: 0,10345
+[int)]
+
+prob: 0,10345
+[android.view.MenuItem)]
+
+prob: 0,06897
+[java.lang.String)]
+
+prob: 0,06897
+[int]
+
+prob: 0,06897
+[android.view.ViewGroup]
+
+prob: 0,03448
+[java/lang/String/split(java.lang.String), org/geuz/onelab/SeparatedListView/getContext(), java/lang/Character/toString(char), org/geuz/onelab/ParameterString/getSectionName(), java/lang/String/equals(java.lang.Object), org/geuz/onelab/ParameterNumber/getSectionName(), java/util/List/get(int]
+
+prob: 0,03448
+[org/geuz/onelab/OptionsActivity/getIntent(), org/geuz/onelab/OptionsActivity/setContentView(int), org/geuz/onelab/OptionsActivity/getWindow()]
+
+prob: 0,03448
+[android/app/ActionBar/setTitle(int), android/os/Bundle/getParcelable(java.lang.String), android/app/FragmentManager/beginTransaction(), android/app/Activity/onCreate(android.os.Bundle), android/content/Intent/getExtras(), android/app/FragmentTransaction/commit(), android/view/Window/setFlags(int]
+
+prob: 0,03448
+[java/util/Timer/schedule(java.util.TimerTask]
+
+prob: 0,03448
+[org/geuz/onelab/PostProcessingActivity/getIntent(), android/os/Bundle/getParcelable(java.lang.String), android/app/FragmentManager/beginTransaction(), android/app/Activity/onCreate(android.os.Bundle), android/app/FragmentTransaction/add(int]
+
+prob: 0,03448
+[java/lang/StringBuilder/append(java.lang.String), org/geuz/onelab/ParameterNumber/isReadOnly(), android/widget/SeekBar/setProgress(int), android/widget/TextView/setText(java.lang.CharSequence), org/geuz/onelab/ParameterNumber/getShortName(), java/util/ArrayList/get(int), android/widget/CheckBox/setChecked(boolean), android/widget/SeekBar/setEnabled(boolean), java/lang/Math/round(double), java/lang/Double/doubleValue(), java/util/ArrayList/size(), android/widget/EditText/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(), android/widget/Spinner/setSelection(int]
+
+prob: 0,03448
+[android/widget/EditText/setText(java.lang.CharSequence), android/widget/LinearLayout/setOrientation(int)]
+
+prob: 0,03448
+[android/widget/Spinner/setEnabled(boolean), android/widget/LinearLayout/addView(android.view.View), android/widget/CheckBox/setEnabled(boolean), android/widget/SeekBar/setEnabled(boolean), android/widget/EditText/setOnKeyListener(android.view.View$OnKeyListener), android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/widget/CheckBox/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener), android/widget/EditText/addTextChangedListener(android.text.TextWatcher), android/widget/LinearLayout/LinearLayout(android.content.Context]
+
+prob: 0,03448
+[android/widget/LinearLayout/setOnLongClickListener(android.view.View$OnLongClickListener)]
+
+prob: 0,03448
+[android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener)]
+
+prob: 0,03448
+[android/widget/EditText/setEnabled(boolean)]
+
+prob: 0,03448
+[android/widget/LinearLayout/removeView(android.view.View)]
+
+prob: 0,03448
+[org/geuz/onelab/MainActivity/getFilesDir(), java/lang/StringBuilder/append(java.lang.String), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,03448
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)]
+
+prob: 0,03448
+[android/view/Window/requestFeature(int), android/app/Activity/onCreate(android.os.Bundle), android/graphics/Color/parseColor(java.lang.String), org/geuz/onelab/MainActivity/setContentView(int), android/app/ActionBar/setBackgroundDrawable(android.graphics.drawable.Drawable)]
+
+prob: 0,03448
+[android/content/res/Resources/getDisplayMetrics(), android/content/Intent/getExtras(), android/app/FragmentTransaction/commit(), android/view/Window/setFlags(int]
+
+prob: 0,03448
+[org/geuz/onelab/MainActivity/getIntent()]
+
+prob: 0,03448
+[boolean)]
+
+prob: 0,03448
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,03448
+[java/io/BufferedReader/close(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,03448
+[android/webkit/WebView/WebView(android.content.Context), android/app/ActionBar/setTitle(java.lang.CharSequence), android/app/ActionBar/setDisplayHomeAsUpEnabled(boolean), android/webkit/WebView/loadDataWithBaseURL(java.lang.String]
+
+prob: 0,03448
+[org/geuz/onelab/AboutActivity/setContentView(android.view.View), android/webkit/WebSettings/setJavaScriptEnabled(boolean), org/geuz/onelab/AboutActivity/getPackageName(), java/io/File/File(java.lang.String)]
+
+prob: 0,03448
+[java/util/zip/ZipInputStream/read(byte[]), java/io/IOException/printStackTrace(), java/io/FileOutputStream/write(byte[]]
+
+prob: 0,03448
+[org/xmlpull/v1/XmlPullParser/require(int]
+
+prob: 0,03448
+[org/xmlpull/v1/XmlPullParserException/printStackTrace(), java/io/IOException/printStackTrace(), android/widget/LinearLayout/addView(android.view.View), org/geuz/onelab/ModelList/setContentView(android.view.View), android/widget/LinearLayout/setBackgroundColor(int), android/graphics/Color/argb(int]
+
+prob: 0,03448
+[java/util/zip/ZipInputStream/ZipInputStream(java.io.InputStream), java/lang/StringBuilder/append(java.lang.String), java/util/zip/ZipEntry/getName(), java/util/zip/ZipEntry/isDirectory(), java/util/zip/ZipInputStream/closeEntry()]
+
+prob: 0,03448
+[org/geuz/onelab/SplashScreen/getResources(), java/io/IOException/printStackTrace(), org/geuz/onelab/SplashScreen/getSharedPreferences(java.lang.String]
+
+prob: 0,03448
+[org/geuz/onelab/SplashScreen/getPackageManager()]
+
+prob: 0,03448
+[java/lang/String/valueOf(double), java/lang/StringBuilder/append(java.lang.String), android/widget/LinearLayout/addView(android.view.View), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), java/lang/StringBuilder/toString(), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence]
+
+prob: 0,03448
+[java/lang/Object/equals(java.lang.Object), org/geuz/onelab/SeparatedListView/getContext(), android/widget/LinearLayout/addView(android.view.View), android/widget/CheckBox/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener), android/widget/CheckBox/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/Button/setBackgroundColor(int), java/lang/Object/getClass(), android/widget/AbsListView$LayoutParams/AbsListView$LayoutParams(int]
+
+prob: 0,03448
+[android/widget/Button/setLayoutParams(android.view.ViewGroup$LayoutParams), org/geuz/onelab/SeparatedListView/getItemAtPosition(int), android/widget/LinearLayout/getChildAt(int), android/widget/LinearLayout/getChildCount()]
+
+prob: 0,03448
+[android/widget/ListView/setAdapter(android.widget.ListAdapter)]
+
+prob: 0,03448
+[android/widget/LinearLayout/setOrientation(int)]
+
+prob: 0,03448
+[android/app/ActionBar/setTitle(java.lang.CharSequence), android/app/ActionBar/setDisplayHomeAsUpEnabled(boolean)]
+

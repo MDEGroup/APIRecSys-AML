@@ -1,0 +1,6 @@
+java/lang/String/valueOf(int
+android/text/InputFilter$LengthFilter/InputFilter$LengthFilter(int
+android/content/Intent/putExtra(java.lang.String,java.io.Serializable)
+android/bluetooth/BluetoothManager/getAdapter()
+nl/fhconsulting/golite/DeviceScanActivity/getSystemService(java.lang.String
+nl/fhconsulting/golite/CalculatorActivity/findViewById(int)

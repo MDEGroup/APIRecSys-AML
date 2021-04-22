@@ -1,0 +1,201 @@
+java.lang.String)  0,06195
+int  0,04425
+java.lang.String  0,03540
+android.database.sqlite.SQLiteDatabase)  0,03540
+android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteException/toString(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,03540
+java/lang/String/length()  0,03540
+java/util/Iterator/next()  0,03540
+java/lang/StringBuffer/toString()  0,03540
+boolean  0,02655
+android.content.Intent)  0,02655
+java/net/URL/openConnection()  0,02655
+java/lang/StringBuilder/toString()  0,02655
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuffer/toString(), java/lang/StringBuffer/StringBuffer()  0,01770
+int)  0,01770
+java.util.Map  0,01770
+android.database.sqlite.SQLiteDatabase  0,01770
+java/io/InputStream/close()  0,01770
+java/lang/String/toLowerCase()  0,01770
+com.google.android.apps.analytics.Referrer)  0,01770
+android/database/sqlite/SQLiteException/toString(), java/lang/Long/valueOf(long), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,01770
+java/lang/StringBuffer/append(java.lang.String)  0,01770
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), org/json/JSONObject/put(java.lang.String  0,00885
+java/util/Iterator/hasNext(), java/util/Random/nextDouble(), android/util/Log/d(java.lang.String  0,00885
+java/util/Iterator/hasNext(), java/lang/StringBuffer/append(char), java/util/Map/get(java.lang.Object), java/lang/StringBuffer/length(), java/lang/StringBuffer/StringBuffer(java.lang.String  0,00885
+java/io/PrintStream/print(java.lang.String), twitter4j/internal/org/json/JSONStringer/endArray(), java/io/PrintStream/println(double), java/lang/Object/Object(), java/lang/StringBuffer/append(boolean)  0,00885
+java/io/DataOutputStream/writeInt(int), java/io/DataOutputStream/close(), android/content/Context/openFileOutput(java.lang.String  0,00885
+twitter4j.internal.org.json.JSONObject  0,00885
+java/net/URI/getAuthority()  0,00885
+java/net/URI/getPort()  0,00885
+java/net/URI/getRawPath()  0,00885
+java/lang/String/lastIndexOf(java.lang.String)  0,00885
+java/net/URI/URI(java.lang.String)  0,00885
+java/net/URI/getScheme()  0,00885
+java/util/Map/put(java.lang.Object  0,00885
+java/security/MessageDigest/digest(), java/lang/Byte/valueOf(byte), java/lang/String/format(java.lang.String  0,00885
+java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), android/os/Bundle/keySet(  0,00885
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), skylight1/sevenwonders/AboutActivity/getString(int), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,00885
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/BufferedReader/readLine(), java/lang/StringBuilder/toString(), android/util/Log/e(java.lang.String  0,00885
+android/content/ComponentName/getPackageName()  0,00885
+java/io/StringWriter/StringWriter(), twitter4j/internal/org/json/JSONStringer/key(java.lang.String), twitter4j/internal/org/json/JSONStringer/endObject(), java/lang/StringBuffer/append(java.lang.String)  0,00885
+java/util/Set/iterator(), java/util/Map/isEmpty()  0,00885
+org/json/JSONArray/JSONArray()  0,00885
+java/util/Set/isEmpty(  0,00885
+java/lang/System/getProperty(java.lang.String  0,00885
+org/apache/http/HttpResponse/getStatusLine(), java/lang/String/format(java.lang.String  0,00885
+org/apache/http/HttpResponse/getStatusLine(), android/content/Context/getSharedPreferences(java.lang.String  0,00885
+android/util/DisplayMetrics/DisplayMetrics(), java/lang/ref/WeakReference/get(), org/json/JSONObject/getString(java.lang.String), android/util/Log/e(java.lang.String  0,00885
+java/lang/ref/WeakReference/get(), android/content/Intent/Intent(java.lang.String  0,00885
+twitter4j/internal/org/json/JSONStringer/value(long)  0,00885
+javax.microedition.khronos.egl.EGLConfig)  0,00885
+java/util/ArrayList/iterator(), com/oneriot/OneRiotAd/setListener(com.oneriot.OneRiotAdActionListener), com/oneriot/OneRiotAd/setReportGPS(boolean), com/oneriot/OneRiotAd/loadAd(android.app.Activity), com/oneriot/OneRiotAd/addContextParameters(java.lang.String), com/oneriot/OneRiotAd/setRefreshInterval(int), com/oneriot/OneRiotAd/OneRiotAd(android.app.Activity  0,00885
+java/util/ArrayList/iterator(), java/util/ArrayList/ArrayList(int), java/util/Properties/getProperty(java.lang.String), java/util/Properties/setProperty(java.lang.String  0,00885
+java.util.HashMap  0,00885
+android.graphics.Bitmap)  0,00885
+java.net.HttpURLConnection)  0,00885
+java/net/Authenticator/setDefault(java.net.Authenticator), java/net/InetSocketAddress/createUnresolved(java.lang.String  0,00885
+java/net/HttpURLConnection/setRequestProperty(java.lang.String  0,00885
+android.util.AttributeSet)  0,00885
+twitter4j/internal/org/json/JSONStringer/array()  0,00885
+android/util/Log/w(java.lang.String  0,00885
+oauth.signpost.http.HttpParameters)  0,00885
+org/apache/http/HttpRequest/getRequestLine(), android/util/Log/v(java.lang.String  0,00885
+long)  0,00885
+skylight1/sevenwonders/PlayActivity/setContentView(int), java/lang/StringBuilder/append(int), android/content/Intent/getIntExtra(java.lang.String  0,00885
+android/widget/TextView/setText(java.lang.CharSequence), android/app/Activity/onCreate(android.os.Bundle), skylight1/sevenwonders/PlayActivity/getApplicationContext(), android/widget/TextView/setVisibility(int), android/os/Handler/post(java.lang.Runnable), skylight1/sevenwonders/levels/GameLevel/values(), skylight1/sevenwonders/levels/GameLevel/getDefaultTotalTimeAllowedInSeconds()  0,00885
+skylight1/sevenwonders/PlayActivity/findViewById(int)  0,00885
+skylight1/sevenwonders/PlayActivity/getIntent()  0,00885
+java/io/PrintStream/println(java.lang.Object)  0,00885
+java/lang/StringBuffer/StringBuffer(int), java/lang/String/charAt(int), java/lang/String/substring(int), java/lang/StringBuffer/StringBuffer(  0,00885
+java/lang/StringBuffer/append(char), java/lang/StringBuffer/append(java.lang.Object), java/lang/StringBuffer/toString(), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/StringBuffer(  0,00885
+java/lang/Integer/toHexString(int)  0,00885
+java/lang/Exception/toString()  0,00885
+java/lang/Object/toString(), java/lang/StringBuffer/append(java.lang.String)  0,00885
+java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/String/charAt(int), java/lang/Integer/Integer(int), java/lang/String/length(), java/lang/String/equals(java.lang.Object), java/lang/Integer/parseInt(java.lang.String  0,00885
+boolean)  0,00885
+twitter4j.UserStreamListener)  0,00885
+org/apache/http/impl/DefaultHttpClientConnection/flush(), org/apache/http/HttpResponse/getStatusLine(), org/apache/http/ProtocolVersion/greaterEquals(org.apache.http.ProtocolVersion), android/util/Log/v(java.lang.String  0,00885
+org/apache/http/impl/DefaultHttpClientConnection/getMetrics(), java/lang/StringBuilder/append(int), org/apache/http/HttpEntity/consumeContent(), org/apache/http/impl/DefaultHttpClientConnection/receiveResponseEntity(org.apache.http.HttpResponse), org/apache/http/HttpConnectionMetrics/getRequestCount(), org/apache/http/impl/DefaultHttpClientConnection/receiveResponseHeader(), org/apache/http/HttpConnectionMetrics/getResponseCount(), org/apache/http/StatusLine/getStatusCode(), org/apache/http/HttpResponse/getHeaders(java.lang.String)  0,00885
+android/content/Intent/setData(android.net.Uri), com/google/ads/AdActivity/finish(), android/app/Activity/onCreate(android.os.Bundle), java/lang/String/equals(java.lang.Object), android/content/Intent/Intent(java.lang.String  0,00885
+java/lang/StringBuffer/append(java.lang.String), java/util/ArrayList/ArrayList(int  0,00885
+java/lang/StringBuffer/append(java.lang.String), java/io/InputStreamReader/InputStreamReader(java.io.InputStream  0,00885
+android/content/Intent/getBundleExtra(java.lang.String)  0,00885
+g/setWebViewClient(android.webkit.WebViewClient)  0,00885
+com/google/ads/AdActivity/getApplicationContext()  0,00885
+android/os/SystemClock/elapsedRealtime()  0,00885
+android/widget/VideoView/setOnErrorListener(android.media.MediaPlayer$OnErrorListener)  0,00885
+android/widget/RelativeLayout/addView(android.view.View  0,00885
+com/mdotm/android/ads/MdotMView/setTextColor(int)  0,00885
+com/mdotm/android/ads/MdotMView/MdotMView(android.content.Context  0,00885
+android.content.Context)  0,00885
+java/lang/Character/toLowerCase(char), java/lang/StringBuffer/StringBuffer(  0,00885
+java/lang/Character/isLetterOrDigit(char), java/lang/StringBuffer/append(java.lang.Object), java/lang/StringBuffer/append(char)  0,00885
+twitter4j/internal/org/json/XMLTokener/next()  0,00885
+twitter4j/internal/org/json/XMLTokener/syntaxError(java.lang.String)  0,00885
+java/util/HashMap/get(java.lang.Object)  0,00885
+android/content/Context/checkCallingOrSelfPermission(java.lang.String), java/net/HttpURLConnection/getOutputStream(), android/content/Context/getPackageName()  0,00885
+java/io/PrintStream/append(java.lang.CharSequence)  0,00885
+java/net/HttpURLConnection/setRequestMethod(java.lang.String)  0,00885
+android/util/Log/i(java.lang.String  0,00885
+java/lang/Process/getErrorStream()  0,00885
+java/util/regex/Matcher/group(int), java/lang/Process/getInputStream(), java/lang/Integer/toString(int), android/util/Log/e(java.lang.String  0,00885
+java/util/regex/Matcher/group(int), java/util/regex/Pattern/compile(java.lang.String), java/util/ArrayList/ArrayList()  0,00885
+java/lang/Runtime/getRuntime()  0,00885
+java/io/PrintWriter/PrintWriter(java.io.Writer)  0,00885
+java/util/regex/Matcher/matches()  0,00885
+android/os/Process/myPid()  0,00885
+java/lang/Runtime/exec(java.lang.String)  0,00885
+java/lang/StringBuffer/append(long), java/lang/StringBuffer/append(boolean)  0,00885
+java/util/Arrays/asList(java.lang.Object[), java/lang/StringBuffer/append(int)  0,00885
+com/facebook/android/FbDialog/getContext(), android/widget/TextView/setCompoundDrawablesWithIntrinsicBounds(android.graphics.drawable.Drawable  0,00885
+android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,00885
+android/app/ProgressDialog/setMessage(java.lang.CharSequence), com/facebook/android/FbDialog/getContext()  0,00885
+com/facebook/android/FbDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener)  0,00885
+android/widget/LinearLayout/LinearLayout(android.content.Context)  0,00885
+android/app/ProgressDialog/ProgressDialog(android.content.Context)  0,00885
+android/widget/LinearLayout/setOrientation(int)  0,00885
+android/app/Dialog/onCreate(android.os.Bundle)  0,00885
+android/app/ProgressDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener)  0,00885
+android/app/ProgressDialog/requestWindowFeature(int)  0,00885
+com/facebook/android/FbDialog/addContentView(android.view.View  0,00885
+android/widget/ImageView/setBackgroundDrawable(android.graphics.drawable.Drawable)  0,00885
+android/widget/TextView/setTypeface(android.graphics.Typeface  0,00885
+java/util/regex/Matcher/reset(java.lang.CharSequence)  0,00885
+java/util/regex/Pattern/matcher(java.lang.CharSequence), java/lang/String/format(java.lang.String  0,00885
+java/lang/Appendable/append(char), java/lang/StringBuilder/append(int)  0,00885
+java/lang/StringBuilder/append(java.lang.String), android/content/Context/getPackageName()  0,00885
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Random/Random()  0,00885
+java/lang/StringBuilder/append(java.lang.String), java/lang/Character/toCodePoint(char  0,00885
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/String/substring(int  0,00885
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/trim(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream)  0,00885
+java/lang/Character/isLowSurrogate(char)  0,00885
+java/io/PrintStream/println(java.lang.String)  0,00885
+android/content/Context/getPackageManager(), android/content/Intent/Intent(java.lang.String  0,00885
+android/content/Context/getPackageManager(), android/provider/Settings$Secure/getString(android.content.ContentResolver  0,00885
+com/adwhirl/adapters/AdSenseAdapter$ExtendedAdSenseSpec/setCompanyName(java.lang.String)  0,00885
+android/text/TextUtils/isEmpty(java.lang.CharSequence)  0,00885
+com/adwhirl/adapters/AdSenseAdapter$ExtendedAdSenseSpec/setColorBackground(java.lang.String), android/text/TextUtils/join(java.lang.CharSequence  0,00885
+java/io/PrintStream/println(int)  0,00885
+android/database/sqlite/SQLiteException/toString(), java/util/ArrayList/ArrayList(), java/lang/Integer/toString(int), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,00885
+android/database/sqlite/SQLiteException/toString(), java/lang/Long/valueOf(long), com/google/android/apps/analytics/PersistentHitStore$DataBaseHelper/getWritableDatabase(), android/util/Log/e(java.lang.String  0,00885
+android/database/sqlite/SQLiteException/toString(), java/lang/Long/valueOf(long), com/google/android/apps/analytics/PersistentHitStore$DataBaseHelper/getWritableDatabase(), android/database/sqlite/SQLiteDatabase/beginTransaction()  0,00885
+java/util/ArrayList/ArrayList(), org/json/JSONObject/getJSONObject(java.lang.String), android/util/Log/e(java.lang.String  0,00885
+java/lang/Long/valueOf(long), java/lang/StringBuilder/append(java.lang.String), android/location/Location/getAccuracy(), java/lang/String/format(java.lang.String  0,00885
+twitter4j/internal/org/json/JSONStringer/value(boolean)  0,00885
+android/database/sqlite/SQLiteDatabase/setTransactionSuccessful()  0,00885
+android/content/ContentValues/put(java.lang.String  0,00885
+java/security/SecureRandom/nextInt()  0,00885
+java/lang/StringBuilder/StringBuilder(), org/json/JSONArray/put(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,00885
+java/lang/StringBuilder/StringBuilder(), android/os/Bundle/getString(java.lang.String)  0,00885
+java/lang/StringBuilder/StringBuilder(), java/net/HttpURLConnection/getHeaderField(java.lang.String  0,00885
+java/util/StringTokenizer/nextToken()  0,00885
+java/util/StringTokenizer/StringTokenizer(java.lang.String)  0,00885
+java/util/StringTokenizer/hasMoreTokens()  0,00885
+java/io/PrintStream/println()  0,00885
+java/lang/StringBuffer/append(java.lang.Object), twitter4j/internal/org/json/JSONStringer/object(), java/lang/StringBuffer/append(int), twitter4j/internal/org/json/JSONStringer/value(java.lang.Object  0,00885
+java/lang/Float/parseFloat(java.lang.String)  0,00885
+java/net/HttpURLConnection/disconnect()  0,00885
+java/net/HttpURLConnection/getResponseCode()  0,00885
+java/net/HttpURLConnection/getInputStream()  0,00885
+java/net/HttpURLConnection/connect()  0,00885
+android/app/Activity/getApplicationContext()  0,00885
+java/net/HttpURLConnection/setInstanceFollowRedirects(boolean)  0,00885
+java/net/URL/URL(java.lang.String)  0,00885
+java/io/BufferedReader/BufferedReader(java.io.Reader  0,00885
+java/util/Collections/sort(java.util.List)  0,00885
+java/util/List/add(java.lang.Object)  0,00885
+twitter4j/internal/org/json/JSONException/getMessage()  0,00885
+android/widget/ImageView/setVisibility(int)  0,00885
+java/lang/StringBuffer/append(double)  0,00885
+android/os/SystemClock/uptimeMillis()  0,00885
+android/view/animation/AnimationUtils/loadAnimation(android.content.Context  0,00885
+java/io/IOException/getMessage()  0,00885
+java/lang/String/indexOf(java.lang.String  0,00885
+twitter4j.http.OAuthToken)  0,00885
+android.app.Activity)  0,00885
+android.view.View  0,00885
+com/millennialmedia/android/MMAdView/setId(int)  0,00885
+com/millennialmedia/android/MMAdView/setListener(com.millennialmedia.android.MMAdView$MMAdListener)  0,00885
+android/media/SoundPool/setVolume(int  0,00885
+java/io/DataInputStream/close()  0,00885
+java/io/DataInputStream/readInt()  0,00885
+skylight1/util/Chest$Record$Type/ordinal()  0,00885
+java/io/DataInputStream/DataInputStream(java.io.InputStream)  0,00885
+java/lang/Class/getName()  0,00885
+java/lang/StringBuilder/append(java.lang.Object)  0,00885
+android/content/Context/getSharedPreferences(java.lang.String  0,00885
+org/json/JSONObject/getString(java.lang.String)  0,00885
+android/content/Context/checkCallingOrSelfPermission(java.lang.String)  0,00885
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/toString()  0,00885
+java/lang/StringBuilder/append(int), android/content/Intent/getIntExtra(java.lang.String  0,00885
+android/text/TextUtils/join(java.lang.CharSequence  0,00885
+java/io/InputStreamReader/InputStreamReader(java.io.InputStream)  0,00885
+java/util/Set/iterator()  0,00885
+java/lang/StringBuffer/toString(), java/lang/StringBuffer/StringBuffer()  0,00885
+java/lang/StringBuffer/append(char)  0,00885
+java/lang/String/equals(java.lang.Object)  0,00885
+java/lang/Long/valueOf(long)  0,00885
+android/util/Log/e(java.lang.String  0,00885
+java/lang/StringBuilder/StringBuilder()  0,00885
+java/util/Iterator/hasNext()  0,00885
+java/lang/StringBuilder/append(java.lang.String)  0,00885

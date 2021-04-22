@@ -1,0 +1,8 @@
+android/view/TextureView/isAvailable()
+android/content/SharedPreferences/getFloat(java.lang.String,float
+java/lang/Math/acos(double)
+java/util/regex/Pattern/compile(java.lang.String)
+java/lang/StringBuilder/StringBuilder(
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Integer/parseInt(java.lang.String
+java/lang/Math/floor(double

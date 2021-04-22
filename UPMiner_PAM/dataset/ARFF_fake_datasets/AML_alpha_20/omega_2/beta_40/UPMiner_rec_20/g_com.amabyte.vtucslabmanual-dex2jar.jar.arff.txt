@@ -1,0 +1,22 @@
+java/lang/Object/getClass(
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/io/Writer/write(java.lang.String
+java/io/PrintWriter/print(java.lang.String
+java/lang/Math/min(float,float
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(java.lang.Object
+java/util/ArrayList/ArrayList(
+android/view/ViewGroup/getBottom(
+java/lang/Class/getSimpleName()
+org.api.fake
+java/util/Iterator/hasNext()
+android/view/View/getLeft(
+java/util/HashMap/HashMap(
+android/view/View/getLayoutParams()
+android/graphics/Canvas/getClipBounds(android.graphics.Rect
+android/widget/Scroller/isFinished()
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/StringBuilder()
+android/view/View/isSelected(
+android/view/View/getRight()
+org.rand.api

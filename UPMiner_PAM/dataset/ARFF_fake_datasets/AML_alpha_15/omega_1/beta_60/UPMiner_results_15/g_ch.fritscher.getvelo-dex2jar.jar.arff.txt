@@ -1,0 +1,17 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/lang/Class/getName()
+java/lang/String/equals(java.lang.Object)
+java/lang/StringBuilder/toString(
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/lang/StringBuilder/toString()
+java/util/ArrayList/get(int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+greendroid/widget/QuickActionBar/getScreenWidth()
+java/util/Iterator/next()
+java/util/Iterator/hasNext()
+org.api.fake
+java/lang/StringBuilder/append(char)
+android/view/LayoutInflater/inflate(int,android.view.ViewGroup,boolean)
+java/util/LinkedHashMap/entrySet()
+java/lang/StringBuilder/StringBuilder(int)

@@ -1,0 +1,9 @@
+android/app/AlertDialog/dismiss()
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)
+org.api.fake
+android/content/res/Resources/getString(int)
+java/lang/StringBuilder/StringBuilder()
+android/view/MotionEvent/getPointerCount()
+android/content/res/Resources/getDisplayMetrics()
+java/lang/String/toLowerCase()
+android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams)

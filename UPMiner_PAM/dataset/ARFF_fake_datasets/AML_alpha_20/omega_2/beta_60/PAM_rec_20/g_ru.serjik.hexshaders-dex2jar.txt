@@ -1,0 +1,15 @@
+java/lang/Package/getName(), android/widget/Toast/makeText(android.content.Context  0,12500
+java/lang/Thread/currentThread(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Class/getName(), java/lang/String/startsWith(java.lang.String), java/lang/StackTraceElement/getMethodName(), java/lang/Thread/getStackTrace(), java/lang/StringBuilder/toString(), java/lang/StackTraceElement/getLineNumber(), java/lang/StackTraceElement/getClassName(  0,06250
+ru/serjik/preferences/controllers/RGBController/a(int), android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout/addView(android.view.View), android/widget/TextView/setText(java.lang.CharSequence), java/lang/Integer/valueOf(int), android/widget/SeekBar/getPaddingLeft(), android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener), java/lang/String/format(java.lang.String  0,06250
+android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout/setPadding(int  0,06250
+int  0,06250
+android/widget/CheckBox/setPadding(int  0,06250
+java.lang.String[  0,06250
+android/widget/SeekBar/setPadding(int  0,06250
+ru/serjik/hexshaders/HexShadersSettings/getAssets(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/List/subList(int  0,06250
+ru/serjik/hexshaders/HexShadersSettings/getAssets(), java/io/IOException/printStackTrace(), java/lang/String/compareTo(java.lang.String), java/lang/String/length(), java/lang/String/substring(int), java/util/List/add(java.lang.Object), java/lang/String/contains(java.lang.CharSequence), java/lang/String/endsWith(java.lang.String), android/content/res/AssetManager/list(java.lang.String), java/util/ArrayList/ArrayList(  0,06250
+android/opengl/EGL14/eglDestroySurface(android.opengl.EGLDisplay  0,06250
+android/view/View/setVisibility(int), android/view/View/setOnClickListener(android.view.View$OnClickListener), ru/serjik/hexshaders/HexShadersSettings/setContentView(int), android/widget/Spinner/setSelection(int), java/lang/String/equals(java.lang.Object), ru/serjik/c/a/onCreate(android.os.Bundle), java/util/List/get(int), android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter), java/util/List/size(), android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,06250
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/TextView/setPadding(int  0,06250
+java.lang.String)  0,06250
+java/lang/String/valueOf(java.lang.Object), android/content/Intent/Intent(java.lang.String  0,06250

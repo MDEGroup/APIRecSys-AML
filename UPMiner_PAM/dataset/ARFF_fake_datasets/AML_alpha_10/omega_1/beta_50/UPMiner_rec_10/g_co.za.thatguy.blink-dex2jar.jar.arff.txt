@@ -1,0 +1,7 @@
+android/net/Uri/getPath()
+java/util/LinkedList/iterator()
+org.api.fake
+android/bluetooth/BluetoothAdapter/isEnabled()
+java/lang/StringBuilder/toString()
+android/net/Uri/getScheme()
+java/lang/StringBuilder/append(java.lang.String)

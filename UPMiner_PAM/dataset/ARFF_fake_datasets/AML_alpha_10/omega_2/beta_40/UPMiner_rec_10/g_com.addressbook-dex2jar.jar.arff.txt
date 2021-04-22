@@ -1,0 +1,12 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+android/app/AlertDialog$Builder/setIcon(int)
+java/util/Iterator/next()
+org.api.fake
+java/util/List/size()
+java/lang/StringBuilder/toString() java/lang/Exception/getMessage(
+android/content/pm/PackageManager/getLaunchIntentForPackage(java.lang.String
+java/lang/StringBuilder/toString()
+java/io/File/File(java.lang.String
+android/content/Context/getPackageManager()
+java/util/List/size() java/util/List/iterator()
+org.rand.api

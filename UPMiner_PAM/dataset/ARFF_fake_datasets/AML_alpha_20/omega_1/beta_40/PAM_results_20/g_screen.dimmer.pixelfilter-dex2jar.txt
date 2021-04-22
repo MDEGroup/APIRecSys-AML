@@ -1,0 +1,45 @@
+prob: 0,13333
+[boolean)]
+
+prob: 0,13333
+[android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,06667
+[android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/putAll(android.os.Bundle), android/os/Bundle/remove(java.lang.String), android/os/Bundle/keySet(), android/os/Bundle/putSparseParcelableArray(java.lang.String]
+
+prob: 0,06667
+[android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/Bundle(), android/app/Notification$Action$Builder/setAllowGeneratedReplies(boolean), android/app/Notification$Action$Builder/Notification$Action$Builder(int]
+
+prob: 0,06667
+[android.app.Notification]
+
+prob: 0,06667
+[java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getDeclaredField(java.lang.String), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object]
+
+prob: 0,06667
+[android/content/Intent/getAction(), screen/dimmer/pixelfilter/MainActivity/finish(), screen/dimmer/pixelfilter/MainActivity/setIntent(android.content.Intent), screen/dimmer/pixelfilter/MainActivity/findViewById(int), screen/dimmer/pixelfilter/MainActivity/getIntent(), java/lang/String/equals(java.lang.Object), android/util/Log/d(java.lang.String]
+
+prob: 0,06667
+[screen/dimmer/pixelfilter/FilterService/getSystemService(java.lang.String), android/widget/ImageView/setBackground(android.graphics.drawable.Drawable), android/provider/Settings$System/getInt(android.content.ContentResolver]
+
+prob: 0,06667
+[int]
+
+prob: 0,06667
+[java/io/ObjectOutputStream/writeBoolean(boolean), java/lang/StringBuilder/append(java.lang.String), android/content/Context/openFileOutput(java.lang.String]
+
+prob: 0,06667
+[java/io/ObjectInputStream/readFloat(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,06667
+[android/content/Context/openFileInput(java.lang.String), java/io/ObjectInputStream/readFully(byte[]), java/io/ObjectInputStream/readBoolean(), java/io/ObjectInputStream/readInt(), java/io/ObjectInputStream/ObjectInputStream(java.io.InputStream), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), java/io/ObjectInputStream/close()]
+
+prob: 0,06667
+[java.lang.CharSequence]
+
+prob: 0,06667
+[android.content.Intent)]
+
+prob: 0,06667
+[java/util/Iterator/hasNext(), android/app/Notification$Builder/build()]
+

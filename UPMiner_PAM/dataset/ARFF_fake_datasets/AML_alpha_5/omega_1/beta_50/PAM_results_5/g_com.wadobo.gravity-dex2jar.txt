@@ -1,0 +1,81 @@
+prob: 0,20000
+[int]
+
+prob: 0,12000
+[java.lang.String)]
+
+prob: 0,08000
+[java/util/ArrayList/iterator(), java/lang/Integer/intValue(), java/util/Iterator/hasNext(), java/util/HashMap/entrySet(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/HashMap/isEmpty(]
+
+prob: 0,08000
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,04000
+[org/cocos2dx/lib/Cocos2dxGLSurfaceView/getContext(), android/view/inputmethod/InputMethodManager/hideSoftInputFromWindow(android.os.IBinder]
+
+prob: 0,04000
+[android/content/res/AssetFileDescriptor/getFileDescriptor(), android/media/MediaPlayer/prepare(), java/io/FileInputStream/FileInputStream(java.lang.String), java/lang/String/startsWith(java.lang.String), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor]
+
+prob: 0,04000
+[java/io/DataInputStream/read(byte[]]
+
+prob: 0,04000
+[int)]
+
+prob: 0,04000
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Map/entrySet(), java/lang/StringBuilder/toString(), java/util/Map$Entry/getKey(), java/util/Set/iterator(]
+
+prob: 0,04000
+[java/util/Iterator/hasNext(), java/util/HashMap/isEmpty(), android/media/SoundPool/resume(int]
+
+prob: 0,04000
+[java/net/HttpURLConnection/getHeaderFields(), java/util/Map$Entry/getValue(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,04000
+[android/os/Handler/postDelayed(java.lang.Runnable]
+
+prob: 0,04000
+[android/view/MotionEvent/getY(int), java/lang/StringBuilder/toString(), android/view/MotionEvent/getX(int), android/view/MotionEvent/getPointerId(int), android/util/Log/d(java.lang.String]
+
+prob: 0,04000
+[org/cocos2dx/lib/Cocos2dxActivity/getAssets(), java/lang/StringBuilder/append(java.lang.String), android/content/res/AssetManager/openFd(java.lang.String), android/content/res/AssetFileDescriptor/getStartOffset(), java/lang/StringBuilder/StringBuilder(), android/content/Intent/Intent(java.lang.String), android/media/MediaPlayer$OnErrorListener/onError(android.media.MediaPlayer]
+
+prob: 0,04000
+[android/graphics/Paint/setTypeface(android.graphics.Typeface), android/graphics/Paint/setTextSize(float), android/graphics/Paint/getTextBounds(java.lang.String]
+
+prob: 0,04000
+[java.lang.String]
+
+prob: 0,04000
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,04000
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/view/MotionEvent/getPointerCount(), android/view/MotionEvent/getAction(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,04000
+[java/util/ArrayList/iterator(), java/lang/Integer/intValue(), java/util/Iterator/hasNext(), java/util/HashMap/entrySet(), android/media/SoundPool/setVolume(int]
+
+prob: 0,04000
+[java/util/HashMap/clear(), android/media/SoundPool/stop(int)]
+
+prob: 0,04000
+[java/util/ArrayList/remove(int), java/util/Iterator/hasNext(), android/media/SoundPool/stop(int), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/Integer/valueOf(int), java/util/ArrayList/indexOf(java.lang.Object), java/util/HashMap/get(java.lang.Object), java/util/ArrayList/contains(java.lang.Object), java/util/HashMap/keySet(]
+
+prob: 0,04000
+[android/media/SoundPool/load(java.lang.String]
+
+prob: 0,04000
+[android/media/SoundPool/pause(int)]
+
+prob: 0,04000
+[java/util/Set/iterator(), java/util/Map$Entry/getValue()]
+
+prob: 0,04000
+[java/util/ArrayList/iterator(), java/lang/Integer/intValue()]
+
+prob: 0,04000
+[java/util/HashMap/entrySet()]
+
+prob: 0,04000
+[java/util/Iterator/next()]
+

@@ -1,0 +1,10 @@
+android/webkit/WebView/setInitialScale(int
+com/mfavez/android/feedgoal/FeedWebActivity/findViewById(int)
+com/mfavez/android/feedgoal/FeedChannelsActivity/registerForContextMenu(android.view.View)
+com/mfavez/android/feedgoal/FeedTabActivity/getIntent()
+android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[],android.content.DialogInterface$OnClickListener)
+com/mfavez/android/feedgoal/FeedTabActivity/setContentView(int
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(long
+android/app/AlertDialog$Builder/create(
+android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener

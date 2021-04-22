@@ -1,0 +1,16 @@
+android/graphics/Canvas/drawRect(float,float,float,float,android.graphics.Paint
+java/util/List/add(java.lang.Object)
+bbth/game/units/Unit/getY(
+android/content/res/XmlResourceParser/getAttributeValue(java.lang.String,java.lang.String)
+android/graphics/Paint/setARGB(int,int,int,int
+bbth/engine/util/Point/set(float,float
+android/util/FloatMath/cos(float)
+java/lang/Math/max(float,float
+java/util/Iterator/remove()
+org.api.fake
+android/graphics/Paint/setColor(int)
+java/util/List/add(java.lang.Object
+bbth/game/units/UberUnit/getHeading(
+java/util/ArrayList/size()
+java/util/ArrayList/size(
+org.rand.api

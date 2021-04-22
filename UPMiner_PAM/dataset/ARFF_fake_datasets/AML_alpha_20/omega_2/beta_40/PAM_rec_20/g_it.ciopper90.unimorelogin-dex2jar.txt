@@ -1,0 +1,20 @@
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/valueOf(int  0,18182
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/net/wifi/WifiInfo/getMacAddress(), android/net/wifi/WifiInfo/getIpAddress(), android/net/wifi/WifiManager/getConnectionInfo()  0,18182
+android/app/Activity/onCreate(android.os.Bundle)  0,18182
+android.content.Intent)  0,09091
+it/ciopper90/unimorelogin/SetData/findViewById(int), it/ciopper90/unimorelogin/SetData/getSystemService(java.lang.String), android/widget/EditText/setText(java.lang.CharSequence), android/app/ProgressDialog/ProgressDialog(android.content.Context), it/ciopper90/unimorelogin/SetData/getSharedPreferences(java.lang.String  0,09091
+android/widget/CheckBox/setOnClickListener(android.view.View$OnClickListener)  0,09091
+android/app/ProgressDialog/show(), android/view/View/setOnClickListener(android.view.View$OnClickListener), java/lang/String/equals(java.lang.Object), android/app/ProgressDialog/ProgressDialog(android.content.Context), it/ciopper90/unimorelogin/Main/getSystemService(java.lang.String), android/content/SharedPreferences/getBoolean(java.lang.String  0,09091
+android/widget/CheckBox/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener)  0,09091
+android/net/wifi/WifiManager/getWifiState(), android/app/ProgressDialog/show(), it/ciopper90/unimorelogin/Main/getResources(  0,09091
+android/net/wifi/WifiManager/getWifiState(), android/content/res/Resources/getString(int), java/lang/Thread/start(), java/lang/Thread/Thread(java.lang.Runnable), android/content/Context/getSystemService(java.lang.String), android/net/wifi/WifiManager/getConnectionInfo(), android/app/ProgressDialog/setMessage(java.lang.CharSequence), it/ciopper90/unimorelogin/Main/getSharedPreferences(java.lang.String  0,09091
+it/ciopper90/unimorelogin/Main/getString(int), it/ciopper90/unimorelogin/Main/startActivity(android.content.Intent), it/ciopper90/unimorelogin/Main/getResources()  0,09091
+android/app/ProgressDialog/setMessage(java.lang.CharSequence), android/content/res/Resources/getString(int), android/os/Handler/sendEmptyMessage(int), java/lang/Thread/start(), it/ciopper90/unimorelogin/Main/getSystemService(java.lang.String)  0,09091
+java.lang.String  0,09091
+java/util/Iterator/hasNext(), java/net/URLEncoder/encode(java.lang.String  0,09091
+java/net/MalformedURLException/getMessage(), java/net/URL/openConnection(), java/net/ProtocolException/getMessage(), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,09091
+java/io/BufferedReader/close(), java/lang/StringBuilder/append(java.lang.String), java/net/URL/URL(java.lang.String), java/io/IOException/getMessage(), java/lang/StringBuffer/toString(), android/util/Log/e(java.lang.String  0,09091
+java/lang/StringBuilder/append(java.lang.String), java/net/URL/URL(java.lang.String), java/io/IOException/getMessage(), java/lang/StringBuffer/toString(), android/util/Log/e(java.lang.String  0,09091
+android/content/Context/getSystemService(java.lang.String)  0,09091
+java/lang/Thread/Thread(java.lang.Runnable)  0,09091
+it/ciopper90/unimorelogin/Main/getSystemService(java.lang.String)  0,09091

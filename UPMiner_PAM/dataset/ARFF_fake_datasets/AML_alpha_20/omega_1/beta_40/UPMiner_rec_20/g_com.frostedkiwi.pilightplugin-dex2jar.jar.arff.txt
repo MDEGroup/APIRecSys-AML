@@ -1,0 +1,8 @@
+java/lang/StringBuilder/append(java.lang.Object)
+android/view/View/getVisibility()
+org.api.fake
+android/view/View/getLayoutParams()
+android/support/v4/view/ViewPager/getChildCount()
+java/util/ArrayList/size()
+java/lang/StringBuilder/append(java.lang.String)
+android/view/MotionEvent/getEdgeFlags()

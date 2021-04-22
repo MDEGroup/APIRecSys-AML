@@ -1,0 +1,12 @@
+android/content/res/Resources/getColor(int)
+android/widget/EditText/setPadding(int,int,int,int
+android/appwidget/AppWidgetManager/getInstalledProviders(
+android/text/Spanned/subSequence(int,int
+android/app/Activity/onCreate(android.os.Bundle)
+android/graphics/Canvas/translate(float,float)
+android/text/InputFilter/filter(java.lang.CharSequence,int,int,android.text.Spanned,int,int)
+android/content/res/Resources/getDrawable(int)
+org/chrisbailey/todo/activities/ToDoActivity/getResources(
+android/appwidget/AppWidgetManager/getInstance(android.content.Context)
+org/chrisbailey/todo/widgets/ColorCircle/getHeight(
+android/widget/TextView/TextView(android.content.Context

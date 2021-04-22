@@ -1,0 +1,54 @@
+prob: 0,07143
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(]
+
+prob: 0,07143
+[int]
+
+prob: 0,07143
+[java/lang/Long/valueOf(long), android/database/Cursor/getLong(int), android/database/Cursor/getString(int), android/database/Cursor/moveToFirst(), java/util/Vector/add(java.lang.Object), android/database/Cursor/getColumnIndexOrThrow(java.lang.String), android/database/Cursor/close(), com/mixpanel/android/mpmetrics/MPMetrics$3/start(), java/util/Vector/contains(java.lang.Object), android/database/Cursor/moveToNext(]
+
+prob: 0,07143
+[java.util.Map)]
+
+prob: 0,07143
+[android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,07143
+[android/content/Context/getPackageManager(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence), android/app/AlertDialog$Builder/create(), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,07143
+[android/content/Context/getPackageName()]
+
+prob: 0,07143
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,07143
+[java/lang/Thread/Thread(java.lang.Runnable), java/lang/StringBuilder/toString(), java/lang/Thread/start(), com/wiegandfamily/portscan/ScanResults/getAppString(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String]
+
+prob: 0,07143
+[com/wiegandfamily/portscan/ScanResults/findViewById(int), com/wiegandfamily/portscan/ScanResults/getIntent()]
+
+prob: 0,07143
+[java/util/ArrayList/ArrayList(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/String/valueOf(int), java/lang/Exception/getMessage(]
+
+prob: 0,07143
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,07143
+[java/net/InetAddress/getHostAddress(), java/net/InetAddress/isLoopbackAddress(), java/net/NetworkInterface/getNetworkInterfaces(), java/lang/String/toString(), android/util/Log/e(java.lang.String]
+
+prob: 0,07143
+[java/net/Socket/connect(java.net.SocketAddress]
+
+prob: 0,07143
+[java.lang.String]
+
+prob: 0,07143
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,07143
+[java/lang/Object/toString(), android/widget/TextView/postInvalidate(), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,07143
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String)]
+

@@ -1,0 +1,48 @@
+prob: 0,08333
+[java/lang/reflect/Field/getType(), java/util/List/add(java.lang.Object), java/util/Map/put(java.lang.Object]
+
+prob: 0,08333
+[java/lang/reflect/Field/getName(), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), android/support/v4/app/FragmentManager/getFragment(android.os.Bundle]
+
+prob: 0,08333
+[java/lang/Math/min(float]
+
+prob: 0,08333
+[android/view/View/setOnClickListener(android.view.View$OnClickListener), android/view/LayoutInflater/inflate(int]
+
+prob: 0,08333
+[android/content/res/Resources/getDisplayMetrics(), android/widget/TextView/setTypeface(android.graphics.Typeface), android/widget/TextView/setTextSize(int]
+
+prob: 0,08333
+[android/support/v4/app/FragmentManager/putFragment(android.os.Bundle]
+
+prob: 0,08333
+[java/lang/Thread/sleep(long), java/io/IOException/IOException(java.lang.String), java/lang/StringBuilder/append(int), org/apache/http/StatusLine/getReasonPhrase(), org/apache/http/StatusLine/getStatusCode(), org/apache/http/client/methods/HttpPost/HttpPost(java.lang.String), org/apache/http/HttpResponse/getStatusLine(), org/apache/http/client/methods/HttpPost/setEntity(org.apache.http.HttpEntity), org/apache/http/entity/StringEntity/StringEntity(java.lang.String), android/net/http/AndroidHttpClient/close(), android/net/http/AndroidHttpClient/execute(org.apache.http.client.methods.HttpUriRequest]
+
+prob: 0,08333
+[java/lang/Class/forName(java.lang.String), java/lang/reflect/Field/getInt(java.lang.Object), java/lang/reflect/Field/getName(), java/util/Map/put(java.lang.Object]
+
+prob: 0,08333
+[java.util.List)]
+
+prob: 0,08333
+[java/util/List/size(), java/lang/Math/max(long]
+
+prob: 0,08333
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,08333
+[java.lang.String)]
+
+prob: 0,08333
+[java/lang/Integer/intValue(), java/lang/reflect/Field/setAccessible(boolean), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,08333
+[java/lang/StringBuilder/StringBuilder(), java/lang/Integer/valueOf(int), java/lang/Class/getDeclaredFields()]
+
+prob: 0,08333
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,08333
+[java/lang/StringBuilder/StringBuilder()]
+

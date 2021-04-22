@@ -1,0 +1,15 @@
+java/net/HttpURLConnection/disconnect()
+java/text/SimpleDateFormat/SimpleDateFormat(java.lang.String,java.util.Locale
+java/net/URL/openStream()
+android/util/Log/getStackTraceString(java.lang.Throwable)
+java/io/FileOutputStream/FileOutputStream(java.io.File
+java/lang/StringBuilder/toString(
+java/util/Map/get(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(java.lang.Object
+java/io/ByteArrayOutputStream/toByteArray(
+android/content/ContentValues/ContentValues(android.content.ContentValues
+org.api.fake
+android/app/ProgressDialog/setCancelable(boolean
+android/app/Activity/runOnUiThread(java.lang.Runnable
+java/io/BufferedInputStream/skip(long

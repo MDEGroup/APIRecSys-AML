@@ -1,0 +1,32 @@
+java.lang.String)  0,12000
+int  0,08000
+android.preference.PreferenceActivity  0,08000
+java.lang.String  0,08000
+java/lang/Throwable/printStackTrace(), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/System/currentTimeMillis(), java/lang/StringBuilder/toString(), jgame/impl/JGameError/printStackTrace(  0,04000
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/Double/parseDouble(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/lang/Integer/parseInt(java.lang.String), java/util/Enumeration/nextElement(), java/lang/StringBuilder/toString(), java/util/Vector/elements(  0,04000
+java/lang/StringBuilder/append(java.lang.String), examples/billiardberzerk/Main/pfWidth(), examples/billiardberzerk/Main/drawImage(java.lang.String  0,04000
+double)  0,04000
+int)  0,04000
+android/graphics/Paint/setAntiAlias(boolean), java/lang/Thread/start(), android/graphics/Canvas/Canvas(), java/lang/Thread/Thread(java.lang.Runnable), android/graphics/Bitmap/createBitmap(int  0,04000
+jgame/platform/JGActivity/setContentView(android.view.View), java/lang/StringBuilder/append(java.lang.String), jgame/platform/JGActivity/getSystemService(java.lang.String  0,04000
+java/lang/StringBuilder/append(int), android/hardware/SensorManager/getDefaultSensor(int), java/lang/StringBuilder/StringBuilder(), android/view/WindowManager/getDefaultDisplay(), jgame/platform/JGEngine$JGView/requestFocus(), android/view/Display/getPixelFormat(), jgame/platform/JGActivity/getAssets(), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/toString()  0,04000
+android/content/res/AssetManager/open(java.lang.String), java/lang/String/equals(java.lang.Object), java/util/Enumeration/hasMoreElements()  0,04000
+jgame/platform/JGEngine/getAssets()  0,04000
+java/lang/Class/getName(), jgame/platform/StdGame/getKeyDesc(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,04000
+java/lang/String/substring(int)  0,04000
+java/lang/Object/getClass()  0,04000
+jgame/platform/StdGame/getImageSize(java.lang.String), java/lang/StringBuilder/append(java.lang.String), jgame/platform/StdGame/drawString(java.lang.String  0,04000
+jgame/platform/StdGame/stop(), jgame/platform/StdGame/isApplet(), jgame/platform/StdGame/clearKey(int), jgame/platform/StdGame/enableAudio(), jgame/platform/StdGame/getKey(int), jgame/platform/StdGame/setGameState(java.lang.String), jgame/platform/StdGame/addGameState(java.lang.String), jgame/platform/JGEngine$JGView/post(java.lang.Runnable), jgame/platform/StdGame/getGameSpeed(), jgame/platform/StdGame/wakeUpOnKey(int), jgame/platform/StdGame/inGameState(java.lang.String), jgame/platform/StdGame/disableAudio(), jgame/platform/StdGame/removeGameState(java.lang.String), jgame/platform/StdGame/exitEngine(java.lang.String  0,04000
+jgame/platform/StdGame/getFontHeight(jgame.JGFont), jgame/platform/StdGame/viewHeight(), jgame/platform/StdGame/drawString(java.lang.String  0,04000
+jgame/platform/StdGame/setColor(jgame.JGColor), jgame/platform/StdGame/viewWidth(), java/lang/StringBuilder/append(java.lang.String)  0,04000
+android/widget/LinearLayout/addView(android.view.View), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,04000
+examples/billiardberzerk/Main/fillBG(java.lang.String), examples/billiardberzerk/Main/pfWidth(), examples/billiardberzerk/Main/setBGImage(java.lang.String), examples/billiardberzerk/Main/getTileCid(jgame.JGRectangle), java/lang/StringBuilder/StringBuilder(), java/lang/Math/min(int  0,04000
+examples/billiardberzerk/Main/defineImageRotated(java.lang.String  0,04000
+java/util/Vector/size(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/lang/Integer/parseInt(java.lang.String), java/util/Enumeration/nextElement(), java/util/Vector/addElement(java.lang.Object), java/util/Vector/Vector(int  0,04000
+double  0,04000
+jgame/platform/StdGame/viewHeight(), jgame/platform/StdGame/drawString(java.lang.String  0,04000
+jgame/platform/StdGame/viewWidth()  0,04000
+java/lang/StringBuilder/append(java.lang.Object)  0,04000
+jgame/platform/StdGame/getKeyDesc(int)  0,04000
+java/lang/StringBuilder/StringBuilder()  0,04000
+java/lang/StringBuilder/append(java.lang.String)  0,04000

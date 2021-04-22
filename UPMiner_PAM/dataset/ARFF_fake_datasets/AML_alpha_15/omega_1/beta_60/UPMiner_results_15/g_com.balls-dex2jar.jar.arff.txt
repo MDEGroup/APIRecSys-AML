@@ -1,0 +1,15 @@
+java/security/MessageDigest/digest()
+android/app/AlertDialog$Builder/setPositiveButton(int,android.content.DialogInterface$OnClickListener)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+android/widget/LinearLayout/setGravity(int
+java/util/HashMap/get(java.lang.Object)
+java/lang/String/length(
+java/lang/String/split(java.lang.String,int)
+android/content/Intent/Intent(android.content.Context,java.lang.Class)
+java/util/Map/keySet(
+org.api.fake
+android/database/Cursor/getColumnIndex(java.lang.String)
+android/content/Context/getPackageManager()
+android/text/TextUtils/isEmpty(java.lang.CharSequence)
+java/lang/String/valueOf(java.lang.Object)
+android/content/Context/getResources(

@@ -1,0 +1,8 @@
+org/bouldercounty/parks/trails/a/a/getMyLocation(
+android/view/View/setOnTouchListener(android.view.View$OnTouchListener
+com/google/android/maps/Projection/metersToEquatorPixels(float
+android/webkit/WebSettings/setJavaScriptEnabled(boolean)
+java/lang/StringBuilder/toString(
+org/bouldercounty/parks/trails/d/findViewById(int)
+android/graphics/Paint/setAntiAlias(boolean)
+com/google/android/maps/MapController/animateTo(com.google.android.maps.GeoPoint,java.lang.Runnable)

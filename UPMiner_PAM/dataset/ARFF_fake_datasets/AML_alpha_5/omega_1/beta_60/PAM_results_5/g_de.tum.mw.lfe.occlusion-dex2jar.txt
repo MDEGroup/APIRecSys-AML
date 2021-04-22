@@ -1,0 +1,129 @@
+prob: 0,08000
+[java.util.Map]
+
+prob: 0,08000
+[java/io/BufferedInputStream/read(byte[]]
+
+prob: 0,08000
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,04000
+[android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/toString(]
+
+prob: 0,04000
+[android/widget/RadioButton/setChecked(boolean), java/lang/StringBuilder/StringBuilder(), android/widget/SeekBar/setProgress(int), android/widget/EditText/setText(java.lang.CharSequence), android/widget/EditText/setEnabled(boolean), android/widget/TextView/setBackgroundColor(int), android/widget/CheckBox/isChecked(), de/tum/mw/lfe/occlusion/MainActivity/findViewById(int), android/widget/CheckBox/setChecked(boolean)]
+
+prob: 0,04000
+[de/tum/mw/lfe/occlusion/MainActivity/getPackageName()]
+
+prob: 0,04000
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Thread/start(), java/lang/Thread/setDaemon(boolean), java/lang/StringBuilder/StringBuilder(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/Thread/setName(java.lang.String), java/lang/StringBuilder/append(long]
+
+prob: 0,04000
+[java/net/InetAddress/getHostAddress(), java/net/NetworkInterface/getNetworkInterfaces(), java/lang/String/toString(), android/util/Log/e(java.lang.String]
+
+prob: 0,04000
+[java/net/InetAddress/isLoopbackAddress()]
+
+prob: 0,04000
+[android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/text/SpannableString/SpannableString(java.lang.CharSequence), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,04000
+[java/lang/Thread/isInterrupted(), java/lang/Thread/sleep(long), java/lang/Thread/start(), java/lang/Thread/currentThread(), android/util/Log/e(java.lang.String]
+
+prob: 0,04000
+[java/util/Iterator/hasNext(), java/lang/Error/Error(java.lang.String), java/io/PrintWriter/PrintWriter(java.io.Writer]
+
+prob: 0,04000
+[java/io/BufferedReader/read(), java/util/List/size(), android/util/Log/e(java.lang.String]
+
+prob: 0,04000
+[java/util/List/remove(int), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,04000
+[java/util/Map/get(java.lang.Object), java/util/HashMap/HashMap(), java/lang/String/substring(int]
+
+prob: 0,04000
+[char[])]
+
+prob: 0,04000
+[java.lang.String)]
+
+prob: 0,04000
+[javax.net.ssl.KeyManager[])]
+
+prob: 0,04000
+[java.lang.String]
+
+prob: 0,04000
+[android/hardware/Camera$Parameters/setPreviewSize(int]
+
+prob: 0,04000
+[int]
+
+prob: 0,04000
+[fi.iki.elonen.NanoHTTPD$Method]
+
+prob: 0,04000
+[java/lang/Thread/Thread(java.lang.Runnable)]
+
+prob: 0,04000
+[java/io/File/createNewFile(), java/lang/StringBuilder/StringBuilder(), java/lang/String/getBytes(java.lang.String), java/text/SimpleDateFormat/SimpleDateFormat(java.lang.String), de/tum/mw/lfe/occlusion/OccService/stopSelf(), java/io/File/canWrite(), java/lang/StringBuilder/append(java.lang.String), java/lang/Long/toString(long), java/util/TimeZone/getTimeZone(java.lang.String), java/io/File/File(java.lang.String]
+
+prob: 0,04000
+[java/io/File/File(java.lang.String), java/text/SimpleDateFormat/format(java.util.Date)]
+
+prob: 0,04000
+[java/util/Calendar/getInstance(java.util.TimeZone)]
+
+prob: 0,04000
+[android/os/SystemClock/elapsedRealtime(), java/lang/StringBuilder/append(java.lang.String), android/hardware/Camera/getParameters(), de/tum/mw/lfe/occlusion/OccService/stopSelf(), java/lang/StringBuilder/toString(), java/lang/Exception/getMessage(]
+
+prob: 0,04000
+[android/view/WindowManager/getDefaultDisplay()]
+
+prob: 0,04000
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,04000
+[android/hardware/Camera$Parameters/getPreviewSize()]
+
+prob: 0,04000
+[java/lang/StringBuilder/append(float)]
+
+prob: 0,04000
+[java/lang/StringBuilder/append(boolean)]
+
+prob: 0,04000
+[java/lang/StringBuilder/append(long)]
+
+prob: 0,04000
+[java/lang/StringBuilder/StringBuilder(int)]
+
+prob: 0,04000
+[de/tum/mw/lfe/occlusion/OccService/getSystemService(java.lang.String)]
+
+prob: 0,04000
+[android/view/Display/getRefreshRate()]
+
+prob: 0,04000
+[java.io.File)]
+
+prob: 0,04000
+[de/tum/mw/lfe/occlusion/OccService/getPackageName(), java/lang/StringBuilder/append(int), android/util/Log/e(java.lang.String]
+
+prob: 0,04000
+[de/tum/mw/lfe/occlusion/OccService/getApplicationContext(), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,04000
+[java/lang/String/getBytes(java.lang.String)]
+
+prob: 0,04000
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,04000
+[java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,04000
+[java/lang/StringBuilder/StringBuilder()]
+

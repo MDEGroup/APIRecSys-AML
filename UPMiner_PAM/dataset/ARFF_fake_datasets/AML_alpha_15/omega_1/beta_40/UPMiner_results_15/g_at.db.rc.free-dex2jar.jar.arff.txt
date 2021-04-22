@@ -1,0 +1,7 @@
+java/lang/Exception/toString()
+java/net/Socket/getInputStream()
+org.api.fake
+java/lang/StringBuilder/toString()
+java/io/DataInputStream/DataInputStream(java.io.InputStream)
+java/lang/StringBuilder/append(java.lang.String)
+java/io/DataInputStream/readInt()

@@ -1,0 +1,75 @@
+int  0,09231
+java.lang.String  0,09231
+com.google.zxing.BarcodeFormat  0,06154
+java/util/List/toArray(java.lang.Object[)  0,04615
+java.lang.String)  0,03077
+android/app/ProgressDialog/setMessage(java.lang.CharSequence), java/lang/Thread/Thread(java.lang.Runnable), android/app/ProgressDialog/ProgressDialog(android.content.Context), de/j4velin/gastzugang/MainFragment/getActivity(), android/os/Handler/Handler(), de/j4velin/gastzugang/MainFragment/getString(int  0,03077
+android.content.Context)  0,03077
+int)  0,03077
+com.google.zxing.common.BitArray  0,03077
+java/util/Iterator/next()  0,03077
+java.util.HashMap)  0,01538
+java/util/Iterator/hasNext(), java/net/URLEncoder/encode(java.lang.String  0,01538
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/String/substring(int), java/lang/String/substring(int  0,01538
+java/lang/Character/toUpperCase(char), java/lang/Character/isDigit(char), java/lang/String/charAt(int  0,01538
+java/lang/String/equalsIgnoreCase(java.lang.String), java/util/Iterator/hasNext(), java/util/Collection/isEmpty(), java/lang/String/substring(int  0,01538
+java/lang/String/trim(), java/util/List/get(int), java/lang/StringBuilder/StringBuilder(int)  0,01538
+java/util/Collection/size()  0,01538
+android/app/FragmentTransaction/commit(), de/j4velin/gastzugang/MainActivity/bindService(android.content.Intent  0,01538
+com.google.zxing.pdf417.encoder.Compaction  0,01538
+android/app/ProgressDialog/isShowing(), android/app/ProgressDialog/dismiss(), android/app/ProgressDialog/setTitle(int), android/app/ProgressDialog/show(), android/app/ProgressDialog/setCancelable(boolean)  0,01538
+android/app/ProgressDialog/show(), android/widget/EditText/setText(java.lang.CharSequence)  0,01538
+java/net/URL/openStream(), java/net/URL/toString(), java/net/URL/URL(java.lang.String), java/lang/String/contains(java.lang.CharSequence  0,01538
+java/io/InputStream/close()  0,01538
+android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,01538
+java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,01538
+java/lang/StringBuilder/append(java.lang.String), java/util/List/size(), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/List/get(int), java/lang/StringBuilder/toString(), java/lang/String/length()  0,01538
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/format(java.lang.String  0,01538
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/String/substring(int  0,01538
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(char), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/length(), java/lang/StringBuilder/insert(int  0,01538
+android.view.ViewGroup  0,01538
+android/net/wifi/WifiManager/getWifiState(), de/j4velin/gastzugang/MainFragment/getActivity(), android/content/Context/getSystemService(java.lang.String), android/app/Activity/registerReceiver(android.content.BroadcastReceiver  0,01538
+android/content/IntentFilter/IntentFilter(java.lang.String), android/app/Fragment/onResume()  0,01538
+android/app/AlertDialog$Builder/setNegativeButton(int  0,01538
+java/lang/Object/toString(), java/lang/Thread/start(), android/widget/EditText/getText()  0,01538
+android/content/Intent/Intent(android.content.Context  0,01538
+java/lang/Math/min(float  0,01538
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/util/Collections/sort(java.util.List  0,01538
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/Collection/clear(), java/util/Collection/add(java.lang.Object), java/util/Map$Entry/getValue(), java/util/Map/entrySet(  0,01538
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), java/lang/String/length(), java/util/Iterator/next(), java/lang/String/substring(int  0,01538
+java/util/ArrayList/ArrayList(), com/google/zxing/multi/qrcode/detector/MultiFinderPatternFinder/handlePossibleCenter(int[  0,01538
+java/lang/String/charAt(int), java/lang/String/length(), java/text/ParseException/ParseException(java.lang.String  0,01538
+java/lang/Integer/intValue(), java/util/Set/iterator(), java/util/List/add(java.lang.Object), java/lang/Math/max(int  0,01538
+com/google/zxing/oned/ITFWriter/appendPattern(boolean[  0,01538
+android.os.Parcel  0,01538
+com.google.zxing.oned.rss.FinderPattern  0,01538
+com.google.zxing.datamatrix.encoder.SymbolInfo)  0,01538
+java/lang/StringBuilder/append(int), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/String/substring(int), java/lang/Integer/parseInt(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/valueOf(int  0,01538
+java/lang/StringBuilder/append(int), java/lang/String/length(), com/google/zxing/oned/Code39Writer/appendPattern(boolean[  0,01538
+java/util/List/subList(int  0,01538
+android.os.IBinder)  0,01538
+com/google/zxing/client/result/EmailAddressResultParser/parseNameValuePairs(java.lang.String), java/lang/String/substring(int), java/lang/String/indexOf(int), java/lang/String/isEmpty(), java/lang/String/substring(int  0,01538
+java/util/regex/Pattern/split(java.lang.CharSequence)  0,01538
+java/util/Map/get(java.lang.Object), java/lang/Iterable/iterator()  0,01538
+java/lang/String/startsWith(java.lang.String)  0,01538
+java/lang/String/length(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,01538
+com/google/zxing/client/result/EmailAddressResultParser/getMassagedText(com.google.zxing.Result)  0,01538
+com/google/zxing/client/result/EmailAddressResultParser/urlDecode(java.lang.String)  0,01538
+com/google/zxing/oned/EAN8Writer/appendPattern(boolean[  0,01538
+java/util/ArrayList/ArrayList(int), java/util/Collection/isEmpty(), java/lang/String/isEmpty(), java/util/List/add(java.lang.Object), java/util/List/get(int), java/util/Collection/iterator(  0,01538
+java/util/ArrayList/ArrayList(int), com/google/zxing/client/result/SMSMMSResultParser/parseNameValuePairs(java.lang.String), java/util/List/size(), java/lang/String/substring(int  0,01538
+java/util/ArrayList/ArrayList(int), java/util/Map/containsKey(java.lang.Object), java/util/Iterator/hasNext(), java/util/Map$Entry/getKey()  0,01538
+java/lang/Long/parseLong(java.lang.String), java/lang/String/replaceAll(java.lang.String  0,01538
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/toString()  0,01538
+android/os/Handler/postDelayed(java.lang.Runnable  0,01538
+com.google.zxing.oned.rss.Pair)  0,01538
+java/lang/Thread/start()  0,01538
+java/lang/String/charAt(int)  0,01538
+java/lang/Integer/intValue(), java/util/Set/iterator()  0,01538
+java/util/Map/get(java.lang.Object)  0,01538
+java/lang/StringBuilder/append(char)  0,01538
+java/util/ArrayList/ArrayList(int)  0,01538
+java/lang/StringBuilder/toString()  0,01538
+java/lang/StringBuilder/append(int)  0,01538
+java/util/Iterator/hasNext()  0,01538
+java/lang/StringBuilder/append(java.lang.String)  0,01538

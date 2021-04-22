@@ -1,0 +1,38 @@
+java/lang/String/String(char[  0,08571
+java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,05714
+java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,05714
+boolean  0,05714
+boolean)  0,05714
+java.util.Map)  0,02857
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Double/isInfinite(double), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(double), java/lang/StringBuilder/toString(), com/google/gson/internal/bind/JsonTreeReader/isLenient(  0,02857
+java/lang/Double/isInfinite(double), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,02857
+com.google.gson.reflect.TypeToken)  0,02857
+java/lang/ThreadLocal/remove(), java/util/Map/put(java.lang.Object  0,02857
+android/widget/ImageView/setScaleType(android.widget.ImageView$ScaleType), android/content/SharedPreferences/getString(java.lang.String  0,02857
+com.google.gson.reflect.TypeToken  0,02857
+java/lang/Integer/intValue(), android/graphics/drawable/BitmapDrawable/BitmapDrawable(android.content.res.Resources  0,02857
+org/apache/http/entity/BufferedHttpEntity/getContent(), org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient(), android/graphics/BitmapFactory/decodeStream(java.io.InputStream  0,02857
+java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/reflect/ParameterizedType/getRawType(), java/lang/reflect/Array/newInstance(java.lang.Class  0,02857
+java.lang.Class  0,02857
+java.lang.reflect.Type)  0,02857
+java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/Class/getDeclaredMethod(java.lang.String  0,02857
+java/lang/Double/toString(double), java/lang/StringBuilder/append(java.lang.String), java/io/Writer/append(java.lang.CharSequence), java/lang/Double/isNaN(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(double), java/lang/StringBuilder/toString(  0,02857
+org/apache/http/client/methods/HttpGet/HttpGet(java.net.URI), java/net/URI/create(java.lang.String), org/apache/http/client/methods/HttpGet/abort(), org/apache/http/entity/BufferedHttpEntity/BufferedHttpEntity(org.apache.http.HttpEntity), org/apache/http/HttpResponse/getEntity(), java/io/IOException/printStackTrace()  0,02857
+com.google.gson.JsonElement)  0,02857
+java.lang.reflect.ParameterizedType  0,02857
+java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.String), com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,02857
+com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/Double/isNaN(double), java/lang/Number/doubleValue(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,02857
+wiseguys/radar/ui/RadarFragment/setArguments(android.os.Bundle), wiseguys/radar/ui/MainActivity/setContentView(int), android/app/FragmentManager/beginTransaction(), android/app/Activity/onCreate(android.os.Bundle), wiseguys/radar/ui/MainActivity/findViewById(int), wiseguys/radar/ui/MainActivity/getIntent(), android/content/Intent/getExtras(), wiseguys/radar/ui/MainActivity/getFragmentManager(), android/app/FragmentTransaction/commit(), android/app/FragmentTransaction/add(int  0,02857
+android/app/FragmentTransaction/commit(), android/app/FragmentTransaction/setCustomAnimations(int  0,02857
+java/lang/Long/valueOf(long), java/util/List/size(), java/lang/Long/longValue(), java/util/List/add(java.lang.Object), java/util/concurrent/atomic/AtomicLongArray/AtomicLongArray(int), java/util/concurrent/atomic/AtomicLongArray/set(int  0,02857
+android.content.SharedPreferences  0,02857
+android/widget/ImageView/getWidth(), android/graphics/Matrix/setRectToRect(android.graphics.RectF  0,02857
+float  0,02857
+android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/util/FloatMath/sqrt(float), android/view/VelocityTracker/getXVelocity(), android/view/VelocityTracker/getYVelocity(), android/view/VelocityTracker/computeCurrentVelocity(int), android/view/VelocityTracker/obtain(), java/lang/Math/max(float  0,02857
+java.text.ParsePosition)  0,02857
+org/apache/http/HttpResponse/getStatusLine(), org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), java/lang/StringBuilder/append(java.lang.String), java/lang/String/format(java.lang.String  0,02857
+java/lang/StringBuilder/append(java.lang.Object)  0,02857
+java/lang/StringBuilder/append(double)  0,02857
+java/lang/Double/isNaN(double)  0,02857
+java/lang/Double/isInfinite(double)  0,02857
+java/lang/StringBuilder/StringBuilder()  0,02857

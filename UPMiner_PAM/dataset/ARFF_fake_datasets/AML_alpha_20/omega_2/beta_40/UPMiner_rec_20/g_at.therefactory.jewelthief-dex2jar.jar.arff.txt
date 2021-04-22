@@ -1,0 +1,25 @@
+java/io/Writer/write(java.lang.String
+java/lang/StringBuilder/StringBuilder(
+java/lang/String/valueOf(char)
+com/badlogic/gdx/maps/tiled/AtlasTmxMapLoader/getRelativeFileHandle(com.badlogic.gdx.files.FileHandle,java.lang.String
+java/io/IOException/IOException(java.lang.String)
+java/util/Map/keySet(
+org.api.fake
+java/lang/Boolean/valueOf(java.lang.String)
+java/util/zip/InflaterInputStream/InflaterInputStream(java.io.InputStream)
+org.rand.api
+java/nio/FloatBuffer/position()
+java/lang/String/String(char[],int,int)
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String
+com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/drawDebugBounds(com.badlogic.gdx.graphics.glutils.ShapeRenderer)
+java/lang/StringBuilder/StringBuilder()
+java/util/Iterator/hasNext()
+java/nio/ByteBuffer/limit(int
+java/lang/String/startsWith(java.lang.String
+java/lang/Number/longValue(
+java/lang/String/substring(int,int)
+java/lang/String/split(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/StringBuilder()
+at/therefactory/jewelthief/screens/MenuScreen$MenuState/equals(java.lang.Object)
+com/badlogic/gdx/graphics/g2d/PixmapPackerIO$ImageFormat/getExtension(
+java/nio/ByteBuffer/limit(

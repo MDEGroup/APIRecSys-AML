@@ -1,0 +1,13 @@
+java/lang/StringBuffer/setLength(int
+android/net/Uri/getScheme(
+android/bluetooth/BluetoothAdapter/isEnabled()
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+android/net/Uri/getHost()
+org.api.fake
+java/lang/Boolean/booleanValue(
+java/lang/Class/newInstance()
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/StringBuilder()
+android/webkit/WebSettings/setGeolocationDatabasePath(java.lang.String)

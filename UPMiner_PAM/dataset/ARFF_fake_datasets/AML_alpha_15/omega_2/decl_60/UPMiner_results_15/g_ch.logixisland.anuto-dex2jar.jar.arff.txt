@@ -1,0 +1,9 @@
+java/util/Iterator/hasNext()
+org.api.fake
+java/util/List/size()
+android/graphics/Matrix/reset()
+android/widget/ImageView/setImageBitmap(android.graphics.Bitmap
+java/lang/StringBuilder/append(java.lang.String)
+android/os/Handler/Handler(
+ch/logixisland/anuto/entity/tower/GlueTower/getPossibleTargets()
+org.rand.api

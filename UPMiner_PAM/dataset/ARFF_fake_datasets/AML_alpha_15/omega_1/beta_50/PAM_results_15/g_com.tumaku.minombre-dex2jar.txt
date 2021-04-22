@@ -1,0 +1,324 @@
+prob: 0,09333
+[java/util/HashMap/remove(java.lang.Object)]
+
+prob: 0,08000
+[java.lang.String)]
+
+prob: 0,05333
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/nio/IntBuffer/put(int]
+
+prob: 0,05333
+[java/util/Set/iterator()]
+
+prob: 0,04000
+[java.lang.String]
+
+prob: 0,04000
+[java/util/Iterator/hasNext(), java/util/HashSet/HashSet(), java/util/Set/add(java.lang.Object), java/util/HashMap/get(java.lang.Object), java/lang/Boolean/booleanValue(), java/util/HashMap/keySet(]
+
+prob: 0,04000
+[java/util/Iterator/next()]
+
+prob: 0,02667
+[java/lang/Process/getErrorStream(), processing/app/exec/StreamPump/addTarget(processing.app.exec.LineProcessor), java/lang/Runtime/getRuntime(), java/lang/Thread/start(), java/lang/Thread/Thread(java.lang.Runnable]
+
+prob: 0,02667
+[java.io.BufferedReader]
+
+prob: 0,02667
+[java.lang.Object]
+
+prob: 0,02667
+[java/util/zip/GZIPInputStream/GZIPInputStream(java.io.InputStream), java/io/FileInputStream/FileInputStream(java.io.File), java/lang/String/endsWith(java.lang.String]
+
+prob: 0,02667
+[int]
+
+prob: 0,02667
+[boolean)]
+
+prob: 0,02667
+[java/lang/String/split(java.lang.String), processing/app/exec/ProcessResult/getStdout(), java/lang/String/contains(java.lang.CharSequence)]
+
+prob: 0,02667
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,02667
+[java/io/File/getAbsolutePath()]
+
+prob: 0,02667
+[java/io/IOException/printStackTrace()]
+
+prob: 0,02667
+[java/lang/String/length()]
+
+prob: 0,02667
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,02667
+[java/util/Iterator/hasNext()]
+
+prob: 0,02667
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01333
+[java/util/List/isEmpty(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Collections/unmodifiableList(java.util.List), java/util/List/clear(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/util/Iterator/next(]
+
+prob: 0,01333
+[java.io.File)]
+
+prob: 0,01333
+[org/apache/tools/ant/DefaultLogger/DefaultLogger(), org/apache/tools/ant/DefaultLogger/setErrorPrintStream(java.io.PrintStream), org/apache/tools/ant/Project/setUserProperty(java.lang.String]
+
+prob: 0,01333
+[processing/app/Sketch/getName(), java/io/File/File(java.io.File]
+
+prob: 0,01333
+[processing/app/Base/showWarning(java.lang.String]
+
+prob: 0,01333
+[java/lang/Process/destroy(), java/util/List/iterator(), java/util/Date/toString(), java/util/concurrent/CountDownLatch/countDown(), java/util/Date/Date(), java/lang/String/contains(java.lang.CharSequence]
+
+prob: 0,01333
+[java/lang/Class/getMethods(), java/lang/String/toLowerCase(), java/lang/reflect/Method/getModifiers(), java/lang/String/length(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,01333
+[java/lang/String/toLowerCase(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,01333
+[java/lang/Class/getDeclaredMethods()]
+
+prob: 0,01333
+[java/lang/Double/isNaN(), java/lang/Double/isInfinite(), java/lang/String/charAt(int), java/lang/String/indexOf(int]
+
+prob: 0,01333
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/Integer/Integer(int), java/lang/Long/longValue(), java/lang/String/equals(java.lang.Object), java/lang/Double/valueOf(java.lang.String), java/lang/Long/Long(java.lang.String), java/lang/Long/intValue()]
+
+prob: 0,01333
+[javax/xml/transform/TransformerFactory/newInstance(), javax/xml/transform/stream/StreamResult/StreamResult(java.io.Writer), java/lang/StringBuilder/append(java.lang.String), javax/xml/transform/Transformer/setOutputProperty(java.lang.String]
+
+prob: 0,01333
+[java/util/regex/Matcher/group(int), processing/mode/java/runner/Runner/handleCommonErrors(java.lang.String]
+
+prob: 0,01333
+[java/util/HashMap/size(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,01333
+[java/lang/Integer/intValue(), java/util/HashMap/clear(), java/util/Iterator/next(), java/util/HashMap/HashMap()]
+
+prob: 0,01333
+[android/content/Context/openFileInput(java.lang.String), java/io/FileInputStream/FileInputStream(java.io.File), processing/core/PApplet/getAssets(]
+
+prob: 0,01333
+[android/content/res/AssetManager/open(java.lang.String), processing/core/PApplet/getApplicationContext(), org/apache/http/HttpResponse/getEntity(), org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), java/io/File/exists(), org/apache/http/client/methods/HttpGet/HttpGet(java.net.URI)]
+
+prob: 0,01333
+[org/apache/http/HttpEntity/getContent()]
+
+prob: 0,01333
+[java/lang/String/indexOf(java.lang.String)]
+
+prob: 0,01333
+[org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient()]
+
+prob: 0,01333
+[java/util/zip/GZIPOutputStream/GZIPOutputStream(java.io.OutputStream), java/lang/Exception/printStackTrace(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/io/FileOutputStream/FileOutputStream(java.io.File)]
+
+prob: 0,01333
+[android/view/Window/setFlags(int]
+
+prob: 0,01333
+[java/lang/Throwable/printStackTrace(), java/lang/Object/getClass()]
+
+prob: 0,01333
+[com/tumaku/minombre/SettingsActivity/finish(), com/tumaku/minombre/SettingsActivity/getSharedPreferences(java.lang.String]
+
+prob: 0,01333
+[java/lang/IllegalArgumentException/printStackTrace(), java/lang/StringBuilder/StringBuilder(), java/lang/reflect/Method/invoke(java.lang.Object]
+
+prob: 0,01333
+[android/view/MotionEvent/getEventTime(), android/view/MotionEvent/getY(int), android/view/MotionEvent/getMetaState(), android/view/MotionEvent/getAction(), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), android/view/MotionEvent/findPointerIndex(int), android/view/MotionEvent/getX(int), android/view/MotionEvent/getPointerId(int]
+
+prob: 0,01333
+[java.io.InputStream)]
+
+prob: 0,01333
+[byte[])]
+
+prob: 0,01333
+[java.lang.Object)]
+
+prob: 0,01333
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01333
+[java/io/File/getParent(), java/io/File/exists(), java/io/File/File(java.lang.String), java/io/File/mkdirs(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String]
+
+prob: 0,01333
+[java/io/File/getParent(), java/io/File/File(java.io.File]
+
+prob: 0,01333
+[java/io/DataOutputStream/writeInt(int), java/util/Iterator/hasNext(), java/io/DataOutputStream/writeFloat(float), java/lang/Iterable/iterator(), java/io/DataOutputStream/flush(), java/io/DataOutputStream/writeUTF(java.lang.String), java/io/DataOutputStream/close(), java/util/Iterator/next(), java/io/DataOutputStream/writeDouble(double), java/io/DataOutputStream/writeBoolean(boolean), java/io/DataOutputStream/writeLong(long), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), java/io/BufferedOutputStream/BufferedOutputStream(java.io.OutputStream]
+
+prob: 0,01333
+[java/lang/StringBuilder/append(char), java/lang/String/charAt(int)]
+
+prob: 0,01333
+[java/lang/StringBuilder/append(float), java/io/PrintStream/println(java.lang.Object]
+
+prob: 0,01333
+[float]
+
+prob: 0,01333
+[processing/app/exec/ProcessHelper/execute(), processing/app/exec/ProcessHelper/ProcessHelper(java.lang.String[]), processing/app/exec/ProcessResult/ProcessResult(java.lang.String]
+
+prob: 0,01333
+[java.io.File]
+
+prob: 0,01333
+[int)]
+
+prob: 0,01333
+[java/awt/event/MouseEvent/getX(), processing/mode/android/CheckBoxList/repaint(), processing/mode/android/CheckBoxList/locationToIndex(java.awt.Point), javax/swing/JCheckBox/isSelected(), processing/mode/android/CheckBoxList/getModel(), javax/swing/JCheckBox/setSelected(boolean), processing/mode/android/CheckBoxList/isEnabled(), javax/swing/ListModel/getElementAt(int), java/awt/event/MouseEvent/getPoint(]
+
+prob: 0,01333
+[java/io/OutputStream/close(), java/io/IOException/printStackTrace(), java/lang/String/toLowerCase(), java/io/OutputStream/flush(), android/graphics/Bitmap/createBitmap(int[]]
+
+prob: 0,01333
+[org/xml/sax/SAXException/printStackTrace(), java/io/File/File(java.io.File]
+
+prob: 0,01333
+[java/lang/String/toCharArray(), java/lang/StringBuffer/append(java.lang.String)]
+
+prob: 0,01333
+[java/lang/Process/getInputStream(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), processing/app/Preferences/get(java.lang.String), java/util/concurrent/CountDownLatch/CountDownLatch(int)]
+
+prob: 0,01333
+[java/io/DataInputStream/readBoolean(), java/io/IOException/IOException(java.lang.String), java/io/DataInputStream/close(), java/io/DataInputStream/readDouble(), java/lang/StringBuilder/StringBuilder(), java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream), java/io/DataInputStream/readUTF(), java/lang/StringBuilder/append(int), java/io/DataInputStream/readInt(), java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/DataInputStream/readLong(), java/io/DataInputStream/readFloat(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,01333
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(boolean), java/lang/Class/getName(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/getClass()]
+
+prob: 0,01333
+[java.lang.String[])]
+
+prob: 0,01333
+[java/lang/StringBuffer/append(char), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/getClass(), java/lang/StringBuffer/StringBuffer(]
+
+prob: 0,01333
+[java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,01333
+[java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/StringBuffer/append(java.lang.String), java/lang/Class/getName(), java/lang/StringBuffer/toString()]
+
+prob: 0,01333
+[java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), processing/app/exec/ProcessResult/getCmd(), processing/app/exec/ProcessResult/getResult()]
+
+prob: 0,01333
+[java/lang/String/equals(java.lang.Object), java/lang/String/substring(int), java/lang/String/startsWith(java.lang.String), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01333
+[boolean]
+
+prob: 0,01333
+[java/lang/StringBuilder/append(java.lang.String), java/io/PrintWriter/close(), java/lang/String/replace(char]
+
+prob: 0,01333
+[java/io/File/getName(), java/lang/String/toLowerCase(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/io/File/getAbsolutePath(), java/lang/StringBuilder/toString(), java/lang/String/endsWith(java.lang.String]
+
+prob: 0,01333
+[java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/String/substring(int]
+
+prob: 0,01333
+[java/io/File/getName(), java/io/File/getAbsolutePath(), java/lang/String/toLowerCase()]
+
+prob: 0,01333
+[java/io/File/getName(), java/io/File/File(java.io.File]
+
+prob: 0,01333
+[processing/app/SketchException/getCodeIndex(), java/io/PrintStream/println(java.lang.String]
+
+prob: 0,01333
+[processing/app/SketchException/getMessage(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Exception/printStackTrace(), processing/app/SketchException/getCodeColumn(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01333
+[java/io/PrintStream/println(java.lang.String), processing/app/exec/ProcessHelper/execute(), java/util/Iterator/next(), processing/app/exec/ProcessResult/iterator(), java/io/PrintStream/println(java.lang.Object), java/lang/String/contains(java.lang.CharSequence]
+
+prob: 0,01333
+[java/lang/String/valueOf(java.lang.Object), processing/app/SketchCode/getFileName(), processing/app/Sketch/getCode(int), processing/app/SketchException/getCodeLine()]
+
+prob: 0,01333
+[java/io/IOException/printStackTrace(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), java/lang/String/startsWith(java.lang.String), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), processing/app/exec/ProcessResult/iterator(]
+
+prob: 0,01333
+[java/io/IOException/printStackTrace(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/equals(java.lang.Object), processing/app/Sketch/Sketch(java.lang.String]
+
+prob: 0,01333
+[java/io/PrintStream/println(), java/io/File/mkdirs()]
+
+prob: 0,01333
+[processing/app/Base/locateSketchbookFolder(), processing/app/contrib/ModeContribution/load(processing.app.Base]
+
+prob: 0,01333
+[com/tumaku/minombre/MiNombre/startActivityForResult(android.content.Intent]
+
+prob: 0,01333
+[java/lang/Thread/isInterrupted(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/IOException/printStackTrace(java.io.PrintStream), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String]
+
+prob: 0,01333
+[java/lang/Thread/sleep(long), java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/Exception/printStackTrace(), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01333
+[java/lang/Thread/currentThread()]
+
+prob: 0,01333
+[java/util/ArrayList/ArrayList(), processing/app/exec/ProcessResult/succeeded(), java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,01333
+[java/util/ArrayList/ArrayList(), processing/app/exec/ProcessResult/succeeded(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), processing/app/exec/ProcessResult/getStderr()]
+
+prob: 0,01333
+[java/lang/String/length(), java/net/URI/create(java.lang.String)]
+
+prob: 0,01333
+[java/util/Collections/emptyList()]
+
+prob: 0,01333
+[java/util/List/add(java.lang.Object)]
+
+prob: 0,01333
+[java/lang/String/trim()]
+
+prob: 0,01333
+[processing/app/Base/isWindows()]
+
+prob: 0,01333
+[processing.app.RunnerListener)]
+
+prob: 0,01333
+[java/io/File/File(java.lang.String)]
+
+prob: 0,01333
+[processing/app/exec/ProcessHelper/ProcessHelper(java.lang.String[])]
+
+prob: 0,01333
+[java/lang/Thread/sleep(long), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01333
+[java/lang/RuntimeException/RuntimeException(java.lang.String)]
+
+prob: 0,01333
+[java/lang/Exception/printStackTrace()]
+
+prob: 0,01333
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01333
+[java/io/PrintStream/println(java.lang.String)]
+
+prob: 0,01333
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01333
+[java/lang/StringBuilder/toString()]
+

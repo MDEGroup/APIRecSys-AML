@@ -1,0 +1,21 @@
+org.api.fake  0,25000
+int)  0,07143
+android/media/AudioManager/getRingerMode(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/media/MediaPlayer/stop(), android/os/PowerManager$WakeLock/release(), android/media/AudioManager/setRingerMode(int), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/toString(), android/os/Vibrator/cancel(), com/alarmpro_x/AlarmStart/finish(  0,07143
+android/app/Notification$Builder/setTicker(java.lang.CharSequence  0,07143
+android/database/Cursor/getColumnIndex(java.lang.String), android/content/Intent/Intent(android.content.Context  0,07143
+android/database/Cursor/getColumnIndex(java.lang.String), android/graphics/Typeface/createFromAsset(android.content.res.AssetManager  0,07143
+android/graphics/Typeface/createFromAsset(android.content.res.AssetManager  0,07143
+android.database.Cursor)  0,03571
+com/alarmpro_x/AlarmStart/getSystemService(java.lang.String), android/app/NotificationManager/cancel(int)  0,03571
+com/alarmpro_x/c/getReadableDatabase(), java/lang/Exception/printStackTrace(), android/util/Log/d(java.lang.String  0,03571
+android/os/Vibrator/vibrate(long), android/widget/Toast/makeText(android.content.Context  0,03571
+android/content/Intent/setData(android.net.Uri), android/widget/Toast/makeText(android.content.Context  0,03571
+java/lang/StringBuilder/append(java.lang.String)  0,03571
+android/database/Cursor/getColumnIndex(java.lang.String), android/os/Vibrator/vibrate(long), java/lang/StringBuilder/append(int), android/media/MediaPlayer/prepare(), android/app/Activity/onCreate(android.os.Bundle), android/media/RingtoneManager/getRingtone(android.content.Context  0,03571
+android/os/PowerManager$WakeLock/acquire(), android/media/AudioManager/getStreamMaxVolume(int)  0,03571
+com/alarmpro_x/snooze_duration/getApplicationContext(), com/alarmpro_x/c/getWritableDatabase(), android/content/ContentValues/ContentValues(), android/database/sqlite/SQLiteDatabase/insertWithOnConflict(java.lang.String  0,03571
+com/alarmpro_x/seasons/getApplicationContext()  0,03571
+com/alarmpro_x/seasons/findViewById(int), android/graphics/Typeface/createFromAsset(android.content.res.AssetManager  0,03571
+android/app/TaskStackBuilder/addParentStack(java.lang.Class), java/lang/Integer/intValue(), android/content/Intent/Intent(android.content.Context  0,03571
+android/app/TaskStackBuilder/addParentStack(java.lang.Class), android/app/AlarmManager/set(int  0,03571
+com/alarmpro_x/snooze_duration/getApplicationContext()  0,03571

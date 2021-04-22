@@ -1,0 +1,3 @@
+org.api.fake
+com/diegocarloslima/fgelv/sample/SampleActivity/setContentView(int)
+android/widget/ExpandableListView/dispatchDraw(android.graphics.Canvas)

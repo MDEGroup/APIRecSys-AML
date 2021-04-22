@@ -1,0 +1,12 @@
+org.api.fake  0,21739
+org.rand.api  0,21739
+int  0,13043
+android.content.Intent)  0,08696
+java/lang/Boolean/toString(), java/lang/Integer/Integer(int), java/lang/StringBuilder/append(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/String/equals(java.lang.Object), android/net/wifi/WifiManager/enableNetwork(int  0,04348
+android.os.Parcel  0,04348
+android.appwidget.AppWidgetManager  0,04348
+java/lang/StringBuilder/append(boolean), android/net/ConnectivityManager/requestRouteToHost(int  0,04348
+android/os/PowerManager$WakeLock/acquire(), com/danga/garagedoor/InRangeService/startForeground(int  0,04348
+java/lang/String/toLowerCase(), android/content/SharedPreferences/getString(java.lang.String  0,04348
+com/danga/garagedoor/InRangeService/stopForeground(boolean), com/danga/garagedoor/InRangeService/unregisterReceiver(android.content.BroadcastReceiver), java/util/concurrent/atomic/AtomicBoolean/set(boolean), android/app/NotificationManager/cancel(int), android/net/wifi/WifiManager$WifiLock/release(), com/danga/garagedoor/InRangeService/stopSelf(), android/os/PowerManager$WakeLock/release(), android/util/Log/d(java.lang.String  0,04348
+android/content/SharedPreferences/getString(java.lang.String  0,04348

@@ -1,0 +1,372 @@
+prob: 0,15094
+[org.api.fake]
+
+prob: 0,12264
+[int)]
+
+prob: 0,09434
+[int]
+
+prob: 0,03774
+[java.lang.String)]
+
+prob: 0,03774
+[java.lang.String]
+
+prob: 0,02830
+[boolean)]
+
+prob: 0,02830
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01887
+[android/widget/TableLayout/getChildCount(), java/lang/StringBuilder/append(java.lang.String), android/widget/TableRow/getChildAt(int), android/util/Log/e(java.lang.String]
+
+prob: 0,01887
+[aws/apps/underthehood/Main/getResources()]
+
+prob: 0,01887
+[java/lang/Process/getInputStream(), java/lang/String/valueOf(java.lang.Object), java/io/DataOutputStream/close(), java/lang/Runtime/exec(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,01887
+[java/io/IOException/printStackTrace()]
+
+prob: 0,01887
+[java/lang/Runtime/getRuntime()]
+
+prob: 0,01887
+[java/io/DataOutputStream/writeBytes(java.lang.String)]
+
+prob: 0,01887
+[android.widget.TableLayout]
+
+prob: 0,01887
+[java/io/DataInputStream/DataInputStream(java.io.InputStream)]
+
+prob: 0,01887
+[com.actionbarsherlock.internal.view.menu.MenuItemImpl)]
+
+prob: 0,01887
+[android/content/res/Resources$Theme/obtainStyledAttributes(int[])]
+
+prob: 0,01887
+[android.view.View]
+
+prob: 0,01887
+[android/content/res/XmlResourceParser/getAttributeValue(int), java/lang/Integer/intValue(), android/content/res/XmlResourceParser/getEventType()]
+
+prob: 0,01887
+[android.graphics.drawable.Drawable)]
+
+prob: 0,01887
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01887
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,00943
+[android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,00943
+[aws/apps/underthehood/ExportActivity/setContentView(int), java/lang/StringBuilder/append(java.lang.String), aws/apps/underthehood/ExportActivity/findViewById(int), com/actionbarsherlock/app/SherlockActivity/onCreate(android.os.Bundle), android/util/Log/d(java.lang.String]
+
+prob: 0,00943
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,00943
+[java/util/ArrayList/clone(), java/util/ArrayList/remove(java.lang.Object), java/util/ArrayList/clear(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/util/ArrayList/get(int), android/view/animation/AnimationUtils/currentAnimationTimeMillis(), com/actionbarsherlock/internal/nineoldandroids/animation/ValueAnimator$AnimationHandler/sendEmptyMessageDelayed(int]
+
+prob: 0,00943
+[java/util/ArrayList/clear(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/addAll(java.util.Collection), java/util/Iterator/hasNext(), java/util/ArrayList/size(), java/util/concurrent/CopyOnWriteArrayList/iterator(]
+
+prob: 0,00943
+[java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/util/ArrayList/remove(java.lang.Object]
+
+prob: 0,00943
+[java/lang/Math/max(int]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/ActionBarContextView/getContext(), com/actionbarsherlock/internal/widget/ActionBarContextView/addView(android.view.View), android/text/TextUtils/isEmpty(java.lang.CharSequence), android/view/LayoutInflater/inflate(int]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/ActionBarContextView/getContext(), android/content/res/Resources/getDisplayMetrics(), android/view/ViewGroup/removeView(android.view.View), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/ActionBarContextView/getContext(), android/view/View/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/view/menu/ActionMenuItemView/getLocationOnScreen(int[]), android/content/res/Resources/getDisplayMetrics(), com/actionbarsherlock/internal/view/menu/ActionMenuItemView/getWidth(), android/graphics/Rect/height(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,00943
+[java/util/ArrayList/ArrayList(), java/util/ArrayList/clear(), java/util/ArrayList/get(int), java/util/ArrayList/contains(java.lang.Object), java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,00943
+[java/util/ArrayList/ArrayList(), java/util/List/size(), org/xmlpull/v1/XmlPullParser/getName(), java/lang/String/equals(java.lang.Object), android/util/Log/e(java.lang.String]
+
+prob: 0,00943
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/ArrayList/clone(), java/util/ArrayList/size(), java/util/ArrayList/get(int]
+
+prob: 0,00943
+[java/util/concurrent/CopyOnWriteArrayList/remove(java.lang.Object), java/lang/ref/WeakReference/get()]
+
+prob: 0,00943
+[java/util/concurrent/CopyOnWriteArrayList/iterator(), java/lang/ref/WeakReference/get(), android/os/Bundle/putSparseParcelableArray(java.lang.String]
+
+prob: 0,00943
+[java/util/concurrent/CopyOnWriteArrayList/isEmpty()]
+
+prob: 0,00943
+[android/util/SparseArray/SparseArray(), java/util/Iterator/hasNext()]
+
+prob: 0,00943
+[android.view.MenuItem$OnMenuItemClickListener]
+
+prob: 0,00943
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), android/view/View/setVisibility(int), android/view/LayoutInflater/inflate(int]
+
+prob: 0,00943
+[android/content/res/AssetManager/openXmlResourceParser(java.lang.String), android/content/res/XmlResourceParser/getAttributeCount(), android/app/Activity/getApplicationInfo(), java/lang/Integer/valueOf(int), java/lang/Object/getClass(), android/content/res/XmlResourceParser/getAttributeName(int), android/content/res/XmlResourceParser/getAttributeResourceValue(int]
+
+prob: 0,00943
+[android/content/res/XmlResourceParser/getName()]
+
+prob: 0,00943
+[com.actionbarsherlock.internal.view.menu.MenuPresenter$Callback)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/ActionBarView$HomeView/setVisibility(int), android/view/View/setVisibility(int), com/actionbarsherlock/internal/widget/ActionBarView/addView(android.view.View]
+
+prob: 0,00943
+[android/widget/LinearLayout/setEnabled(boolean), com/actionbarsherlock/internal/widget/ActionBarView$HomeView/isEnabled(), com/actionbarsherlock/internal/widget/ActionBarView$HomeView/setContentDescription(java.lang.CharSequence), com/actionbarsherlock/internal/widget/ActionBarView/removeView(android.view.View), com/actionbarsherlock/internal/widget/ActionBarView/requestLayout(), android/content/Context/getResources(), android/content/res/Resources/getText(int), com/actionbarsherlock/internal/widget/ActionBarView/invalidate()]
+
+prob: 0,00943
+[java/lang/ThreadLocal/set(java.lang.Object), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/get(int), com/actionbarsherlock/internal/nineoldandroids/animation/ValueAnimator$AnimationHandler/sendEmptyMessage(int), java/lang/ThreadLocal/get(), java/util/ArrayList/size(]
+
+prob: 0,00943
+[android/os/Looper/myLooper()]
+
+prob: 0,00943
+[android/util/AndroidRuntimeException/AndroidRuntimeException(java.lang.String)]
+
+prob: 0,00943
+[android/view/animation/AlphaAnimation/setDuration(long), com/actionbarsherlock/internal/widget/IcsProgressBar/getVisibility(), android/view/animation/AlphaAnimation/setRepeatMode(int), android/view/animation/AlphaAnimation/setRepeatCount(int), android/view/animation/AlphaAnimation/setInterpolator(android.view.animation.Interpolator), android/view/animation/AlphaAnimation/setStartTime(long), android/view/animation/AlphaAnimation/AlphaAnimation(float]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/view/menu/ActionMenuView/getParent(), com/actionbarsherlock/internal/view/menu/ActionMenuView/setBackgroundDrawable(android.graphics.drawable.Drawable)]
+
+prob: 0,00943
+[android/graphics/drawable/AnimationDrawable/setLevel(int), android/graphics/drawable/AnimationDrawable/addFrame(android.graphics.drawable.Drawable]
+
+prob: 0,00943
+[android/graphics/Canvas/translate(float]
+
+prob: 0,00943
+[android/widget/FrameLayout/setEnabled(boolean), android/content/pm/ResolveInfo/loadLabel(android.content.pm.PackageManager), android/widget/FrameLayout/setVisibility(int), com/actionbarsherlock/internal/widget/IcsLinearLayout/setBackgroundDrawable(android.graphics.drawable.Drawable), android/widget/FrameLayout/setContentDescription(java.lang.CharSequence), android/content/pm/ResolveInfo/loadIcon(android.content.pm.PackageManager), android/content/Context/getString(int]
+
+prob: 0,00943
+[java/lang/String/length(), android/widget/TextView/getText(), java/lang/String/substring(int]
+
+prob: 0,00943
+[java/util/ArrayList/iterator(), java/util/ArrayList/ArrayList(), java/util/ArrayList/add(java.lang.Object), java/util/HashMap/get(java.lang.Object), java/util/ArrayList/remove(java.lang.Object), java/util/Iterator/next(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,00943
+[java/util/ArrayList/ArrayList(java.util.Collection), java/util/ArrayList/iterator(), java/util/Iterator/next()]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/nineoldandroids/animation/ValueAnimator/addListener(com.actionbarsherlock.internal.nineoldandroids.animation.Animator$AnimatorListener)]
+
+prob: 0,00943
+[java.io.File]
+
+prob: 0,00943
+[android/content/Context/getPackageManager(), android/content/Context/getPackageName(), android/util/Log/e(java.lang.String]
+
+prob: 0,00943
+[java/lang/CharSequence/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,00943
+[org/xmlpull/v1/XmlSerializer/endTag(java.lang.String]
+
+prob: 0,00943
+[android/os/Bundle/putStringArrayList(java.lang.String]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/nineoldandroids/widget/NineLinearLayout/getParent(), android/content/res/Resources/getDisplayMetrics(), android/view/LayoutInflater/inflate(int]
+
+prob: 0,00943
+[android/view/View/findViewById(int), android/widget/TextView/setTextSize(float), android/widget/TabHost$TabSpec/setContent(int), android/content/res/Resources/getDrawable(int), android/widget/TabHost/setup(), android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence]
+
+prob: 0,00943
+[android/view/View/findViewById(int), android/content/Context/getApplicationInfo(), java/lang/StringBuilder/toString(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Class/getSimpleName(), android/view/View/getContext(]
+
+prob: 0,00943
+[android/widget/TabHost/addTab(android.widget.TabHost$TabSpec)]
+
+prob: 0,00943
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence]
+
+prob: 0,00943
+[android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/valueOf(java.lang.Object), java/util/Date/Date(), aws/apps/underthehood/Main/getLastNonConfigurationInstance(), android/widget/TableLayout$LayoutParams/TableLayout$LayoutParams(int]
+
+prob: 0,00943
+[java/lang/String/valueOf(java.lang.Object), android/widget/EditText/getText()]
+
+prob: 0,00943
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), aws/apps/underthehood/Main/getString(int), java/lang/StringBuilder/toString(), android/content/Intent/setClassName(java.lang.String]
+
+prob: 0,00943
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getAnnotation(java.lang.Class), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,00943
+[aws/apps/underthehood/Main/getPackageName()]
+
+prob: 0,00943
+[android/view/View/getLayoutParams(), android/view/ViewGroup/getChildMeasureSpec(int]
+
+prob: 0,00943
+[android/app/Activity/getTheme(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/view/LayoutInflater/inflate(int]
+
+prob: 0,00943
+[android/view/ViewGroup/getChildCount(), android/view/ViewGroup/post(java.lang.Runnable), com/actionbarsherlock/internal/widget/ActionBarView/setSplitView(com.actionbarsherlock.internal.widget.ActionBarContainer), android/widget/TextView/setText(java.lang.CharSequence), android/app/Activity/getWindow(), java/util/Iterator/next()]
+
+prob: 0,00943
+[java/util/Iterator/hasNext(), java/util/HashMap/HashMap()]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/ActionBarContextView/setSplitWhenNarrow(boolean)]
+
+prob: 0,00943
+[android/view/ViewGroup/findViewById(int)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/ActionBarView/setSplitWhenNarrow(boolean)]
+
+prob: 0,00943
+[android/view/ViewGroup/getChildAt(int)]
+
+prob: 0,00943
+[java/util/ArrayList/ArrayList(int)]
+
+prob: 0,00943
+[android/view/Window/getDecorView()]
+
+prob: 0,00943
+[android/app/Activity/getTitle()]
+
+prob: 0,00943
+[android/widget/FrameLayout/setForeground(android.graphics.drawable.Drawable)]
+
+prob: 0,00943
+[android/content/res/TypedArray/getBoolean(int]
+
+prob: 0,00943
+[android/app/Activity/createPackageContext(java.lang.String]
+
+prob: 0,00943
+[android/util/Log/w(java.lang.String]
+
+prob: 0,00943
+[android/widget/PopupWindow/setTouchInterceptor(android.view.View$OnTouchListener)]
+
+prob: 0,00943
+[android/widget/PopupWindow/update(android.view.View]
+
+prob: 0,00943
+[android/widget/PopupWindow/getBackground()]
+
+prob: 0,00943
+[android/graphics/drawable/Drawable/getPadding(android.graphics.Rect)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/IcsListPopupWindow$DropDownListView/setAdapter(android.widget.ListAdapter)]
+
+prob: 0,00943
+[android/widget/LinearLayout/addView(android.view.View)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/IcsListPopupWindow$DropDownListView/setSelector(android.graphics.drawable.Drawable)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/IcsListPopupWindow$DropDownListView/setFocusable(boolean)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/IcsListPopupWindow$DropDownListView/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/IcsListPopupWindow$DropDownListView/setOnScrollListener(android.widget.AbsListView$OnScrollListener)]
+
+prob: 0,00943
+[android/view/View$MeasureSpec/makeMeasureSpec(int]
+
+prob: 0,00943
+[android/widget/ImageView/setLayoutParams(android.view.ViewGroup$LayoutParams)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/ScrollingTabContainerView$TabView/addView(android.view.View)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/ScrollingTabContainerView$TabView/removeView(android.view.View)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/CapitalizingTextView/setText(java.lang.CharSequence)]
+
+prob: 0,00943
+[android/widget/ImageView/setContentDescription(java.lang.CharSequence)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/CapitalizingTextView/setLayoutParams(android.view.ViewGroup$LayoutParams)]
+
+prob: 0,00943
+[android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable)]
+
+prob: 0,00943
+[android/widget/ImageView/setVisibility(int)]
+
+prob: 0,00943
+[com/actionbarsherlock/internal/widget/CapitalizingTextView/setVisibility(int)]
+
+prob: 0,00943
+[java/util/ArrayList/addAll(java.util.Collection)]
+
+prob: 0,00943
+[java/lang/StringBuilder/append(java.lang.String), aws/apps/underthehood/Main/getString(int)]
+
+prob: 0,00943
+[android/app/Activity/getTheme()]
+
+prob: 0,00943
+[java/lang/Object/getClass()]
+
+prob: 0,00943
+[java/lang/Class/getSimpleName()]
+
+prob: 0,00943
+[java/util/ArrayList/clone()]
+
+prob: 0,00943
+[android/view/View/findViewById(int)]
+
+prob: 0,00943
+[java/lang/StringBuilder/toString()]
+
+prob: 0,00943
+[java/util/ArrayList/get(int)]
+
+prob: 0,00943
+[java/util/Iterator/next()]
+
+prob: 0,00943
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,00943
+[android/view/LayoutInflater/inflate(int]
+
+prob: 0,00943
+[java/util/Iterator/hasNext()]
+
+prob: 0,00943
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,00943
+[java/lang/String/valueOf(java.lang.Object)]
+

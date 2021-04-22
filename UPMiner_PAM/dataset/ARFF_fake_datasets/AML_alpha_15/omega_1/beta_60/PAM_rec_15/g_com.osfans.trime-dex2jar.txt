@@ -1,0 +1,43 @@
+java.lang.String  0,08824
+int)  0,05882
+java.lang.String)  0,05882
+java/util/List/iterator()  0,05882
+android/app/AlertDialog$Builder/setNegativeButton(int  0,02941
+java/util/Iterator/hasNext(), java/util/Map/get(java.lang.Object), java/util/List/size(), java/util/List/contains(java.lang.Object), java/util/List/iterator(), java/util/ArrayList/ArrayList(), java/util/Iterator/next(), java/util/Collections/sort(java.util.List  0,02941
+android/content/Context/getString(int), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/app/ProgressDialog/setCancelable(boolean), android/app/ProgressDialog/setMessage(java.lang.CharSequence), android/view/Window/addFlags(int), android/view/Window/setAttributes(android.view.WindowManager$LayoutParams), android/app/ProgressDialog/show(), android/app/ProgressDialog/getWindow(), android/view/Window/getAttributes(  0,02941
+com/osfans/trime/Composition/getOffsetForPosition(float  0,02941
+com/osfans/trime/Composition/setMovementMethod(android.text.method.MovementMethod), android/text/SpannableStringBuilder/toString(), android/text/SpannableStringBuilder/SpannableStringBuilder(), com/osfans/trime/Composition/getVisibility(  0,02941
+android/text/method/LinkMovementMethod/getInstance(), java/util/Iterator/hasNext(), com/osfans/trime/Composition/setSingleLine(boolean)  0,02941
+android/view/Window/addFlags(int), android/app/AlertDialog$Builder/setPositiveButton(int  0,02941
+boolean)  0,02941
+android/widget/TextView/setTypeface(android.graphics.Typeface), android/content/res/ColorStateList/ColorStateList(int[[  0,02941
+android/view/View/getPaddingBottom(), android/widget/PopupWindow/setContentView(android.view.View), java/util/Map/put(java.lang.Object  0,02941
+android/view/MotionEvent/getEventTime(), android/view/MotionEvent/getY(int), android/view/MotionEvent/getX(int), android/view/MotionEvent/getMetaState(), android/view/MotionEvent/getPointerCount(), android/view/MotionEvent/getActionIndex(), android/view/MotionEvent/recycle(), android/view/MotionEvent/getActionMasked(), android/view/MotionEvent/obtain(long  0,02941
+java/lang/StringBuilder/append(java.lang.String), java/util/List/size(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,02941
+java/lang/StringBuilder/append(java.lang.String), android/graphics/Canvas/save(), android/graphics/Paint/getFontMetrics(), java/lang/Integer/intValue(), android/graphics/drawable/Drawable/getBounds(), android/graphics/drawable/Drawable/setBounds(int  0,02941
+java/lang/Integer/intValue(), java/util/Map/put(java.lang.Object  0,02941
+java/lang/Integer/intValue(), java/lang/Object/toString(), android/graphics/drawable/GradientDrawable/GradientDrawable(), android/graphics/drawable/GradientDrawable/setColor(int), java/io/File/exists(), java/io/File/File(java.lang.String), java/io/File/File(java.lang.String  0,02941
+java/lang/Integer/intValue(), java/util/Map/containsKey(java.lang.Object), java/util/List/isEmpty(), java/lang/Integer/valueOf(int), java/util/List/get(int  0,02941
+java/text/FieldPosition/FieldPosition(int), java/lang/String/split(java.lang.String  0,02941
+java/lang/Object/toString(), java/util/Iterator/hasNext(), java/util/Map/get(java.lang.Object)  0,02941
+java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/contentEquals(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(), java/lang/String/indexOf(java.lang.String), java/lang/StringBuilder/toString(  0,02941
+java/util/List/add(java.lang.Object)  0,02941
+java/lang/Long/decode(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/format(java.lang.String  0,02941
+java/lang/String/split(java.lang.String), java/util/Map/get(java.lang.Object), java/util/Map/containsKey(java.lang.Object)  0,02941
+java/util/Map/containsKey(java.lang.Object), java/lang/String/contains(java.lang.CharSequence), java/util/Iterator/next(), com/osfans/trime/Composition/setText(java.lang.CharSequence)  0,02941
+java/lang/String/hashCode(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/content/Context/getString(int  0,02941
+com/osfans/trime/SeekBarPreference/getKey(), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,02941
+com/osfans/trime/SeekBarPreference/getContext()  0,02941
+android/provider/Settings/canDrawOverlays(android.content.Context), android/content/Intent/Intent(java.lang.String  0,02941
+android.preference.Preference)  0,02941
+android/preference/Preference/setEnabled(boolean), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/app/ProgressDialog/setCancelable(boolean), android/preference/PreferenceScreen/removePreference(android.preference.Preference), android/preference/Preference/setSelectable(boolean), com/osfans/trime/Pref/setTheme(int), android/preference/PreferenceActivity/onCreate(android.os.Bundle), android/content/SharedPreferences/getBoolean(java.lang.String  0,02941
+com/osfans/trime/Pref/findPreference(java.lang.CharSequence), com/osfans/trime/Pref/addPreferencesFromResource(int), com/osfans/trime/Pref/getPreferenceScreen()  0,02941
+android/widget/PopupWindow/setClippingEnabled(boolean), android/widget/FrameLayout/findViewById(int), android/widget/LinearLayout/getChildAt(int), com/osfans/trime/Trime/getLayoutInflater(), android/widget/PopupWindow/setInputMethodMode(int), com/osfans/trime/Candidate/setVisibility(int), android/widget/PopupWindow/setWindowLayoutType(int), android/view/LayoutInflater/inflate(int  0,02941
+android/widget/PopupWindow/setBackgroundDrawable(android.graphics.drawable.Drawable), java/lang/Integer/intValue(), android/graphics/drawable/GradientDrawable/setStroke(int  0,02941
+android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int  0,02941
+java/util/regex/Matcher/group(int), java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int  0,02941
+java/util/regex/Pattern/compile(java.lang.String)  0,02941
+android/view/KeyEvent/getUnicodeChar(), java/lang/StringBuilder/append(java.lang.String), java/util/logging/Logger/info(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), android/view/KeyEvent/getMetaState(), android/view/KeyEvent/getKeyCode(), android/view/KeyEvent/isCtrlPressed(  0,02941
+android/view/KeyEvent/isModifierKey(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,02941
+com/osfans/trime/Trime/setCandidatesViewShown(boolean), android/view/KeyEvent/getAction(), java/lang/String/valueOf(char), android/view/KeyEvent/getRepeatCount()  0,02941
+android/graphics/drawable/Drawable/setBounds(int  0,02941

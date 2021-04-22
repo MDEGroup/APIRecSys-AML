@@ -1,0 +1,13 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+android/support/v4/view/ViewPager/isInTouchMode()
+java/util/ArrayList/remove(int)
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(java.lang.Object
+org.api.fake
+android/view/View/getLayoutParams()
+java/lang/StringBuilder/append(int)
+java/util/ArrayList/size()
+java/util/ArrayList/add(java.lang.Object)
+org.rand.api

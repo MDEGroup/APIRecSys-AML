@@ -1,0 +1,108 @@
+io.flutter.plugin.common.MethodChannel$Result)  0,05769
+int  0,04808
+int)  0,04808
+android.os.Parcel  0,02885
+android/util/Log/w(java.lang.String  0,02885
+java.lang.String)  0,02885
+android.os.Bundle)  0,02885
+java/lang/StringBuilder/StringBuilder()  0,02885
+org/json/JSONArray/length()  0,01923
+java.lang.String[)  0,01923
+android.support.v4.provider.FontRequest  0,01923
+android.os.CancellationSignal  0,01923
+float  0,01923
+android.content.Intent  0,01923
+java.lang.String  0,01923
+android.text.Spannable)  0,01923
+java/lang/Class/getCanonicalName()  0,01923
+java/util/Iterator/next(), java/util/Set/iterator(), java/util/ArrayList/ArrayList(int), android/os/Bundle/putCharSequenceArray(java.lang.String  0,00962
+android/os/Bundle/getCharSequence(java.lang.String), android/os/Bundle/getCharSequenceArray(java.lang.String), android/os/Bundle/getStringArrayList(java.lang.String), android/os/Bundle/getBoolean(java.lang.String), android/os/Bundle/getBundle(java.lang.String), java/util/Set/add(java.lang.Object), java/util/HashSet/HashSet(), android/os/Bundle/getString(java.lang.String  0,00962
+org/json/JSONArray/get(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,00962
+org/json/JSONArray/opt(int)  0,00962
+android/view/accessibility/AccessibilityNodeInfo/setEnabled(boolean), android/view/accessibility/AccessibilityNodeInfo/setParent(android.view.View  0,00962
+java/io/OutputStream/close(), java/io/File/File(java.io.File  0,00962
+android/content/Context/getPackageManager(), java/lang/StringBuilder/append(java.lang.String), android/content/Context/getPackageName(), java/lang/StringBuilder/append(long), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,00962
+android/content/Context/getPackageManager(), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/util/Iterator/hasNext(), android/content/pm/PackageManager/queryBroadcastReceivers(android.content.Intent  0,00962
+java/io/File/createNewFile(), java/io/File/File(java.io.File  0,00962
+android/app/Notification$Action/getExtras(), android/app/RemoteInput/getResultKey(  0,00962
+java/util/Iterator/hasNext(), java/lang/reflect/Array/getLength(java.lang.Object), org/json/JSONObject/put(java.lang.String  0,00962
+java/util/Iterator/hasNext(), java/util/ArrayList/isEmpty(), java/util/ArrayList/toArray(java.lang.Object[), java/util/Iterator/next(), android/os/Bundle/putParcelableArrayList(java.lang.String  0,00962
+java/util/Iterator/hasNext(), android/app/Notification$MessagingStyle/Notification$MessagingStyle(java.lang.CharSequence), android/app/Notification$Builder/setContentText(java.lang.CharSequence), java/util/List/get(int), android/app/Notification$MessagingStyle/setConversationTitle(java.lang.CharSequence), java/util/List/iterator(), android/app/Notification$MessagingStyle/setBuilder(android.app.Notification$Builder), android/app/Notification$MessagingStyle$Message/setData(java.lang.String  0,00962
+android.arch.lifecycle.ClassesInfoCache$MethodReference  0,00962
+java.lang.reflect.Method[)  0,00962
+android/os/ParcelFileDescriptor/getFd(), android/system/OsConstants/S_ISREG(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), android/system/Os/stat(java.lang.String  0,00962
+android/system/Os/readlink(java.lang.String)  0,00962
+java/io/File/File(java.lang.String)  0,00962
+android/os/Bundle/Bundle(android.os.Bundle), java/util/Iterator/hasNext(), android/os/Bundle/putAll(android.os.Bundle), android/app/Notification$Builder/setExtras(android.os.Bundle), android/app/Notification$Builder/getNotification(), android/os/Bundle/keySet(), android/app/Notification$Builder/build(), android/os/Bundle/putSparseParcelableArray(java.lang.String  0,00962
+android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/Bundle(), android/app/Notification$Action$Builder/setAllowGeneratedReplies(boolean), android/app/Notification$Action$Builder/Notification$Action$Builder(int  0,00962
+android/os/Bundle/getBoolean(java.lang.String), android/app/Notification$Action/getRemoteInputs(), android/app/Notification$Action/getAllowGeneratedReplies()  0,00962
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(  0,00962
+java/util/LinkedHashMap/entrySet()  0,00962
+java/lang/Class/getName()  0,00962
+java/lang/Object/equals(java.lang.Object), java/util/Iterator/hasNext(), org/json/JSONObject/keys(), org/json/JSONObject/get(java.lang.String), org/json/JSONArray/get(int), java/util/Map/put(java.lang.Object  0,00962
+java/util/List/add(java.lang.Object)  0,00962
+android.view.LayoutInflater$Factory2)  0,00962
+android.content.res.Resources  0,00962
+java.lang.Object)  0,00962
+java.nio.ByteBuffer)  0,00962
+boolean)  0,00962
+android/view/KeyEvent/getUnicodeChar(), java/lang/String/valueOf(char), android/text/Editable/delete(int  0,00962
+android/view/accessibility/AccessibilityManager/addTouchExplorationStateChangeListener(android.view.accessibility.AccessibilityManager$TouchExplorationStateChangeListener), android/view/accessibility/AccessibilityManager/isTouchExplorationEnabled(), android/view/accessibility/AccessibilityManager/isEnabled(), io/flutter/view/FlutterView/getContext(), android/view/SurfaceView/onAttachedToWindow(), android/content/ContentResolver/registerContentObserver(android.net.Uri  0,00962
+java/util/Locale/getVariant(), java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(), java/lang/Class/getDeclaredMethod(java.lang.String  0,00962
+android/view/GestureDetector$OnGestureListener/onScroll(android.view.MotionEvent  0,00962
+java.lang.StringBuilder)  0,00962
+android/graphics/Paint/setColor(int), android/graphics/Paint/setShadowLayer(float  0,00962
+org.json.JSONObject)  0,00962
+android/widget/RemoteViews/setContentDescription(int  0,00962
+java.util.List  0,00962
+android.content.Context)  0,00962
+android/content/Intent/removeExtra(java.lang.String), java/util/ArrayList/isEmpty(), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String  0,00962
+android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String)  0,00962
+java/lang/String/split(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/Locale/Locale(java.lang.String  0,00962
+android.graphics.Matrix  0,00962
+android/graphics/drawable/Drawable/draw(android.graphics.Canvas), android/graphics/drawable/BitmapDrawable/getBitmap(), android/graphics/drawable/Drawable/getIntrinsicWidth(), android/graphics/Bitmap/createBitmap(int  0,00962
+android.os.Parcelable)  0,00962
+android.net.Uri)  0,00962
+android.net.Uri  0,00962
+java/util/ArrayList/ArrayList(java.util.Collection), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), android/content/SharedPreferences/getAll(), java/lang/String/startsWith(java.lang.String), android/content/SharedPreferences$Editor/putString(java.lang.String  0,00962
+java/io/IOException/IOException(java.lang.String), android/content/SharedPreferences$Editor/commit()  0,00962
+android/support/v4/util/ArrayMap/put(java.lang.Object  0,00962
+double  0,00962
+float[  0,00962
+android.content.res.Resources)  0,00962
+android/content/pm/ShortcutInfo$Builder/setDisabledMessage(java.lang.CharSequence), android/content/pm/ShortcutInfo$Builder/build(), android/content/pm/ShortcutInfo$Builder/setShortLabel(java.lang.CharSequence), android/content/pm/ShortcutInfo$Builder/setIcon(android.graphics.drawable.Icon), android/content/pm/ShortcutInfo$Builder/ShortcutInfo$Builder(android.content.Context  0,00962
+android/os/Handler/hasMessages(int  0,00962
+java/util/LinkedList/isEmpty(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/isLoggable(java.lang.String  0,00962
+java/lang/StringBuilder/append(int), java/util/LinkedList/peek()  0,00962
+android.support.v4.app.ShareCompat$IntentBuilder)  0,00962
+java/lang/String/hashCode(), android/view/Window/getDecorView(), android/view/View/setSystemUiVisibility(int), android/app/Activity/getWindow(), android/util/Log/i(java.lang.String  0,00962
+android/view/View/getSystemUiVisibility(), android/view/Window/setNavigationBarColor(int)  0,00962
+android/os/Bundle/getLong(java.lang.String), android/os/Bundle/getString(java.lang.String  0,00962
+android/os/Bundle/getStringArray(java.lang.String), android/app/RemoteInput/getAllowFreeFormInput(), android/app/RemoteInput/getChoices(), android/app/RemoteInput/getLabel(), android/app/RemoteInput/getExtras()  0,00962
+java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getDeclaredField(java.lang.String), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object  0,00962
+android/os/Bundle/getParcelable(java.lang.String), android/os/Bundle/getParcelableArray(java.lang.String), android/app/RemoteInput/getResultKey()  0,00962
+android/app/RemoteInput$Builder/build(), android/os/Bundle/putParcelableArray(java.lang.String  0,00962
+java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getMethod(java.lang.String  0,00962
+android/view/Window/addFlags(int), android/view/Window/getDecorView(), android/view/View/setSystemUiVisibility(int), android/app/Activity/getWindow(), android/app/Activity/getIntent(  0,00962
+android/view/Window/setStatusBarColor(int), io/flutter/view/FlutterView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/app/Activity/getApplicationContext(), android/app/Activity/setContentView(android.view.View)  0,00962
+java/lang/Object/toString(), android/view/inputmethod/InputMethodManager/updateSelection(android.view.View  0,00962
+java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(  0,00962
+java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.CharSequence), android/graphics/Rect/Rect(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/append(boolean)  0,00962
+android/graphics/drawable/Drawable/getBounds(), android/graphics/drawable/Drawable/getLevel(), android/support/v4/graphics/drawable/DrawableWrapperApi14/setLevel(int), android/support/v4/graphics/drawable/DrawableWrapperApi14/setBounds(android.graphics.Rect), android/graphics/drawable/Drawable/getConstantState(), android/graphics/drawable/Drawable/getState(), android/graphics/drawable/Drawable/isVisible(), android/support/v4/graphics/drawable/DrawableWrapperApi14/invalidateSelf(), android/graphics/drawable/Drawable/setCallback(android.graphics.drawable.Drawable$Callback  0,00962
+java/lang/Class/getInterfaces(), java/util/Map/get(java.lang.Object), java/util/List/addAll(java.util.Collection), java/util/Map/put(java.lang.Object  0,00962
+java/util/ArrayList/iterator(), java/util/Iterator/next()  0,00962
+java/lang/reflect/Constructor/setAccessible(boolean), java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int), java/lang/Package/getName(), java/lang/reflect/Constructor/isAccessible(  0,00962
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)  0,00962
+java/lang/String/length()  0,00962
+java/lang/Class/getDeclaredConstructor(java.lang.Class[)  0,00962
+java/lang/String/isEmpty()  0,00962
+java/lang/Class/getPackage()  0,00962
+java/util/Map$Entry/getKey()  0,00962
+android/app/RemoteInput/getAllowFreeFormInput(), android/app/RemoteInput/getChoices(), android/app/RemoteInput/getLabel(), android/app/RemoteInput/getExtras()  0,00962
+java/lang/Class/forName(java.lang.String)  0,00962
+java/util/Map/put(java.lang.Object  0,00962
+java/lang/StringBuilder/append(int)  0,00962
+java/util/Iterator/next()  0,00962
+java/lang/StringBuilder/toString()  0,00962
+java/util/Iterator/hasNext()  0,00962
+java/lang/StringBuilder/append(java.lang.String)  0,00962

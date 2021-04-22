@@ -1,0 +1,144 @@
+prob: 0,13889
+[com.valtech.contactsync.api.UserInfoResponse]
+
+prob: 0,11111
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,08333
+[java/lang/NumberFormatException/NumberFormatException(java.lang.String)]
+
+prob: 0,08333
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/Double/parseDouble(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/String/String(char[]]
+
+prob: 0,05556
+[java.lang.String)]
+
+prob: 0,05556
+[com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,05556
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/append(double), java/lang/StringBuilder/toString()]
+
+prob: 0,05556
+[java/lang/Double/isInfinite(double)]
+
+prob: 0,05556
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02778
+[java.util.Map)]
+
+prob: 0,02778
+[java/lang/ThreadLocal/remove(), java/util/Map/put(java.lang.Object]
+
+prob: 0,02778
+[android/net/Uri/getScheme(), android/content/Intent/Intent(java.lang.String]
+
+prob: 0,02778
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,02778
+[com.google.gson.reflect.TypeToken]
+
+prob: 0,02778
+[java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/StringBuilder/StringBuilder(), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,02778
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/toString(), java/lang/reflect/ParameterizedType/getRawType(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02778
+[java.lang.Class]
+
+prob: 0,02778
+[java.lang.reflect.Type)]
+
+prob: 0,02778
+[com.google.gson.JsonElement)]
+
+prob: 0,02778
+[java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/Class/getDeclaredMethod(java.lang.String]
+
+prob: 0,02778
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,02778
+[java/lang/Double/toString(double), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/toString(]
+
+prob: 0,02778
+[java/io/Writer/append(java.lang.CharSequence)]
+
+prob: 0,02778
+[android/database/Cursor/isNull(int), android/content/ContentUris/withAppendedId(android.net.Uri]
+
+prob: 0,02778
+[java.lang.reflect.ParameterizedType]
+
+prob: 0,02778
+[java/lang/Double/valueOf(double), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,02778
+[java.lang.reflect.Type]
+
+prob: 0,02778
+[com/valtech/contactsync/SignInCompleteActivity/findViewById(int), java/lang/String/format(java.lang.String]
+
+prob: 0,02778
+[java.lang.String]
+
+prob: 0,02778
+[org/apache/http/HttpResponse/getStatusLine(), java/lang/StringBuilder/StringBuilder(), org/apache/http/message/BasicNameValuePair/BasicNameValuePair(java.lang.String]
+
+prob: 0,02778
+[java/util/ArrayList/ArrayList(), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), org/apache/http/util/EntityUtils/toString(org.apache.http.HttpEntity)]
+
+prob: 0,02778
+[org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), java/lang/StringBuilder/append(int)]
+
+prob: 0,02778
+[java/util/Arrays/asList(java.lang.Object[])]
+
+prob: 0,02778
+[org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient()]
+
+prob: 0,02778
+[android/content/ContentProviderOperation/newDelete(android.net.Uri), java/util/ArrayList/ArrayList(), android/content/ContentProviderOperation$Builder/build(), android/net/Uri$Builder/appendQueryParameter(java.lang.String]
+
+prob: 0,02778
+[java.util.List]
+
+prob: 0,02778
+[long]
+
+prob: 0,02778
+[android.os.Bundle]
+
+prob: 0,02778
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/StringBuilder(), com/google/gson/internal/bind/JsonTreeReader/isLenient(]
+
+prob: 0,02778
+[java/lang/Integer/parseInt(java.lang.String)]
+
+prob: 0,02778
+[java/lang/Long/parseLong(java.lang.String)]
+
+prob: 0,02778
+[boolean)]
+
+prob: 0,02778
+[java/lang/StringBuilder/append(java.lang.String), org/apache/http/HttpResponse/getEntity(), java/lang/StringBuilder/toString()]
+
+prob: 0,02778
+[java/lang/Double/isNaN(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/Number/doubleValue(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02778
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/append(double)]
+
+prob: 0,02778
+[java/lang/StringBuilder/append(double)]
+
+prob: 0,02778
+[java/lang/Double/isNaN(double)]
+
+prob: 0,02778
+[java/lang/StringBuilder/toString()]
+

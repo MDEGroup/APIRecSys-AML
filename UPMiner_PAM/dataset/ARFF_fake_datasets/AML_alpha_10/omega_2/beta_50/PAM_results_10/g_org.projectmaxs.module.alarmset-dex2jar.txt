@@ -1,0 +1,84 @@
+prob: 0,14815
+[android.os.Parcel]
+
+prob: 0,07407
+[java.lang.String]
+
+prob: 0,07407
+[long]
+
+prob: 0,07407
+[android.content.Intent)]
+
+prob: 0,07407
+[org.projectmaxs.shared.mainmodule.Command]
+
+prob: 0,03704
+[java/lang/Double/toString(double), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString(), android/location/Location/getTime(]
+
+prob: 0,03704
+[java/lang/StringBuilder/append(java.lang.String), android/location/Location/hasAccuracy(), java/lang/StringBuilder/StringBuilder(), android/location/Location/getAltitude(), java/lang/StringBuilder/append(char)]
+
+prob: 0,03704
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/System/getProperty(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/util/Log/getStackTraceString(java.lang.Throwable), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,03704
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), android/util/Log/getStackTraceString(java.lang.Throwable), java/lang/StringBuilder/append(char), java/util/logging/Level/intValue(]
+
+prob: 0,03704
+[java.lang.CharSequence]
+
+prob: 0,03704
+[java.lang.String[]]
+
+prob: 0,03704
+[java.io.Reader)]
+
+prob: 0,03704
+[java.io.Writer]
+
+prob: 0,03704
+[java/lang/Double/valueOf(double), java/lang/String/format(java.lang.String]
+
+prob: 0,03704
+[android/location/Location/getLongitude(), android/location/Location/getAccuracy(), android/location/Location/getSpeed(), java/lang/Long/toString(long)]
+
+prob: 0,03704
+[android/content/Intent/getParcelableExtra(java.lang.String), java/lang/Throwable/getMessage(), java/lang/String/isEmpty(), java/lang/StringBuilder/append(java.lang.Object), android/content/Intent/getAction(), java/lang/Integer/toString(int), java/util/Map/get(java.lang.Object)]
+
+prob: 0,03704
+[android/location/Location/hasAltitude(), java/lang/Float/toString(float), android/location/Location/getLatitude(), java/util/ArrayList/ArrayList(int), android/location/Location/getProvider(), android/location/Location/hasSpeed()]
+
+prob: 0,03704
+[java/lang/Class/forName(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/os/HandlerThread/getLooper(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), android/os/HandlerThread/start(]
+
+prob: 0,03704
+[java/lang/Integer/intValue(), android/os/HandlerThread/HandlerThread(java.lang.String), org/projectmaxs/shared/module/MAXSModuleIntentService/getString(int), org/projectmaxs/shared/module/MAXSModuleIntentService/getPackageName(), android/app/Service/onCreate(), java/lang/Class/getField(java.lang.String), java/lang/reflect/Field/get(java.lang.Object)]
+
+prob: 0,03704
+[org/projectmaxs/shared/global/jul/JULHandler$1/formatMessage(java.util.logging.LogRecord), java/util/logging/LogRecord/getLevel(), java/util/logging/LogRecord/getThrown()]
+
+prob: 0,03704
+[android/net/Uri/encode(java.lang.String), java/util/ArrayList/ArrayList(), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,03704
+[android/net/Uri/encode(java.lang.String), java/util/Map/put(java.lang.Object]
+
+prob: 0,03704
+[java/lang/String/split(java.lang.String), java/lang/StringBuilder/toString(), java/util/regex/Matcher/group(int), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,03704
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/intValue()]
+
+prob: 0,03704
+[java/util/regex/Matcher/matches(), java/util/Iterator/next(), java/lang/Integer/parseInt(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/util/List/iterator(), java/util/regex/Pattern/matcher(java.lang.CharSequence), java/lang/String/indexOf(int)]
+
+prob: 0,03704
+[java.lang.String)]
+
+prob: 0,03704
+[int]
+
+prob: 0,03704
+[java/util/ArrayList/ArrayList(), android/content/ContentResolver/query(android.net.Uri]
+

@@ -1,0 +1,7 @@
+android/widget/TextView/setText(java.lang.CharSequence)
+android/widget/TextView/setTextColor(int)
+com/grasscove/namethat/CategoriesList/setContentView(int)
+org.api.fake
+java/lang/StringBuilder/toString()
+android/graphics/Rect/centerX(
+java/lang/StringBuilder/append(java.lang.String)

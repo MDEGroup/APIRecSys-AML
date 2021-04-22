@@ -1,0 +1,16 @@
+int  0,13333
+long  0,06667
+java/util/Iterator/hasNext(), android/app/Notification$Builder/build(), android/os/Bundle/putAll(android.os.Bundle), android/app/Notification$Builder/setExtras(android.os.Bundle), android/os/Bundle/keySet(), android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/putSparseParcelableArray(java.lang.String  0,06667
+android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/Bundle(), android/app/Notification$Action$Builder/setAllowGeneratedReplies(boolean), android/app/Notification$Action$Builder/Notification$Action$Builder(int  0,06667
+java.lang.String)  0,06667
+java/lang/ref/WeakReference/get(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/util/Log/i(java.lang.String  0,06667
+java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getDeclaredField(java.lang.String), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object  0,06667
+java/lang/String/valueOf(java.lang.Object), android/graphics/Bitmap/getWidth(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/String/format(java.lang.String  0,06667
+java/lang/StringBuilder/append(java.lang.String), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), java/lang/Math/pow(double  0,06667
+android.content.Intent)  0,06667
+java/lang/Class/getMethod(java.lang.String  0,06667
+android/view/LayoutInflater/inflate(int  0,06667
+android/content/res/Resources/getDisplayMetrics(), android/app/Service/getResources(), android/content/res/Resources/getDimensionPixelSize(int), android/widget/RelativeLayout/setPadding(int  0,06667
+android/os/Handler/postDelayed(java.lang.Runnable  0,06667
+java/lang/Double/isNaN(double), java/lang/StringBuilder/append(long), java/lang/StringBuilder/StringBuilder()  0,06667
+java/lang/Double/isNaN(double)  0,06667

@@ -1,0 +1,8 @@
+java/lang/String/valueOf(int
+org.api.fake
+android/widget/RemoteViews/setTextViewText(int,java.lang.CharSequence)
+android/widget/TextView/setOnTouchListener(android.view.View$OnTouchListener)
+android/widget/RemoteViews/setImageViewResource(int,int
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+android/util/Log/v(java.lang.String,java.lang.String)

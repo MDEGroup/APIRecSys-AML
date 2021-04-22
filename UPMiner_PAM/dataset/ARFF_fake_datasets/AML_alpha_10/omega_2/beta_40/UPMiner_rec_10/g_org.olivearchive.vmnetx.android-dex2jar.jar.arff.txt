@@ -1,0 +1,10 @@
+android/app/AlertDialog$Builder/setIcon(int)
+android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context
+android/app/ProgressDialog/setProgressPercentFormat(java.text.NumberFormat)
+java/lang/String/equals(java.lang.Object)
+java/io/OutputStream/close()
+android/app/ProgressDialog/isIndeterminate(
+java/io/DataInputStream/readDouble()
+java/io/FileOutputStream/FileOutputStream(java.io.File
+android/os/StrictMode$ThreadPolicy$Builder/StrictMode$ThreadPolicy$Builder(
+java/io/DataInputStream/readFloat(

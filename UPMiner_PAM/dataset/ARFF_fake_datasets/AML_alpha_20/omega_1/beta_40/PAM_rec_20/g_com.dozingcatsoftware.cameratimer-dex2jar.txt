@@ -1,0 +1,60 @@
+org.api.fake  0,17333
+int  0,10667
+java.io.FileDescriptor  0,08000
+int)  0,06667
+java/lang/StringBuilder/StringBuilder()  0,05333
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/set(int  0,04000
+java/util/ArrayList/size()  0,04000
+android/util/Log/v(java.lang.String  0,04000
+java/lang/StringBuilder/append(int)  0,04000
+java.lang.String  0,02667
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,02667
+float  0,02667
+android.hardware.Camera)  0,02667
+android.app.Notification  0,01333
+android.app.Activity  0,01333
+android/app/Dialog/setContentView(android.view.View), android/app/Dialog/setCancelable(boolean), android/support/v4/app/DialogFragment/getActivity(), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), android/support/v4/app/DialogFragment/getView(), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(  0,01333
+java.lang.StringBuilder)  0,01333
+android/content/Intent/removeExtra(java.lang.String), java/util/ArrayList/isEmpty(), android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String  0,01333
+com/dozingcatsoftware/cameratimer/PictureView/getContext(), android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,01333
+java/lang/Runnable/run(), android/os/Looper/myLooper(), android/os/Handler/removeCallbacks(java.lang.Runnable), android/os/Handler/getLooper(), java/util/ArrayList/clear(  0,01333
+java.util.ArrayList)  0,01333
+android.support.v4.app.BackStackRecord)  0,01333
+java/io/PrintWriter/PrintWriter(java.io.Writer)  0,01333
+android.content.Context  0,01333
+com/dozingcatsoftware/cameratimer/ViewImageActivity/findViewById(int), android/util/DisplayMetrics/DisplayMetrics(), com/dozingcatsoftware/cameratimer/ViewImageActivity/getWindowManager(), android/app/Activity/onCreate(android.os.Bundle), com/dozingcatsoftware/cameratimer/ViewImageActivity/requestWindowFeature(int), android/content/Intent/getData(), com/dozingcatsoftware/cameratimer/ViewImageActivity/getIntent(), android/view/WindowManager/getDefaultDisplay(), android/widget/ImageView/setImageBitmap(android.graphics.Bitmap), com/dozingcatsoftware/cameratimer/ViewImageActivity/setContentView(int), android/view/Display/getMetrics(android.util.DisplayMetrics  0,01333
+android/view/ViewConfiguration/get(android.content.Context), android/content/res/Resources/getDisplayMetrics(), android/support/v4/view/ViewPager/setFocusable(boolean), android/view/ViewConfiguration/getScaledMinimumFlingVelocity(), android/support/v4/view/ViewPager/setDescendantFocusability(int), android/support/v4/view/ViewPager/setWillNotDraw(boolean), android/view/ViewConfiguration/getScaledMaximumFlingVelocity(), android/support/v4/view/ViewPager/getContext(), android/content/Context/getResources(), android/widget/Scroller/Scroller(android.content.Context  0,01333
+android/graphics/Canvas/rotate(float), android/graphics/Canvas/translate(float  0,01333
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/support/v4/view/ViewPager/scrollTo(int  0,01333
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Set/iterator(), java/util/LinkedHashMap/remove(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(  0,01333
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/widget/ListView/setEmptyView(android.view.View), android/view/View/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/os/Handler/post(java.lang.Runnable), android/support/v4/app/ListFragment/getView(), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String  0,01333
+android/os/SystemClock/uptimeMillis()  0,01333
+android/support/v4/view/ViewPager/hasFocus(), java/lang/Math/max(int  0,01333
+java/util/Map/put(java.lang.Object  0,01333
+java/lang/String/valueOf(java.lang.Object), android/app/Activity/onCreate(android.os.Bundle), android/content/Intent/getStringExtra(java.lang.String  0,01333
+com/dozingcatsoftware/cameratimer/LibraryActivity/findViewById(int), android/widget/GridView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), java/lang/StringBuilder/StringBuilder(java.lang.String), com/dozingcatsoftware/cameratimer/LibraryActivity/setContentView(int), java/lang/StringBuilder/toString()  0,01333
+com/dozingcatsoftware/cameratimer/LibraryActivity/getIntent()  0,01333
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object)  0,01333
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), android/content/Intent/getScheme(), java/util/HashMap/get(java.lang.Object), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01333
+android/net/Uri/getPath(), com/dozingcatsoftware/cameratimer/PictureView/invalidate(), java/util/Iterator/hasNext(), android/view/View/setVisibility(int), java/util/Iterator/next(), java/io/File/File(java.lang.String), java/util/List/get(int), java/util/List/iterator(), java/io/File/delete(), com/dozingcatsoftware/cameratimer/ViewImageGridActivity/finish(  0,01333
+android/hardware/Camera/setDisplayOrientation(int), android/hardware/Camera/setParameters(android.hardware.Camera$Parameters), java/lang/Runnable/run(  0,01333
+com/dozingcatsoftware/cameratimer/ViewImageGridActivity/requestWindowFeature(int), android/app/Activity/onCreate(android.os.Bundle), java/util/List/get(int), com/dozingcatsoftware/cameratimer/ViewImageGridActivity/setContentView(int  0,01333
+com/dozingcatsoftware/cameratimer/ViewImageGridActivity/findViewById(int), com/dozingcatsoftware/cameratimer/ViewImageGridActivity/getIntent(), android/content/Intent/getParcelableArrayListExtra(java.lang.String), java/util/Arrays/asList(java.lang.Object[), java/util/List/size()  0,01333
+android/view/SurfaceView/getHolder(), android/hardware/Camera/getParameters(), android/hardware/Camera/startPreview()  0,01333
+android.support.v4.view.PagerAdapter)  0,01333
+float)  0,01333
+java.lang.ClassLoader)  0,01333
+android/os/Bundle/Bundle(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/toArray(java.lang.Object[), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), android/os/Bundle/putParcelableArray(java.lang.String  0,01333
+java/util/ArrayList/toArray(java.lang.Object[), java/util/ArrayList/get(int), java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,01333
+java/util/LinkedHashMap/entrySet()  0,01333
+java/lang/Class/getName()  0,01333
+java/util/LinkedHashMap/isEmpty()  0,01333
+android.view.ViewGroup  0,01333
+android/os/Handler/hasMessages(int), android/content/Context/getContentResolver()  0,01333
+android/content/Intent/getFlags(), java/util/ArrayList/add(java.lang.Object)  0,01333
+java/lang/Math/max(int  0,01333
+java/util/Iterator/next()  0,01333
+android/os/Bundle/Bundle(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)  0,01333
+java/lang/StringBuilder/toString()  0,01333
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,01333
+java/lang/StringBuilder/append(java.lang.String)  0,01333

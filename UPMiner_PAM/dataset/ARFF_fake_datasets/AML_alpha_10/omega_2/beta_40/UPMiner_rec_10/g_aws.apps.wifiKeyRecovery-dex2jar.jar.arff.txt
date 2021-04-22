@@ -1,0 +1,7 @@
+org.api.fake
+java/util/Iterator/hasNext()
+android/content/pm/PackageManager/queryIntentActivities(android.content.Intent,int
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/StringBuilder(java.lang.String) java/lang/StringBuilder/toString()
+org.rand.api

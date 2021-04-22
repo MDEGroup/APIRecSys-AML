@@ -1,0 +1,45 @@
+prob: 0,14286
+[java.lang.String)]
+
+prob: 0,14286
+[java/lang/StringBuffer/toString(), java/lang/StringBuffer/StringBuffer(java.lang.String), java/lang/StringBuffer/append(java.lang.String)]
+
+prob: 0,07143
+[android/view/View/findViewById(int), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence]
+
+prob: 0,07143
+[java/util/Hashtable/elements(), java/lang/System/getProperty(java.lang.String]
+
+prob: 0,07143
+[java/io/FileInputStream/available(), java/io/FileInputStream/close(), java/io/FileInputStream/FileInputStream(java.io.File), java/io/FileInputStream/read(byte[]]
+
+prob: 0,07143
+[org.eclipse.paho.client.mqttv3.MqttPersistable)]
+
+prob: 0,07143
+[java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/util/Properties/keySet(]
+
+prob: 0,07143
+[java/lang/String/valueOf(java.lang.Object), java/util/logging/LogRecord/getMillis(), java/util/logging/LogRecord/getSourceMethodName(), java/util/logging/LogRecord/getThrown(), java/text/MessageFormat/format(java.lang.String]
+
+prob: 0,07143
+[java/lang/String/startsWith(java.lang.String), java/util/Enumeration/hasMoreElements(), java/lang/Math/max(int]
+
+prob: 0,07143
+[javax/net/ssl/KeyManagerFactory/getInstance(java.lang.String), java/io/FileInputStream/FileInputStream(java.lang.String), java/security/KeyStore/load(java.io.InputStream]
+
+prob: 0,07143
+[boolean)]
+
+prob: 0,07143
+[java.lang.String]
+
+prob: 0,07143
+[java/lang/String/split(java.lang.String]
+
+prob: 0,07143
+[java/lang/String/length(), java/lang/Integer/toHexString(int), java/lang/StringBuffer/toString(), java/lang/StringBuffer/StringBuffer(java.lang.String), java/lang/String/String(byte[]]
+
+prob: 0,07143
+[java/lang/String/length()]
+

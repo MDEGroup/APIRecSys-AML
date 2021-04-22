@@ -1,0 +1,24 @@
+org.api.fake  0,19048
+java.lang.String)  0,19048
+android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String  0,09524
+java/lang/StringBuilder/toString()  0,09524
+int)  0,09524
+java/util/List/isEmpty(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,09524
+android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,04762
+java/util/Iterator/next()  0,04762
+android/content/Intent/setData(android.net.Uri), com/addressbook/AddressBookActivity/finish(), com/addressbook/AddressBookActivity/startActivity(android.content.Intent), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,04762
+android.content.Context)  0,04762
+java/lang/String/valueOf(java.lang.Object), java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), java/util/StringTokenizer/StringTokenizer(java.lang.String  0,04762
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(long), java/util/Calendar/getInstance(), java/lang/StringBuffer/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuffer/toString(), java/util/Calendar/getTimeInMillis(), java/lang/StringBuffer/StringBuffer(java.lang.String  0,04762
+java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/widget/Toast/show()  0,04762
+java/lang/String/startsWith(java.lang.String)  0,04762
+java/lang/String/equalsIgnoreCase(java.lang.String)  0,04762
+android/app/AlertDialog$Builder/show()  0,04762
+android/app/AlertDialog$Builder/setIcon(int), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,04762
+android/app/AlertDialog$Builder/setIcon(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence)  0,04762
+android/app/AlertDialog$Builder/setIcon(int), android/content/Intent/Intent(android.content.Context  0,04762
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String)  0,04762
+android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence)  0,04762
+java/lang/StringBuilder/append(java.lang.String)  0,04762
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,04762
+android/app/AlertDialog$Builder/setIcon(int)  0,04762

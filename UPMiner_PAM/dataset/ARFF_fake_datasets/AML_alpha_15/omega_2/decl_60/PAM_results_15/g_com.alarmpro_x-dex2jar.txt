@@ -1,0 +1,66 @@
+prob: 0,22727
+[org.api.fake]
+
+prob: 0,22727
+[org.rand.api]
+
+prob: 0,06818
+[int)]
+
+prob: 0,06818
+[android.database.Cursor)]
+
+prob: 0,04545
+[android/media/AudioManager/getRingerMode(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/media/MediaPlayer/stop(), android/os/PowerManager$WakeLock/release(), android/media/AudioManager/setRingerMode(int), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/toString(), android/os/Vibrator/cancel(), com/alarmpro_x/AlarmStart/finish(]
+
+prob: 0,04545
+[android/app/Notification$Builder/setTicker(java.lang.CharSequence]
+
+prob: 0,04545
+[android/database/Cursor/getColumnIndex(java.lang.String), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,04545
+[android/database/Cursor/getColumnIndex(java.lang.String), android/graphics/Typeface/createFromAsset(android.content.res.AssetManager]
+
+prob: 0,04545
+[android/graphics/Typeface/createFromAsset(android.content.res.AssetManager]
+
+prob: 0,02273
+[android/app/TaskStackBuilder/addParentStack(java.lang.Class), android/app/AlarmManager/set(int]
+
+prob: 0,02273
+[android/app/TaskStackBuilder/addParentStack(java.lang.Class), java/lang/Integer/intValue(), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,02273
+[com/alarmpro_x/AlarmStart/getSystemService(java.lang.String), android/app/NotificationManager/cancel(int)]
+
+prob: 0,02273
+[com/alarmpro_x/c/getReadableDatabase(), java/lang/Exception/printStackTrace(), android/util/Log/d(java.lang.String]
+
+prob: 0,02273
+[android/os/Vibrator/vibrate(long), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02273
+[android/content/Intent/setData(android.net.Uri), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02273
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02273
+[android/media/AudioManager/getStreamMaxVolume(int)]
+
+prob: 0,02273
+[com/alarmpro_x/snooze_duration/getApplicationContext(), com/alarmpro_x/c/getWritableDatabase(), android/content/ContentValues/ContentValues(), android/database/sqlite/SQLiteDatabase/insertWithOnConflict(java.lang.String]
+
+prob: 0,02273
+[android/database/Cursor/getColumnIndex(java.lang.String), android/os/PowerManager$WakeLock/acquire(), android/os/Vibrator/vibrate(long), java/lang/StringBuilder/append(int), android/media/MediaPlayer/prepare(), android/app/Activity/onCreate(android.os.Bundle), android/media/RingtoneManager/getRingtone(android.content.Context]
+
+prob: 0,02273
+[com/alarmpro_x/seasons/getApplicationContext()]
+
+prob: 0,02273
+[com/alarmpro_x/seasons/findViewById(int), android/graphics/Typeface/createFromAsset(android.content.res.AssetManager]
+
+prob: 0,02273
+[com/alarmpro_x/snooze_duration/getApplicationContext()]
+

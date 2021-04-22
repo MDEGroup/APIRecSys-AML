@@ -1,0 +1,12 @@
+java/io/FileOutputStream/getChannel(
+android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context
+android/widget/ProgressBar/setLayoutParams(android.view.ViewGroup$LayoutParams
+java/lang/String/equalsIgnoreCase(java.lang.String)
+android/net/Uri/getScheme(
+java/io/OutputStream/close()
+android/app/AlertDialog$Builder/setPositiveButton(int,android.content.DialogInterface$OnClickListener)
+java/lang/String/substring(int
+java/lang/StringBuilder/append(java.lang.String)
+org/json/JSONObject/getInt(java.lang.String
+android/widget/ProgressBar/ProgressBar(android.content.Context)
+android/net/Uri/getHost()

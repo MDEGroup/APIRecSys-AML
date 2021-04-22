@@ -1,0 +1,6 @@
+android/os/Parcel/readException(
+java/util/ArrayList/iterator()
+java/lang/System/loadLibrary(java.lang.String
+org/kde/necessitas/ministro/IMinistroCallback/asBinder()
+java/util/HashMap/get(java.lang.Object
+android/app/AlertDialog/setMessage(java.lang.CharSequence)

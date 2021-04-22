@@ -1,0 +1,49 @@
+org.api.fake  0,15385
+int  0,11538
+java.io.FileDescriptor  0,07692
+java/lang/StringBuilder/StringBuilder()  0,06410
+int)  0,05128
+float  0,05128
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/set(int  0,05128
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,03846
+android.app.Notification  0,03846
+android/util/Log/v(java.lang.String  0,03846
+android.view.View)  0,02564
+android.support.v4.view.PagerAdapter)  0,02564
+java.lang.String  0,02564
+java.lang.ClassLoader)  0,02564
+android.view.ViewGroup  0,02564
+java/util/ArrayList/get(int)  0,02564
+java/lang/StringBuilder/append(int)  0,02564
+java/util/ArrayList/size()  0,02564
+java.util.ArrayList)  0,01282
+android.support.v4.app.BackStackRecord)  0,01282
+java/io/PrintWriter/PrintWriter(java.io.Writer)  0,01282
+android.content.Context  0,01282
+java/util/Collections/sort(java.util.List  0,01282
+android/view/ViewConfiguration/get(android.content.Context), android/support/v4/view/ViewPager/setFocusable(boolean), android/view/ViewConfiguration/getScaledMinimumFlingVelocity(), android/support/v4/view/ViewPager/setDescendantFocusability(int), android/support/v4/view/ViewPager/setWillNotDraw(boolean), android/support/v4/view/ViewPager/getContext(), android/content/Context/getResources(), android/content/res/Resources/getDisplayMetrics(), android/widget/Scroller/Scroller(android.content.Context  0,01282
+android/graphics/Canvas/translate(float  0,01282
+android/view/MotionEvent/getEdgeFlags(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/support/v4/view/ViewPager/getScrollX(), android/view/VelocityTracker/computeCurrentVelocity(int  0,01282
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/SystemClock/uptimeMillis(), android/support/v4/view/ViewPager/scrollTo(int  0,01282
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(java.lang.Object)  0,01282
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Class/getName(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(  0,01282
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/widget/ListView/setEmptyView(android.view.View), android/view/View/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/os/Handler/post(java.lang.Runnable), android/support/v4/app/ListFragment/getView(), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String  0,01282
+java/lang/Math/max(int  0,01282
+android/widget/Scroller/computeScrollOffset(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/widget/Scroller/abortAnimation(), java/lang/Math/abs(int), android/view/VelocityTracker/obtain(), android/widget/Scroller/getFinalX(), android/view/MotionEvent/getAction(), java/lang/Math/abs(float), android/widget/Scroller/getCurrX(), android/view/MotionEvent/getY(  0,01282
+android/view/VelocityTracker/recycle()  0,01282
+android/os/Bundle/Bundle(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/toArray(java.lang.Object[), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), android/os/Bundle/putParcelableArray(java.lang.String  0,01282
+java/util/LinkedHashMap/entrySet()  0,01282
+java/util/Iterator/next()  0,01282
+android/os/Handler/hasMessages(int), android/content/Intent/getFlags(), java/util/ArrayList/add(java.lang.Object), android/content/Intent/getScheme(), android/content/Context/getContentResolver(), java/util/HashMap/get(java.lang.Object)  0,01282
+java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int)  0,01282
+byte[)  0,01282
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,01282
+android.app.Activity  0,01282
+android/app/Dialog/setContentView(android.view.View), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/view/View/getParent(  0,01282
+android/app/Dialog/setCancelable(boolean), android/support/v4/app/DialogFragment/getActivity(), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), android/support/v4/app/DialogFragment/getView(), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener)  0,01282
+java.lang.StringBuilder)  0,01282
+android/content/Intent/removeExtra(java.lang.String), java/util/ArrayList/isEmpty(), android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String  0,01282
+java/lang/Runnable/run(), java/util/ArrayList/toArray(java.lang.Object[), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/Handler/getLooper(), java/util/ArrayList/clear(  0,01282
+android/os/Looper/myLooper(), java/util/ArrayList/size(), android/os/Handler/removeCallbacks(java.lang.Runnable)  0,01282
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01282
+android/os/Bundle/Bundle(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)  0,01282

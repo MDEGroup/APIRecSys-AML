@@ -1,0 +1,24 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+android/app/AlertDialog$Builder/setIcon(int)
+java/io/BufferedInputStream/read(byte[],int,int)
+android/net/Uri/getPath()
+android/content/ContentValues/putNull(java.lang.String)
+java/lang/Thread/sleep(long)
+java/lang/StringBuilder/toString(
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Long/valueOf(long)
+java/lang/String/length()
+android/location/Location/getLatitude(
+java/lang/Integer/intValue()
+com/beatsportable/beats/GUIScore$AccuracyTypes/values()
+java/lang/Class/getSimpleName()
+org.api.fake
+java/lang/Exception/getMessage(
+android/database/Cursor/moveToFirst(
+com/beatsportable/beats/MenuFileChooser/setResult(int)
+android/content/Context/getPackageManager()
+java/lang/String/valueOf(java.lang.Object)
+org.rand.api

@@ -1,0 +1,9 @@
+com/elsdoerfer/keepscore/Setup/findViewById(int)
+android/app/AlertDialog$Builder/setNegativeButton(int,android.content.DialogInterface$OnClickListener
+org.api.fake
+android/database/Cursor/getColumnIndex(java.lang.String)
+android/database/Cursor/moveToFirst(
+android/database/Cursor/getInt(int
+java/lang/String/valueOf(java.lang.Object)
+java/lang/Long/valueOf(long)
+org.rand.api

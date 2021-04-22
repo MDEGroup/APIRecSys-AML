@@ -1,0 +1,12 @@
+com/watabou/noosa/Game/setVolumeControlStream(int
+android/graphics/Bitmap/getWidth()
+java/util/Iterator/next()
+java/util/HashMap/keySet(
+com/watabou/noosa/audio/Sample/play(java.lang.Object)
+com/watabou/noosa/BitmapTextMultiline/width()
+com/shatteredpixel/shatteredpixeldungeon/ui/RedButton/setPos(float,float
+java/lang/StringBuilder/toString(
+java/util/ArrayList/size(
+java/lang/StringBuilder/append(java.lang.String)
+android/util/DisplayMetrics/DisplayMetrics()
+java/util/HashMap/get(java.lang.Object

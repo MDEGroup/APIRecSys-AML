@@ -1,0 +1,2 @@
+org.api.fake
+java/io/OutputStream/write(byte[]

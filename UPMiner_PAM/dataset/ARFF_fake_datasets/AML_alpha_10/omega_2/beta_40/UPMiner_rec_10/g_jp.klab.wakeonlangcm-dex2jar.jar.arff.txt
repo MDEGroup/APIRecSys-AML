@@ -1,0 +1,8 @@
+android/app/AlertDialog$Builder/setIcon(int)
+java/lang/Integer/intValue()
+android/widget/EditText/setInputType(int
+android/content/Context/getApplicationContext(
+android/net/wifi/WifiInfo/getIpAddress()
+java/util/List/get(int
+android/widget/TextView/setTextColor(int
+jp/klab/wakeonlangcm/NoSleepActivity/setContentView(int)

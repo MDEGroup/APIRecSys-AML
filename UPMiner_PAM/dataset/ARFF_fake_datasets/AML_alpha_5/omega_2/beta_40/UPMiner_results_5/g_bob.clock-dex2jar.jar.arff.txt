@@ -1,0 +1,4 @@
+android/content/SharedPreferences/getInt(java.lang.String,int
+java/lang/String/valueOf(int
+org.api.fake
+org.rand.api

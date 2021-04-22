@@ -1,0 +1,9 @@
+android/view/ViewGroup/getParent()
+java/lang/Class/getSimpleName()
+android/view/ViewGroup/getChildCount()
+org.api.fake
+android/view/View/getLayoutParams()
+java/lang/StringBuilder/toString()
+java/util/ArrayList/size()
+java/lang/Math/round(float)
+java/lang/StringBuilder/append(java.lang.String)

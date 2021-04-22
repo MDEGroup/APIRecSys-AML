@@ -1,0 +1,11 @@
+java/lang/Math/min(float,float)
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+org.api.fake
+android/view/View/getVisibility()
+android/support/v4/widget/SwipeRefreshLayout/getChildAt(int)
+android/view/View/getLayoutParams()
+java/util/ArrayList/size()
+java/lang/StringBuilder/append(java.lang.String)
+android/view/View/measure(int,int
+android/util/Log/v(java.lang.String,java.lang.String)
+java/lang/Math/max(int,int)

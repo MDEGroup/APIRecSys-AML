@@ -1,0 +1,57 @@
+prob: 0,17647
+[java.lang.String]
+
+prob: 0,11765
+[boolean)]
+
+prob: 0,05882
+[org.json.JSONObject)]
+
+prob: 0,05882
+[android/net/Uri/getPath(), java/net/URL/openConnection(), android/content/ContentResolver/getType(android.net.Uri), java/lang/String/split(java.lang.String), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/net/HttpURLConnection/getHeaderField(java.lang.String), android/net/Uri/toString(), java/net/HttpURLConnection/setDoInput(boolean]
+
+prob: 0,05882
+[android/webkit/WebSettings/setGeolocationDatabasePath(java.lang.String), android/webkit/WebSettings/setUserAgentString(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,05882
+[org.apache.cordova.CordovaDialogsHelper$Result)]
+
+prob: 0,05882
+[java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,05882
+[java/util/LinkedList/isEmpty(), java/lang/StringBuilder/append(int), java/lang/Object/getClass(), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,05882
+[java/util/ArrayList/size()]
+
+prob: 0,05882
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/append(java.lang.String), java/util/LinkedList/removeFirst(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(int), java/util/LinkedList/size(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(]
+
+prob: 0,05882
+[java/util/Iterator/hasNext()]
+
+prob: 0,05882
+[java/lang/Class/newInstance(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/Exception/printStackTrace(]
+
+prob: 0,05882
+[java/lang/Class/forName(java.lang.String), java/lang/Class/isAssignableFrom(java.lang.Class)]
+
+prob: 0,05882
+[boolean]
+
+prob: 0,05882
+[android/widget/ProgressBar/ProgressBar(android.content.Context), android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,05882
+[java.io.OutputStream)]
+
+prob: 0,05882
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/String/split(java.lang.String), android/net/Uri/getSchemeSpecificPart(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[]), java/lang/String/getBytes(), java/lang/String/indexOf(int), android/util/Base64/decode(java.lang.String]
+
+prob: 0,05882
+[android/net/Uri/getHost(), java/lang/Integer/valueOf(int), java/lang/Exception/toString(), java/util/regex/Pattern/matcher(java.lang.CharSequence), android/net/Uri/getPort(), android/net/Uri/getPath(), android/net/Uri/getScheme(]
+
+prob: 0,05882
+[java/util/regex/Matcher/matches(), java/lang/Integer/equals(java.lang.Object)]
+

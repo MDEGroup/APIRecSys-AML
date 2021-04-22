@@ -1,0 +1,55 @@
+java.lang.String  0,09231
+android/util/Log/v(java.lang.String  0,09231
+java.lang.String)  0,06154
+int)  0,03077
+android/util/Log/w(java.lang.String  0,03077
+android.view.View  0,03077
+org.json.JSONObject)  0,03077
+java/util/Vector/Vector(), android/os/Bundle/getByte(java.lang.String), android/os/Bundle/getBundle(java.lang.String), android/os/Bundle/getBoolean(java.lang.String  0,01538
+com/admob/android/ads/ac/getContext(), com/admob/android/ads/ac/addView(android.view.View  0,01538
+android/widget/VideoView/setOnErrorListener(android.media.MediaPlayer$OnErrorListener), com/admob/android/ads/ac/addView(android.view.View  0,01538
+android/widget/VideoView/setBackgroundDrawable(android.graphics.drawable.Drawable)  0,01538
+android.content.Intent)  0,01538
+android/os/SystemClock/uptimeMillis(), java/lang/ref/WeakReference/get(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String  0,01538
+java/lang/ref/WeakReference/get(), com/admob/android/ads/k/setVisibility(int), com/admob/android/ads/an/setInterpolator(android.view.animation.Interpolator), com/admob/android/ads/AdView/getHeight(), android/util/Log/e(java.lang.String  0,01538
+java/lang/ref/WeakReference/get(), java/util/Vector/size()  0,01538
+android.content.Context  0,01538
+com.admob.android.ads.k)  0,01538
+java.util.Map  0,01538
+java/lang/String/toLowerCase(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/String/format(java.lang.String  0,01538
+java.lang.Object[)  0,01538
+android.view.animation.Transformation)  0,01538
+java/io/BufferedWriter/BufferedWriter(java.io.Writer  0,01538
+android/content/Context/getMainLooper(), android/util/Log/i(java.lang.String  0,01538
+java/security/MessageDigest/digest(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/String/format(java.lang.String  0,01538
+android/content/Context/getPackageManager(), android/content/pm/PackageManager/getApplicationInfo(java.lang.String  0,01538
+android.graphics.Bitmap  0,01538
+com/admob/android/ads/z/loadDataWithBaseURL(java.lang.String  0,01538
+org.json.JSONArray)  0,01538
+android/view/View/setBackgroundDrawable(android.graphics.drawable.Drawable), com/admob/android/ads/af/setTextSize(float), android/view/View/setAnimation(android.view.animation.Animation), android/widget/ImageView/setImageBitmap(android.graphics.Bitmap), android/graphics/Typeface/create(android.graphics.Typeface  0,01538
+org.json.JSONObject  0,01538
+android.graphics.Rect)  0,01538
+android.graphics.Rect  0,01538
+android/view/View/setVisibility(int), android/view/View/setBackgroundDrawable(android.graphics.drawable.Drawable), com/admob/android/ads/k/addView(android.view.View  0,01538
+android/view/View/View(android.content.Context), android/graphics/drawable/Drawable/setAlpha(int), com/admob/android/ads/k/setBackgroundDrawable(android.graphics.drawable.Drawable)  0,01538
+com.admob.android.ads.u  0,01538
+com/admob/android/ads/k/getChildAt(int), com/admob/android/ads/k/getChildCount(), com/admob/android/ads/k/indexOfChild(android.view.View), java/util/Vector/size(), java/util/Collections/sort(java.util.List  0,01538
+android/view/animation/AnimationSet/addAnimation(android.view.animation.Animation), com/admob/android/ads/AdView/performClick(), android/view/animation/ScaleAnimation/ScaleAnimation(float  0,01538
+android/os/Bundle/putString(java.lang.String  0,01538
+int  0,01538
+com/admob/android/ads/j$a/ordinal(), java/util/Vector/Vector()  0,01538
+com/admob/android/ads/q$a/ordinal(), android/app/Activity/onCreate(android.os.Bundle), android/util/Log/e(java.lang.String  0,01538
+android/app/AlertDialog$Builder/setIcon(int), java/lang/StringBuilder/append(int), android/view/MenuItem/getItemId(), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,01538
+org/orzlabs/android/wokeup/WokeUpTwitActivity/setContentView(int), android/widget/ListView/setAdapter(android.widget.ListAdapter), java/util/Iterator/hasNext(), android/content/Intent/getAction(), android/widget/ListView/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), org/orzlabs/android/wokeup/WokeUpTwitActivity/findViewById(int), org/orzlabs/android/wokeup/WokeUpTwitActivity/getIntent(), java/util/Iterator/next(), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,01538
+java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/Vector/Vector(), java/util/Iterator/next(), android/os/Bundle/getByte(java.lang.String), java/util/Vector/add(java.lang.Object), android/os/Bundle/getDouble(java.lang.String), android/os/Bundle/getString(java.lang.String  0,01538
+java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/lang/String/format(java.lang.String  0,01538
+android.graphics.Bitmap)  0,01538
+java/lang/StringBuilder/append(java.lang.String), java/util/Date/toString(), android/location/Location/getLongitude(), java/util/Date/Date(long), java/lang/System/currentTimeMillis(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String  0,01538
+java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,01538
+java/util/ArrayList/ArrayList(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String)  0,01538
+android/os/Bundle/getParcelableArrayList(java.lang.String), android/os/Bundle/getInt(java.lang.String)  0,01538
+android.view.View)  0,01538
+org/orzlabs/android/wokeup/preference/WokeUpDialogPreference/getContext(), android/widget/Toast/makeText(android.content.Context  0,01538
+android/widget/Button/setWidth(int), android/widget/RelativeLayout/addView(android.view.View  0,01538
+android/content/res/Resources/getDisplayMetrics(), android/graphics/Bitmap/getWidth(), android/view/ViewGroup/setVisibility(int), android/view/ViewGroup/setBackgroundColor(int), com/admob/android/ads/ac/addView(android.view.View  0,01538
+java/lang/StringBuilder/append(java.lang.String)  0,01538

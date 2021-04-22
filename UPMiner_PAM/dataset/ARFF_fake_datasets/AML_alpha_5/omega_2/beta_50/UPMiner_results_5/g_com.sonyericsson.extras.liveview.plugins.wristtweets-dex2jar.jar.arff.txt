@@ -1,0 +1,12 @@
+android/app/AlertDialog$Builder/setIcon(int)
+java/util/zip/GZIPInputStream/GZIPInputStream(java.io.InputStream)
+java/util/HashMap/keySet(
+java/net/URL/openConnection()
+java/lang/StringBuilder/toString(
+android/os/Parcel/writeString(java.lang.String
+java/net/HttpURLConnection/setRequestProperty(java.lang.String,java.lang.String
+java/lang/Object/toString()
+com/sonyericsson/extras/liveview/b/a(java.lang.String)
+android/widget/TextView/setText(int
+java/lang/Long/toString(long)
+java/lang/StringBuilder/append(java.lang.Object

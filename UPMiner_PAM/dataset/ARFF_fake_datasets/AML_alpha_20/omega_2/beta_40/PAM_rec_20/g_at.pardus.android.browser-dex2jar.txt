@@ -1,0 +1,55 @@
+java.lang.String)  0,12346
+org.api.fake  0,11111
+org.rand.api  0,11111
+java.lang.String  0,06173
+java.util.Map  0,03704
+java.nio.ByteBuffer  0,03704
+java.io.File)  0,03704
+a.a.a.n  0,03704
+java/lang/Class/forName(java.lang.String), android/util/Log/w(java.lang.String  0,03704
+java.io.File  0,03704
+long)  0,03704
+java/io/BufferedInputStream/read(byte[  0,03704
+java/lang/StringBuilder/toString()  0,02469
+java/lang/Class/forName(java.lang.String), java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,02469
+java/util/Iterator/hasNext(), java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream  0,01235
+java/util/Collections/unmodifiableMap(java.util.Map), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Map/keySet(), java/util/Set/iterator(  0,01235
+java/util/Map/get(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,01235
+java/util/Map/get(java.lang.Object), java/lang/StringBuilder/StringBuilder(), android/database/Cursor/getCount(), android/database/Cursor/getString(int), java/util/ArrayList/ArrayList(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,01235
+java/lang/StringBuilder/append(java.lang.Object)  0,01235
+java/util/List/iterator()  0,01235
+java/io/File/isDirectory()  0,01235
+java/lang/StringBuilder/append(java.lang.String), android/webkit/WebSettings/setJavaScriptEnabled(boolean), android/webkit/WebSettings/setGeolocationEnabled(boolean), android/content/SharedPreferences$Editor/apply(), android/webkit/WebViewDatabase/getInstance(android.content.Context), android/webkit/WebSettings/setBuiltInZoomControls(boolean), java/lang/Math/round(float), android/webkit/WebSettings/setDatabaseEnabled(boolean), at/pardus/android/browser/PardusWebView/setScrollBarStyle(int)  0,01235
+java/lang/StringBuilder/append(java.lang.String), java/lang/Thread/Thread(java.lang.Runnable), java/util/List/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Thread/setName(java.lang.String), java/lang/StringBuilder/append(long  0,01235
+android/app/ProgressDialog/setMessage(java.lang.CharSequence), android/app/ProgressDialog/show(), android/os/Message/getData(), java/lang/String/equals(java.lang.Object), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/os/Bundle/getString(java.lang.String), android/app/ProgressDialog/setProgressStyle(int), android/app/ProgressDialog/setMax(int), android/app/ProgressDialog/dismiss(), android/app/ProgressDialog/setProgress(int), android/app/ProgressDialog/setCancelable(boolean  0,01235
+java/util/List/size()  0,01235
+android/database/Cursor/close()  0,01235
+java/util/List/toArray(java.lang.Object[)  0,01235
+java/lang/Boolean/valueOf(boolean)  0,01235
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Iterator/next(), android/database/sqlite/SQLiteDatabase/insert(java.lang.String  0,01235
+android/database/sqlite/SQLiteDatabase/beginTransaction(), android/database/sqlite/SQLiteDatabase/setTransactionSuccessful()  0,01235
+java/net/HttpURLConnection/disconnect(), java/io/Reader/close(), java/io/Reader/read(char[  0,01235
+java/net/HttpURLConnection/disconnect(), java/net/URL/openConnection(), java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(), java/io/Reader/close(), android/util/Base64/encodeToString(byte[  0,01235
+java/net/HttpURLConnection/disconnect(), java/net/URL/openConnection(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01235
+java/io/InputStream/read(byte[), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/net/URL/URL(java.lang.String), java/io/IOException/getMessage(), java/io/ByteArrayOutputStream/write(byte[  0,01235
+java.lang.Boolean)  0,01235
+android/app/Activity/onContextItemSelected(android.view.MenuItem), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,01235
+java/lang/Integer/intValue(), java/lang/String/equals(java.lang.Object), android/webkit/WebBackForwardList/getCurrentIndex(  0,01235
+android/webkit/WebHistoryItem/getUrl(), android/webkit/WebBackForwardList/getItemAtIndex(int), at/pardus/android/browser/PardusWebView/copyBackForwardList(), at/pardus/android/browser/PardusWebView/goBackOrForward(int), at/pardus/android/webview/gm/b/a/t/onBackPressed(), java/util/Stack/pop(), java/util/Stack/push(java.lang.Object), java/lang/Integer/equals(java.lang.Object), at/pardus/android/browser/PardusWebView/clearHistory()  0,01235
+java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), android/view/Menu/add(int  0,01235
+java/lang/Class/getSimpleName(), java/lang/String/replaceAll(java.lang.String  0,01235
+android/view/Menu/removeGroup(int), java/lang/StringBuilder/StringBuilder()  0,01235
+android/view/Window/addFlags(int), android/widget/ProgressBar/setMax(int), java/lang/Class/getMethod(java.lang.String  0,01235
+at/pardus/android/browser/PardusWebView/stopLoading(), java/util/Date/after(java.util.Date), at/pardus/android/browser/PardusWebView/clearHistory(), java/util/Date/Date(), at/pardus/android/browser/PardusWebView/addJavascriptInterface(java.lang.Object  0,01235
+at/pardus/android/browser/PardusWebView/resumeTimers()  0,01235
+java/io/OutputStream/close(), java/lang/String/equals(java.lang.Object), java/lang/String/getBytes(java.lang.String), java/net/HttpURLConnection/getInputStream(), java/net/HttpURLConnection/getURL()  0,01235
+java/net/URL/toString()  0,01235
+java/util/StringTokenizer/StringTokenizer(java.lang.String  0,01235
+org/json/JSONObject/put(java.lang.String  0,01235
+java/lang/Thread/start(), java/lang/Thread/setDaemon(boolean)  0,01235
+java/util/Map/put(java.lang.Object  0,01235
+java/util/List/add(java.lang.Object)  0,01235
+java/util/ArrayList/ArrayList(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,01235
+java/io/Reader/read(char[  0,01235
+at/pardus/android/browser/PardusWebView/stopLoading()  0,01235
+android/util/Log/w(java.lang.String  0,01235

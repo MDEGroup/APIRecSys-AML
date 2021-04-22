@@ -1,0 +1,9 @@
+com/kotcrab/vis/ui/widget/VisTextField$KeyTypedRepeatTask/isScheduled(
+org.api.fake
+com/badlogic/gdx/scenes/scene2d/ui/Container/clipEnd(
+java/io/FileOutputStream/FileOutputStream(java.io.File
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/length()
+android/support/v4/app/FragmentActivity/getFilesDir(

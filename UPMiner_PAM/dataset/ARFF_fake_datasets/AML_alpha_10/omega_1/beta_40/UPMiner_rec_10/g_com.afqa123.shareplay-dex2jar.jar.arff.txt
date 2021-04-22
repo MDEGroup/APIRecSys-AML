@@ -1,0 +1,12 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/util/List/iterator(
+org.api.fake
+android/os/Parcel/readString(
+android/app/AlertDialog$Builder/setMessage(int
+javax/jmdns/impl/DNSOutgoing/getNumberOfAnswers()
+android/database/Cursor/getString(int
+com/afqa123/shareplay/SelectionActivity/getRequestedOrientation(
+android/os/Bundle/getString(java.lang.String
+java/lang/String/valueOf(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+android/database/sqlite/SQLiteDatabase/insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues

@@ -1,0 +1,11 @@
+android/view/ViewGroup/getBottom(
+org.api.fake
+java/lang/StringBuilder/toString(
+android/support/v4/view/ViewPager/getChildCount()
+android/widget/TextView/layout(int,int,int,int
+android/support/v4/view/ViewPager/getScrollX(
+android/view/MotionEvent/getY(
+android/view/MotionEvent/recycle(
+java/lang/StringBuilder/StringBuilder()
+android/util/Log/w(java.lang.String,java.lang.String)
+java/util/ArrayList/ArrayList(

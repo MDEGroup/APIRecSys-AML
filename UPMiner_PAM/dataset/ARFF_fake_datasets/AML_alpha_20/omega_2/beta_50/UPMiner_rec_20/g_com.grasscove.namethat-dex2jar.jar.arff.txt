@@ -1,0 +1,8 @@
+android/net/Uri/toString(
+android/view/View/getMeasuredWidth()
+android/widget/TextView/setTextColor(int)
+org.api.fake
+android/graphics/Rect/centerX(
+com/grasscove/namethat/quickaction/QuickAction/dismiss(
+java/lang/StringBuilder/append(java.lang.String)
+org.rand.api

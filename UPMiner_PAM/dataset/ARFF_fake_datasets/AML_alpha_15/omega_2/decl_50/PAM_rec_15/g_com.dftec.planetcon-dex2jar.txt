@@ -1,0 +1,38 @@
+org.api.fake  0,20833
+org.rand.api  0,20833
+boolean  0,05556
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog/dismiss(), android/app/AlertDialog/show(), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,04167
+boolean)  0,04167
+java.io.PrintWriter)  0,04167
+int)  0,02778
+double  0,02778
+android/content/res/Resources/getString(int), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setIcon(android.graphics.drawable.Drawable), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,02778
+android/content/res/Resources/getString(int), android/app/AlertDialog/dismiss(), android/app/AlertDialog/show(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,02778
+android/app/AlertDialog$Builder/setIcon(android.graphics.drawable.Drawable)  0,02778
+android/app/AlertDialog/dismiss()  0,02778
+java/lang/String/toLowerCase(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/setLength(int), java/lang/Integer/valueOf(int), android/content/res/Resources/getString(int), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/String/valueOf(int  0,01389
+android/content/res/Resources/getDisplayMetrics(), android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout/addView(android.view.View), android/widget/LinearLayout/setPadding(int  0,01389
+com/dftec/planetcon/activities/GameActivity/setContentView(int), com/dftec/planetcon/activities/GameActivity/getResources(), android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener), android/os/Bundle/getString(java.lang.String), android/os/Bundle/getBoolean(java.lang.String), android/widget/TabHost/setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener), com/dftec/planetcon/activities/GameActivity/findViewById(int), android/app/Activity/onCreate(android.os.Bundle), android/os/Bundle/getInt(java.lang.String), com/dftec/planetcon/activities/GameActivity/getIntent(), android/content/Intent/getExtras(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context  0,01389
+android/app/AlertDialog$Builder/setCancelable(boolean)  0,01389
+android/content/SharedPreferences$Editor/commit(), java/util/ArrayList/size(), android/content/SharedPreferences/edit(), android/content/SharedPreferences$Editor/putString(java.lang.String  0,01389
+android/widget/TextView/setMaxWidth(int), android/widget/LinearLayout/getChildAt(int), android/widget/TabWidget/getChildTabViewAt(int), android/widget/TabHost/getTabWidget(), android/content/SharedPreferences/getBoolean(java.lang.String  0,01389
+java/lang/StringBuilder/StringBuilder(), java/lang/Integer/valueOf(int), android/content/res/Resources/getString(int), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/String/valueOf(int  0,01389
+java.lang.String)  0,01389
+int  0,01389
+android/widget/ListView/setAdapter(android.widget.ListAdapter), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,01389
+android/graphics/Paint/setColor(int), android/graphics/Paint/setShader(android.graphics.Shader), android/graphics/Canvas/drawCircle(float  0,01389
+android/view/MotionEvent/getAction(), android/view/MotionEvent/getX(), android/view/View/onTouchEvent(android.view.MotionEvent), java/lang/Math/sqrt(double), java/lang/Math/atan2(double  0,01389
+android.view.View  0,01389
+android/widget/TextView/setText(java.lang.CharSequence), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,01389
+android.widget.LinearLayout)  0,01389
+android/view/MotionEvent/getPointerCount(), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), android/view/MotionEvent/getActionIndex(), android/view/MotionEvent/getActionMasked(), android/view/GestureDetector/onTouchEvent(android.view.MotionEvent), com/dftec/planetcon/ui/GalaxyView/invalidate(), android/view/ScaleGestureDetector/onTouchEvent(android.view.MotionEvent), android/view/View/onTouchEvent(android.view.MotionEvent  0,01389
+android/content/res/Resources/getString(int), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog/show(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,01389
+android/content/res/Resources/getString(int), android/view/LayoutInflater/inflate(int  0,01389
+android/content/res/Resources/getString(int), java/io/File/File(java.io.File  0,01389
+com.dftec.planetcon.data.FleetData  0,01389
+android/graphics/Canvas/translate(float  0,01389
+android/view/LayoutInflater/inflate(int  0,01389
+java/lang/StringBuilder/StringBuilder()  0,01389
+android/app/AlertDialog$Builder/create()  0,01389
+android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context)  0,01389
+android/app/AlertDialog/show()  0,01389

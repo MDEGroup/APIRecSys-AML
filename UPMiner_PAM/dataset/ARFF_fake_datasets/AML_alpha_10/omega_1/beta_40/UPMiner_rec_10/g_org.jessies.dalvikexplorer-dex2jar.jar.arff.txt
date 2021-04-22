@@ -1,0 +1,10 @@
+org/jessies/dalvikexplorer/TextViewActivity/findViewById(int)
+java/util/ArrayList/ArrayList(java.util.Collection
+android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context
+java/lang/StringBuilder/StringBuilder(
+android/app/AlertDialog$Builder/setPositiveButton(int,android.content.DialogInterface$OnClickListener)
+java/lang/StringBuilder/append(int)
+java/text/DateFormat/format(java.util.Date
+java/util/ArrayList/ArrayList(int)
+java/util/Formatter/Formatter(java.lang.Appendable)
+android/app/Activity/onCreate(android.os.Bundle

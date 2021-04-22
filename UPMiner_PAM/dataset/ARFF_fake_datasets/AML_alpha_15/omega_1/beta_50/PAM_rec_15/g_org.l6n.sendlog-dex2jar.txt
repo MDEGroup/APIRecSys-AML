@@ -1,0 +1,9 @@
+int)  0,11111
+android/widget/EditText/setError(java.lang.CharSequence), android/view/View/setOnClickListener(android.view.View$OnClickListener), org/l6n/sendlog/CreateShortcutActivity/setContentView(int), org/l6n/sendlog/CreateShortcutActivity/getText(int), android/widget/EditText/addTextChangedListener(android.text.TextWatcher), org/l6n/sendlog/CreateShortcutActivity/findViewById(int), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter), android/content/SharedPreferences/getInt(java.lang.String  0,11111
+android/content/Intent/putExtra(java.lang.String  0,11111
+android/content/Intent/createChooser(android.content.Intent  0,11111
+android.content.pm.PackageManager)  0,11111
+java/io/FileInputStream/read(byte[), java/io/File/getName(), java/util/zip/ZipOutputStream/putNextEntry(java.util.zip.ZipEntry), java/util/zip/ZipOutputStream/ZipOutputStream(java.io.OutputStream), java/util/zip/ZipOutputStream/write(byte[  0,11111
+android/util/Log/v(java.lang.String  0,11111
+android/util/Log/w(java.lang.String  0,11111
+java.lang.Process)  0,11111

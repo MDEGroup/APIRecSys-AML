@@ -1,0 +1,165 @@
+prob: 0,08571
+[java.lang.String)]
+
+prob: 0,08571
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,05714
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,05714
+[java/lang/Integer/intValue(), java/util/List/size(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Integer/valueOf(int), java/lang/StringBuilder/toString(]
+
+prob: 0,05714
+[java/io/OutputStream/close(), java/lang/String/valueOf(java.lang.Object), java/io/File/File(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,05714
+[android/util/Log/w(java.lang.String]
+
+prob: 0,02857
+[java/lang/StringBuilder/StringBuilder(java.lang.String), org/kflog/cumulus/CumulusActivity/getApplicationContext(), android/util/Log/e(java.lang.String]
+
+prob: 0,02857
+[android/util/Log/v(java.lang.String]
+
+prob: 0,02857
+[java/lang/StringBuilder/append(java.lang.String), android/location/LocationManager/requestLocationUpdates(java.lang.String]
+
+prob: 0,02857
+[java/util/Set/contains(java.lang.Object), java/lang/Integer/valueOf(int)]
+
+prob: 0,02857
+[java/util/List/add(java.lang.Object), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/util/Set/remove(java.lang.Object]
+
+prob: 0,02857
+[java/lang/Integer/intValue(), java/lang/String/valueOf(java.lang.Object), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,02857
+[java/util/List/remove(int), java/lang/StringBuilder/append(java.lang.Object), java/util/Set/add(java.lang.Object)]
+
+prob: 0,02857
+[java/util/List/isEmpty()]
+
+prob: 0,02857
+[android.view.KeyEvent)]
+
+prob: 0,02857
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02857
+[java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), android/os/Bundle/get(java.lang.String), java/util/Iterator/next(), java/util/Set/iterator(), android/os/Bundle/keySet(]
+
+prob: 0,02857
+[java/io/IOException/IOException(java.lang.String), java/util/List/add(java.lang.Object)]
+
+prob: 0,02857
+[java/util/Iterator/next(), java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/toHexString(int), java/util/Set/iterator(), ioio/lib/impl/IOIOProtocol$IncomingThread/setPriority(int), java/util/List/clear()]
+
+prob: 0,02857
+[java/io/InputStream/close()]
+
+prob: 0,02857
+[java/lang/Thread/run()]
+
+prob: 0,02857
+[ioio/lib/impl/IOIOProtocol$SequencerEvent/values()]
+
+prob: 0,02857
+[java/util/Iterator/hasNext(), java/lang/StackTraceElement/getClassName(), java/lang/Class/getCanonicalName(), java/lang/Thread/getStackTrace(), java/util/HashMap/get(java.lang.Object]
+
+prob: 0,02857
+[android/bluetooth/BluetoothAdapter/cancelDiscovery(), android/util/Log/e(java.lang.String]
+
+prob: 0,02857
+[java/lang/reflect/Constructor/newInstance(java.lang.Object[]), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Class/isInstance(java.lang.Object), java/lang/Object/getClass(), java/lang/StringBuilder/toString(]
+
+prob: 0,02857
+[java/lang/Class/getName(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,02857
+[java/lang/reflect/InvocationTargetException/getCause()]
+
+prob: 0,02857
+[java/lang/Class/getConstructor(java.lang.Class[])]
+
+prob: 0,02857
+[org/kflog/cumulus/CumulusActivity/getWindow(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02857
+[android/os/Environment/getExternalStorageDirectory(), org/kflog/cumulus/CumulusActivity/getDir(java.lang.String]
+
+prob: 0,02857
+[android/bluetooth/BluetoothDevice/getAddress(), java/io/IOException/toString()]
+
+prob: 0,02857
+[android/bluetooth/BluetoothAdapter/isEnabled(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02857
+[java/io/File/getName(), java/io/File/File(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,02857
+[org/kflog/cumulus/CumulusActivity/getWindowManager(), java/lang/StringBuffer/toString(), android/view/WindowManager/getDefaultDisplay(), java/lang/StringBuffer/append(int), android/view/Display/getMetrics(android.util.DisplayMetrics), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/StringBuffer(), java/lang/StringBuffer/append(char), java/lang/StringBuffer/append(float]
+
+prob: 0,02857
+[android/bluetooth/BluetoothSocket/close(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/bluetooth/BluetoothDevice/getName(), org/kflog/cumulus/BluetoothService$ConnectThread/setName(java.lang.String), java/util/Timer/cancel(), java/lang/StringBuilder/toString()]
+
+prob: 0,02857
+[android.content.res.AssetManager)]
+
+prob: 0,02857
+[org/kflog/cumulus/CumulusActivity/getSystemService(java.lang.String), java/lang/StringBuilder/toString(), android/util/Log/d(java.lang.String]
+
+prob: 0,02857
+[android/app/NotificationManager/cancelAll(), java/lang/StringBuilder/append(boolean), org/kflog/cumulus/CumulusActivity/runOnUiThread(java.lang.Runnable), android/location/LocationManager/removeNmeaListener(android.location.GpsStatus$NmeaListener), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,02857
+[org/kflog/cumulus/CumulusActivity/isFinishing(), android/app/NotificationManager/cancelAll(), android/util/Log/i(java.lang.String]
+
+prob: 0,02857
+[android/hardware/SensorManager/unregisterListener(android.hardware.SensorEventListener)]
+
+prob: 0,02857
+[android.os.Bundle)]
+
+prob: 0,02857
+[android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,02857
+[java/net/Socket/getInputStream(), java/io/IOException/getMessage(), java/lang/String/equals(java.lang.Object), java/net/ServerSocket/ServerSocket(int), java/net/Socket/close(), java/net/ServerSocket/close(), java/net/ServerSocket/accept(), java/net/Socket/getOutputStream(), java/io/BufferedOutputStream/BufferedOutputStream(java.io.OutputStream]
+
+prob: 0,02857
+[dalvik/system/DexClassLoader/DexClassLoader(java.lang.String]
+
+prob: 0,02857
+[java/lang/System/getProperty(java.lang.String]
+
+prob: 0,02857
+[android/bluetooth/BluetoothSocket/connect()]
+
+prob: 0,02857
+[java/io/File/isDirectory(), java/io/File/File(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,02857
+[java/lang/Class/getMethods(), java/lang/Class/getDeclaredMethod(java.lang.String]
+
+prob: 0,02857
+[java/util/ArrayList/iterator(), java/util/Iterator/next(), java/lang/String/equals(java.lang.Object), java/lang/reflect/Method/getParameterTypes(), java/lang/StackTraceElement/getMethodName()]
+
+prob: 0,02857
+[java/util/HashMap/containsKey(java.lang.Object)]
+
+prob: 0,02857
+[java/lang/Thread/currentThread()]
+
+prob: 0,02857
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,02857
+[java/io/OutputStream/close(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,02857
+[java/util/Iterator/hasNext()]
+
+prob: 0,02857
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+

@@ -1,0 +1,4 @@
+android/app/AlertDialog$Builder/setView(android.view.View
+java/lang/String/getBytes(
+org/apache/http/HttpEntity/getContent()
+kfzkennzeichen/gisbertamm/de/kfz_kennzeichen/ResultFragment/getActivity()

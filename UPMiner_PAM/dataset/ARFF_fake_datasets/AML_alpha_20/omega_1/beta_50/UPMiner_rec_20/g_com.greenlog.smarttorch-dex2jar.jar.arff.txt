@@ -1,0 +1,8 @@
+android/hardware/Camera/release()
+android/widget/ImageView/setScaleX(float
+android/widget/ImageView/setTranslationY(float)
+android/content/ComponentName/ComponentName(android.content.Context,java.lang.Class
+android/hardware/Camera/stopPreview(
+com/greenlog/smarttorch/ShakeSensitivityCalibrateDialog/setContentView(int)
+android/content/Intent/setData(android.net.Uri)
+java/util/Date/Date(

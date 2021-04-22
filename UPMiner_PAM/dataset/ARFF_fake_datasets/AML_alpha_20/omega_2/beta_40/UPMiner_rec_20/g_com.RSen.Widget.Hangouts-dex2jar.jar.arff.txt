@@ -1,0 +1,4 @@
+java/util/Calendar/getInstance(
+android/widget/RemoteViews/setTextViewText(int,java.lang.CharSequence)
+android/widget/RemoteViews/RemoteViews(java.lang.String,int
+java/text/SimpleDateFormat/format(java.util.Date)

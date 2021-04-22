@@ -1,0 +1,4 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/lang/StringBuilder/toString()
+android/util/Log/d(java.lang.String,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)

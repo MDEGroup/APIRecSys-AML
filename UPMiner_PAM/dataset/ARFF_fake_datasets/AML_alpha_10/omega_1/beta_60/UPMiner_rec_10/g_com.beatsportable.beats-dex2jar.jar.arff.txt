@@ -1,0 +1,15 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+android/net/Uri/getPath()
+java/lang/String/equals(java.lang.Object)
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/String/length()
+java/lang/Integer/intValue()
+android/graphics/Canvas/drawBitmap(android.graphics.Bitmap,float,float,android.graphics.Paint)
+java/io/File/File(java.lang.String)
+java/lang/Exception/getMessage(
+org.api.fake
+java/util/Iterator/hasNext()
+android/database/Cursor/moveToLast()
+java/lang/String/valueOf(java.lang.Object)
+android/database/Cursor/isNull(int)

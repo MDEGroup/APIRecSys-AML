@@ -1,0 +1,8 @@
+java/util/List/addAll(java.util.Collection
+java/io/File/toString(
+java/io/OutputStream/close()
+android/view/inputmethod/InputConnection/getTextBeforeCursor(int,int
+android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[],android.content.DialogInterface$OnClickListener)
+java/lang/CharSequence/length()
+java/util/List/get(int
+android/graphics/Paint/getTextSize()

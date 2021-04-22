@@ -1,0 +1,279 @@
+prob: 0,07500
+[int)]
+
+prob: 0,05000
+[android/util/Log/w(java.lang.String]
+
+prob: 0,05000
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03750
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,03750
+[android/util/Log/v(java.lang.String]
+
+prob: 0,03750
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,03750
+[java/lang/StringBuilder/toString()]
+
+prob: 0,02500
+[java.lang.String)]
+
+prob: 0,02500
+[android.net.Uri]
+
+prob: 0,02500
+[android.text.Spannable)]
+
+prob: 0,02500
+[java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/Map$Entry/getKey()]
+
+prob: 0,02500
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/Double/parseDouble(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/String/String(char[]]
+
+prob: 0,02500
+[java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/append(double)]
+
+prob: 0,02500
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01250
+[java.util.Map)]
+
+prob: 0,01250
+[java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object]
+
+prob: 0,01250
+[android.app.Notification]
+
+prob: 0,01250
+[java.lang.reflect.ParameterizedType]
+
+prob: 0,01250
+[java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.String), com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,01250
+[com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/Double/isNaN(double), java/lang/Number/doubleValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,01250
+[org/canthack/tris/oyver/OyVerMain/getSystemService(java.lang.String), org/canthack/tris/oyver/TalkDownloadTask/getStatus(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01250
+[java/util/ArrayList/iterator(), android/view/Window/addFlags(int), android/view/View/setSystemUiVisibility(int), java/util/Iterator/hasNext(), android/widget/Spinner/setVisibility(int), android/view/Window/clearFlags(int), android/widget/Button/setEnabled(boolean), android/view/View/setVisibility(int), org/canthack/tris/oyver/OyVerMain/getWindow(), android/app/ActionBar/show(), android/app/ActionBar/hide(), org/canthack/tris/oyver/OyVerMain/getActionBar(]
+
+prob: 0,01250
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), android/content/Context/getString(int), android/widget/ArrayAdapter/insert(java.lang.Object]
+
+prob: 0,01250
+[java/util/ArrayList/ArrayList(), android/widget/ArrayAdapter/setDropDownViewResource(int)]
+
+prob: 0,01250
+[java/io/BufferedReader/close(), android/content/Context/openFileInput(java.lang.String), android/content/Context/openFileOutput(java.lang.String]
+
+prob: 0,01250
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,01250
+[android/view/GestureDetector$OnGestureListener/onScroll(android.view.MotionEvent]
+
+prob: 0,01250
+[android.app.Activity]
+
+prob: 0,01250
+[org/apache/http/impl/client/AbstractHttpClient/setHttpRequestRetryHandler(org.apache.http.client.HttpRequestRetryHandler), org/apache/http/conn/scheme/PlainSocketFactory/getSocketFactory(), org/apache/http/conn/params/ConnManagerParams/setMaxConnectionsPerRoute(org.apache.http.params.HttpParams]
+
+prob: 0,01250
+[java.lang.StringBuilder)]
+
+prob: 0,01250
+[java/io/File/File(java.io.File]
+
+prob: 0,01250
+[android/net/Uri/encode(java.lang.String), java/util/Iterator/hasNext(), android/net/Uri$Builder/encodedPath(java.lang.String), java/lang/String/length(), android/net/Uri$Builder/build(), android/net/Uri/encode(java.lang.String]
+
+prob: 0,01250
+[java/util/HashMap/entrySet()]
+
+prob: 0,01250
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,01250
+[android/net/Uri$Builder/authority(java.lang.String)]
+
+prob: 0,01250
+[java/io/File/getPath()]
+
+prob: 0,01250
+[android/net/Uri$Builder/Uri$Builder()]
+
+prob: 0,01250
+[java.io.File)]
+
+prob: 0,01250
+[android/support/v4/graphics/drawable/DrawableWrapperGingerbread/setLevel(int), android/graphics/drawable/Drawable/setCallback(android.graphics.drawable.Drawable$Callback), android/graphics/drawable/Drawable/getLevel(), android/graphics/drawable/Drawable/getState(), android/graphics/drawable/Drawable/isVisible(), android/support/v4/graphics/drawable/DrawableWrapperGingerbread/setBounds(android.graphics.Rect), android/graphics/drawable/Drawable/getBounds(), android/graphics/drawable/Drawable/getConstantState(), android/support/v4/graphics/drawable/DrawableWrapperGingerbread/invalidateSelf(]
+
+prob: 0,01250
+[android.os.Parcel]
+
+prob: 0,01250
+[android.net.Uri)]
+
+prob: 0,01250
+[android/graphics/Rect/inset(int]
+
+prob: 0,01250
+[android/content/Intent/removeExtra(java.lang.String), java/util/ArrayList/isEmpty(), android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String]
+
+prob: 0,01250
+[android.graphics.Matrix]
+
+prob: 0,01250
+[android/graphics/drawable/Drawable/draw(android.graphics.Canvas), android/graphics/drawable/BitmapDrawable/getBitmap(), android/graphics/drawable/Drawable/getIntrinsicWidth(), android/graphics/Bitmap/createBitmap(int]
+
+prob: 0,01250
+[android.os.Parcelable)]
+
+prob: 0,01250
+[java.lang.reflect.Type]
+
+prob: 0,01250
+[android/os/ParcelFileDescriptor/close(), android/print/pdf/PrintedPdfDocument/writeTo(java.io.OutputStream), android/os/ParcelFileDescriptor/getFileDescriptor(), android/print/pdf/PrintedPdfDocument/PrintedPdfDocument(android.content.Context]
+
+prob: 0,01250
+[android.print.PrintAttributes]
+
+prob: 0,01250
+[android/support/v4/util/ArrayMap/put(java.lang.Object]
+
+prob: 0,01250
+[java/lang/Long/parseLong(java.lang.String), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,01250
+[android.view.View]
+
+prob: 0,01250
+[android.content.Intent)]
+
+prob: 0,01250
+[boolean)]
+
+prob: 0,01250
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/parseInt(java.lang.String), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/String/String(char[]]
+
+prob: 0,01250
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), com/google/gson/internal/bind/JsonTreeReader/isLenient(]
+
+prob: 0,01250
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/LinkedHashMap/remove(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/Object/getClass(), java/util/Map$Entry/getValue(]
+
+prob: 0,01250
+[com.google.gson.reflect.TypeToken)]
+
+prob: 0,01250
+[java/lang/ThreadLocal/remove(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01250
+[android/os/Bundle/Bundle(android.os.Bundle), java/util/Iterator/hasNext(), android/app/Notification$Builder/build(), android/os/Bundle/putAll(android.os.Bundle), android/os/Bundle/remove(java.lang.String), android/os/Bundle/keySet(), android/os/Bundle/putSparseParcelableArray(java.lang.String]
+
+prob: 0,01250
+[android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/Bundle(), android/app/Notification$Action$Builder/Notification$Action$Builder(int]
+
+prob: 0,01250
+[java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), android/graphics/Rect/Rect(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,01250
+[java/lang/Class/getDeclaredField(java.lang.String)]
+
+prob: 0,01250
+[android/content/ClipData/getItemAt(int), android/content/ClipData/getDescription(), java/lang/Object/equals(java.lang.Object), android/content/Intent/getClipData(), android/os/Bundle/getParcelable(java.lang.String), android/content/ClipDescription/getLabel(), android/content/Intent/getExtras(), android/content/ClipData$Item/getIntent(), android/content/ClipDescription/hasMimeType(java.lang.String]
+
+prob: 0,01250
+[android.view.LayoutInflater$Factory2)]
+
+prob: 0,01250
+[android/os/AsyncTask/onPostExecute(java.lang.Object), android/print/PrintDocumentInfo$Builder/PrintDocumentInfo$Builder(java.lang.String), android/print/PrintDocumentInfo$Builder/setContentType(int), android/graphics/Matrix/Matrix(), android/graphics/Bitmap/createBitmap(android.graphics.Bitmap]
+
+prob: 0,01250
+[com.google.gson.reflect.TypeToken]
+
+prob: 0,01250
+[java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01250
+[java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/Class/getDeclaredMethod(java.lang.String]
+
+prob: 0,01250
+[java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/reflect/ParameterizedType/getRawType(), java/lang/StringBuilder/append(java.lang.String), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,01250
+[java.lang.Class]
+
+prob: 0,01250
+[java.lang.reflect.Type)]
+
+prob: 0,01250
+[java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01250
+[android/os/Handler/hasMessages(int]
+
+prob: 0,01250
+[java/util/Map/get(java.lang.Object), java/util/Map/size(), java/util/Map/clear(), java/util/List/add(java.lang.Object), java/util/concurrent/atomic/AtomicInteger/incrementAndGet(), android/widget/ListView/setAdapter(android.widget.ListAdapter)]
+
+prob: 0,01250
+[com.google.gson.JsonElement)]
+
+prob: 0,01250
+[java/util/LinkedHashMap/entrySet()]
+
+prob: 0,01250
+[java/lang/Class/getName()]
+
+prob: 0,01250
+[java/util/LinkedHashMap/isEmpty()]
+
+prob: 0,01250
+[java/lang/Double/toString(double), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(]
+
+prob: 0,01250
+[java/io/Writer/append(java.lang.CharSequence), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/append(double)]
+
+prob: 0,01250
+[java.lang.CharSequence]
+
+prob: 0,01250
+[java/util/LinkedList/isEmpty(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/LinkedList/peek(), android/util/Log/isLoggable(java.lang.String]
+
+prob: 0,01250
+[android/print/PrintAttributes$Builder/setColorMode(int), android/print/PrintAttributes$Builder/setMinMargins(android.print.PrintAttributes$Margins), android/print/PrintAttributes$Builder/setMediaSize(android.print.PrintAttributes$MediaSize), android/print/PrintAttributes/getResolution(), android/print/PrintAttributes/getMediaSize(), android/print/PrintAttributes/getColorMode(), android/print/PrintAttributes/getMinMargins(), android/print/PrintAttributes$Builder/setResolution(android.print.PrintAttributes$Resolution), android/print/PrintAttributes$Builder/PrintAttributes$Builder(]
+
+prob: 0,01250
+[android/os/Handler/hasMessages(int), java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getFlags(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), android/content/Intent/getScheme(), android/content/Context/getContentResolver(), java/util/HashMap/get(java.lang.Object), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,01250
+[java/util/Set/iterator()]
+
+prob: 0,01250
+[java/lang/Double/parseDouble(java.lang.String)]
+
+prob: 0,01250
+[java/lang/NumberFormatException/NumberFormatException(java.lang.String)]
+
+prob: 0,01250
+[java/util/Iterator/next()]
+
+prob: 0,01250
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01250
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01250
+[java/lang/StringBuilder/append(double)]
+
+prob: 0,01250
+[java/lang/Double/isInfinite(double)]
+

@@ -1,0 +1,116 @@
+long)  0,12500
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object)  0,12500
+java/lang/StringBuilder/toString()  0,09375
+java/util/concurrent/ConcurrentMap/keySet(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/concurrent/ConcurrentMap/get(java.lang.Object)  0,06250
+java/lang/StringBuilder/StringBuilder()  0,06250
+java/util/Iterator/next()  0,06250
+java.util.Set)  0,04688
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/logging/Logger/log(java.util.logging.Level  0,04688
+java/util/Collection/iterator()  0,04688
+java/lang/StringBuilder/StringBuilder(int)  0,04688
+java/lang/System/identityHashCode(java.lang.Object)  0,03125
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int), java/lang/StringBuilder/toString(  0,03125
+java/lang/StringBuffer/append(java.lang.Object), java/lang/StringBuffer/toString(), java/lang/StringBuffer/StringBuffer(), java/lang/StringBuffer/append(java.lang.String  0,03125
+javax/jmdns/impl/DNSOutgoing/getNumberOfAnswers(), javax/jmdns/impl/DNSOutgoing/getId(), java/util/Iterator/hasNext(), java/util/Iterator/next(), javax/jmdns/impl/DNSOutgoing/getFlags(), javax/jmdns/impl/DNSOutgoing/getNumberOfAdditionals(), javax/jmdns/impl/DNSOutgoing/getNumberOfQuestions()  0,03125
+javax/jmdns/impl/tasks/Responder/getDns()  0,03125
+java/lang/StringBuilder/append(char)  0,03125
+java/lang/String/length()  0,03125
+java/util/logging/Logger/finer(java.lang.String)  0,03125
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,03125
+java/util/Set/iterator()  0,03125
+java/util/Iterator/hasNext(), java/util/Iterator/next()  0,03125
+java/lang/StringBuilder/append(java.lang.String)  0,03125
+java.util.Set  0,01563
+java/util/Iterator/hasNext(), java/net/UnknownHostException/printStackTrace(), java/lang/String/matches(java.lang.String), java/net/InetAddress/getByName(java.lang.String), java/util/Map$Entry/getValue(), java/lang/String/contains(java.lang.CharSequence  0,01563
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), javax/jmdns/impl/DNSIncoming/isQuery(), java/lang/StringBuilder/append(char), java/util/List/iterator(), javax/jmdns/impl/DNSIncoming/getId(), java/net/InetAddress/getHostAddress(), javax/jmdns/impl/DNSIncoming/getNumberOfQuestions(), javax/jmdns/impl/DNSIncoming/getNumberOfAnswers(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), javax/jmdns/impl/DNSIncoming/getFlags(), java/lang/StringBuilder/toString(), java/net/DatagramPacket/getAddress(), javax/jmdns/impl/DNSIncoming/getNumberOfAdditionals(  0,01563
+java/util/Iterator/hasNext(), java/util/Set/iterator(), java/lang/StringBuilder/append(int), java/lang/String/length(), java/util/Map/isEmpty(), java/util/Map/get(java.lang.Object), java/util/Map/keySet(), java/lang/String/String(byte[), javax/jmdns/impl/ServiceInfoImpl$ServiceInfoState/toString()  0,01563
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/System/currentTimeMillis(), java/util/logging/Logger/finer(java.lang.String), java/lang/StringBuilder/toString(), java/util/logging/Logger/isLoggable(java.util.logging.Level  0,01563
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/length(), java/util/Collection/iterator(), javax/jmdns/impl/JmDNSImpl$ServiceTypeEntry/isEmpty()  0,01563
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Timer/schedule(java.util.TimerTask  0,01563
+java/util/Iterator/hasNext(), javax/jmdns/impl/tasks/Responder/addAnswer(javax.jmdns.impl.DNSOutgoing  0,01563
+java/util/Map/get(java.lang.Object), javax/jmdns/impl/DNSRecord$Service/getKey(), java/lang/String/equalsIgnoreCase(java.lang.String), java/util/Map/put(java.lang.Object  0,01563
+java/util/Map/get(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/String/String(byte[  0,01563
+java/io/IOException/IOException(java.lang.String), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/io/ByteArrayOutputStream/ByteArrayOutputStream(int), java/util/Map/get(java.lang.Object), java/io/ByteArrayOutputStream/write(byte[  0,01563
+java/lang/String/toLowerCase(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int  0,01563
+java/lang/String/equals(java.lang.Object), javax/jmdns/impl/constants/DNSRecordType/equals(java.lang.Object), java/util/concurrent/ConcurrentMap/get(java.lang.Object)  0,01563
+java/lang/StringBuilder/append(boolean)  0,01563
+javax.jmdns.impl.DNSRecord  0,01563
+java/lang/Class/getResourceAsStream(java.lang.String), java/util/Properties/Properties(), java/util/Properties/load(java.io.InputStream), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/System/getProperty(java.lang.String)  0,01563
+java/util/Properties/getProperty(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(  0,01563
+java/util/logging/Logger/fine(java.lang.String), java/lang/String/equals(java.lang.Object), java/util/concurrent/ConcurrentMap/putIfAbsent(java.lang.Object  0,01563
+java/util/logging/Logger/fine(java.lang.String), java/util/Map/values(), javax/jmdns/impl/tasks/state/DNSStateTask/getName(), java/util/logging/Logger/log(java.util.logging.Level  0,01563
+java/util/logging/Logger/fine(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/net/MulticastSocket/setTimeToLive(int), java/net/MulticastSocket/setNetworkInterface(java.net.NetworkInterface), java/net/MulticastSocket/MulticastSocket(int), java/net/MulticastSocket/joinGroup(java.net.InetAddress), java/net/SocketException/getMessage(), java/net/InetAddress/getByName(java.lang.String), java/util/logging/Logger/isLoggable(java.util.logging.Level  0,01563
+java/util/logging/Logger/fine(java.lang.String), java/util/logging/Logger/warning(java.lang.String), java/util/concurrent/ConcurrentMap/get(java.lang.Object), java/util/concurrent/ConcurrentMap/remove(java.lang.Object  0,01563
+javax/jmdns/impl/DNSCache/clear(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/logging/Logger/warning(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/Map/values(), java/util/logging/Logger/log(java.util.logging.Level  0,01563
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/concurrent/ConcurrentMap/get(java.lang.Object), java/util/logging/Logger/fine(java.lang.String)  0,01563
+java.net.InetAddress  0,01563
+java/lang/Class/toString()  0,01563
+java/lang/Runtime/removeShutdownHook(java.lang.Thread), java/util/concurrent/ExecutorService/shutdown(), java/lang/Runtime/getRuntime(), java/lang/StringBuilder/toString(), java/util/logging/Logger/isLoggable(java.util.logging.Level  0,01563
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/String/split(java.lang.String), java/lang/String/toLowerCase(java.util.Locale), java/lang/String/length(), java/lang/Float/valueOf(float), android/util/Log/e(java.lang.String  0,01563
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/concurrent/ConcurrentMap/keySet(  0,01563
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/concurrent/ConcurrentMap/size(  0,01563
+javax.jmdns.ServiceListener  0,01563
+net/sabamiso/android/sendosc4a/SendOSCView/fill(int), android/os/Vibrator/vibrate(long), android/content/Intent/Intent(android.content.Context  0,01563
+java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/util/concurrent/ConcurrentMap/putIfAbsent(java.lang.Object  0,01563
+java/lang/StringBuilder/StringBuilder(), java/util/concurrent/ExecutorService/submit(java.lang.Runnable), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object  0,01563
+java/util/Map$Entry/getKey()  0,01563
+java/util/HashMap/entrySet()  0,01563
+java/nio/ByteOrder/nativeOrder(), android/util/Log/e(java.lang.String  0,01563
+java/net/InetAddress/getByAddress(byte[), java/util/HashMap/clear()  0,01563
+javax/jmdns/impl/tasks/resolver/DNSResolverTask/getDns(), javax/jmdns/impl/tasks/resolver/DNSResolverTask/cancel(), java/util/logging/Logger/finer(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/logging/Logger/log(java.util.logging.Level  0,01563
+javax/jmdns/impl/tasks/resolver/DNSResolverTask/getName()  0,01563
+java/util/ArrayList/ArrayList(), javax/jmdns/impl/tasks/state/DNSStateTask/getDns(), javax/jmdns/impl/tasks/state/DNSStateTask/cancel(), javax/jmdns/impl/DNSOutgoing/isEmpty(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object)  0,01563
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01563
+java/lang/Integer/parseInt(java.lang.String)  0,01563
+java/lang/Integer/valueOf(int)  0,01563
+java/lang/Float/parseFloat(java.lang.String)  0,01563
+java/util/Locale/Locale(java.lang.String)  0,01563
+java/util/Set/contains(java.lang.Object)  0,01563
+java/lang/StringBuilder/append(int), java/util/logging/Logger/log(java.util.logging.Level  0,01563
+java/lang/StringBuilder/append(int), java/lang/Class/getSimpleName(), java/lang/Object/getClass(  0,01563
+java/util/logging/Logger/finest(java.lang.String), java/net/MulticastSocket/receive(java.net.DatagramPacket), java/util/logging/Logger/log(java.util.logging.Level  0,01563
+java/util/logging/Logger/finest(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/logging/Logger/throwing(java.lang.String  0,01563
+java/util/logging/Logger/finest(java.lang.String), java/net/NetworkInterface/getNetworkInterfaces(), java/lang/StringBuilder/StringBuilder(), java/net/NetworkInterface/getInetAddresses(), java/util/HashSet/HashSet(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/util/Enumeration/hasMoreElements(), java/lang/StringBuilder/toString(), java/util/logging/Logger/isLoggable(java.util.logging.Level  0,01563
+java/util/logging/Logger/warning(java.lang.String), java/util/HashSet/HashSet(int), java/util/Set/add(java.lang.Object  0,01563
+java/util/logging/Logger/warning(java.lang.String), java/util/Set/toArray(java.lang.Object[), java/util/Set/size(), java/util/Enumeration/nextElement(), java/util/Set/add(java.lang.Object)  0,01563
+java/util/logging/Logger/warning(java.lang.String), java/util/concurrent/ConcurrentMap/containsKey(java.lang.Object), java/util/concurrent/ConcurrentMap/put(java.lang.Object  0,01563
+android/view/Window/addFlags(int), net/sabamiso/android/sendosc4a/SendOSCView/invalidate(), android/app/Activity/onCreate(android.os.Bundle), net/sabamiso/android/sendosc4a/SendOSCActivity/setContentView(android.view.View), net/sabamiso/android/sendosc4a/SendOSCActivity/getWindow(), net/sabamiso/android/sendosc4a/SendOSCActivity/requestWindowFeature(int), android/os/StrictMode$ThreadPolicy$Builder/StrictMode$ThreadPolicy$Builder(), android/os/StrictMode$ThreadPolicy$Builder/permitAll(), android/os/StrictMode/setThreadPolicy(android.os.StrictMode$ThreadPolicy), android/os/StrictMode$ThreadPolicy$Builder/build(  0,01563
+java/net/DatagramPacket/getPort(), java/net/DatagramPacket/getLength(), javax/jmdns/impl/DNSIncoming/getNumberOfAuthorities()  0,01563
+javax.jmdns.impl.JmDNSImpl  0,01563
+java/util/concurrent/ConcurrentMap/keySet(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), javax/jmdns/impl/ListenerStatus$ServiceTypeListenerStatus/getListener(  0,01563
+java/lang/Object/toString(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/concurrent/ConcurrentMap/isEmpty(), javax/jmdns/impl/ListenerStatus$ServiceListenerStatus/getListener()  0,01563
+java/util/Iterator/next(), java/util/Iterator/hasNext()  0,01563
+javax/jmdns/impl/DNSOutgoing$MessageOutputStream/toByteArray(), javax/jmdns/impl/DNSOutgoing/getNumberOfAuthorities(), java/util/Map/clear(), java/lang/System/currentTimeMillis(), java/util/List/iterator(  0,01563
+javax/jmdns/impl/DNSOutgoing/getNumberOfAuthorities(), java/lang/Integer/toHexString(int), java/lang/StringBuffer/append(int), java/util/List/iterator()  0,01563
+boolean)  0,01563
+javax/jmdns/impl/ListenerStatus$ServiceListenerStatus/getListener(), java/lang/StringBuilder/append(java.lang.String), java/util/concurrent/ConcurrentMap/replace(java.lang.Object  0,01563
+javax/jmdns/JmDNS/close()  0,01563
+java/util/concurrent/ConcurrentMap/remove(java.lang.Object)  0,01563
+java/util/concurrent/ConcurrentMap/values()  0,01563
+java/util/concurrent/ConcurrentMap/clear()  0,01563
+java.lang.String  0,01563
+java/lang/Thread/getName()  0,01563
+java/lang/StringBuilder/setLength(int)  0,01563
+javax/jmdns/impl/JmDNSImpl$ServiceTypeEntry/values()  0,01563
+javax/jmdns/impl/DNSOutgoing/setId(int)  0,01563
+java/util/Random/nextInt(int)  0,01563
+javax/jmdns/impl/DNSIncoming/getQuestions()  0,01563
+javax/jmdns/impl/DNSIncoming/isTruncated()  0,01563
+long  0,01563
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Set/iterator(), java/util/Map/keySet(), java/lang/StringBuilder/StringBuilder()  0,01563
+java/lang/String/toLowerCase()  0,01563
+java/util/concurrent/ConcurrentMap/remove(java.lang.Object  0,01563
+java/util/Set/toArray(java.lang.Object[)  0,01563
+java/net/DatagramPacket/getPort()  0,01563
+java/lang/Object/toString(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/concurrent/ConcurrentMap/isEmpty()  0,01563
+java/util/Map/put(java.lang.Object  0,01563
+java/lang/Integer/toHexString(int)  0,01563
+java/util/concurrent/ConcurrentMap/containsKey(java.lang.Object)  0,01563
+javax/jmdns/impl/JmDNSImpl$ServiceTypeEntry/isEmpty()  0,01563
+java/lang/Class/getSimpleName(), java/lang/Object/getClass(  0,01563
+java/util/concurrent/ConcurrentMap/isEmpty()  0,01563
+java/util/logging/Logger/finest(java.lang.String)  0,01563
+java/lang/StringBuilder/append(int)  0,01563
+java/util/logging/Logger/warning(java.lang.String)  0,01563
+java/util/concurrent/ConcurrentMap/get(java.lang.Object)  0,01563
+java/lang/StringBuilder/append(java.lang.Object)  0,01563

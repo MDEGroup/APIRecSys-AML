@@ -1,0 +1,93 @@
+int)  0,07500
+android/util/Log/w(java.lang.String  0,05000
+java/lang/StringBuilder/StringBuilder()  0,05000
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,03750
+android/util/Log/v(java.lang.String  0,03750
+java/lang/StringBuilder/append(java.lang.Object)  0,03750
+java/lang/StringBuilder/toString()  0,03750
+java.lang.String)  0,02500
+android.net.Uri  0,02500
+android.text.Spannable)  0,02500
+java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/Map$Entry/getKey()  0,02500
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/Double/parseDouble(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/String/String(char[  0,02500
+java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/append(double)  0,02500
+java/lang/StringBuilder/append(java.lang.String)  0,02500
+java.util.Map)  0,01250
+java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object  0,01250
+android.app.Notification  0,01250
+java.lang.reflect.ParameterizedType  0,01250
+java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.String), com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,01250
+com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/Double/isNaN(double), java/lang/Number/doubleValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,01250
+org/canthack/tris/oyver/OyVerMain/getSystemService(java.lang.String), org/canthack/tris/oyver/TalkDownloadTask/getStatus(), android/widget/Toast/makeText(android.content.Context  0,01250
+java/util/ArrayList/iterator(), android/view/Window/addFlags(int), android/view/View/setSystemUiVisibility(int), java/util/Iterator/hasNext(), android/widget/Spinner/setVisibility(int), android/view/Window/clearFlags(int), android/widget/Button/setEnabled(boolean), android/view/View/setVisibility(int), org/canthack/tris/oyver/OyVerMain/getWindow(), android/app/ActionBar/show(), android/app/ActionBar/hide(), org/canthack/tris/oyver/OyVerMain/getActionBar(  0,01250
+java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), android/content/Context/getString(int), android/widget/ArrayAdapter/insert(java.lang.Object  0,01250
+java/util/ArrayList/ArrayList(), android/widget/ArrayAdapter/setDropDownViewResource(int)  0,01250
+java/io/BufferedReader/close(), android/content/Context/openFileInput(java.lang.String), android/content/Context/openFileOutput(java.lang.String  0,01250
+android/os/Bundle/putString(java.lang.String  0,01250
+android/view/GestureDetector$OnGestureListener/onScroll(android.view.MotionEvent  0,01250
+android.app.Activity  0,01250
+org/apache/http/impl/client/AbstractHttpClient/setHttpRequestRetryHandler(org.apache.http.client.HttpRequestRetryHandler), org/apache/http/conn/scheme/PlainSocketFactory/getSocketFactory(), org/apache/http/conn/params/ConnManagerParams/setMaxConnectionsPerRoute(org.apache.http.params.HttpParams  0,01250
+java.lang.StringBuilder)  0,01250
+java/io/File/File(java.io.File  0,01250
+android/net/Uri/encode(java.lang.String), java/util/Iterator/hasNext(), android/net/Uri$Builder/encodedPath(java.lang.String), java/lang/String/length(), android/net/Uri$Builder/build(), android/net/Uri/encode(java.lang.String  0,01250
+java/util/HashMap/entrySet()  0,01250
+java/lang/StringBuilder/append(char)  0,01250
+android/net/Uri$Builder/authority(java.lang.String)  0,01250
+java/io/File/getPath()  0,01250
+android/net/Uri$Builder/Uri$Builder()  0,01250
+java.io.File)  0,01250
+android/support/v4/graphics/drawable/DrawableWrapperGingerbread/setLevel(int), android/graphics/drawable/Drawable/setCallback(android.graphics.drawable.Drawable$Callback), android/graphics/drawable/Drawable/getLevel(), android/graphics/drawable/Drawable/getState(), android/graphics/drawable/Drawable/isVisible(), android/support/v4/graphics/drawable/DrawableWrapperGingerbread/setBounds(android.graphics.Rect), android/graphics/drawable/Drawable/getBounds(), android/graphics/drawable/Drawable/getConstantState(), android/support/v4/graphics/drawable/DrawableWrapperGingerbread/invalidateSelf(  0,01250
+android.os.Parcel  0,01250
+android.net.Uri)  0,01250
+android/graphics/Rect/inset(int  0,01250
+android/content/Intent/removeExtra(java.lang.String), java/util/ArrayList/isEmpty(), android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String  0,01250
+android.graphics.Matrix  0,01250
+android/graphics/drawable/Drawable/draw(android.graphics.Canvas), android/graphics/drawable/BitmapDrawable/getBitmap(), android/graphics/drawable/Drawable/getIntrinsicWidth(), android/graphics/Bitmap/createBitmap(int  0,01250
+android.os.Parcelable)  0,01250
+java.lang.reflect.Type  0,01250
+android/os/ParcelFileDescriptor/close(), android/print/pdf/PrintedPdfDocument/writeTo(java.io.OutputStream), android/os/ParcelFileDescriptor/getFileDescriptor(), android/print/pdf/PrintedPdfDocument/PrintedPdfDocument(android.content.Context  0,01250
+android.print.PrintAttributes  0,01250
+android/support/v4/util/ArrayMap/put(java.lang.Object  0,01250
+java/lang/Long/parseLong(java.lang.String), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()  0,01250
+android.view.View  0,01250
+android.content.Intent)  0,01250
+boolean)  0,01250
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/parseInt(java.lang.String), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/String/String(char[  0,01250
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), com/google/gson/internal/bind/JsonTreeReader/isLenient(  0,01250
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/LinkedHashMap/remove(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/Object/getClass(), java/util/Map$Entry/getValue(  0,01250
+com.google.gson.reflect.TypeToken)  0,01250
+java/lang/ThreadLocal/remove(), java/util/Map/put(java.lang.Object  0,01250
+android/os/Bundle/Bundle(android.os.Bundle), java/util/Iterator/hasNext(), android/app/Notification$Builder/build(), android/os/Bundle/putAll(android.os.Bundle), android/os/Bundle/remove(java.lang.String), android/os/Bundle/keySet(), android/os/Bundle/putSparseParcelableArray(java.lang.String  0,01250
+android/os/Bundle/Bundle(android.os.Bundle), android/os/Bundle/Bundle(), android/app/Notification$Action$Builder/Notification$Action$Builder(int  0,01250
+java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), android/graphics/Rect/Rect(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/StringBuilder(  0,01250
+java/lang/Class/getDeclaredField(java.lang.String)  0,01250
+android/content/ClipData/getItemAt(int), android/content/ClipData/getDescription(), java/lang/Object/equals(java.lang.Object), android/content/Intent/getClipData(), android/os/Bundle/getParcelable(java.lang.String), android/content/ClipDescription/getLabel(), android/content/Intent/getExtras(), android/content/ClipData$Item/getIntent(), android/content/ClipDescription/hasMimeType(java.lang.String  0,01250
+android.view.LayoutInflater$Factory2)  0,01250
+android/os/AsyncTask/onPostExecute(java.lang.Object), android/print/PrintDocumentInfo$Builder/PrintDocumentInfo$Builder(java.lang.String), android/print/PrintDocumentInfo$Builder/setContentType(int), android/graphics/Matrix/Matrix(), android/graphics/Bitmap/createBitmap(android.graphics.Bitmap  0,01250
+com.google.gson.reflect.TypeToken  0,01250
+java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getMethod(java.lang.String  0,01250
+java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/Class/getDeclaredMethod(java.lang.String  0,01250
+java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/reflect/ParameterizedType/getRawType(), java/lang/StringBuilder/append(java.lang.String), java/lang/reflect/Array/newInstance(java.lang.Class  0,01250
+java.lang.Class  0,01250
+java.lang.reflect.Type)  0,01250
+java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/util/Map/put(java.lang.Object  0,01250
+android/os/Handler/hasMessages(int  0,01250
+java/util/Map/get(java.lang.Object), java/util/Map/size(), java/util/Map/clear(), java/util/List/add(java.lang.Object), java/util/concurrent/atomic/AtomicInteger/incrementAndGet(), android/widget/ListView/setAdapter(android.widget.ListAdapter)  0,01250
+com.google.gson.JsonElement)  0,01250
+java/util/LinkedHashMap/entrySet()  0,01250
+java/lang/Class/getName()  0,01250
+java/util/LinkedHashMap/isEmpty()  0,01250
+java/lang/Double/toString(double), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(  0,01250
+java/io/Writer/append(java.lang.CharSequence), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/append(double)  0,01250
+java.lang.CharSequence  0,01250
+java/util/LinkedList/isEmpty(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/LinkedList/peek(), android/util/Log/isLoggable(java.lang.String  0,01250
+android/print/PrintAttributes$Builder/setColorMode(int), android/print/PrintAttributes$Builder/setMinMargins(android.print.PrintAttributes$Margins), android/print/PrintAttributes$Builder/setMediaSize(android.print.PrintAttributes$MediaSize), android/print/PrintAttributes/getResolution(), android/print/PrintAttributes/getMediaSize(), android/print/PrintAttributes/getColorMode(), android/print/PrintAttributes/getMinMargins(), android/print/PrintAttributes$Builder/setResolution(android.print.PrintAttributes$Resolution), android/print/PrintAttributes$Builder/PrintAttributes$Builder(  0,01250
+android/os/Handler/hasMessages(int), java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getFlags(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), android/content/Intent/getScheme(), android/content/Context/getContentResolver(), java/util/HashMap/get(java.lang.Object), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01250
+java/util/Set/iterator()  0,01250
+java/lang/Double/parseDouble(java.lang.String)  0,01250
+java/lang/NumberFormatException/NumberFormatException(java.lang.String)  0,01250
+java/util/Iterator/next()  0,01250
+java/util/Map/put(java.lang.Object  0,01250
+java/lang/StringBuilder/append(int)  0,01250
+java/lang/StringBuilder/append(double)  0,01250
+java/lang/Double/isInfinite(double)  0,01250

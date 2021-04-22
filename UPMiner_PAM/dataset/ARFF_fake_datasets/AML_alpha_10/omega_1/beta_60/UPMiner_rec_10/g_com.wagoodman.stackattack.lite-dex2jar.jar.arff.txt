@@ -1,0 +1,12 @@
+android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context
+javax/microedition/khronos/opengles/GL10/glBindTexture(int,int)
+java/lang/System/currentTimeMillis(
+java/lang/String/valueOf(int
+javax/microedition/khronos/opengles/GL10/glDisable(int)
+java/nio/ByteBuffer/put(byte[])
+javax/microedition/khronos/opengles/GL10/glBlendFunc(int,int
+java/util/Iterator/hasNext()
+com/wagoodman/stackattack/BlockValue/values(
+android/view/Window/setFlags(int,int)
+javax/microedition/khronos/opengles/GL10/glPopMatrix(
+android/util/SparseIntArray/keyAt(int)

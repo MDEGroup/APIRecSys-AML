@@ -1,0 +1,15 @@
+android/widget/ArrayAdapter/notifyDataSetChanged(
+java/lang/String/equals(java.lang.Object)
+java/util/ArrayList/ArrayList(java.util.Collection)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+android/database/Cursor/getString(int
+java/lang/StringBuilder/toString()
+java/util/ArrayList/get(int
+java/util/Date/getTime(
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/split(java.lang.String,int)
+org.api.fake
+android/database/Cursor/getColumnIndex(java.lang.String)
+java/util/ArrayList/add(java.lang.Object)
+android/content/ActivityNotFoundException/getMessage(

@@ -1,0 +1,187 @@
+java/lang/Class/forName(java.lang.String), java/lang/StringBuffer/append(java.lang.String), java/lang/Class/getName(), java/lang/StringBuffer/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuffer/StringBuffer(java.lang.String  0,08108
+java/util/Iterator/hasNext(), java/util/Iterator/next()  0,08108
+java.lang.String  0,06757
+java/lang/Throwable/getMessage(), java/util/ArrayList/add(java.lang.Object), java/lang/NoClassDefFoundError/NoClassDefFoundError(java.lang.String)  0,05405
+java.io.FileDescriptor  0,05405
+int  0,04054
+int)  0,04054
+android/util/Log/v(java.lang.String  0,04054
+java/lang/StringBuilder/append(int)  0,04054
+java/lang/StringBuffer/StringBuffer(java.lang.String)  0,04054
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,02703
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,02703
+java/lang/Class/forName(java.lang.String), java/lang/Throwable/getMessage(), java/lang/NoClassDefFoundError/NoClassDefFoundError(java.lang.String), java/lang/StringBuffer/StringBuffer(java.lang.String), java/lang/StringBuffer/append(java.lang.String  0,02703
+java.text.ParsePosition)  0,02703
+java/lang/Integer/valueOf(int)  0,02703
+net/fortuna/ical4j/model/property/DtEnd/getParameter(java.lang.String)  0,02703
+java/lang/StringBuffer/append(java.lang.Object)  0,02703
+java/util/ArrayList/size(), java/util/ArrayList/get(int)  0,02703
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,02703
+java/lang/StringBuilder/StringBuilder()  0,02703
+java/lang/Class/forName(java.lang.String)  0,02703
+java/lang/StringBuilder/append(java.lang.String), java/lang/Long/toString(long), java/lang/String/replace(java.lang.CharSequence  0,01351
+java/lang/StringBuilder/append(java.lang.String), java/net/URL/getProtocol()  0,01351
+java/lang/StringBuilder/toString(), android/widget/Spinner/getSelectedItemPosition(), java/util/Collections/sort(java.util.List)  0,01351
+android.support.v4.app.BackStackRecord$TransitionState  0,01351
+java.io.PrintWriter  0,01351
+net/fortuna/ical4j/model/component/VToDo/validateProperties(), net/fortuna/ical4j/model/property/Status/toString(), net/fortuna/ical4j/model/ComponentList/iterator(), java/lang/StringBuffer/StringBuffer(java.lang.String), java/lang/StringBuffer/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuffer/toString(  0,01351
+android/view/View/getViewTreeObserver(), java/util/Map/entrySet(), java/util/Map/isEmpty(), java/util/Map/get(java.lang.Object), java/util/Map/keySet(), java/util/Set/iterator(), java/util/Map$Entry/getValue(  0,01351
+java/util/Set/retainAll(java.util.Collection)  0,01351
+java/util/Map/values()  0,01351
+android/view/View/setTransitionName(java.lang.String)  0,01351
+java/util/ArrayList/removeAll(java.util.Collection)  0,01351
+android/view/ViewTreeObserver/removeOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener), java/util/Map$Entry/getKey(), java/util/ArrayList/size(), android/transition/Transition/excludeTarget(android.view.View  0,01351
+android/transition/Transition/removeTarget(android.view.View)  0,01351
+org/apache/commons/logging/Log/error(java.lang.Object  0,01351
+net/fortuna/ical4j/model/PropertyList/iterator(), java/lang/StringBuffer/append(java.lang.String  0,01351
+net/fortuna/ical4j/model/property/Version/equals(java.lang.Object)  0,01351
+net/fortuna/ical4j/model/ComponentList/isEmpty()  0,01351
+android/view/View/findViewById(int), java/lang/StringBuilder/length()  0,01351
+android/widget/LinearLayout/getChildAt(int)  0,01351
+java/util/HashSet/HashSet()  0,01351
+net.fortuna.ical4j.model.Calendar  0,01351
+java/util/ArrayList/ArrayList(java.util.Collection)  0,01351
+org/sufficientlysecure/ical/ui/SettingsActivity/getPreferences()  0,01351
+android/widget/LinearLayout/getChildCount()  0,01351
+android/preference/DialogPreference/onDialogClosed(boolean  0,01351
+java/util/Calendar/set(int  0,01351
+net.fortuna.ical4j.model.Date  0,01351
+android/app/Dialog/setContentView(android.view.View), android/app/Dialog/setCancelable(boolean), android/app/Dialog/setOwnerActivity(android.app.Activity), android/support/v4/app/DialogFragment/getView(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(  0,01351
+android/database/Cursor/close(), java/io/FileOutputStream/FileOutputStream(java.lang.String), java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String)  0,01351
+android/support/v4/app/DialogFragment/getActivity()  0,01351
+android/os/Bundle/getBundle(java.lang.String)  0,01351
+android/app/Dialog/onRestoreInstanceState(android.os.Bundle)  0,01351
+java.lang.StringBuilder)  0,01351
+java.util.Collection)  0,01351
+android/widget/TextView/setText(java.lang.CharSequence), android/app/AlertDialog/show(), android/widget/TextView/TextView(android.content.Context), android/app/AlertDialog$Builder/setView(android.view.View), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/text/Html/fromHtml(java.lang.String), android/text/method/LinkMovementMethod/getInstance(  0,01351
+org/sufficientlysecure/ical/SaveCalendar/getActivity(), java/lang/StringBuilder/StringBuilder(), java/util/List/iterator(), org/sufficientlysecure/ical/ui/MainActivity/getResources(), java/util/Iterator/hasNext(), java/util/Iterator/next()  0,01351
+java/lang/ClassLoader/getResource(java.lang.String), java/lang/Thread/currentThread(), org/apache/commons/logging/Log/info(java.lang.Object), java/lang/SecurityException/getMessage(), java/lang/Thread/getContextClassLoader()  0,01351
+java/lang/Class/getResource(java.lang.String), java/lang/StringBuffer/toString()  0,01351
+java/lang/Class/getResourceAsStream(java.lang.String), java/lang/Thread/currentThread(), org/apache/commons/logging/Log/info(java.lang.Object), java/lang/SecurityException/getMessage(), java/lang/Thread/getContextClassLoader()  0,01351
+java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,01351
+boolean)  0,01351
+java/lang/Runnable/run()  0,01351
+android/os/Looper/myLooper()  0,01351
+java/util/ArrayList/toArray(java.lang.Object[), java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,01351
+android/os/Handler/removeCallbacks(java.lang.Runnable)  0,01351
+android/os/Handler/getLooper()  0,01351
+java/util/ArrayList/clear(  0,01351
+java.util.List)  0,01351
+java/util/List/iterator(), java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)  0,01351
+android.support.v4.app.BackStackRecord)  0,01351
+android/support/v4/util/ArrayMap/put(java.lang.Object  0,01351
+android/view/View/getRight(), java/lang/StringBuilder/append(java.lang.String), android/view/View/isSelected(  0,01351
+android/view/View/isHorizontalScrollBarEnabled()  0,01351
+android/view/View/getId()  0,01351
+java/lang/System/identityHashCode(java.lang.Object)  0,01351
+java/lang/Integer/toHexString(int)  0,01351
+java/lang/StringBuilder/StringBuilder(int)  0,01351
+java/lang/StringBuilder/append(char)  0,01351
+android/view/View/isLongClickable()  0,01351
+java/lang/Object/getClass()  0,01351
+android/view/View/getBottom()  0,01351
+android/content/res/Resources/getResourcePackageName(int)  0,01351
+android/view/View/willNotDraw()  0,01351
+android/content/res/Resources/getResourceTypeName(int)  0,01351
+android/view/View/getVisibility()  0,01351
+android/view/View/isFocusable()  0,01351
+android/view/View/isFocused()  0,01351
+android/view/View/getResources()  0,01351
+android/view/View/isClickable()  0,01351
+android/view/View/isPressed()  0,01351
+android/content/res/Resources/getResourceEntryName(int)  0,01351
+android/view/View/isVerticalScrollBarEnabled()  0,01351
+android/view/View/getTop()  0,01351
+android/view/View/getLeft()  0,01351
+android/text/TextUtils/isEmpty(java.lang.CharSequence)  0,01351
+org/sufficientlysecure/ical/ui/MainActivity/getPackageManager()  0,01351
+android/os/Environment/getExternalStorageDirectory()  0,01351
+org/sufficientlysecure/ical/ui/MainActivity/getPackageName()  0,01351
+org/sufficientlysecure/ical/SaveCalendar/incrementProgress()  0,01351
+java/lang/Integer/toString(int)  0,01351
+org/sufficientlysecure/ical/SaveCalendar/setMax(int)  0,01351
+android/content/res/Resources/getQuantityString(int  0,01351
+org/apache/commons/codec/binary/Base64/encode(byte[)  0,01351
+android/app/AlertDialog$Builder/setNegativeButton(int  0,01351
+java/lang/String/length(), java/util/UUID/randomUUID(), java/lang/StringBuilder/StringBuilder()  0,01351
+java/lang/StringBuffer/toString(), java/lang/ClassLoader/getResourceAsStream(java.lang.String)  0,01351
+java/lang/StringBuffer/toString(), java/lang/String/substring(int  0,01351
+java/lang/Throwable/getMessage(), java/util/Set/add(java.lang.Object), java/lang/NoClassDefFoundError/NoClassDefFoundError(java.lang.String)  0,01351
+java/lang/Throwable/getMessage(), java/util/List/add(java.lang.Object), java/lang/NoClassDefFoundError/NoClassDefFoundError(java.lang.String)  0,01351
+java/lang/Class/getName(), android/view/View/isEnabled(), java/lang/StringBuilder/toString()  0,01351
+java/net/URLConnection/setRequestProperty(java.lang.String  0,01351
+java/lang/Class/forName(java.lang.String), net/fortuna/ical4j/model/DateTime/getTime()  0,01351
+java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/util/ArrayList/get(int)  0,01351
+net/fortuna/ical4j/model/parameter/Value/equals(java.lang.Object), net/fortuna/ical4j/model/component/Available/getProperties()  0,01351
+net/fortuna/ical4j/model/parameter/Value/equals(java.lang.Object), java/lang/StringBuffer/toString(), net/fortuna/ical4j/model/ComponentList/iterator(), java/lang/StringBuffer/append(java.lang.String)  0,01351
+net/fortuna/ical4j/model/parameter/Value/equals(java.lang.Object), net/fortuna/ical4j/model/Parameter/getValue()  0,01351
+java/lang/StringBuffer/StringBuffer(java.lang.String), net/fortuna/ical4j/model/component/Available/getProperty(java.lang.String)  0,01351
+java/lang/StringBuffer/StringBuffer(java.lang.String), java/lang/StringBuffer/append(java.lang.String), net/fortuna/ical4j/model/TimeZone/getID(), java/lang/StringBuffer/toString()  0,01351
+java/lang/StringBuffer/append(java.lang.Object), java/lang/StringBuffer/toString(  0,01351
+net/fortuna/ical4j/model/property/DateProperty/getParameter(java.lang.String)  0,01351
+net/fortuna/ical4j/model/property/DateProperty/getParameters(  0,01351
+java.io.Reader  0,01351
+net/fortuna/ical4j/model/property/DtStart/getParameter(java.lang.String), net/fortuna/ical4j/model/component/Available/validateProperties()  0,01351
+net/fortuna/ical4j/model/property/DtStart/getParameter(java.lang.String), java/lang/String/equals(java.lang.Object)  0,01351
+net/fortuna/ical4j/model/ComponentList/iterator(), net/fortuna/ical4j/model/Property/getValue()  0,01351
+net/fortuna/ical4j/model/ComponentList/iterator(), net/fortuna/ical4j/model/parameter/Value/equals(java.lang.Object)  0,01351
+net/fortuna/ical4j/model/component/VAvailability/getProperty(java.lang.String)  0,01351
+net/fortuna/ical4j/model/component/VAvailability/getProperties()  0,01351
+net/fortuna/ical4j/model/component/VAvailability/validateProperties()  0,01351
+net/fortuna/ical4j/model/property/DtEnd/getParameter(java.lang.String  0,01351
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), org/sufficientlysecure/ical/ui/MainActivity/getString(int)  0,01351
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/app/AlertDialog$Builder/setIcon(int)  0,01351
+android/app/AlertDialog$Builder/setPositiveButton(int  0,01351
+java/util/Iterator/hasNext(), net/fortuna/ical4j/model/component/VToDo/getProperties(), net/fortuna/ical4j/model/component/VToDo/getProperty(java.lang.String), java/util/Iterator/next()  0,01351
+java/util/Iterator/hasNext(), net/fortuna/ical4j/model/property/Method/equals(java.lang.Object)  0,01351
+net.fortuna.ical4j.model.TimeZone)  0,01351
+android.view.LayoutInflater$Factory2)  0,01351
+android.content.ContentValues  0,01351
+java/lang/Long/parseLong(java.lang.String)  0,01351
+android/database/Cursor/moveToPosition(int)  0,01351
+android/content/res/Resources/getString(int)  0,01351
+net/fortuna/ical4j/model/ComponentList/size()  0,01351
+java/lang/Long/valueOf(long)  0,01351
+android/content/ContentValues/containsKey(java.lang.String)  0,01351
+android/content/ContentValues/put(java.lang.String  0,01351
+org.sufficientlysecure.ical.ProcessVEvent$Options  0,01351
+java/net/URL/openStream()  0,01351
+org/apache/commons/logging/Log/warn(java.lang.Object  0,01351
+java/util/Map/put(java.lang.Object  0,01351
+java/text/DateFormat/clone()  0,01351
+net/fortuna/ical4j/model/TimeZone/getTimeZone(java.lang.String)  0,01351
+java/text/DateFormat/setTimeZone(java.util.TimeZone)  0,01351
+java/util/TimeZone/getDSTSavings()  0,01351
+java/util/TimeZone/inDaylightTime(java.util.Date)  0,01351
+java/text/DateFormat/getTimeZone()  0,01351
+java/util/Date/Date(long)  0,01351
+java/util/TimeZone/getRawOffset()  0,01351
+java/text/DateFormat/format(java.util.Date)  0,01351
+net/fortuna/ical4j/model/Iso8601/getTime(  0,01351
+net/fortuna/ical4j/model/component/Observance/getProperties(java.lang.String)  0,01351
+net/fortuna/ical4j/model/component/VEvent/getProperty(java.lang.String)  0,01351
+net/fortuna/ical4j/model/component/VEvent/getProperties()  0,01351
+net/fortuna/ical4j/model/component/VEvent/validateProperties()  0,01351
+net/fortuna/ical4j/model/component/Observance/getProperty(java.lang.String)  0,01351
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/set(int  0,01351
+android/view/View/getViewTreeObserver()  0,01351
+java/util/Collections/sort(java.util.List)  0,01351
+android/view/ViewTreeObserver/removeOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener)  0,01351
+java/util/Map$Entry/getKey()  0,01351
+java/util/Set/add(java.lang.Object)  0,01351
+android/app/AlertDialog$Builder/setIcon(int)  0,01351
+java/lang/String/length()  0,01351
+java/lang/Integer/intValue(), java/util/Iterator/hasNext()  0,01351
+java/lang/Integer/intValue()  0,01351
+net/fortuna/ical4j/model/property/Status/toString()  0,01351
+java/util/List/iterator()  0,01351
+java/lang/String/equals(java.lang.Object)  0,01351
+net/fortuna/ical4j/model/property/DtStart/getParameter(java.lang.String)  0,01351
+java/lang/StringBuffer/toString(  0,01351
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,01351
+java/lang/StringBuilder/append(java.lang.Object)  0,01351
+java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/set(int  0,01351
+java/util/Iterator/next()  0,01351
+java/lang/StringBuffer/append(java.lang.String)  0,01351
+java/util/ArrayList/add(java.lang.Object)  0,01351
+java/lang/StringBuffer/toString()  0,01351

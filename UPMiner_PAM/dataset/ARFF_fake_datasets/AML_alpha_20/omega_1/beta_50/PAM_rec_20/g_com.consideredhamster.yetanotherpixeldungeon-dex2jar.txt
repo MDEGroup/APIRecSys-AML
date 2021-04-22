@@ -1,0 +1,162 @@
+org.api.fake  0,24107
+com.consideredhamster.yetanotherpixeldungeon.levels.Room)  0,08036
+java.lang.String  0,06250
+int  0,04464
+boolean)  0,03571
+java/lang/StringBuilder/StringBuilder()  0,03571
+java/util/Iterator/next()  0,03571
+java/lang/Integer/intValue(), java/util/ArrayList/size(), java/util/ArrayList/get(int), java/util/ArrayList/add(java.lang.Object)  0,02679
+com.consideredhamster.yetanotherpixeldungeon.Element)  0,02679
+java/util/HashMap/containsKey(java.lang.Object)  0,02679
+java/util/HashMap/get(java.lang.Object)  0,02679
+java/util/Iterator/hasNext()  0,02679
+java.lang.String[  0,01786
+int)  0,01786
+java/lang/Math/min(float  0,01786
+java/util/HashSet/iterator(), java/util/Iterator/hasNext(), java/lang/Float/valueOf(float), java/util/HashMap/put(java.lang.Object  0,01786
+java.lang.String)  0,01786
+com/consideredhamster/yetanotherpixeldungeon/actors/buffs/BuffPassive/detach()  0,01786
+java/util/ArrayList/iterator(), com/watabou/noosa/BitmapText/height(), java/util/Iterator/hasNext(), com/watabou/noosa/BitmapText/width()  0,01786
+com/consideredhamster/yetanotherpixeldungeon/scenes/InterlevelScene/add(com.watabou.noosa.Gizmo)  0,01786
+com/watabou/noosa/BitmapText/alpha(float)  0,01786
+java/lang/Object/getClass()  0,01786
+com/watabou/utils/SparseArray/get(int)  0,01786
+java/lang/Integer/valueOf(int)  0,01786
+java/util/ArrayList/iterator()  0,01786
+java/lang/StringBuilder/append(int)  0,01786
+java/util/ArrayList/get(int)  0,01786
+java/util/ArrayList/size()  0,01786
+java/util/ArrayList/ArrayList(), java/util/ArrayList/add(java.lang.Object)  0,01786
+java/lang/String/substring(int), java/lang/String/startsWith(java.lang.String), com/consideredhamster/yetanotherpixeldungeon/visuals/ui/GameLog/add(com.watabou.noosa.Gizmo), com/consideredhamster/yetanotherpixeldungeon/visuals/ui/GameLog/remove(com.watabou.noosa.Gizmo), java/util/regex/Pattern/matcher(java.lang.CharSequence), java/lang/StringBuilder/toString()  0,00893
+java/lang/Float/floatValue(), java/util/Iterator/next()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/wands/WandCombat/stateToString(int), com/consideredhamster/yetanotherpixeldungeon/items/wands/WandCombat/getCharges(), java/util/Locale/getDefault(), com/consideredhamster/yetanotherpixeldungeon/items/wands/WandCombat/isCursedKnown(), java/lang/String/format(java.util.Locale  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/wands/WandCombat/isIdentified()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/weapons/Weapon/isIdentified()  0,00893
+android/graphics/Bitmap/eraseColor(int), java/util/HashMap/put(java.lang.Object  0,00893
+com/consideredhamster/yetanotherpixeldungeon/scenes/TitleScene$DashboardItem/width(), com/consideredhamster/yetanotherpixeldungeon/scenes/TitleScene/add(com.watabou.noosa.Gizmo), com/consideredhamster/yetanotherpixeldungeon/visuals/ui/DonateButton/setPos(float  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/weapons/melee/MeleeWeaponLightOH/isCursedKnown(), com/consideredhamster/yetanotherpixeldungeon/items/weapons/melee/MeleeWeaponLightOH/name(), com/consideredhamster/yetanotherpixeldungeon/items/weapons/melee/MeleeWeaponLightOH/detectCursed(com.consideredhamster.yetanotherpixeldungeon.items.Item  0,00893
+com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Wraith/move(int)  0,00893
+android/util/DisplayMetrics/DisplayMetrics(), android/opengl/GLSurfaceView/GLSurfaceView(android.content.Context), android/opengl/GLSurfaceView/setRenderer(android.opengl.GLSurfaceView$Renderer), android/app/Activity/onCreate(android.os.Bundle), android/opengl/GLSurfaceView/setEGLContextClientVersion(int), android/opengl/GLSurfaceView/setOnTouchListener(android.view.View$OnTouchListener), android/view/Display/getMetrics(android.util.DisplayMetrics), com/watabou/noosa/Game/getPackageManager(), com/watabou/noosa/Game/getWindowManager(), com/watabou/noosa/Game/setContentView(android.view.View), com/watabou/noosa/Game/getPackageName(), android/view/WindowManager/getDefaultDisplay(), android/opengl/GLSurfaceView/setEGLConfigChooser(boolean), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,00893
+java/util/Set/iterator(), com/consideredhamster/yetanotherpixeldungeon/levels/Room/square(), com/consideredhamster/yetanotherpixeldungeon/levels/Room/height(), com/consideredhamster/yetanotherpixeldungeon/levels/Room/intersect(com.watabou.utils.Rect), java/util/HashMap/keySet()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/weapons/Weapon/isEnchantKnown(), java/lang/String/isEmpty(), com/consideredhamster/yetanotherpixeldungeon/items/weapons/Weapon/penaltyBase(com.consideredhamster.yetanotherpixeldungeon.actors.hero.Hero  0,00893
+java/util/HashSet/add(java.lang.Object), java/util/ArrayList/contains(java.lang.Object), java/util/HashSet/HashSet(  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/wands/WandUtility/getCharges(), java/lang/String/format(java.util.Locale  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/wands/WandUtility/isCursedKnown(), java/lang/StringBuilder/append(int), java/lang/Float/valueOf(float)  0,00893
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/contains(java.lang.Object), java/lang/Math/max(int  0,00893
+java/lang/StringBuilder/append(java.lang.String), com/consideredhamster/yetanotherpixeldungeon/items/wands/WandUtility/maxCharges()  0,00893
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream)  0,00893
+java/lang/StringBuilder/append(java.lang.String), com/watabou/noosa/BitmapTextMultiline/text(java.lang.String  0,00893
+java/lang/StringBuilder/append(java.lang.String), com/android/billingclient/api/ProxyBillingActivity/startIntentSenderForResult(android.content.IntentSender  0,00893
+android.os.Parcel  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/weapons/throwing/ThrowingWeapon/max(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/isEmpty(), java/util/ArrayList/contains(java.lang.Object), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(float), java/lang/StringBuilder/toString(), com/consideredhamster/yetanotherpixeldungeon/items/weapons/throwing/ThrowingWeapon/descType(  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/weapons/throwing/ThrowingWeapon/stateToString(int), com/consideredhamster/yetanotherpixeldungeon/items/weapons/throwing/ThrowingWeapon/isIdentified(), com/consideredhamster/yetanotherpixeldungeon/items/weapons/throwing/ThrowingWeapon/isRepairable(), com/consideredhamster/yetanotherpixeldungeon/items/weapons/throwing/ThrowingWeapon/desc(), com/consideredhamster/yetanotherpixeldungeon/items/weapons/throwing/ThrowingWeapon/lootChapterAsString(), com/consideredhamster/yetanotherpixeldungeon/items/weapons/throwing/ThrowingWeapon/strShown(boolean), com/consideredhamster/yetanotherpixeldungeon/items/weapons/throwing/ThrowingWeapon/min()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/armours/shields/Shield/dr(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), com/consideredhamster/yetanotherpixeldungeon/items/armours/shields/Shield/stateToString(int), java/lang/StringBuilder/append(float), java/lang/Math/max(int  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/armours/shields/Shield/isEnchantKnown(), java/lang/StringBuilder/StringBuilder(), com/consideredhamster/yetanotherpixeldungeon/items/armours/shields/Shield/isIdentified(), com/consideredhamster/yetanotherpixeldungeon/items/armours/shields/Shield/desc(), com/consideredhamster/yetanotherpixeldungeon/items/armours/shields/Shield/isRepairable()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Yog$RespawnBurning/spend(float), java/util/ArrayList/ArrayList(), com/consideredhamster/yetanotherpixeldungeon/visuals/sprites/CharSprite/alpha(float  0,00893
+com.android.billingclient.api.e)  0,00893
+java.util.List)  0,00893
+android/content/Intent/putExtra(java.lang.String  0,00893
+com/consideredhamster/yetanotherpixeldungeon/scenes/AboutScene/createMultiline(java.lang.String  0,00893
+com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Goo$Mother/spend(float), com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Goo$Mother/beckon(int), com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Goo/act(), java/util/Iterator/next(), com/consideredhamster/yetanotherpixeldungeon/visuals/sprites/CharSprite/alpha(float), java/util/HashSet/clone(), com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Goo$Mother/buff(java.lang.Class  0,00893
+java/lang/Iterable/iterator()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Goo$Spawn/beckon(int)  0,00893
+com/consideredhamster/yetanotherpixeldungeon/actors/mobs/MobPrecise/resistances(), java/util/HashMap/HashMap()  0,00893
+java/util/HashMap/putAll(java.util.Map), com/consideredhamster/yetanotherpixeldungeon/actors/mobs/DwarvenKing/buff(java.lang.Class), java/util/Iterator/next()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/armours/body/BodyArmor/isEnchantKnown(), java/lang/String/isEmpty(), java/lang/StringBuilder/StringBuilder(), com/consideredhamster/yetanotherpixeldungeon/items/armours/body/BodyArmor/descType(), com/consideredhamster/yetanotherpixeldungeon/items/armours/body/BodyArmor/desc(), com/consideredhamster/yetanotherpixeldungeon/items/armours/body/BodyArmor/isRepairable()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/armours/body/BodyArmor/isCursedKnown(), java/lang/StringBuilder/StringBuilder(java.lang.String), com/consideredhamster/yetanotherpixeldungeon/items/armours/body/BodyArmor/isIdentified(), java/lang/StringBuilder/append(float)  0,00893
+com/consideredhamster/yetanotherpixeldungeon/scenes/SurfaceScene/align(float), com/consideredhamster/yetanotherpixeldungeon/scenes/SurfaceScene/add(com.watabou.noosa.Gizmo), com/consideredhamster/yetanotherpixeldungeon/scenes/SurfaceScene$GrassPatch/brightness(float), com/consideredhamster/yetanotherpixeldungeon/visuals/ui/RedButton/setPos(float  0,00893
+java/util/List/get(int), com/consideredhamster/yetanotherpixeldungeon/levels/PrisonBossLevel/initRooms(), java/util/List/size(), java/util/List/iterator(), java/util/HashMap/get(java.lang.Object)  0,00893
+com/consideredhamster/yetanotherpixeldungeon/levels/PrisonBossLevel/paint(), com/consideredhamster/yetanotherpixeldungeon/levels/PrisonBossLevel/paintWater()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/scenes/BadgesScene/fadeIn()  0,00893
+java/util/HashSet/contains(java.lang.Object), com/consideredhamster/yetanotherpixeldungeon/levels/Room/width(), com/consideredhamster/yetanotherpixeldungeon/levels/Room/height(), java/util/Iterator/hasNext(), java/util/HashSet/add(java.lang.Object), java/util/HashSet/size(), java/util/HashMap/size(), java/util/HashMap/keySet(  0,00893
+java/util/ArrayList/remove(java.lang.Object), java/util/Set/iterator(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/List/iterator(), java/lang/Math/sqrt(double)  0,00893
+android/view/MotionEvent/getPointerId(int), java/util/HashMap/put(java.lang.Object  0,00893
+java/util/HashMap/remove(java.lang.Object)  0,00893
+android/view/MotionEvent/getPointerCount()  0,00893
+com/watabou/noosa/audio/Music/play(java.lang.String  0,00893
+java/io/IOException/IOException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/security/KeyFactory/getInstance(java.lang.String), java/lang/StringBuilder/toString()  0,00893
+android/os/Handler/hasMessages(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,00893
+android/content/Intent/getFlags()  0,00893
+android/content/Intent/getScheme()  0,00893
+android/content/Context/getContentResolver()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/RedButton/bottom()  0,00893
+com/watabou/noosa/BitmapTextMultiline/width()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/scenes/AmuletScene/createMultiline(java.lang.String  0,00893
+com/consideredhamster/yetanotherpixeldungeon/actors/hero/HeroClass/ordinal(), com/watabou/noosa/audio/Music/volume(float)  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/Toolbar$Tool/height()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/StatusPane/setSize(float  0,00893
+java/util/ArrayList/clear()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/misc/Explosives/random()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/weapons/melee/MeleeWeapon/enchant()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/weapons/Weapon/repair()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/weapons/throwing/ThrowingWeaponAmmo/random()  0,00893
+java/util/ArrayList/toArray(java.lang.Object[)  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/weapons/ranged/RangedWeapon/enchant()  0,00893
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/armours/Armour/repair()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/wands/Wand/repair(  0,00893
+android/util/Base64/decode(java.lang.String  0,00893
+java/lang/Integer/intValue(), java/util/ArrayList/isEmpty(), com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Wraith/moveSpeed(  0,00893
+java/lang/Integer/intValue(), java/util/ArrayList/isEmpty(), com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Tengu/move(int), com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Tengu/moveSpeed(  0,00893
+java/lang/Integer/intValue(), com/watabou/noosa/BitmapText/width(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/Integer/valueOf(int)  0,00893
+java/util/ArrayList/ArrayList(), com/watabou/noosa/audio/Sample/play(java.lang.Object), com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Tengu/spend(float), java/util/ArrayList/add(java.lang.Object)  0,00893
+java/util/ArrayList/ArrayList(), com/watabou/noosa/audio/Sample/play(java.lang.Object), com/consideredhamster/yetanotherpixeldungeon/items/wands/WandOfThornvines/damageRoll()  0,00893
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Iterator/next(), com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Wraith/spend(float), java/util/ArrayList/add(java.lang.Object)  0,00893
+java/util/ArrayList/ArrayList(), com/consideredhamster/yetanotherpixeldungeon/actors/mobs/Yog$RespawnRotting/spend(float), com/consideredhamster/yetanotherpixeldungeon/visuals/sprites/CharSprite/alpha(float  0,00893
+com/consideredhamster/yetanotherpixeldungeon/items/wands/WandOfThornvines/getCharges()  0,00893
+java/util/ArrayList/size(), com/watabou/noosa/BitmapTextMultiline/height(  0,00893
+java/lang/Integer/valueOf(int  0,00893
+java/util/HashSet/iterator(), com/consideredhamster/yetanotherpixeldungeon/levels/PrisonBossLevel/paintGrass(), java/util/HashMap/keySet(  0,00893
+java/util/HashSet/iterator(), com/consideredhamster/yetanotherpixeldungeon/visuals/windows/WndCatalogus$NoteItem/height(), java/util/Iterator/next(), java/util/ArrayList/add(java.lang.Object)  0,00893
+java/util/HashSet/iterator(), com/consideredhamster/yetanotherpixeldungeon/levels/Room/height(), java/util/Set/toArray(), com/consideredhamster/yetanotherpixeldungeon/levels/LastShopLevel/paintWater(), com/consideredhamster/yetanotherpixeldungeon/levels/Room/width(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/HashSet/size(), java/util/List/iterator(), java/util/HashMap/size(), java/util/HashMap/get(java.lang.Object), java/util/HashMap/keySet(  0,00893
+java/util/HashSet/iterator(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/HashMap/get(java.lang.Object), com/consideredhamster/yetanotherpixeldungeon/levels/Room/width(  0,00893
+java/util/HashSet/iterator(), java/util/Iterator/hasNext(), java/lang/String/format(java.lang.String  0,00893
+java/util/HashSet/iterator(), com/consideredhamster/yetanotherpixeldungeon/visuals/ui/BuffIndicator/clear()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/levels/Room/height(), java/util/Iterator/hasNext(), com/consideredhamster/yetanotherpixeldungeon/levels/Room/width(), java/util/ArrayList/remove(java.lang.Object), java/util/HashSet/iterator(), java/util/Iterator/next(), java/util/HashMap/size()  0,00893
+com/watabou/utils/SparseArray/clear(), java/util/List/size(), com/consideredhamster/yetanotherpixeldungeon/levels/Room/square()  0,00893
+java/util/Set/toArray(), com/consideredhamster/yetanotherpixeldungeon/levels/Room/height()  0,00893
+java/util/Iterator/hasNext(), java/util/HashSet/add(java.lang.Object), java/util/HashMap/HashMap(), java/util/HashMap/put(java.lang.Object  0,00893
+java/util/Iterator/hasNext(), com/consideredhamster/yetanotherpixeldungeon/visuals/windows/WndCatalogus$ListItem/setRect(float  0,00893
+java/util/HashSet/clear()  0,00893
+java/util/Iterator/next(), java/util/HashSet/HashSet()  0,00893
+java/util/Iterator/next(), java/lang/Thread/isAlive(  0,00893
+com/consideredhamster/yetanotherpixeldungeon/levels/LastShopLevel/paint()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/levels/LastShopLevel/initRooms()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/levels/LastShopLevel/paintGrass()  0,00893
+com/android/billingclient/api/ProxyBillingActivity/getIntent()  0,00893
+android/content/Intent/getParcelableExtra(java.lang.String)  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/HealthBar/setRect(float  0,00893
+com/consideredhamster/yetanotherpixeldungeon/scenes/PixelScene/update()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/scenes/InterlevelScene$Phase/ordinal()  0,00893
+java/lang/Thread/start()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/scenes/InterlevelScene$Mode/ordinal()  0,00893
+java/io/BufferedReader/close()  0,00893
+org/json/JSONTokener/nextValue()  0,00893
+org/json/JSONTokener/JSONTokener(java.lang.String)  0,00893
+java/io/BufferedReader/BufferedReader(java.io.Reader)  0,00893
+java/io/BufferedReader/readLine(  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/TagAttack/height()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/TagDanger/height()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/TagPickup/top()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/TagResume/width()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/TagDanger/setPos(float  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/StatusPane/camera()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/StatusPane$MenuButton/setPos(float  0,00893
+com/watabou/noosa/BitmapTextMultiline/hardlight(int)  0,00893
+com/watabou/noosa/BitmapText/hardlight(int)  0,00893
+com/consideredhamster/yetanotherpixeldungeon/visuals/ui/BuffIndicator/add(com.watabou.noosa.Gizmo)  0,00893
+com/watabou/utils/SparseArray/put(int  0,00893
+java/io/OutputStream/close()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/actors/hero/Hero/ringBuffsBaseZero(java.lang.Class)  0,00893
+com/consideredhamster/yetanotherpixeldungeon/actors/hero/Hero/buff(java.lang.Class)  0,00893
+java/lang/StringBuilder/append(java.lang.Object)  0,00893
+java/lang/Math/sqrt(double)  0,00893
+com/watabou/noosa/audio/Music/volume(float)  0,00893
+java/lang/String/format(java.lang.String  0,00893
+java/util/HashSet/size()  0,00893
+com/consideredhamster/yetanotherpixeldungeon/levels/Room/width()  0,00893
+java/util/HashMap/size()  0,00893
+com/watabou/noosa/BitmapText/width()  0,00893
+java/lang/Float/valueOf(float)  0,00893
+java/util/ArrayList/add(java.lang.Object)  0,00893
+java/lang/StringBuilder/append(java.lang.String)  0,00893

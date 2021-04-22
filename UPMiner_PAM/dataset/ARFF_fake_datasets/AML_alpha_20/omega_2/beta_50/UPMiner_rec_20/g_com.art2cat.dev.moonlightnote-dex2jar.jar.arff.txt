@@ -1,0 +1,11 @@
+java/lang/String/equals(java.lang.Object)
+android/support/v4/content/res/TypedArrayUtils/obtainAttributes(android.content.res.Resources,android.content.res.Resources$Theme,android.util.AttributeSet,int[])
+org.api.fake
+android/view/animation/AnticipateOvershootInterpolator/AnticipateOvershootInterpolator(android.content.Context,android.util.AttributeSet)
+java/lang/StringBuilder/toString(
+android/animation/Keyframe/ofInt(float,int
+android/content/res/Resources/getAnimation(int)
+android/content/res/TypedArray/getDimension(int,float)
+android/graphics/PathMeasure/getPosTan(float,float[],float[])
+android/content/Context/getResources(
+org.rand.api

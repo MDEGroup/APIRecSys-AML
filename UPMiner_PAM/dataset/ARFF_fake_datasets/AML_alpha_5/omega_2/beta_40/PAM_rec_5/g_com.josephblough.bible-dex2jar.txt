@@ -1,0 +1,33 @@
+int)  0,12903
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,12903
+java/lang/Integer/intValue()  0,12903
+android.view.View  0,09677
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)  0,09677
+int  0,06452
+android/database/Cursor/getColumnIndex(java.lang.String), android/database/Cursor/close(), android/util/Log/e(java.lang.String  0,06452
+java/lang/StringBuilder/append(int)  0,06452
+java/util/StringTokenizer/nextToken(), com/josephblough/bible/activities/SearchResultsActivity/getContentResolver(), java/util/StringTokenizer/hasMoreTokens(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/StringTokenizer/StringTokenizer(java.lang.String  0,03226
+android/view/LayoutInflater/inflate(int  0,03226
+com/josephblough/bible/activities/ChapterActivity/setContentView(int), android/content/Intent/getIntExtra(java.lang.String  0,03226
+android.view.MotionEvent)  0,03226
+android/text/SpannableString/SpannableString(java.lang.CharSequence), java/util/Iterator/hasNext(), java/lang/String/toUpperCase(), android/text/SpannableString/setSpan(java.lang.Object  0,03226
+com/josephblough/bible/activities/Bible/setContentView(int), com/josephblough/bible/activities/Bible/setTitle(java.lang.CharSequence), android/widget/ListView/setTextFilterEnabled(boolean), android/widget/ListView/setFastScrollEnabled(boolean), com/josephblough/bible/activities/Bible/getContentResolver(), com/josephblough/bible/activities/Bible/setListAdapter(android.widget.ListAdapter), android/app/ListActivity/onCreate(android.os.Bundle), com/josephblough/bible/activities/Bible/getListView(), android/util/Log/d(java.lang.String  0,03226
+com/josephblough/bible/activities/Bible/getContentResolver(), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(int), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,03226
+java.lang.String)  0,03226
+java/io/OutputStream/close(), android/util/Log/d(java.lang.String  0,03226
+java/io/InputStream/read(byte[), java/io/OutputStream/flush(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/FileOutputStream/FileOutputStream(java.lang.String), java/io/InputStream/close()  0,03226
+android/content/Intent/getIntArrayExtra(java.lang.String), java/lang/StringBuilder/append(java.lang.String), com/josephblough/bible/activities/SearchResultsActivity/setContentView(int), android/content/Intent/getIntExtra(java.lang.String  0,03226
+android/content/Intent/putExtra(java.lang.String  0,03226
+android/widget/ArrayAdapter/getItem(int), java/util/ArrayList/ArrayList(), android/widget/ListView/getAdapter(), java/util/ArrayList/get(int), android/widget/ListView/getCheckedItemPositions(  0,03226
+android/util/SparseBooleanArray/valueAt(int)  0,03226
+android/util/SparseBooleanArray/size()  0,03226
+java/util/ArrayList/add(java.lang.Object)  0,03226
+java/util/ArrayList/size()  0,03226
+android/util/SparseBooleanArray/keyAt(int)  0,03226
+android/widget/ListView/setAdapter(android.widget.ListAdapter), android/widget/ArrayAdapter/setDropDownViewResource(int), android/widget/ListView/setVisibility(int), android/widget/ArrayAdapter/createFromResource(android.content.Context  0,03226
+java/lang/Integer/intValue(), android/content/Context/getSharedPreferences(java.lang.String  0,03226
+java/util/ArrayList/ArrayList()  0,03226
+android/content/Context/getSharedPreferences(java.lang.String  0,03226
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,03226
+com/josephblough/bible/activities/Bible/getContentResolver()  0,03226
+java/lang/StringBuilder/append(java.lang.String)  0,03226

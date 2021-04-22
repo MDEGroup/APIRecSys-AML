@@ -1,0 +1,6 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getSimpleName()
+java/util/Iterator/hasNext()
+org.api.fake
+android/view/View/getLayoutParams()
+java/lang/Math/max(int,int)

@@ -1,0 +1,171 @@
+prob: 0,20339
+[java.lang.String)]
+
+prob: 0,20339
+[java.lang.String]
+
+prob: 0,03390
+[int)]
+
+prob: 0,03390
+[android/graphics/Rect/offset(int]
+
+prob: 0,03390
+[int]
+
+prob: 0,03390
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,01695
+[android/app/AlertDialog$Builder/create(), android/widget/RelativeLayout$LayoutParams/addRule(int]
+
+prob: 0,01695
+[java/lang/Class/getMethods(), java/lang/Class/getDeclaredMethod(java.lang.String]
+
+prob: 0,01695
+[java/lang/StringBuilder/append(java.lang.String), java/lang/System/load(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,01695
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Exception/toString(), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,01695
+[android.os.Bundle)]
+
+prob: 0,01695
+[android/graphics/drawable/GradientDrawable/getConstantState(), java/lang/reflect/Field/getFloat(java.lang.Object), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01695
+[java/lang/reflect/Field/get(java.lang.Object), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01695
+[java/lang/StringBuilder/StringBuilder(), android/util/Log/w(java.lang.String]
+
+prob: 0,01695
+[java/lang/Class/getDeclaredField(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01695
+[java/lang/String/valueOf(char), java/lang/reflect/Field/get(java.lang.Object), java/lang/reflect/Field/getFloat(java.lang.Object), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01695
+[java.util.ArrayList]
+
+prob: 0,01695
+[java/lang/Class/forName(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getConstructor(java.lang.Class[]), java/lang/StringBuilder/toString()]
+
+prob: 0,01695
+[java/lang/Class/forName(java.lang.String), org/qtproject/qt5/android/bindings/QtActivity/getWindow(), android/view/Window/setBackgroundDrawable(android.graphics.drawable.Drawable), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName]
+
+prob: 0,01695
+[java/lang/reflect/Field/getName(), org/qtproject/qt5/android/bindings/QtActivity/getResources()]
+
+prob: 0,01695
+[long)]
+
+prob: 0,01695
+[java/util/ArrayList/ArrayList(), javax/net/ssl/TrustManagerFactory/getInstance(java.lang.String), java/security/cert/X509Certificate/getEncoded(), javax/net/ssl/X509TrustManager/getAcceptedIssuers(), java/util/ArrayList/size(), android/util/Log/e(java.lang.String]
+
+prob: 0,01695
+[java/util/ArrayList/ArrayList(), org/qtproject/qt5/android/bindings/QtActivity/getResources(), java/lang/StringBuilder/append(java.lang.String), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,01695
+[java/io/File/createNewFile(), java/lang/String/split(java.lang.String), java/io/DataOutputStream/writeLong(long), org/qtproject/qt5/android/bindings/QtActivity/getPackageName(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01695
+[java/io/DataOutputStream/close()]
+
+prob: 0,01695
+[android/os/Bundle/getInt(java.lang.String)]
+
+prob: 0,01695
+[android/os/Bundle/containsKey(java.lang.String)]
+
+prob: 0,01695
+[java/io/File/mkdirs()]
+
+prob: 0,01695
+[java/io/FileOutputStream/FileOutputStream(java.io.File)]
+
+prob: 0,01695
+[java/lang/Exception/printStackTrace()]
+
+prob: 0,01695
+[android/app/AlertDialog/setButton(java.lang.CharSequence]
+
+prob: 0,01695
+[android/app/Activity/registerForContextMenu(android.view.View), android/content/res/Resources/getConfiguration(), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,01695
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/io/File/File(java.lang.String), java/lang/StringBuilder/toString(), java/io/File/exists()]
+
+prob: 0,01695
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/lang/StackTraceElement/getClassName(), java/lang/Thread/currentThread(), java/lang/Class/getCanonicalName(), java/lang/String/equals(java.lang.Object), java/lang/reflect/Method/getParameterTypes(), java/lang/StackTraceElement/getMethodName(), java/lang/Thread/getStackTrace(), java/util/HashMap/get(java.lang.Object), java/util/Iterator/next(]
+
+prob: 0,01695
+[java/util/HashMap/HashMap(), android/view/Display/getRotation(), android/app/Activity/getSystemService(java.lang.String)]
+
+prob: 0,01695
+[android/util/DisplayMetrics/DisplayMetrics(), java/lang/StringBuilder/append(java.lang.String), android/app/Activity/getWindowManager(]
+
+prob: 0,01695
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), android/view/Display/getMetrics(android.util.DisplayMetrics), android/app/Activity/getResources(), java/lang/StringBuilder/toString(), android/view/WindowManager/getDefaultDisplay()]
+
+prob: 0,01695
+[android/content/res/Resources/getDimensionPixelSize(int)]
+
+prob: 0,01695
+[android.view.View]
+
+prob: 0,01695
+[java/lang/Runtime/exec(java.lang.String]
+
+prob: 0,01695
+[java.lang.ClassLoader]
+
+prob: 0,01695
+[java/util/HashMap/remove(java.lang.Object), org/qtproject/qt5/android/QtLayout/removeView(android.view.View)]
+
+prob: 0,01695
+[boolean]
+
+prob: 0,01695
+[android/view/KeyEvent/getRepeatCount(), java/lang/String/charAt(int), java/lang/String/length(), java/lang/reflect/Method/invoke(java.lang.Object]
+
+prob: 0,01695
+[android/view/Window/addFlags(int), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01695
+[android/view/Window/getDecorView()]
+
+prob: 0,01695
+[android/net/LocalServerSocket/accept(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/util/Log/e(java.lang.String]
+
+prob: 0,01695
+[java/io/DataOutputStream/writeBytes(java.lang.String), java/io/IOException/getMessage(), android/os/Process/myPid(), android/net/LocalSocket/getInputStream(), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), java/lang/InterruptedException/getMessage(), java/lang/Thread/sleep(long), java/io/IOException/printStackTrace()]
+
+prob: 0,01695
+[java/util/HashMap/containsKey(java.lang.Object)]
+
+prob: 0,01695
+[android/net/LocalSocket/getOutputStream()]
+
+prob: 0,01695
+[javax/net/ssl/TrustManagerFactory/getTrustManagers(), java/util/ArrayList/toArray(java.lang.Object[]), javax/net/ssl/TrustManagerFactory/init(java.security.KeyStore), java/util/ArrayList/add(java.lang.Object), javax/net/ssl/TrustManagerFactory/getDefaultAlgorithm()]
+
+prob: 0,01695
+[java/io/File/exists()]
+
+prob: 0,01695
+[java/io/DataOutputStream/DataOutputStream(java.io.OutputStream)]
+
+prob: 0,01695
+[java/io/File/File(java.lang.String)]
+
+prob: 0,01695
+[java/lang/StringBuilder/append(int), android/util/Log/e(java.lang.String]
+
+prob: 0,01695
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext()]
+
+prob: 0,01695
+[java/lang/StringBuilder/StringBuilder()]
+

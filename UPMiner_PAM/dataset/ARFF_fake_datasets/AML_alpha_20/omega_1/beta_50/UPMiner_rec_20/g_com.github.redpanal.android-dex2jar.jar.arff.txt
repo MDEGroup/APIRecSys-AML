@@ -1,0 +1,16 @@
+android/view/ViewGroup/getChildMeasureSpec(int,int,int)
+android/support/v4/widget/NestedScrollView/getChildCount()
+android/support/v4/widget/NestedScrollView/getPaddingTop()
+android/view/View/getMeasuredHeight()
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+android/view/View/measure(int,int
+android/view/View/getBottom()
+org.api.fake
+android/view/View/getLayoutParams()
+android/graphics/Canvas/translate(float,float)
+java/util/ArrayList/size()
+java/util/ArrayList/add(java.lang.Object)
+android/util/Log/w(java.lang.String,java.lang.String)
+java/lang/Math/max(int,int)

@@ -1,0 +1,16 @@
+java/net/Socket/getInputStream()
+android/net/Uri/getPathSegments()
+android/content/Intent/setPackage(java.lang.String
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+at/db/rc/activities/Master/setContentView(int)
+java/net/Socket/setPerformancePreferences(int,int,int
+java/lang/Exception/toString()
+java/lang/Integer/intValue()
+java/io/DataOutputStream/writeInt(int)
+org.api.fake
+java/io/DataInputStream/DataInputStream(java.io.InputStream)
+java/io/DataInputStream/readInt()
+android/graphics/Canvas/drawOval(android.graphics.RectF,android.graphics.Paint
+javax/sound/sampled/Mixer/getLine(javax.sound.sampled.Line$Info)
+org.rand.api

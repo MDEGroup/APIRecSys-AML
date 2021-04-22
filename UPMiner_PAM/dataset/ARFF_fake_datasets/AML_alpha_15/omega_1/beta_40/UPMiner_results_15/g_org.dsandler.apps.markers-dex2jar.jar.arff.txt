@@ -1,0 +1,5 @@
+android/graphics/Canvas/restore()
+android/graphics/Canvas/translate(float,float)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+android/graphics/Paint/setColor(int)

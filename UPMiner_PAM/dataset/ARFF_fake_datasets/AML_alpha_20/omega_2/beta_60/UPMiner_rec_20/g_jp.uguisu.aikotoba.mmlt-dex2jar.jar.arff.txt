@@ -1,0 +1,10 @@
+jp/uguisu/aikotoba/mmlt/SettingActivity/findViewById(int)
+android/graphics/Canvas/drawRect(float,float,float,float,android.graphics.Paint
+java/util/ArrayList/iterator()
+android/widget/Button/setOnClickListener(android.view.View$OnClickListener
+java/net/HttpURLConnection/setReadTimeout(int)
+java/io/InputStreamReader/close(
+android/app/Notification$Builder/setContentIntent(android.app.PendingIntent
+jp/uguisu/aikotoba/mmlt/MainActivity/findViewById(int)
+java/lang/String/length()
+android/app/Activity/onCreate(android.os.Bundle

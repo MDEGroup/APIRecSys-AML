@@ -1,0 +1,96 @@
+prob: 0,09091
+[int)]
+
+prob: 0,09091
+[android.view.View]
+
+prob: 0,04545
+[java/util/ArrayList/ArrayList(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,04545
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/append(long), java/lang/StringBuilder/StringBuilder(), android/widget/ArrayAdapter/clear(), android/widget/ArrayAdapter/add(java.lang.Object), java/lang/StringBuilder/toString(]
+
+prob: 0,04545
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), java/util/Map/get(java.lang.Object), android/content/Context/openFileOutput(java.lang.String]
+
+prob: 0,04545
+[java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/widget/Button/setText(java.lang.CharSequence), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/ImageButton/setOnClickListener(android.view.View$OnClickListener), java/lang/StringBuilder/toString(), java/io/PrintWriter/PrintWriter(java.io.Writer), com/topodroid/proj4/Proj4Activity/finish(), java/lang/String/equals(java.lang.Object), java/io/PrintWriter/format(java.util.Locale]
+
+prob: 0,04545
+[java/lang/StringBuilder/append(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,04545
+[android/app/Activity/onStart(), java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,04545
+[com/topodroid/proj4/Proj4Activity/startActivity(android.content.Intent), android/widget/EditText/setError(java.lang.CharSequence), java/lang/Object/toString(), android/content/Intent/Intent(java.lang.String]
+
+prob: 0,04545
+[com/topodroid/proj4/Proj4Activity/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), com/topodroid/proj4/Proj4Activity/getIntent(), android/content/Intent/getExtras(), java/lang/StringBuilder/StringBuilder(), android/widget/EditText/setOnLongClickListener(android.view.View$OnLongClickListener), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context]
+
+prob: 0,04545
+[com/topodroid/proj4/Proj4Activity/setContentView(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/ImageButton/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,04545
+[android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener)]
+
+prob: 0,04545
+[com/topodroid/proj4/Proj4Activity/findViewById(int)]
+
+prob: 0,04545
+[android/app/Activity/onCreate(android.os.Bundle)]
+
+prob: 0,04545
+[int]
+
+prob: 0,04545
+[java/io/StringWriter/getBuffer(), java/io/PrintWriter/PrintWriter(java.io.Writer), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,04545
+[java/io/StringWriter/getBuffer(), java/io/PrintWriter/PrintWriter(java.io.Writer), java/lang/String/length(), java/lang/Float/valueOf(float), java/lang/String/substring(int]
+
+prob: 0,04545
+[java/lang/Float/parseFloat(java.lang.String), java/lang/String/charAt(int)]
+
+prob: 0,04545
+[java/lang/Object/toString(), java/lang/String/split(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/io/PrintWriter/PrintWriter(java.io.Writer), android/text/ClipboardManager/setText(java.lang.CharSequence), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,04545
+[java/io/File/isDirectory(), android/widget/Toast/show(), java/io/File/exists(), com/topodroid/proj4/MobileTopographerImportDialog/dismiss(), java/io/File/listFiles(), java/io/File/File(java.lang.String)]
+
+prob: 0,04545
+[android/view/Window/setLayout(int]
+
+prob: 0,04545
+[java.lang.String)]
+
+prob: 0,04545
+[java/io/BufferedWriter/BufferedWriter(java.io.Writer), java/lang/StringBuilder/append(java.lang.String), java/io/IOException/getMessage()]
+
+prob: 0,04545
+[android/content/Context/openFileInput(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/startsWith(java.lang.String), java/lang/String/indexOf(int]
+
+prob: 0,04545
+[android/util/Log/v(java.lang.String]
+
+prob: 0,04545
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), android/app/Dialog/onCreate(android.os.Bundle), com/topodroid/proj4/Proj4CountryDialog/setContentView(int), android/widget/Button/setText(java.lang.CharSequence), com/topodroid/proj4/Proj4CountryDialog/setTitle(int), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,04545
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), java/io/File/getName(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,04545
+[com/topodroid/proj4/CRSListDialog/setTitle(int)]
+
+prob: 0,04545
+[java/lang/StringBuilder/toString()]
+
+prob: 0,04545
+[java/io/IOException/getMessage()]
+
+prob: 0,04545
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,04545
+[java/lang/StringBuilder/append(java.lang.String)]
+

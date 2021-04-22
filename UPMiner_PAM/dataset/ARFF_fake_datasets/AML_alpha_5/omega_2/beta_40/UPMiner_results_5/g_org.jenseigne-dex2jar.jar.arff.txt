@@ -1,0 +1,2 @@
+android/widget/TextView/setText(java.lang.CharSequence)
+android/graphics/Paint/setColor(int)

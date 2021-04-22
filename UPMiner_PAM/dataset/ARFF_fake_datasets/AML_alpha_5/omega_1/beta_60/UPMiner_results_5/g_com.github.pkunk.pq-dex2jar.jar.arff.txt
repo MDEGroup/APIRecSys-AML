@@ -1,0 +1,10 @@
+android/widget/CheckBox/setClickable(boolean)
+java/lang/Integer/intValue()
+java/util/Map$Entry/getValue(
+android/widget/LinearLayout$LayoutParams/setMargins(int,int,int,int
+android/widget/TextView/getTextSize()
+android/content/Context/getFilesDir(
+java/util/Map/put(java.lang.Object,java.lang.Object)
+android/appwidget/AppWidgetManager/updateAppWidget(int[],android.widget.RemoteViews)
+android/content/Intent/setFlags(int
+android/widget/TextView/TextView(android.content.Context

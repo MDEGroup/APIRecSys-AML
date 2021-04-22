@@ -1,0 +1,138 @@
+prob: 0,06452
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,06452
+[java/nio/ByteBuffer/allocate(int), java/io/File/File(java.io.File]
+
+prob: 0,06452
+[android/opengl/GLES20/glActiveTexture(int), android/opengl/GLES20/glGetUniformLocation(int]
+
+prob: 0,06452
+[java.lang.String)]
+
+prob: 0,06452
+[java/io/IOException/printStackTrace(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(), java/lang/StringBuilder/toString(), android/content/Context/getResources(]
+
+prob: 0,06452
+[byte[]]
+
+prob: 0,06452
+[android/content/res/Resources/openRawResource(int)]
+
+prob: 0,06452
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,03226
+[java/nio/ShortBuffer/slice(), java/nio/ShortBuffer/position(int), java/nio/ByteBuffer/getShort(int), java/nio/ByteBuffer/slice(), android/util/Log/e(java.lang.String]
+
+prob: 0,03226
+[net.georgewhiteside.android.abstractart.settings.ThumbnailAdapter$ViewHolder)]
+
+prob: 0,03226
+[android.view.View]
+
+prob: 0,03226
+[java/lang/Integer/intValue(), java/lang/String/equals(java.lang.Object), java/lang/Integer/valueOf(java.lang.String), android/content/SharedPreferences/getBoolean(java.lang.String]
+
+prob: 0,03226
+[javax/microedition/khronos/egl/EGLContext/getEGL(), javax/microedition/khronos/egl/EGL10/eglCreatePbufferSurface(javax.microedition.khronos.egl.EGLDisplay]
+
+prob: 0,03226
+[android/opengl/GLSurfaceView/setRenderMode(int), android/widget/ImageView/post(java.lang.Runnable), android/widget/Toast/show(), android/widget/TextView/setText(java.lang.CharSequence), android/app/Activity/onCreate(android.os.Bundle), android/widget/TextView/setTextColor(int), android/widget/TextView/setBackgroundColor(int), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/widget/TextView/startAnimation(android.view.animation.Animation), net/georgewhiteside/android/abstractart/UniformGridView/setAdapter(android.widget.ListAdapter), android/view/animation/AnimationSet/addAnimation(android.view.animation.Animation), net/georgewhiteside/android/abstractart/settings/BackgroundSelector/findViewById(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,03226
+[android/app/Dialog/setContentView(android.view.View), android/widget/TextView/setText(java.lang.CharSequence), android/widget/TextView/setPadding(int]
+
+prob: 0,03226
+[android/text/Html/fromHtml(java.lang.String)]
+
+prob: 0,03226
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/LinkedHashMap/entrySet(), java/lang/Class/getName(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(]
+
+prob: 0,03226
+[java/util/Iterator/next()]
+
+prob: 0,03226
+[android/opengl/GLES20/glActiveTexture(int), android/opengl/GLES20/glUniform1i(int]
+
+prob: 0,03226
+[java/nio/ByteOrder/nativeOrder(), android/opengl/GLES20/glBlendFunc(int]
+
+prob: 0,03226
+[java/io/IOException/printStackTrace(), android/content/Context/getCacheDir(), java/nio/ByteBuffer/order(java.nio.ByteOrder), java/nio/ByteBuffer/position(int), java/nio/IntBuffer/put(int), java/io/File/mkdirs(), android/graphics/BitmapFactory/decodeFile(java.lang.String), java/nio/ByteBuffer/asIntBuffer()]
+
+prob: 0,03226
+[java/io/IOException/printStackTrace(), java/lang/String/format(java.lang.String]
+
+prob: 0,03226
+[javax.microedition.khronos.egl.EGLConfig)]
+
+prob: 0,03226
+[int]
+
+prob: 0,03226
+[android/view/Display/getHeight(), android/view/Display/getWidth(), net/georgewhiteside/android/abstractart/Wallpaper$AbstractArtEngine/setRenderer(android.opengl.GLSurfaceView$Renderer), android/util/Log/i(java.lang.String]
+
+prob: 0,03226
+[android/util/Log/w(java.lang.String]
+
+prob: 0,03226
+[org/json/JSONException/printStackTrace(), java/io/IOException/printStackTrace(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,03226
+[org/json/JSONException/printStackTrace(), java/util/ArrayList/ArrayList(int), java/io/IOException/printStackTrace(), java/lang/String/String(byte[]), java/lang/Integer/valueOf(int), java/io/File/length(), java/io/FileInputStream/read(byte[]]
+
+prob: 0,03226
+[java.util.Map]
+
+prob: 0,03226
+[java/io/BufferedReader/close(), java/lang/String/valueOf(java.lang.Object), java/lang/String/trim(), java/lang/String/equals(java.lang.Object), android/content/res/Resources/openRawResource(int), java/lang/StringBuffer/StringBuffer()]
+
+prob: 0,03226
+[java/lang/String/length()]
+
+prob: 0,03226
+[java/lang/String/substring(int)]
+
+prob: 0,03226
+[java/lang/StringBuffer/append(java.lang.String)]
+
+prob: 0,03226
+[java/lang/String/charAt(int)]
+
+prob: 0,03226
+[java/lang/StringBuffer/toString()]
+
+prob: 0,03226
+[android/webkit/WebView/WebView(android.content.Context), android/content/res/Resources/getString(int), android/webkit/WebView/setBackgroundColor(int), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,03226
+[android/graphics/Bitmap/copyPixelsToBuffer(java.nio.Buffer)]
+
+prob: 0,03226
+[android/util/Log/e(java.lang.String]
+
+prob: 0,03226
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), android/content/Context/getResources(]
+
+prob: 0,03226
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03226
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,03226
+[java/io/InputStreamReader/InputStreamReader(java.io.InputStream)]
+
+prob: 0,03226
+[java/io/BufferedReader/BufferedReader(java.io.Reader)]
+
+prob: 0,03226
+[java/io/BufferedReader/readLine()]
+
+prob: 0,03226
+[java/lang/StringBuilder/toString()]
+
+prob: 0,03226
+[java/io/IOException/printStackTrace()]
+

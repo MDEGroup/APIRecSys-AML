@@ -1,0 +1,21 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+android/view/View/getTop(
+com/agapep/audiobible/ui/activities/BibleListActivity/getBaseContext()
+java/lang/Integer/valueOf(int
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/StringBuilder(
+android/view/ViewConfiguration/getScaledMaximumFlingVelocity(
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+android/support/v4/view/ViewPager/scrollTo(int,int
+android/view/ViewGroup/getBottom(
+java/util/ArrayList/add(java.lang.Object
+java/lang/Integer/intValue()
+org.api.fake
+android/view/View/getLeft(
+android/view/View/getLayoutParams()
+android/widget/Toast/show(
+org.rand.api
+java/lang/Math/min(int,int
+android/support/v4/widget/DrawerLayout/getWidth()
+android/view/MenuItem/setActionProvider(android.view.ActionProvider)

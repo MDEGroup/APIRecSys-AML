@@ -1,0 +1,12 @@
+android/content/SharedPreferences/getInt(java.lang.String,int
+com/cax/pmk/InfoActivity/getString(int)
+android/content/ClipboardManager/setPrimaryClip(android.content.ClipData)
+org.api.fake
+java/lang/StringBuilder/toString(
+android/util/Log/d(java.lang.String,java.lang.String
+com/cax/pmk/MainActivity/getWindow(
+java/util/ArrayList/size(
+android/widget/Button/getTextSize(
+org.rand.api
+java/util/ArrayList/ArrayList()
+java/lang/String/trim(

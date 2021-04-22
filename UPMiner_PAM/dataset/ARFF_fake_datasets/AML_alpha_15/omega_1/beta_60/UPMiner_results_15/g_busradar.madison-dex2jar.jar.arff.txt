@@ -1,0 +1,6 @@
+android/database/Cursor/getInt(int
+android/graphics/Bitmap/getWidth()
+java/lang/StringBuilder/append(java.lang.String)
+org.api.fake
+java/lang/StringBuilder/StringBuilder()
+java/lang/Integer/Integer(int)

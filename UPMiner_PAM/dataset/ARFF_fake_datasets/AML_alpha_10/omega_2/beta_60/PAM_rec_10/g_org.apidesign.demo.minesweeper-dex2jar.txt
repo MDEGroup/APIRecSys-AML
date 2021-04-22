@@ -1,0 +1,75 @@
+java.lang.String  0,09836
+java.io.StringWriter  0,08197
+javax.lang.model.element.Element  0,04918
+java.lang.Object)  0,04918
+javax.annotation.processing.RoundEnvironment)  0,03279
+javax.lang.model.element.AnnotationMirror  0,03279
+java.lang.String)  0,03279
+java.io.Writer  0,03279
+javax.lang.model.element.TypeElement  0,03279
+java/util/Iterator/hasNext()  0,03279
+java/lang/Object/toString(), java/lang/String/length(), java/lang/Class/getName(), java/lang/String/substring(int  0,01639
+java/lang/Object/toString(), java/lang/String/length(), java/lang/Character/charValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int  0,01639
+java/lang/Object/toString(), java/util/List/isEmpty(), javax/lang/model/element/ExecutableElement/getParameters(), javax/annotation/processing/ProcessingEnvironment/getTypeUtils(), javax/lang/model/element/Name/contentEquals(java.lang.CharSequence), javax/lang/model/element/ExecutableElement/getSimpleName(), java/util/Map/values(), javax/lang/model/element/Element/getKind(), javax/lang/model/element/Element/getSimpleName(), java/util/Collection/contains(java.lang.Object  0,01639
+int  0,01639
+boolean  0,01639
+java/lang/ClassLoader/getParent(), java/util/ServiceLoader/load(java.lang.Class  0,01639
+java/util/ServiceLoader/load(java.lang.Class)  0,01639
+java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), javax/lang/model/type/TypeMirror/getKind(), java/util/List/iterator(), java/util/Iterator/hasNext(), javax/lang/model/element/ExecutableElement/asType(), javax/lang/model/util/Types/asElement(javax.lang.model.type.TypeMirror), javax/lang/model/type/TypeKind/ordinal()  0,01639
+java/util/Iterator/next(), org/objectweb/asm/MethodVisitor/visitCode(), org/objectweb/asm/MethodVisitor/visitAnnotation(java.lang.String  0,01639
+java/util/Iterator/hasNext(), javax/annotation/processing/Filer/createSourceFile(java.lang.CharSequence  0,01639
+java/net/URL/openConnection(), java/io/IOException/IOException(java.lang.String), java/net/URLConnection/getInputStream(), java/lang/StringBuilder/toString(), java/util/logging/Logger/log(java.util.logging.Level  0,01639
+java/net/HttpURLConnection/setReadTimeout(int)  0,01639
+java/lang/StringBuilder/append(int), java/util/Set/toArray(), java/lang/StringBuilder/append(boolean), java/util/Map/put(java.lang.Object  0,01639
+java/net/HttpURLConnection/getResponseCode()  0,01639
+android/content/res/AssetFileDescriptor/getFileDescriptor(), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor  0,01639
+javax.lang.model.element.ExecutableElement  0,01639
+javax/annotation/processing/ProcessingEnvironment/getElementUtils(), java/util/Iterator/hasNext(), java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream  0,01639
+org.netbeans.html.context.spi.Contexts$Builder)  0,01639
+org.netbeans.html.boot.impl.FindResources  0,01639
+java/lang/Class/forName(java.lang.String), java/io/InputStream/read(byte[  0,01639
+java/lang/Class/getName(), java/lang/StringBuilder/StringBuilder(), java/lang/Boolean/valueOf(boolean), java/lang/String/replace(char  0,01639
+java/io/Reader/read(), java/lang/String/trim(), java/lang/Math/max(int  0,01639
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), org/json/JSONObject/put(java.lang.String  0,01639
+java/util/ArrayList/ArrayList(), java/lang/String/trim(), java/lang/Math/max(int  0,01639
+java/lang/Character/toString(char)  0,01639
+java/lang/StringBuilder/StringBuilder(int)  0,01639
+java/io/Writer/append(char)  0,01639
+javax/lang/model/element/Element/getEnclosedElements(), javax/lang/model/type/TypeMirror/getKind(), java/util/List/iterator(), java/util/Iterator/hasNext(), java/util/Iterator/next()  0,01639
+javax/lang/model/element/Element/getEnclosedElements(), javax/lang/model/element/ExecutableElement/getSimpleName(), java/util/Iterator/hasNext(), java/util/Iterator/next(), javax/lang/model/element/Element/getKind(  0,01639
+java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Character/isJavaIdentifierPart(char), java/lang/String/indexOf(java.lang.String  0,01639
+java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/StringBuilder/insert(int  0,01639
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), javax/annotation/processing/ProcessingEnvironment/getTypeUtils(  0,01639
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/ServiceLoader/iterator(), java/lang/NullPointerException/NullPointerException(java.lang.String), java/lang/StringBuilder/toString(), java/util/Iterator/next()  0,01639
+boolean[  0,01639
+net.java.html.json.OnReceive)  0,01639
+javax.lang.model.element.Element)  0,01639
+java.util.Map  0,01639
+javax/lang/model/element/AnnotationMirror/getElementValues(), java/lang/Object/toString(), java/lang/String/equals(java.lang.Object), java/util/List/iterator(), javax/lang/model/element/AnnotationMirror/getAnnotationType(  0,01639
+java/util/Map$Entry/getKey()  0,01639
+java/util/Set/iterator()  0,01639
+javax/lang/model/element/AnnotationValue/toString()  0,01639
+java/util/Map$Entry/getValue()  0,01639
+java/util/Map/entrySet()  0,01639
+javax/lang/model/element/Element/getAnnotationMirrors()  0,01639
+java.net.URI  0,01639
+android/webkit/WebView/WebView(android.content.Context), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Activity/onCreate(android.os.Bundle)  0,01639
+com/dukescript/presenters/Android/getPackageName(), java/util/logging/Logger/log(java.util.logging.Level  0,01639
+java.net.URL)  0,01639
+javax/lang/model/type/ExecutableType/getParameterTypes(), javax/lang/model/type/TypeKind/isPrimitive(), javax/lang/model/type/ArrayType/getComponentType()  0,01639
+java/util/List/add(java.lang.Object)  0,01639
+java/lang/StringBuilder/append(int)  0,01639
+java/lang/StringBuilder/append(java.lang.Object)  0,01639
+java/util/Map/put(java.lang.Object  0,01639
+java/lang/StringBuilder/append(char)  0,01639
+java/util/List/isEmpty()  0,01639
+javax/lang/model/util/Types/asElement(javax.lang.model.type.TypeMirror)  0,01639
+javax/lang/model/element/ExecutableElement/getParameters()  0,01639
+javax/lang/model/element/Name/contentEquals(java.lang.CharSequence)  0,01639
+java/lang/StringBuilder/StringBuilder()  0,01639
+java/util/logging/Logger/log(java.util.logging.Level  0,01639
+java/lang/Class/getName()  0,01639
+java/lang/StringBuilder/append(java.lang.String)  0,01639
+java/lang/StringBuilder/toString()  0,01639
+java/util/List/iterator()  0,01639
+java/util/Iterator/next()  0,01639

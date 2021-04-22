@@ -1,0 +1,13 @@
+java/io/File/File(java.io.File,java.lang.String)
+java/io/BufferedReader/readLine(
+java/io/File/getParentFile(
+com/badlogic/gdx/scenes/scene2d/ui/Container/clipEnd(
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/length()
+android/view/KeyEvent/getCharacters(
+java/util/Iterator/hasNext()
+org.api.fake
+java/lang/String/substring(int,int)
+java/lang/String/toLowerCase()

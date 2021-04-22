@@ -1,0 +1,456 @@
+prob: 0,14000
+[org.api.fake]
+
+prob: 0,14000
+[org.rand.api]
+
+prob: 0,10000
+[int]
+
+prob: 0,09000
+[int)]
+
+prob: 0,03500
+[android.view.View]
+
+prob: 0,03000
+[float]
+
+prob: 0,03000
+[java.io.FileDescriptor]
+
+prob: 0,02000
+[android.view.ViewGroup]
+
+prob: 0,02000
+[com.agapep.audiobible.model.BibleAudioReference)]
+
+prob: 0,01500
+[java.lang.ClassLoader)]
+
+prob: 0,01500
+[android.util.AttributeSet)]
+
+prob: 0,01500
+[android.view.View)]
+
+prob: 0,01500
+[android.support.v4.view.PagerAdapter)]
+
+prob: 0,01500
+[java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,01500
+[android/util/Log/v(java.lang.String]
+
+prob: 0,01500
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01500
+[java/lang/StringBuilder/toString()]
+
+prob: 0,01500
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01000
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,01000
+[java/lang/Class/getName()]
+
+prob: 0,01000
+[android.app.Notification]
+
+prob: 0,01000
+[java.lang.String]
+
+prob: 0,01000
+[android/support/v4/widget/DrawerLayout/getWidth(), android/view/View/getWidth(), android/support/v4/widget/DrawerLayout/invalidate(), android/view/View/getLayoutParams(), android/view/View/getTop(]
+
+prob: 0,01000
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01000
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,01000
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int]
+
+prob: 0,01000
+[android/util/Log/w(java.lang.String]
+
+prob: 0,01000
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/size(), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String]
+
+prob: 0,01000
+[android/support/v4/view/ViewPager/findFocus()]
+
+prob: 0,01000
+[java/lang/Runnable/run(), java/util/ArrayList/size(), java/util/ArrayList/get(int)]
+
+prob: 0,01000
+[android/widget/Scroller/abortAnimation()]
+
+prob: 0,01000
+[android/view/View/getRight(), android/view/View/getBottom()]
+
+prob: 0,01000
+[android/widget/TextView/setText(java.lang.CharSequence)]
+
+prob: 0,01000
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int]
+
+prob: 0,01000
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,01000
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00500
+[android/support/v4/app/FragmentActivity/getBaseContext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String]
+
+prob: 0,00500
+[android/widget/ImageView/startAnimation(android.view.animation.Animation), android/widget/ImageView/clearAnimation()]
+
+prob: 0,00500
+[com/agapep/audiobible/ui/activities/BibleListActivity/requestWindowFeature(int), android/view/View/findViewById(int), com/agapep/audiobible/ui/fragments/PlayerFragment/getView(), android/content/Intent/getStringExtra(java.lang.String), com/agapep/audiobible/ui/activities/BibleListActivity/getIntent(), android/view/View/setOnClickListener(android.view.View$OnClickListener), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String]
+
+prob: 0,00500
+[com/agapep/audiobible/ui/activities/BibleListActivity/getSupportFragmentManager()]
+
+prob: 0,00500
+[android/os/Bundle/Bundle(), android/os/Bundle/putParcelableArray(java.lang.String]
+
+prob: 0,00500
+[android/os/Bundle/Bundle(), java/lang/StringBuilder/toString()]
+
+prob: 0,00500
+[java/util/LinkedHashMap/entrySet()]
+
+prob: 0,00500
+[java/util/Set/iterator()]
+
+prob: 0,00500
+[java/util/LinkedHashMap/isEmpty()]
+
+prob: 0,00500
+[java/util/LinkedHashMap/remove(java.lang.Object)]
+
+prob: 0,00500
+[android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)]
+
+prob: 0,00500
+[android/os/Handler/post(java.lang.Runnable)]
+
+prob: 0,00500
+[android/support/v4/app/ListFragment/getView()]
+
+prob: 0,00500
+[java/lang/StringBuilder/StringBuilder(), android/content/SharedPreferences/getBoolean(java.lang.String]
+
+prob: 0,00500
+[android/graphics/Paint/setColor(int), android/widget/TextView/getLeft(), android/support/v4/view/PagerTitleStrip/onDraw(android.graphics.Canvas), android/support/v4/view/PagerTabStrip/getWidth(), android/widget/TextView/getRight(), android/support/v4/view/PagerTabStrip/getHeight(), android/support/v4/view/PagerTabStrip/getPaddingLeft(), android/graphics/Canvas/drawRect(float]
+
+prob: 0,00500
+[android/os/Handler/hasMessages(int), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), android/util/Log/v(java.lang.String]
+
+prob: 0,00500
+[android/content/Intent/getFlags(), android/content/Intent/getScheme(), android/content/Context/getContentResolver(), java/util/HashMap/get(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,00500
+[java/io/OutputStream/close(), java/lang/NullPointerException/printStackTrace(), java/lang/StringBuilder/append(java.lang.String), com/agapep/audiobible/services/DownloadAudioTask/cancel(boolean), java/io/File/getAbsolutePath(), java/io/OutputStream/write(byte[]]
+
+prob: 0,00500
+[java/io/InputStream/read(byte[])]
+
+prob: 0,00500
+[com/agapep/audiobible/services/AudioService/getApplicationContext(), android/util/Log/d(java.lang.String]
+
+prob: 0,00500
+[java/lang/Long/valueOf(long), android/util/Log/d(java.lang.String]
+
+prob: 0,00500
+[android/content/SharedPreferences$Editor/commit()]
+
+prob: 0,00500
+[java.io.PrintWriter]
+
+prob: 0,00500
+[com/agapep/audiobible/services/AudioService/getBaseContext(), android/media/MediaPlayer/MediaPlayer()]
+
+prob: 0,00500
+[java.lang.String)]
+
+prob: 0,00500
+[java.lang.Object)]
+
+prob: 0,00500
+[android/view/VelocityTracker/clear(), android/view/MotionEvent/getDownTime(), android/view/VelocityTracker/computeCurrentVelocity(int]
+
+prob: 0,00500
+[android.app.Activity]
+
+prob: 0,00500
+[android/app/Dialog/setContentView(android.view.View), android/support/v4/app/DialogFragment/getView(), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(]
+
+prob: 0,00500
+[android/app/Dialog/setCancelable(boolean), android/support/v4/app/DialogFragment/getActivity(), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,00500
+[android/net/Uri/encode(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/util/Map$Entry/getKey(), android/net/Uri$Builder/encodedPath(java.lang.String), java/lang/String/length(), android/net/Uri$Builder/build(), android/net/Uri/encode(java.lang.String]
+
+prob: 0,00500
+[java/util/Iterator/hasNext(), java/util/HashMap/entrySet(), android/net/Uri$Builder/authority(java.lang.String), java/io/File/getPath(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,00500
+[android/net/Uri$Builder/Uri$Builder()]
+
+prob: 0,00500
+[java.io.File)]
+
+prob: 0,00500
+[java.lang.StringBuilder)]
+
+prob: 0,00500
+[android/content/Intent/removeExtra(java.lang.String), java/util/ArrayList/isEmpty(), android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String]
+
+prob: 0,00500
+[boolean)]
+
+prob: 0,00500
+[android/os/Looper/myLooper(), java/util/ArrayList/toArray(java.lang.Object[]), java/util/ArrayList/clear(]
+
+prob: 0,00500
+[android/os/Handler/removeCallbacks(java.lang.Runnable)]
+
+prob: 0,00500
+[java/io/IOException/printStackTrace(), java/lang/IllegalArgumentException/printStackTrace(), android/media/MediaPlayer/setOnErrorListener(android.media.MediaPlayer$OnErrorListener), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,00500
+[java.util.ArrayList)]
+
+prob: 0,00500
+[android.support.v4.app.BackStackRecord)]
+
+prob: 0,00500
+[java.io.BufferedReader)]
+
+prob: 0,00500
+[android.content.Intent)]
+
+prob: 0,00500
+[android.content.Context]
+
+prob: 0,00500
+[android/view/View/isHorizontalScrollBarEnabled(), android/view/View/getId(), java/lang/StringBuilder/StringBuilder(int), android/view/View/isEnabled(), java/lang/StringBuilder/append(char), android/view/View/isLongClickable(), android/content/res/Resources/getResourcePackageName(int), android/view/View/willNotDraw(), android/content/res/Resources/getResourceTypeName(int), android/view/View/getVisibility(), android/view/View/isFocusable(), android/view/View/isFocused(), android/view/View/getResources(), android/view/View/isClickable(), android/view/View/isPressed(), android/content/res/Resources/getResourceEntryName(int), android/view/View/isVerticalScrollBarEnabled(), android/view/View/getTop(), android/view/View/getLeft()]
+
+prob: 0,00500
+[java/lang/System/identityHashCode(java.lang.Object), java/lang/Integer/toHexString(int), android/view/View/isSelected(]
+
+prob: 0,00500
+[java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences$Editor/remove(java.lang.String), java/util/List/size(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00500
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/toArray(java.lang.Object[]), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00500
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/Object/getClass(), java/lang/StringBuilder/toString()]
+
+prob: 0,00500
+[java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,00500
+[java/lang/StringBuilder/append(java.lang.String), java/io/File/File(java.io.File]
+
+prob: 0,00500
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,00500
+[android/view/ViewConfiguration/get(android.content.Context), android/support/v4/view/ViewPager/setFocusable(boolean), android/support/v4/view/ViewPager/setDescendantFocusability(int), android/support/v4/view/ViewPager/setWillNotDraw(boolean), android/support/v4/view/ViewPager/getContext(), android/content/Context/getResources(), android/content/res/Resources/getDisplayMetrics(), android/widget/Scroller/Scroller(android.content.Context]
+
+prob: 0,00500
+[android/graphics/Canvas/translate(float]
+
+prob: 0,00500
+[android/view/MotionEvent/getEdgeFlags(), android/support/v4/view/ViewPager/getScrollX()]
+
+prob: 0,00500
+[android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/view/VelocityTracker/computeCurrentVelocity(int]
+
+prob: 0,00500
+[android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/widget/Scroller/getCurrX()]
+
+prob: 0,00500
+[android/view/MotionEvent/getY()]
+
+prob: 0,00500
+[android/support/v4/view/ViewPager/getScrollX(), android/support/v4/view/ViewPager/scrollTo(int]
+
+prob: 0,00500
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/next(), java/util/Map$Entry/getKey(), java/util/Map$Entry/getValue(]
+
+prob: 0,00500
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/widget/ListView/setEmptyView(android.view.View), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String]
+
+prob: 0,00500
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/Handler/getLooper()]
+
+prob: 0,00500
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/support/v4/view/ViewPager/scrollTo(int]
+
+prob: 0,00500
+[android/os/SystemClock/uptimeMillis()]
+
+prob: 0,00500
+[android/support/v4/view/ViewPager/getPaddingLeft()]
+
+prob: 0,00500
+[java/lang/Integer/toHexString(int), android/support/v4/view/ViewPager/getId(), java/lang/Math/max(int]
+
+prob: 0,00500
+[android/support/v4/view/ViewPager/getWindowToken()]
+
+prob: 0,00500
+[android/support/v4/view/ViewPager/hasFocus()]
+
+prob: 0,00500
+[android/view/SoundEffectConstants/getContantForFocusDirection(int)]
+
+prob: 0,00500
+[android/view/View/requestFocus()]
+
+prob: 0,00500
+[java/lang/Class/getSimpleName()]
+
+prob: 0,00500
+[android/view/ViewParent/getParent()]
+
+prob: 0,00500
+[android/view/FocusFinder/getInstance()]
+
+prob: 0,00500
+[android/widget/Scroller/getCurrY()]
+
+prob: 0,00500
+[android/support/v4/view/ViewPager/getScrollY()]
+
+prob: 0,00500
+[android/widget/Scroller/computeScrollOffset()]
+
+prob: 0,00500
+[android/widget/Scroller/getFinalX()]
+
+prob: 0,00500
+[android/view/VelocityTracker/recycle()]
+
+prob: 0,00500
+[java/lang/Math/abs(int)]
+
+prob: 0,00500
+[android/view/VelocityTracker/obtain()]
+
+prob: 0,00500
+[android/view/MotionEvent/getAction()]
+
+prob: 0,00500
+[java/lang/Math/abs(float)]
+
+prob: 0,00500
+[android/view/MotionEvent/getY(]
+
+prob: 0,00500
+[com/agapep/audiobible/ui/activities/AboutActivity/findViewById(int)]
+
+prob: 0,00500
+[android/content/pm/PackageManager$NameNotFoundException/printStackTrace()]
+
+prob: 0,00500
+[android/text/Html/fromHtml(java.lang.String)]
+
+prob: 0,00500
+[java/lang/String/format(java.lang.String]
+
+prob: 0,00500
+[android/graphics/drawable/Drawable/setBounds(int]
+
+prob: 0,00500
+[android/support/v4/widget/SlidingPaneLayout/getPaddingLeft()]
+
+prob: 0,00500
+[android/view/View/setVisibility(int)]
+
+prob: 0,00500
+[android/support/v4/widget/SlidingPaneLayout/getPaddingTop()]
+
+prob: 0,00500
+[android/support/v4/widget/SlidingPaneLayout/getHeight()]
+
+prob: 0,00500
+[android/support/v4/widget/SlidingPaneLayout/getWidth()]
+
+prob: 0,00500
+[android/support/v4/widget/SlidingPaneLayout/getPaddingRight()]
+
+prob: 0,00500
+[android/support/v4/widget/SlidingPaneLayout/getChildCount()]
+
+prob: 0,00500
+[java/lang/Object/toString()]
+
+prob: 0,00500
+[java/lang/StringBuilder/append(java.lang.CharSequence)]
+
+prob: 0,00500
+[android/graphics/Rect/Rect()]
+
+prob: 0,00500
+[java/lang/Integer/numberOfTrailingZeros(int)]
+
+prob: 0,00500
+[java/lang/StringBuilder/append(boolean)]
+
+prob: 0,00500
+[java/lang/Integer/intValue()]
+
+prob: 0,00500
+[android/view/View/findViewById(int)]
+
+prob: 0,00500
+[java/lang/Object/getClass()]
+
+prob: 0,00500
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,00500
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), android/util/Log/v(java.lang.String]
+
+prob: 0,00500
+[java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int]
+
+prob: 0,00500
+[java/util/ArrayList/remove(int)]
+
+prob: 0,00500
+[android/widget/Scroller/getCurrX()]
+
+prob: 0,00500
+[java/io/File/File(java.io.File]
+
+prob: 0,00500
+[java/lang/Math/max(int]
+
+prob: 0,00500
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,00500
+[android/view/View/getLayoutParams()]
+
+prob: 0,00500
+[java/util/ArrayList/get(int)]
+
+prob: 0,00500
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,00500
+[java/util/ArrayList/size()]
+

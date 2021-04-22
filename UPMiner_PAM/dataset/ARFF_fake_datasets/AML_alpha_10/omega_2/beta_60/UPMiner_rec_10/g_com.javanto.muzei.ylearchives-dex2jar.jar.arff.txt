@@ -1,0 +1,12 @@
+java/lang/reflect/GenericArrayType/getGenericComponentType()
+java/lang/Object/getClass(
+org/apache/http/HttpResponse/getAllHeaders()
+java/lang/reflect/Method/setAccessible(boolean
+android/content/Intent/setComponent(android.content.ComponentName
+java/lang/Class/forName(java.lang.String)
+android/widget/TextView/setFocusable(boolean)
+java/util/List/add(java.lang.Object
+java/util/Arrays/equals(byte[],byte[])
+android/app/Activity/getResources(
+android/content/Intent/setData(android.net.Uri)
+java/security/MessageDigest/getInstance(java.lang.String

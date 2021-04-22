@@ -1,0 +1,6 @@
+java/lang/String/endsWith(java.lang.String
+java/io/BufferedReader/readLine(
+java/lang/Integer/intValue()
+android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int,int,float)
+java/lang/String/getBytes()
+android/widget/EditText/setBackgroundColor(int

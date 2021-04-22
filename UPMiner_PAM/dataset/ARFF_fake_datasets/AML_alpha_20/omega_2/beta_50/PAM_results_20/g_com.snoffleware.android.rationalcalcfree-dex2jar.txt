@@ -1,0 +1,333 @@
+prob: 0,06364
+[java.lang.String]
+
+prob: 0,06364
+[double]
+
+prob: 0,05455
+[android/util/Log/v(java.lang.String]
+
+prob: 0,04545
+[java.lang.String)]
+
+prob: 0,03636
+[java.text.ParsePosition)]
+
+prob: 0,03636
+[int)]
+
+prob: 0,03636
+[java/util/Iterator/next()]
+
+prob: 0,02727
+[java/lang/StringBuffer/toString()]
+
+prob: 0,02727
+[java/lang/String/valueOf(java.lang.Object), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,02727
+[android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,01818
+[android/content/Context/getString(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/ArrayList/ArrayList(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(char]
+
+prob: 0,01818
+[java/lang/String/charAt(int), java/lang/Character/isLetter(char), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/length(), java/lang/String/valueOf(char)]
+
+prob: 0,01818
+[java/lang/Math/min(double]
+
+prob: 0,01818
+[java/lang/String/length(), java/lang/Character/isDigit(char)]
+
+prob: 0,01818
+[org.json.JSONObject)]
+
+prob: 0,01818
+[java/util/ArrayList/ArrayList(), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,01818
+[java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/Integer/toHexString(int), java/lang/String/substring(int]
+
+prob: 0,01818
+[int]
+
+prob: 0,01818
+[android/util/Log/w(java.lang.String]
+
+prob: 0,00909
+[com.snoffleware.android.rationalcalcbase.UnitType]
+
+prob: 0,00909
+[com/snoffleware/android/rationalcalcbase/ExpressionParserException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,00909
+[com/admob/android/ads/j$a/ordinal(), android/app/Activity/onCreate(android.os.Bundle), java/util/Vector/Vector(), android/util/Log/e(java.lang.String]
+
+prob: 0,00909
+[com/admob/android/ads/q$a/ordinal()]
+
+prob: 0,00909
+[java/lang/String/charAt(int), java/lang/Character/isLetter(char), java/lang/Double/parseDouble(java.lang.String)]
+
+prob: 0,00909
+[java.lang.StringBuffer]
+
+prob: 0,00909
+[java/security/MessageDigest/reset()]
+
+prob: 0,00909
+[java.util.List]
+
+prob: 0,00909
+[java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/List/set(int]
+
+prob: 0,00909
+[java/util/ArrayList/iterator(), java/util/Vector/Vector(), android/os/Bundle/getByte(java.lang.String), android/os/Bundle/getString(java.lang.String]
+
+prob: 0,00909
+[java/util/ArrayList/iterator(), java/util/Vector/Vector(), android/os/Bundle/getByte(java.lang.String), android/os/Bundle/getBundle(java.lang.String)]
+
+prob: 0,00909
+[java.util.Map]
+
+prob: 0,00909
+[android.view.View)]
+
+prob: 0,00909
+[com/admob/android/ads/j$a/a(java.lang.String)]
+
+prob: 0,00909
+[com.admob.android.ads.k)]
+
+prob: 0,00909
+[java/lang/Object/equals(java.lang.Object), java/util/Iterator/hasNext(), java/util/Map/get(java.lang.Object), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue()]
+
+prob: 0,00909
+[com.admob.android.ads.u]
+
+prob: 0,00909
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,00909
+[android.graphics.Bitmap)]
+
+prob: 0,00909
+[java/util/ArrayList/ArrayList(java.util.Collection), org/apache/commons/math/genetics/BinaryChromosome/getLength(), java/util/List/set(int]
+
+prob: 0,00909
+[java/util/Date/toString()]
+
+prob: 0,00909
+[android/location/Location/getLongitude()]
+
+prob: 0,00909
+[java/util/Iterator/hasNext(), java/lang/Math/abs(double), java/util/List/add(java.lang.Object), java/util/List/iterator(), java/lang/Integer/valueOf(int), java/util/List/get(int]
+
+prob: 0,00909
+[java/util/Iterator/hasNext(), android/os/Bundle/getParcelableArrayList(java.lang.String), android/os/Bundle/getInt(java.lang.String), java/util/Vector/add(java.lang.Object), android/os/Bundle/getDouble(java.lang.String)]
+
+prob: 0,00909
+[java/util/Iterator/hasNext(), android/os/Bundle/getBoolean(java.lang.String]
+
+prob: 0,00909
+[java/util/Iterator/hasNext(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/lang/Math/abs(double), java/lang/Double/doubleValue(), java/lang/Math/pow(double]
+
+prob: 0,00909
+[java/util/Iterator/hasNext(), java/util/TreeMap/keySet(), java/util/Set/iterator(), java/text/NumberFormat/getPercentInstance(), java/lang/StringBuffer/append(java.lang.String), java/text/NumberFormat/format(double), java/lang/StringBuffer/StringBuffer(), java/lang/StringBuffer/append(long]
+
+prob: 0,00909
+[java/util/Iterator/hasNext(), java/util/Comparator/compare(java.lang.Object]
+
+prob: 0,00909
+[java/lang/Object/getClass()]
+
+prob: 0,00909
+[java/lang/Math/ulp(double)]
+
+prob: 0,00909
+[android/widget/Button/setWidth(int), android/widget/RelativeLayout/addView(android.view.View]
+
+prob: 0,00909
+[android/content/res/Resources/getDisplayMetrics(), android/graphics/Bitmap/getWidth(), android/view/ViewGroup/setVisibility(int), android/view/ViewGroup/setBackgroundColor(int), com/admob/android/ads/ac/addView(android.view.View]
+
+prob: 0,00909
+[java/util/Map$Entry/getKey(), java/util/Map/entrySet(]
+
+prob: 0,00909
+[com/admob/android/ads/ac/getContext(), com/admob/android/ads/ac/addView(android.view.View]
+
+prob: 0,00909
+[android/widget/VideoView/setOnErrorListener(android.media.MediaPlayer$OnErrorListener), com/admob/android/ads/ac/addView(android.view.View]
+
+prob: 0,00909
+[android/widget/VideoView/setBackgroundDrawable(android.graphics.drawable.Drawable)]
+
+prob: 0,00909
+[java/lang/String/split(java.lang.String), java/lang/Boolean/valueOf(boolean), java/lang/Integer/parseInt(java.lang.String), java/util/List/get(int), java/util/List/size(), java/lang/String/contains(java.lang.CharSequence), com/snoffleware/android/rationalcalcbase/UnitType/getUnitTypeFromAbbreviation(java.lang.String]
+
+prob: 0,00909
+[java/math/BigDecimal/BigDecimal(java.math.BigInteger), java/lang/Integer/intValue(), java/math/BigDecimal/intValue(), com/snoffleware/android/rationalcalcbase/UnitType/getId(), java/lang/String/valueOf(java.lang.Object), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,00909
+[java/lang/String/trim(), java/util/Queue/add(java.lang.Object), java/util/List/size(), java/util/List/clear()]
+
+prob: 0,00909
+[com/snoffleware/android/rationalcalcbase/UnitType/getUnitTypeFromId(int)]
+
+prob: 0,00909
+[java/util/Map/size()]
+
+prob: 0,00909
+[java/lang/String/toLowerCase(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/String/format(java.lang.String]
+
+prob: 0,00909
+[java.lang.Object[])]
+
+prob: 0,00909
+[android.content.Intent)]
+
+prob: 0,00909
+[java/lang/StringBuffer/append(char)]
+
+prob: 0,00909
+[java/lang/StringBuffer/append(java.lang.Object)]
+
+prob: 0,00909
+[android/os/SystemClock/uptimeMillis(), java/lang/ref/WeakReference/get(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,00909
+[java/lang/Integer/longValue(), java/util/TreeMap/get(java.lang.Object), java/util/TreeMap/comparator(), java/util/Iterator/next(), java/lang/Long/longValue()]
+
+prob: 0,00909
+[java/util/TreeMap/firstKey()]
+
+prob: 0,00909
+[android.view.animation.Transformation)]
+
+prob: 0,00909
+[java/io/BufferedWriter/BufferedWriter(java.io.Writer]
+
+prob: 0,00909
+[android/content/Context/getMainLooper(), android/util/Log/i(java.lang.String]
+
+prob: 0,00909
+[java/lang/ref/WeakReference/get(), com/admob/android/ads/k/setVisibility(int), com/admob/android/ads/an/setInterpolator(android.view.animation.Interpolator), com/admob/android/ads/AdView/getHeight(), android/util/Log/e(java.lang.String]
+
+prob: 0,00909
+[java/lang/ref/WeakReference/get(), java/util/Vector/size()]
+
+prob: 0,00909
+[java/security/MessageDigest/digest(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/String/format(java.lang.String]
+
+prob: 0,00909
+[android/content/Context/getPackageManager(), android/content/pm/PackageManager/getApplicationInfo(java.lang.String]
+
+prob: 0,00909
+[android.graphics.Bitmap]
+
+prob: 0,00909
+[com/admob/android/ads/z/loadDataWithBaseURL(java.lang.String]
+
+prob: 0,00909
+[org.json.JSONArray)]
+
+prob: 0,00909
+[android/view/View/setBackgroundDrawable(android.graphics.drawable.Drawable), com/admob/android/ads/af/setTextSize(float), android/view/View/setAnimation(android.view.animation.Animation), android/widget/ImageView/setImageBitmap(android.graphics.Bitmap), android/graphics/Typeface/create(android.graphics.Typeface]
+
+prob: 0,00909
+[java/lang/StringBuilder/append(java.lang.String), android/content/Context/getString(int), java/lang/String/valueOf(java.lang.Object), android/util/Log/i(java.lang.String]
+
+prob: 0,00909
+[java/lang/StringBuilder/append(java.lang.String), java/util/Date/Date(long), java/lang/System/currentTimeMillis(), android/util/Log/d(java.lang.String]
+
+prob: 0,00909
+[java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,00909
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Exception/toString(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/insert(int]
+
+prob: 0,00909
+[org.json.JSONObject]
+
+prob: 0,00909
+[android.graphics.Rect)]
+
+prob: 0,00909
+[android.view.View]
+
+prob: 0,00909
+[android.graphics.Rect]
+
+prob: 0,00909
+[java/lang/String/valueOf(java.lang.Object), java/lang/Boolean/booleanValue()]
+
+prob: 0,00909
+[com/snoffleware/android/rationalcalcbase/RationalCalc/findViewById(int), android/content/SharedPreferences$Editor/putBoolean(java.lang.String]
+
+prob: 0,00909
+[java/lang/Integer/intValue(), org/apache/commons/math/genetics/BinaryChromosome/getRepresentation()]
+
+prob: 0,00909
+[java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/Set/contains(java.lang.Object), java/util/Set/add(java.lang.Object), java/util/HashSet/HashSet(), java/lang/StringBuilder/toString(), java/util/List/indexOf(java.lang.Object]
+
+prob: 0,00909
+[java/lang/Integer/intValue(), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,00909
+[java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,00909
+[com/snoffleware/android/rationalcalcbase/UnitType/getId(), com/snoffleware/android/rationalcalcbase/UnitType/isUnitType(java.lang.String), android/content/Context/getString(int), java/util/LinkedList/LinkedList(), java/util/List/get(int), android/content/SharedPreferences/getInt(java.lang.String]
+
+prob: 0,00909
+[java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00909
+[android/view/View/setVisibility(int), android/view/View/setBackgroundDrawable(android.graphics.drawable.Drawable), com/admob/android/ads/k/addView(android.view.View]
+
+prob: 0,00909
+[android/view/View/View(android.content.Context), android/graphics/drawable/Drawable/setAlpha(int), com/admob/android/ads/k/setBackgroundDrawable(android.graphics.drawable.Drawable)]
+
+prob: 0,00909
+[com/admob/android/ads/k/getChildAt(int), com/admob/android/ads/k/getChildCount(), com/admob/android/ads/k/indexOfChild(android.view.View), java/util/Vector/size(), java/util/Collections/sort(java.util.List]
+
+prob: 0,00909
+[android.content.Context]
+
+prob: 0,00909
+[android/view/animation/AnimationSet/addAnimation(android.view.animation.Animation), com/admob/android/ads/AdView/performClick(), android/view/animation/ScaleAnimation/ScaleAnimation(float]
+
+prob: 0,00909
+[java/lang/Boolean/valueOf(boolean)]
+
+prob: 0,00909
+[java/lang/Double/valueOf(double)]
+
+prob: 0,00909
+[java/util/Map$Entry/getKey()]
+
+prob: 0,00909
+[java/security/MessageDigest/digest()]
+
+prob: 0,00909
+[com/snoffleware/android/rationalcalcbase/UnitType/getId(), java/lang/String/valueOf(java.lang.Object), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,00909
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,00909
+[java/lang/Exception/toString()]
+
+prob: 0,00909
+[java/util/List/size()]
+
+prob: 0,00909
+[java/util/Set/iterator()]
+
+prob: 0,00909
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00909
+[java/lang/StringBuilder/toString()]
+

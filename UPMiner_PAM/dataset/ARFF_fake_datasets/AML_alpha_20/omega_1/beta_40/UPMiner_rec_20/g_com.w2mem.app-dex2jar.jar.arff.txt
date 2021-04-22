@@ -1,0 +1,10 @@
+android/database/sqlite/SQLiteDatabase/endTransaction(
+com/w2mem/app/Main/startActivity(android.content.Intent
+java/util/List/add(java.lang.Object)
+java/io/BufferedReader/close()
+android/widget/Button/setOnClickListener(android.view.View$OnClickListener
+android/content/res/Resources/getString(int)
+android/database/Cursor/getInt(int
+android/content/Intent/putExtra(java.lang.String,java.lang.String)
+com/w2mem/app/ChooseCategory/findViewById(int)
+android/view/Display/getMetrics(android.util.DisplayMetrics

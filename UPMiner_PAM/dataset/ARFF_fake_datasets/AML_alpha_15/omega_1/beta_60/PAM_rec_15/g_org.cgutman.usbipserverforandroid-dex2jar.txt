@@ -1,0 +1,13 @@
+java/util/Iterator/next(), java/util/Set/iterator(), java/util/concurrent/ConcurrentHashMap/entrySet(), java/lang/Thread/join(), java/net/Socket/close(), java/util/Map$Entry/getValue(), java/net/ServerSocket/close(  0,08333
+android/util/SparseArray/size(), android/content/Intent/Intent(android.content.Context  0,08333
+org.cgutman.usbip.server.protocol.dev.UsbIpSubmitUrb)  0,08333
+org.cgutman.usbip.server.protocol.dev.UsbIpUnlinkUrb)  0,08333
+android/hardware/usb/UsbEndpoint/getAddress(), android/hardware/usb/UsbInterface/getId(), android/hardware/usb/UsbInterface/getInterfaceClass(), android/hardware/usb/UsbDevice/getInterface(int), java/io/PrintStream/printf(java.lang.String  0,08333
+java/util/ArrayList/ArrayList(), java/util/Iterator/next(), android/hardware/usb/UsbDevice/getDeviceId(), java/util/Collection/iterator(), java/util/HashMap/values(), java/util/ArrayList/add(java.lang.Object), android/hardware/usb/UsbManager/getDeviceList(  0,08333
+java/util/Iterator/hasNext(), android/util/SparseArray/get(int)  0,08333
+java.lang.String)  0,08333
+android/os/PowerManager$WakeLock/acquire(), org/cgutman/usbip/service/UsbIpService/getSystemService(java.lang.String), android/os/PowerManager/newWakeLock(int  0,08333
+android/hardware/usb/UsbEndpoint/getType(), java/util/HashSet/remove(java.lang.Object), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/nio/ByteBuffer/array(), java/util/concurrent/ThreadPoolExecutor/isShutdown(), java/lang/StringBuilder/toString(), java/util/HashSet/contains(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String  0,08333
+android.hardware.usb.UsbEndpoint  0,08333
+android.hardware.usb.UsbDeviceConnection)  0,08333
+org.cgutman.usbip.usb.UsbDeviceDescriptor)  0,08333

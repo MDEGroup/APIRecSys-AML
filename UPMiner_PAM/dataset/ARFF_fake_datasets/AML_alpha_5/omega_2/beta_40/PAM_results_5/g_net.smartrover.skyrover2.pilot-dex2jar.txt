@@ -1,0 +1,96 @@
+prob: 0,08000
+[int)]
+
+prob: 0,08000
+[java.lang.String]
+
+prob: 0,04000
+[android/widget/LinearLayout/addView(android.view.View]
+
+prob: 0,04000
+[java.lang.String)]
+
+prob: 0,04000
+[java/util/ArrayList/ArrayList(), java/util/List/size(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/List/addAll(java.util.Collection]
+
+prob: 0,04000
+[java/util/ArrayList/ArrayList(), java/util/List/size(), java/lang/StringBuilder/StringBuilder(), java/util/List/get(int), java/lang/ClassLoader/getResources(java.lang.String), java/util/Enumeration/nextElement(), java/lang/StringBuilder/append(java.lang.Object), java/lang/Class/getClassLoader(), java/util/Enumeration/hasMoreElements(]
+
+prob: 0,04000
+[android.content.Intent)]
+
+prob: 0,04000
+[java/lang/ClassLoader/getSystemResources(java.lang.String)]
+
+prob: 0,04000
+[net/smartrover/skyrover2/pilot/MainActivity/registerReceiver(android.content.BroadcastReceiver]
+
+prob: 0,04000
+[java/lang/String/valueOf(java.lang.Object), android/content/SharedPreferences/contains(java.lang.String), java/lang/StringBuilder/append(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,04000
+[android/content/SharedPreferences$Editor/commit()]
+
+prob: 0,04000
+[net/smartrover/skyrover2/a/a/e/ordinal(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,04000
+[net/smartrover/skyrover2/a/a/e/a(byte), java/lang/Class/getName()]
+
+prob: 0,04000
+[android/bluetooth/BluetoothAdapter/startLeScan(android.bluetooth.BluetoothAdapter$LeScanCallback), android/bluetooth/BluetoothAdapter/stopLeScan(android.bluetooth.BluetoothAdapter$LeScanCallback), android/app/Activity/startActivityForResult(android.content.Intent]
+
+prob: 0,04000
+[android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,04000
+[int]
+
+prob: 0,04000
+[android.view.MotionEvent)]
+
+prob: 0,04000
+[android/widget/TextView/setFocusableInTouchMode(boolean), net/smartrover/skyrover2/pilot/prefs/AxisMappingDialogPreference/getContext(), android/widget/LinearLayout/setPadding(int]
+
+prob: 0,04000
+[android/hardware/usb/UsbInterface/getEndpointCount(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/hardware/usb/UsbDevice/getInterface(int), android/util/Log/e(java.lang.String]
+
+prob: 0,04000
+[android/hardware/usb/UsbEndpoint/getDirection()]
+
+prob: 0,04000
+[android.hardware.usb.UsbManager)]
+
+prob: 0,04000
+[boolean)]
+
+prob: 0,04000
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,04000
+[java/lang/StringBuilder/append(int), java/util/List/toArray(java.lang.Object[])]
+
+prob: 0,04000
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,04000
+[java/lang/String/length(), java/lang/String/substring(int]
+
+prob: 0,04000
+[android/os/Bundle/putStringArray(java.lang.String]
+
+prob: 0,04000
+[android/preference/CheckBoxPreference/setChecked(boolean), android/util/Log/i(java.lang.String]
+
+prob: 0,04000
+[android/content/res/Resources/getString(int), net/smartrover/skyrover2/pilot/prefs/a/findPreference(java.lang.CharSequence), java/lang/IllegalArgumentException/getMessage(), java/io/IOException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String), net/smartrover/skyrover2/pilot/prefs/a/getResources(), android/util/Log/d(java.lang.String]
+
+prob: 0,04000
+[android/preference/CheckBoxPreference/setEnabled(boolean)]
+
+prob: 0,04000
+[java/lang/StringBuilder/append(java.lang.String), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,04000
+[android/content/res/Resources/getString(int), net/smartrover/skyrover2/pilot/prefs/a/findPreference(java.lang.CharSequence)]
+

@@ -1,0 +1,91 @@
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,25000
+java/lang/Class/getName()  0,08333
+java/lang/StringBuilder/append(int)  0,08333
+float)  0,06944
+int  0,05556
+com.badlogic.gdx.graphics.g3d.ModelLoaderHints)  0,05556
+com/badlogic/gdx/utils/GdxRuntimeException/getMessage(), java/util/Map/get(java.lang.Object), java/lang/String/substring(int), java/lang/Object/getClass(), java/lang/StringBuilder/toString(), java/lang/String/lastIndexOf(int  0,05556
+java/lang/String/toLowerCase()  0,05556
+java/util/Set/iterator()  0,05556
+java/lang/StringBuilder/toString()  0,05556
+java/util/Iterator/hasNext(), java/util/Map/get(java.lang.Object), java/util/List/size(), java/util/Iterator/next(), java/util/Map/keySet(  0,04167
+java.lang.Class  0,04167
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()  0,02778
+java.lang.String  0,02778
+java/util/Iterator/next()  0,02778
+java/io/DataInputStream/readFloat(), java/net/ServerSocket/accept(), java/net/Socket/setTcpNoDelay(boolean  0,01389
+java/net/Socket/setSoTimeout(int), java/lang/StringBuilder/toString(), java/io/DataInputStream/readBoolean(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(int), java/io/DataInputStream/readInt(), java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/DataInputStream/readChar()  0,01389
+java/io/InputStream/read(byte[), java/lang/System/nanoTime(), java/lang/Long/toString(long), java/util/zip/CRC32/CRC32(), java/lang/StringBuilder/append(long), java/io/InputStream/close(), java/util/zip/CRC32/update(byte[  0,01389
+java/lang/Math/max(int  0,01389
+com.badlogic.gdx.Net$HttpResponseListener)  0,01389
+java/io/BufferedReader/close(), java/lang/String/startsWith(java.lang.String), java/lang/Float/parseFloat(java.lang.String), java/lang/String/split(java.lang.String), java/lang/String/trim(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader  0,01389
+java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String), java/io/File/File(java.lang.String), java/lang/String/substring(int  0,01389
+java/util/Iterator/hasNext(), java/lang/StringBuffer/toString(), java/lang/StringBuffer/deleteCharAt(int), java/lang/StringBuffer/StringBuffer(), java/util/Map/get(java.lang.Object), java/lang/StringBuffer/length(), java/util/Iterator/next(), java/util/Map/keySet(  0,01389
+java/util/ArrayList/ArrayList(java.util.Collection), java/util/Iterator/hasNext(), java/util/List/size(), java/util/List/addAll(java.util.Collection), java/util/List/clear(), java/util/List/get(int  0,01389
+java/util/List/iterator()  0,01389
+com.badlogic.gdx.backends.android.AndroidApplicationConfiguration)  0,01389
+java/lang/Class/getResourceAsStream(java.lang.String), java/io/File/exists(), java/lang/String/replace(char  0,01389
+java/io/File/isDirectory()  0,01389
+java/lang/StringBuilder/StringBuilder(int), java/io/InputStreamReader/InputStreamReader(java.io.InputStream  0,01389
+com/badlogic/gdx/backends/android/AndroidFileHandle/type(), com/badlogic/gdx/backends/android/AndroidFileHandle/file(), android/media/SoundPool/load(java.lang.String  0,01389
+com/badlogic/gdx/backends/android/AndroidFileHandle/file(), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor  0,01389
+char)  0,01389
+java/lang/Integer/intValue(), java/lang/Float/floatValue(), java/util/Map/entrySet(), java/lang/Boolean/booleanValue(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/Long/longValue(), java/util/Set/iterator(  0,01389
+java/util/Map$Entry/getKey()  0,01389
+java/util/Map$Entry/getValue()  0,01389
+java/io/OutputStream/close(), java/lang/String/equalsIgnoreCase(java.lang.String), java/net/HttpURLConnection/getOutputStream(), java/io/OutputStream/flush(), java/io/OutputStreamWriter/close(), java/io/OutputStreamWriter/write(java.lang.String), java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream), java/net/HttpURLConnection/connect(), java/io/OutputStreamWriter/flush(  0,01389
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,01389
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,01389
+android/widget/EditText/setSingleLine()  0,01389
+com/badlogic/gdx/graphics/GL11/glEnableClientState(int), java/nio/ByteBuffer/limit(), com/badlogic/gdx/graphics/GL11/glClientActiveTexture(int), java/nio/FloatBuffer/limit(), java/lang/StringBuilder/toString(), java/nio/ByteBuffer/limit(int  0,01389
+java/lang/StringBuffer/append(java.lang.String)  0,01389
+com.badlogic.gdx.files.FileHandle  0,01389
+float  0,01389
+android/service/wallpaper/WallpaperService$Engine/onVisibilityChanged(boolean), java/lang/Object/getClass(), java/lang/StringBuilder/toString()  0,01389
+java/lang/StringBuilder/append(boolean)  0,01389
+java/io/StringWriter/write(java.lang.String), java/util/Iterator/hasNext(), java/lang/StringBuilder/toString(), java/util/Map/get(java.lang.Object), java/util/Iterator/next(), java/io/StringWriter/StringWriter(), java/lang/String/replace(java.lang.CharSequence  0,01389
+java/util/Map/size(), java/io/PrintStream/println(java.lang.Object), java/io/PrintStream/println(java.lang.String), java/util/Set/contains(java.lang.Object), java/util/Set/iterator()  0,01389
+java/util/HashSet/HashSet()  0,01389
+java/util/Map/remove(java.lang.Object)  0,01389
+java/util/Set/size()  0,01389
+java/util/TreeMap/TreeMap()  0,01389
+java/util/HashMap/HashMap()  0,01389
+java/util/Map/keySet()  0,01389
+android/content/res/AssetManager/list(java.lang.String), java/io/File/File(java.io.File  0,01389
+java/nio/FloatBuffer/position(), java/lang/Integer/intValue(), java/nio/FloatBuffer/position(int), java/nio/FloatBuffer/limit(int), java/util/ArrayList/get(int  0,01389
+java/lang/reflect/Constructor/newInstance(java.lang.Object[), java/lang/reflect/Constructor/setAccessible(boolean), java/lang/Class/getDeclaredConstructor(java.lang.Class[), java/lang/Class/getConstructor(java.lang.Class[  0,01389
+java/lang/Class/newInstance(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/StringBuilder/toString()  0,01389
+java/lang/Class/newInstance(), java/lang/Class/getModifiers(), java/lang/Class/getName(), java/lang/StringBuilder/toString(), java/lang/Class/isMemberClass(), java/lang/reflect/Modifier/isStatic(int  0,01389
+java/nio/ByteOrder/nativeOrder(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/nio/IntBuffer/get(), java/nio/ByteBuffer/order(java.nio.ByteOrder), java/nio/IntBuffer/flip(), java/nio/IntBuffer/put(int), com/badlogic/gdx/graphics/GL20/glGetIntegerv(int  0,01389
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/nio/FloatBuffer/flip(), java/util/ArrayList/toArray(java.lang.Object[), java/util/ArrayList/clear(), java/lang/StringBuilder/toString()  0,01389
+java/lang/Class/getSuperclass(), java/lang/reflect/Field/setAccessible(boolean), java/lang/reflect/Modifier/isStatic(int), java/util/ArrayList/size(), java/lang/reflect/Field/isAccessible(), java/lang/Class/getDeclaredFields(), java/lang/reflect/Field/getModifiers(), java/lang/reflect/Field/isSynthetic(), java/lang/reflect/Field/getName(), java/util/ArrayList/ArrayList(), java/util/Collections/addAll(java.util.Collection  0,01389
+java/lang/StringBuilder/append(java.lang.String), java/util/HashSet/contains(java.lang.Object), java/lang/System/getProperty(java.lang.String), java/lang/StringBuilder/StringBuilder(  0,01389
+java/lang/reflect/Field/getName(), java/util/Iterator/hasNext(), java/lang/reflect/Field/getType(), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/getClass(  0,01389
+java/lang/reflect/Field/getName(), java/lang/reflect/Field/get(java.lang.Object), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/Class/getName(), java/lang/StringBuilder/StringBuilder(  0,01389
+java.lang.Object)  0,01389
+com.badlogic.gdx.utils.StringBuilder  0,01389
+java/lang/Object/equals(java.lang.Object)  0,01389
+java/lang/Class/isArray(), java/lang/reflect/Constructor/newInstance(java.lang.Object[), java/lang/reflect/Constructor/setAccessible(boolean), java/lang/Class/getDeclaredConstructor(java.lang.Class[)  0,01389
+java/lang/StringBuilder/append(int), com/badlogic/gdx/backends/android/AndroidLiveWallpaperService$AndroidWallpaperEngine/isPreview(), com/badlogic/gdx/backends/android/AndroidLiveWallpaperService$AndroidWallpaperEngine/setTouchEventsEnabled(boolean), android/service/wallpaper/WallpaperService$Engine/onCreate(android.view.SurfaceHolder), android/util/Log/d(java.lang.String  0,01389
+java/io/DataOutputStream/write(byte[  0,01389
+java.nio.Buffer)  0,01389
+boolean  0,01389
+java/lang/String/length(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int), java/lang/Integer/parseInt(java.lang.String  0,01389
+java/lang/StringBuilder/append(char)  0,01389
+java/util/ArrayList/remove(int), android/opengl/GLSurfaceView$Renderer/onSurfaceChanged(javax.microedition.khronos.opengles.GL10  0,01389
+int)  0,01389
+java/lang/String/substring(int), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,01389
+com.badlogic.gdx.files.FileHandle)  0,01389
+java/util/zip/InflaterInputStream/InflaterInputStream(java.io.InputStream), java/io/DataInputStream/readInt(), java/lang/StringBuilder/append(java.lang.Object), java/nio/ByteBuffer/put(byte[  0,01389
+java/io/DataInputStream/close(), java/io/DataInputStream/read(byte[), java/nio/ByteBuffer/position(int), java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream)  0,01389
+com.badlogic.gdx.graphics.Pixmap)  0,01389
+android/widget/TextView/setFocusable(boolean), android/widget/FrameLayout/FrameLayout(android.content.Context), android/widget/TextView/setFocusableInTouchMode(boolean), android/widget/TextView/setOnKeyListener(android.view.View$OnKeyListener), android/app/Dialog/Dialog(android.content.Context  0,01389
+java.lang.String)  0,01389
+java/lang/System/load(java.lang.String), java/util/HashSet/add(java.lang.Object), java/lang/System/loadLibrary(java.lang.String), java/lang/StringBuilder/toString()  0,01389
+java/io/File/getAbsolutePath()  0,01389
+java/lang/Object/hashCode()  0,01389
+java/util/ArrayList/size()  0,01389
+java/lang/reflect/Field/get(java.lang.Object)  0,01389
+java/lang/StringBuilder/append(int), java/lang/Object/hashCode(), android/util/Log/d(java.lang.String  0,01389
+java/lang/String/substring(int  0,01389
+java/util/Map/get(java.lang.Object)  0,01389

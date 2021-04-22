@@ -1,0 +1,37 @@
+android/widget/TextView/getMeasuredHeight(
+android/support/v4/view/ViewPager/getPaddingLeft()
+java/lang/Object/getClass(
+android/view/VelocityTracker/obtain(
+java/io/PrintWriter/print(java.lang.String
+com/agapep/audiobible/ui/activities/BibleListActivity/getBaseContext()
+android/support/v4/view/PagerTitleStrip/getPaddingRight(
+java/lang/StringBuilder/StringBuilder(
+java/lang/Integer/valueOf(int
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/append(java.lang.Object)
+com/agapep/audiobible/services/DownloadAudioTask/execute(java.lang.Object[]
+java/util/Map$Entry/getValue(
+org.api.fake
+android/view/MotionEvent/recycle(
+android/widget/Toast/show(
+java/util/ArrayList/size(
+android/view/ViewConfiguration/get(android.content.Context)
+android/support/v4/view/ViewPager/getWidth(
+org.rand.api
+java/lang/Math/min(int,int
+android/support/v4/widget/DrawerLayout/getWidth()
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String,java.lang.Throwable
+android/support/v4/view/ViewPager/isFocusable(
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/io/PrintWriter/print(boolean)
+java/lang/StringBuilder/toString(
+java/lang/Object/toString()
+java/lang/Math/min(float,float
+android/view/MotionEvent/getY(
+android/appwidget/AppWidgetManager/updateAppWidget(int,android.widget.RemoteViews
+java/util/ArrayList/ArrayList(
+android/view/animation/AnimationUtils/loadAnimation(android.content.Context,int
+java/lang/Integer/intValue()
+android/graphics/Canvas/getClipBounds(android.graphics.Rect
+android/widget/TextView/layout(int,int,int,int
+android/view/View/getRight()

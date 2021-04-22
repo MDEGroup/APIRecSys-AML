@@ -1,0 +1,351 @@
+prob: 0,16327
+[android.os.Parcel]
+
+prob: 0,11224
+[org.api.fake]
+
+prob: 0,11224
+[org.rand.api]
+
+prob: 0,10204
+[int]
+
+prob: 0,05102
+[int)]
+
+prob: 0,03061
+[java.io.FileDescriptor]
+
+prob: 0,02551
+[java/lang/StringBuilder/toString()]
+
+prob: 0,02041
+[android.app.Notification]
+
+prob: 0,02041
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int]
+
+prob: 0,02041
+[android.view.View]
+
+prob: 0,01531
+[android.content.Context]
+
+prob: 0,01531
+[byte[][])]
+
+prob: 0,01531
+[boolean)]
+
+prob: 0,01531
+[android/util/Log/w(java.lang.String]
+
+prob: 0,01531
+[java.io.PrintWriter]
+
+prob: 0,01531
+[android.view.View)]
+
+prob: 0,01531
+[float]
+
+prob: 0,01531
+[java.lang.StringBuilder)]
+
+prob: 0,01531
+[java/util/ArrayList/size()]
+
+prob: 0,01531
+[java/util/ArrayList/get(int)]
+
+prob: 0,01531
+[android/util/Log/v(java.lang.String]
+
+prob: 0,01020
+[java.lang.String]
+
+prob: 0,01020
+[java/lang/Thread/currentThread()]
+
+prob: 0,01020
+[android/os/Bundle/readFromParcel(android.os.Parcel), android/os/Parcel/recycle(), android/os/IBinder/transact(int]
+
+prob: 0,01020
+[android/support/v4/widget/DrawerLayout/getWidth()]
+
+prob: 0,01020
+[com.google.android.gms.internal.es$a]
+
+prob: 0,01020
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,01020
+[java/util/Iterator/hasNext(), java/util/Set/iterator(), java/util/HashMap/get(java.lang.Object), java/util/HashMap/keySet(]
+
+prob: 0,01020
+[android/view/View/getLayoutParams(), android/view/View/getWidth(), android/support/v4/widget/DrawerLayout/invalidate(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), android/view/View/getTop(]
+
+prob: 0,01020
+[android/view/View/getRight(), android/view/View/getBottom()]
+
+prob: 0,01020
+[java/lang/StringBuilder/StringBuilder(int)]
+
+prob: 0,01020
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01020
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,01020
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,01020
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00510
+[android/content/pm/PackageManager/getApplicationInfo(java.lang.String]
+
+prob: 0,00510
+[android/widget/LinearLayout/addView(android.view.View), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/FrameLayout/getContext(), android/widget/FrameLayout$LayoutParams/FrameLayout$LayoutParams(int]
+
+prob: 0,00510
+[java/util/LinkedHashMap/entrySet(), java/lang/Class/getName(), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(]
+
+prob: 0,00510
+[java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object)]
+
+prob: 0,00510
+[java.util.ArrayList)]
+
+prob: 0,00510
+[android.support.v4.app.b)]
+
+prob: 0,00510
+[android/os/Looper/myLooper()]
+
+prob: 0,00510
+[java/util/ArrayList/toArray(java.lang.Object[])]
+
+prob: 0,00510
+[android/os/Handler/getLooper()]
+
+prob: 0,00510
+[java/util/ArrayList/clear(]
+
+prob: 0,00510
+[java.lang.Object]
+
+prob: 0,00510
+[com.google.android.gms.maps.GoogleMapOptions]
+
+prob: 0,00510
+[com.google.android.gms.a.j]
+
+prob: 0,00510
+[java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,00510
+[java/util/regex/Matcher/appendTail(java.lang.StringBuffer), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/String/charAt(int), java/util/regex/Matcher/appendReplacement(java.lang.StringBuffer]
+
+prob: 0,00510
+[java/io/PrintWriter/PrintWriter(java.io.Writer), java/lang/StringBuilder/toString()]
+
+prob: 0,00510
+[android/app/FragmentTransaction/commit(), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,00510
+[com/alexandreroman/nrelay/InfoFragment/getResources(), android/widget/TextView/setCompoundDrawablesWithIntrinsicBounds(android.graphics.drawable.Drawable]
+
+prob: 0,00510
+[com/alexandreroman/nrelay/NmeaRelayService/stopForeground(boolean), java/lang/Thread/interrupt(), android/util/Log/i(java.lang.String]
+
+prob: 0,00510
+[java.util.HashMap]
+
+prob: 0,00510
+[com.google.android.gms.maps.GoogleMapOptions)]
+
+prob: 0,00510
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String]
+
+prob: 0,00510
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,00510
+[com/alexandreroman/nrelay/MainActivity/bindService(android.content.Intent]
+
+prob: 0,00510
+[java/util/Iterator/hasNext(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), android/support/v4/c/a/put(java.lang.Object]
+
+prob: 0,00510
+[android/support/v4/c/a/a(int), java/util/Map$Entry/getKey(), java/util/Map/size(), java/util/Iterator/next()]
+
+prob: 0,00510
+[android/net/NetworkInfo/getType(), android/content/SharedPreferences$Editor/apply(), java/lang/StringBuilder/toString(), android/net/ConnectivityManager/getActiveNetworkInfo(), android/content/Context/getSharedPreferences(java.lang.String]
+
+prob: 0,00510
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String]
+
+prob: 0,00510
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/Integer/toHexString(int), android/view/View/isEnabled(), android/content/res/Resources/getResourceTypeName(int), android/view/View/getVisibility(), android/view/View/isFocusable(), android/view/View/isFocused(), android/view/View/getResources(), android/view/View/isClickable(), android/view/View/isPressed(), android/content/res/Resources/getResourceEntryName(int), android/view/View/isVerticalScrollBarEnabled(), android/view/View/getTop(), android/view/View/getLeft(), android/view/View/isSelected(]
+
+prob: 0,00510
+[java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,00510
+[java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/length()]
+
+prob: 0,00510
+[android/content/Context/getSystemService(java.lang.String)]
+
+prob: 0,00510
+[android/graphics/Canvas/rotate(float), android/graphics/Canvas/translate(float]
+
+prob: 0,00510
+[android/view/SoundEffectConstants/getContantForFocusDirection(int), android/util/Log/e(java.lang.String]
+
+prob: 0,00510
+[android/view/View/requestFocus(), java/lang/Class/getSimpleName(), android/view/ViewParent/getParent(), android/view/FocusFinder/getInstance(), android/support/v4/view/ViewPager/findFocus()]
+
+prob: 0,00510
+[android/support/v4/view/ViewPager/getPaddingLeft(), java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/toHexString(int), android/support/v4/view/ViewPager/getId(), java/lang/Math/max(int]
+
+prob: 0,00510
+[android/support/v4/view/ViewPager/hasFocus()]
+
+prob: 0,00510
+[android/view/MotionEvent/getX(), android/widget/Scroller/abortAnimation(), android/view/VelocityTracker/obtain(), android/view/MotionEvent/getEdgeFlags(), android/view/VelocityTracker/computeCurrentVelocity(int]
+
+prob: 0,00510
+[android/view/MotionEvent/getX(), java/lang/Math/abs(float), android/widget/Scroller/getCurrX(), android/view/MotionEvent/getY(), android/view/VelocityTracker/obtain(]
+
+prob: 0,00510
+[java/lang/Runnable/run(), java/util/ArrayList/size(), android/os/Handler/removeCallbacks(java.lang.Runnable)]
+
+prob: 0,00510
+[android/widget/Scroller/getCurrX(), android/widget/Scroller/abortAnimation()]
+
+prob: 0,00510
+[android/widget/Scroller/getCurrY()]
+
+prob: 0,00510
+[android/support/v4/view/ViewPager/getScrollX()]
+
+prob: 0,00510
+[android/support/v4/view/ViewPager/getScrollY()]
+
+prob: 0,00510
+[android/support/v4/view/ViewPager/scrollTo(int]
+
+prob: 0,00510
+[android/widget/Scroller/getFinalX()]
+
+prob: 0,00510
+[android/view/VelocityTracker/recycle()]
+
+prob: 0,00510
+[android/view/VelocityTracker/addMovement(android.view.MotionEvent)]
+
+prob: 0,00510
+[java/lang/Math/abs(int)]
+
+prob: 0,00510
+[android/widget/Scroller/computeScrollOffset()]
+
+prob: 0,00510
+[android/view/MotionEvent/getAction()]
+
+prob: 0,00510
+[android/app/AlertDialog$Builder/setIcon(int)]
+
+prob: 0,00510
+[com/alexandreroman/nrelay/a/getArguments()]
+
+prob: 0,00510
+[android/app/AlertDialog$Builder/setTitle(int)]
+
+prob: 0,00510
+[android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,00510
+[android/graphics/drawable/Drawable/setBounds(int]
+
+prob: 0,00510
+[android/support/v4/widget/SlidingPaneLayout/getPaddingLeft()]
+
+prob: 0,00510
+[android/view/View/setVisibility(int)]
+
+prob: 0,00510
+[android/support/v4/widget/SlidingPaneLayout/getPaddingTop()]
+
+prob: 0,00510
+[android/support/v4/widget/SlidingPaneLayout/getHeight()]
+
+prob: 0,00510
+[android/support/v4/widget/SlidingPaneLayout/getWidth()]
+
+prob: 0,00510
+[android/support/v4/widget/SlidingPaneLayout/getPaddingRight()]
+
+prob: 0,00510
+[android/support/v4/widget/SlidingPaneLayout/getChildCount()]
+
+prob: 0,00510
+[android/view/View/isHorizontalScrollBarEnabled()]
+
+prob: 0,00510
+[android/view/View/getId()]
+
+prob: 0,00510
+[java/lang/System/identityHashCode(java.lang.Object)]
+
+prob: 0,00510
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,00510
+[android/view/View/isLongClickable()]
+
+prob: 0,00510
+[android/content/res/Resources/getResourcePackageName(int)]
+
+prob: 0,00510
+[android/view/View/willNotDraw()]
+
+prob: 0,00510
+[java/lang/StringBuilder/append(int), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String]
+
+prob: 0,00510
+[java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int]
+
+prob: 0,00510
+[java/util/ArrayList/remove(int)]
+
+prob: 0,00510
+[android/support/v4/view/ViewPager/findFocus()]
+
+prob: 0,00510
+[java/lang/Runnable/run()]
+
+prob: 0,00510
+[java/lang/Class/getName()]
+
+prob: 0,00510
+[java/lang/Object/getClass()]
+
+prob: 0,00510
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,00510
+[java/lang/Math/max(int]
+
+prob: 0,00510
+[android/widget/Scroller/abortAnimation()]
+
+prob: 0,00510
+[android/view/View/getLayoutParams()]
+
+prob: 0,00510
+[java/lang/StringBuilder/append(java.lang.String)]
+

@@ -1,0 +1,14 @@
+org.api.fake  0,16667
+java.lang.String)  0,16667
+android/util/Log/w(java.lang.String  0,08333
+java/lang/Character/toUpperCase(char), java/lang/Character/toString(char), java/lang/Integer/valueOf(int), java/lang/CharSequence/charAt(int), java/util/HashMap/HashMap(), java/util/HashMap/put(java.lang.Object  0,08333
+android/widget/Filter$FilterResults/Filter$FilterResults(), java/lang/String/toLowerCase(), java/lang/CharSequence/toString(), com/firebirdberlin/rocketlaunch/ApplicationInfoArray/add(java.lang.Object  0,08333
+android/content/IntentFilter/addAction(java.lang.String), android/widget/EditText/setImeOptions(int), android/widget/EditText/setSingleLine(), android/app/Activity/onCreate(android.os.Bundle), android/widget/EditText/setEnabled(boolean), com/firebirdberlin/rocketlaunch/RocketLaunch/findViewById(int), android/app/ActionBar/setDisplayShowHomeEnabled(boolean), android/app/ActionBar/setDisplayShowTitleEnabled(boolean), android/content/IntentFilter/addDataScheme(java.lang.String), android/widget/EditText/setImeActionLabel(java.lang.CharSequence  0,08333
+com/firebirdberlin/rocketlaunch/ApplicationsAdapter/getItem(int), com/firebirdberlin/rocketlaunch/ApplicationsAdapter/getCount(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), com/firebirdberlin/rocketlaunch/ApplicationInfoArray/size(), java/lang/String/contains(java.lang.CharSequence), java/lang/CharSequence/length()  0,08333
+java/util/ArrayList/remove(int), java/util/ArrayList/ArrayList(), android/content/pm/ResolveInfo$DisplayNameComparator/ResolveInfo$DisplayNameComparator(android.content.pm.PackageManager), java/util/Collections/sort(java.util.List  0,08333
+android/content/pm/ResolveInfo/loadLabel(android.content.pm.PackageManager)  0,08333
+com/firebirdberlin/rocketlaunch/ApplicationInfoArray/get(int), android/content/pm/ResolveInfo$DisplayNameComparator/ResolveInfo$DisplayNameComparator(android.content.pm.PackageManager), java/util/Collections/sort(java.util.List  0,08333
+android/content/Context/getCacheDir(), java/io/FileNotFoundException/toString(), java/io/FileInputStream/FileInputStream(java.lang.String), android/util/Log/e(java.lang.String  0,08333
+android/content/Context/getCacheDir(), java/io/FileNotFoundException/toString(), java/io/FileOutputStream/FileOutputStream(java.lang.String), android/graphics/Bitmap/compress(android.graphics.Bitmap$CompressFormat  0,08333
+java/lang/CharSequence/length(), com/firebirdberlin/rocketlaunch/ApplicationsAdapter/getItem(int), com/firebirdberlin/rocketlaunch/ApplicationsAdapter/getCount()  0,08333
+com/firebirdberlin/rocketlaunch/ApplicationInfoArray/size()  0,08333

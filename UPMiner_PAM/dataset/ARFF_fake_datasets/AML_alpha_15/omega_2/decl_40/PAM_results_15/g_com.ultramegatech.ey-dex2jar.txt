@@ -1,0 +1,165 @@
+prob: 0,09091
+[java.io.FileDescriptor]
+
+prob: 0,04545
+[java.lang.String]
+
+prob: 0,04545
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int]
+
+prob: 0,04545
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,02273
+[java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/Map$Entry/getKey(), android/support/v4/b/a/a(int), java/util/Map/entrySet(), android/support/v4/b/a/put(java.lang.Object]
+
+prob: 0,02273
+[android.view.KeyEvent)]
+
+prob: 0,02273
+[android/support/v4/app/d/p(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Dialog/setCancelable(boolean), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), android/app/Dialog/setContentView(android.view.View), android/support/v4/app/d/v(), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(]
+
+prob: 0,02273
+[android/content/res/Resources/getString(int), java/lang/Integer/valueOf(int), com/ultramegatech/ey/widget/PeriodicTableView/getResources(), java/lang/String/valueOf(int), android/content/res/Resources/getString(int]
+
+prob: 0,02273
+[android/graphics/Canvas/translate(float]
+
+prob: 0,02273
+[android/graphics/Paint/setColor(int), java/util/Iterator/hasNext(), android/graphics/Canvas/drawText(java.lang.String]
+
+prob: 0,02273
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/append(java.lang.Object), android/util/SparseArray/size(), android/util/Log/v(java.lang.String]
+
+prob: 0,02273
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/support/v4/app/s/v(), android/os/Handler/post(java.lang.Runnable), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String]
+
+prob: 0,02273
+[java/util/WeakHashMap/WeakHashMap(), java/util/ArrayList/remove(int), java/util/ArrayList/isEmpty(), java/util/WeakHashMap/put(java.lang.Object]
+
+prob: 0,02273
+[android.view.LayoutInflater$Factory2)]
+
+prob: 0,02273
+[java.lang.StringBuilder)]
+
+prob: 0,02273
+[android/util/Log/w(java.lang.String]
+
+prob: 0,02273
+[android/graphics/Rect/offset(int]
+
+prob: 0,02273
+[int)]
+
+prob: 0,02273
+[java/lang/Class/getInterfaces(), java/lang/Class/getCanonicalName(), java/util/List/addAll(java.util.Collection), java/util/Collections/singletonList(java.lang.Object), java/util/Map/put(java.lang.Object]
+
+prob: 0,02273
+[java/lang/reflect/Constructor/setAccessible(boolean), java/lang/Class/getCanonicalName(), java/lang/String/isEmpty(), java/lang/String/substring(int), java/lang/Class/forName(java.lang.String), java/lang/Package/getName(), java/lang/Class/getDeclaredConstructor(java.lang.Class[]), java/lang/Class/getPackage(), java/lang/reflect/Constructor/isAccessible(]
+
+prob: 0,02273
+[java/lang/StringBuilder/append(java.lang.String), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), java/lang/String/length(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,02273
+[android.view.View]
+
+prob: 0,02273
+[java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), android/util/SparseArray/valueAt(int), java/lang/StringBuilder/toString()]
+
+prob: 0,02273
+[java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), android/graphics/Rect/Rect(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,02273
+[android/os/Bundle/Bundle(), java/lang/StringBuilder/append(int), java/util/ArrayList/get(int)]
+
+prob: 0,02273
+[android.support.v4.app.l)]
+
+prob: 0,02273
+[int]
+
+prob: 0,02273
+[android.support.v4.app.b)]
+
+prob: 0,02273
+[android.graphics.Rect)]
+
+prob: 0,02273
+[android.view.MotionEvent]
+
+prob: 0,02273
+[java/lang/String/valueOf(char), java/lang/StringBuilder/append(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/delete(int]
+
+prob: 0,02273
+[java/lang/String/valueOf(char), java/lang/String/toUpperCase(), java/lang/StringBuilder/append(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), com/ultramegatech/ey/b/a(int), java/lang/StringBuilder/toString(]
+
+prob: 0,02273
+[android/widget/TextView/setContentDescription(java.lang.CharSequence), android/text/Html/fromHtml(java.lang.String)]
+
+prob: 0,02273
+[android.arch.lifecycle.a$b]
+
+prob: 0,02273
+[com/ultramegatech/ey/b/k(), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), android/os/Bundle/getInt(java.lang.String), android/os/Bundle/containsKey(java.lang.String), com/ultramegatech/ey/b/a(int]
+
+prob: 0,02273
+[android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), com/ultramegatech/ey/ElementListFragment/n(), android/widget/Filter/filter(java.lang.CharSequence), android/support/v4/app/s/d(android.os.Bundle), android/os/Bundle/getString(java.lang.String), com/ultramegatech/ey/ElementListFragment/a(android.widget.ListAdapter), com/ultramegatech/ey/widget/b/registerDataSetObserver(android.database.DataSetObserver), android/os/Bundle/getBoolean(java.lang.String]
+
+prob: 0,02273
+[java.lang.reflect.Method[])]
+
+prob: 0,02273
+[java/lang/String/hashCode(), java/lang/String/equals(java.lang.Object), java/lang/String/valueOf(char)]
+
+prob: 0,02273
+[java/lang/String/valueOf(java.lang.Object), android/graphics/Bitmap/getWidth(), java/lang/String/format(java.lang.String]
+
+prob: 0,02273
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/Double/doubleValue(), java/text/DecimalFormat/format(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,02273
+[java/text/DecimalFormat/format(double)]
+
+prob: 0,02273
+[java.util.ArrayList]
+
+prob: 0,02273
+[android.support.v4.app.e]
+
+prob: 0,02273
+[android.view.ViewGroup]
+
+prob: 0,02273
+[android/widget/ListView/setEmptyView(android.view.View), android/view/View/findViewById(int)]
+
+prob: 0,02273
+[java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/StringBuilder/append(boolean)]
+
+prob: 0,02273
+[java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02273
+[java.io.PrintWriter]
+
+prob: 0,02273
+[android/util/SparseArray/size(), android/util/Log/v(java.lang.String]
+
+prob: 0,02273
+[android/util/SparseArray/valueAt(int)]
+
+prob: 0,02273
+[java/util/ArrayList/size()]
+
+prob: 0,02273
+[android/widget/TextView/setContentDescription(java.lang.CharSequence)]
+
+prob: 0,02273
+[java/lang/String/hashCode(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,02273
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,02273
+[java/lang/StringBuilder/append(java.lang.String)]
+

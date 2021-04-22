@@ -1,0 +1,5 @@
+int  0,57143
+io/github/webbluetoothcg/bletestperipheral/Peripheral/findViewById(int), android/app/FragmentManager/findFragmentByTag(java.lang.String), android/bluetooth/le/AdvertiseSettings$Builder/setTxPowerLevel(int), io/github/webbluetoothcg/bletestperipheral/Peripheral/getFragmentManager(), android/app/FragmentTransaction/commit(), android/app/FragmentTransaction/add(int  0,14286
+android/util/Log/w(java.lang.String  0,14286
+android/bluetooth/BluetoothManager/getConnectedDevices(int), android/bluetooth/BluetoothGattServer/cancelConnection(android.bluetooth.BluetoothDevice), java/util/Iterator/next(), android/bluetooth/BluetoothDevice/getName(), java/util/List/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String  0,14286
+android/bluetooth/BluetoothDevice/getAddress(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String)  0,14286

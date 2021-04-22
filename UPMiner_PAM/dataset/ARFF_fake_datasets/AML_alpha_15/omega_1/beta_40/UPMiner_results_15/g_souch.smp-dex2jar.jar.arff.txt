@@ -1,0 +1,10 @@
+android/preference/Preference/setSummary(java.lang.CharSequence
+android/content/res/Resources/getString(int)
+java/lang/StringBuilder/toString(
+souch/smp/MusicService/getApplicationContext(
+android/database/Cursor/getColumnIndex(java.lang.String)
+android/database/Cursor/moveToFirst(
+android/content/Intent/putExtra(java.lang.String,java.lang.String)
+android/content/DialogInterface/dismiss()
+souch/smp/MusicService/getPackageName()
+android/view/KeyEvent/getAction(

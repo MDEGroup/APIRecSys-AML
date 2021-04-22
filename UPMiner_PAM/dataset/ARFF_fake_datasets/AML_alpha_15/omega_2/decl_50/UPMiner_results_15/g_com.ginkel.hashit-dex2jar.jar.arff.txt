@@ -1,0 +1,6 @@
+android/content/SharedPreferences/getInt(java.lang.String,int
+android/view/View/findViewById(int)
+com/ginkel/hashit/SettingsActivity/a(android.preference.PreferenceCategory,int,android.preference.Preference$OnPreferenceClickListener,boolean)
+android/os/Handler/Handler(
+com/ginkel/hashit/PasswordActivity/getIntent()
+android/view/View/inflate(android.content.Context,int,android.view.ViewGroup

@@ -1,0 +1,375 @@
+prob: 0,07692
+[java/util/Iterator/next()]
+
+prob: 0,07692
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,07692
+[java/lang/StringBuilder/toString()]
+
+prob: 0,06154
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,06154
+[android.view.View]
+
+prob: 0,06154
+[android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,04615
+[java/lang/String/length()]
+
+prob: 0,04615
+[java/util/Iterator/hasNext()]
+
+prob: 0,03077
+[java.lang.String)]
+
+prob: 0,03077
+[int]
+
+prob: 0,03077
+[android/widget/ArrayAdapter/setDropDownViewResource(int), java/lang/StringBuilder/append(java.lang.String), android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,03077
+[android/graphics/Paint/setAntiAlias(boolean), android/graphics/Paint/setColor(int), java/lang/Math/max(int]
+
+prob: 0,03077
+[android/widget/Button/requestFocus()]
+
+prob: 0,03077
+[int)]
+
+prob: 0,03077
+[org.xml.sax.Attributes)]
+
+prob: 0,03077
+[java/lang/Exception/printStackTrace()]
+
+prob: 0,03077
+[net/rocrail/androc/activities/ActThrottle/findViewById(int)]
+
+prob: 0,03077
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03077
+[net/rocrail/androc/widgets/LocoImage/setImageBitmap(android.graphics.Bitmap)]
+
+prob: 0,03077
+[android/content/Intent/getExtras()]
+
+prob: 0,03077
+[android/widget/Button/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,03077
+[java/io/PrintStream/println(java.lang.String)]
+
+prob: 0,03077
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,03077
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LocoImage/setBackgroundColor(int), java/lang/StringBuilder/StringBuilder(java.lang.String), net/rocrail/androc/activities/ActLocoConsist/setTitle(java.lang.CharSequence), net/rocrail/androc/activities/ActLocoConsist/setContentView(int), net/rocrail/androc/activities/ActLocoConsist/findViewById(int]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActLayout/setListAdapter(android.widget.ListAdapter), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActRoutes/setListAdapter(android.widget.ListAdapter), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,01538
+[java.lang.String]
+
+prob: 0,01538
+[java/io/FileInputStream/read(byte[]), net/rocrail/androc/widgets/LocoImage/post(java.lang.Runnable), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/String/format(java.lang.String]
+
+prob: 0,01538
+[java/lang/Object/toString(), android/widget/ListView/setTextFilterEnabled(boolean), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), net/rocrail/androc/activities/ActLocoList/setSelection(int), net/rocrail/androc/activities/ActLocoList/setListAdapter(android.widget.ListAdapter), java/util/Collections/sort(java.util.List]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActLocoList/getIntent()]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActStage/setContentView(int), net/rocrail/androc/activities/ActStage/updateTitle(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/content/Intent/getExtras(), android/os/Bundle/getString(java.lang.String), java/lang/StringBuilder/toString(), net/rocrail/androc/activities/ActStage/getText(int]
+
+prob: 0,01538
+[javax/xml/parsers/SAXParserFactory/newSAXParser()]
+
+prob: 0,01538
+[android/widget/ArrayAdapter/getItem(int), net/rocrail/androc/activities/ActLoco/setContentView(int), android/widget/ArrayAdapter/insert(java.lang.Object]
+
+prob: 0,01538
+[android/widget/ArrayAdapter/getCount(), java/lang/StringBuilder/append(java.lang.Object), net/rocrail/androc/widgets/LEDButton/setOnClickListener(android.view.View$OnClickListener), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01538
+[java/lang/Integer/valueOf(int)]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActSystem/setContentView(int)]
+
+prob: 0,01538
+[net/rocrail/android/widgets/RoundButton/getWidth(), android/graphics/Paint/setColor(int), android/graphics/Canvas/drawText(java.lang.String]
+
+prob: 0,01538
+[net/rocrail/android/widgets/Button/getWidth(), net/rocrail/android/widgets/Button/getHeight(), android/graphics/Rect/height(), android/graphics/Paint/Paint(), android/view/View/onDraw(android.graphics.Canvas), android/graphics/RectF/RectF(), android/graphics/Paint/getTextBounds(java.lang.String]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), net/rocrail/androc/activities/ActSystem/findViewById(int), android/widget/TextView/append(java.lang.CharSequence]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(java.lang.String), net/rocrail/androc/activities/ActStage/findViewById(int), net/rocrail/androc/activities/ActStage/getIntent(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), java/util/HashMap/get(java.lang.Object)]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setBackgroundColor(int), android/graphics/Color/rgb(int]
+
+prob: 0,01538
+[net.rocrail.androc.objects.ZLevel)]
+
+prob: 0,01538
+[android/os/SystemClock/uptimeMillis(), android/widget/ZoomButtonsController/setZoomInEnabled(boolean), android/widget/ZoomButtonsController/setFocusable(boolean), android/widget/ZoomButtonsController/setVisible(boolean), android/view/Window/getDecorView(), java/io/PrintStream/println(java.lang.String), android/widget/ZoomButtonsController/getZoomControls(), android/widget/ZoomButtonsController/setOnZoomListener(android.widget.ZoomButtonsController$OnZoomListener), android/view/MotionEvent/getDownTime(), android/widget/ZoomButtonsController/ZoomButtonsController(android.view.View), android/view/MotionEvent/getAction(), java/lang/StringBuilder/append(long]
+
+prob: 0,01538
+[android/widget/ZoomButtonsController/setZoomOutEnabled(boolean)]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActLevel/getWindow()]
+
+prob: 0,01538
+[android/view/View/setFocusable(boolean)]
+
+prob: 0,01538
+[android/view/View/setFocusableInTouchMode(boolean)]
+
+prob: 0,01538
+[android/view/View/requestFocus()]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(java.lang.String), net/rocrail/androc/widgets/LocoImage/setBackgroundColor(int), net/rocrail/androc/widgets/LEDButton/setText(java.lang.CharSequence]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(int), java/lang/Integer/parseInt(java.lang.String), java/util/StringTokenizer/nextToken(), java/util/StringTokenizer/StringTokenizer(java.lang.String]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActLevel/connectWithService(), net/rocrail/androc/activities/ActLevel/getIntent(), net/rocrail/androc/activities/ActBase/onCreate(android.os.Bundle), android/os/Bundle/getInt(java.lang.String]
+
+prob: 0,01538
+[android/view/View/setLongClickable(boolean), android/view/View/setClickable(boolean), android/view/View/setOnClickListener(android.view.View$OnClickListener), java/util/List/size(), java/util/List/get(int), android/view/View/setOnLongClickListener(android.view.View$OnLongClickListener), net/rocrail/androc/activities/ActLevel$LevelTask/execute(java.lang.Object[]), net/rocrail/androc/activities/ActLevel/setContentView(int)]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActFiddleYard/setContentView(int)]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LevelItem/setImageBitmap(android.graphics.Bitmap), java/lang/String/format(java.lang.String]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LevelItem/getContext(), net/rocrail/androc/widgets/LevelItem/invalidate(), java/lang/String/length()]
+
+prob: 0,01538
+[android/graphics/Paint/setTextSize(float)]
+
+prob: 0,01538
+[java/lang/String/valueOf(java.lang.Object), java/net/Socket/Socket(java.lang.String]
+
+prob: 0,01538
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/List/iterator(), java/lang/StringBuilder/toString()]
+
+prob: 0,01538
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), net/rocrail/androc/widgets/LocoImage/setImageResource(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/toString(), net/rocrail/androc/objects/Loco/getID(]
+
+prob: 0,01538
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), java/lang/String/equals(java.lang.Object), android/graphics/Color/parseColor(java.lang.String), net/rocrail/androc/activities/ActThrottle/findViewById(int]
+
+prob: 0,01538
+[java/lang/String/valueOf(java.lang.Object), java/util/Iterator/next(), java/lang/String/equals(java.lang.Object), java/util/List/iterator()]
+
+prob: 0,01538
+[java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/util/Iterator/next(), net/rocrail/androc/activities/ActSystem/findViewById(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), java/util/List/iterator()]
+
+prob: 0,01538
+[java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/toString(), java/util/List/iterator()]
+
+prob: 0,01538
+[java/util/Iterator/hasNext(), java/lang/String/length(), java/lang/String/trim(]
+
+prob: 0,01538
+[java/util/Iterator/hasNext(), java/lang/String/contains(java.lang.CharSequence), net/rocrail/androc/objects/Loco/getID(]
+
+prob: 0,01538
+[java/util/Iterator/hasNext(), java/io/PrintStream/println(java.lang.String]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LocoImage/setImageBitmap(android.graphics.Bitmap), net/rocrail/androc/objects/Loco/getDescription(), net/rocrail/androc/widgets/LocoImage/setBackgroundColor(int)]
+
+prob: 0,01538
+[android/util/Log/v(java.lang.String]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActLocoExpList/findViewById(int), java/util/Collections/sort(java.util.List]
+
+prob: 0,01538
+[android/widget/ExpandableListView/setAdapter(android.widget.ExpandableListAdapter), java/util/Iterator/hasNext(), java/util/List/add(java.lang.Object), java/util/HashMap/values(), java/util/Iterator/next()]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActLocoExpList/setResult(int)]
+
+prob: 0,01538
+[android/widget/ExpandableListView/setOnChildClickListener(android.widget.ExpandableListView$OnChildClickListener)]
+
+prob: 0,01538
+[android/content/Intent/getExtras(), java/lang/StringBuilder/toString(), net/rocrail/androc/widgets/LocoImage/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,01538
+[java/util/Collection/iterator()]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LevelCanvas/scrollTo(int]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActBlock/findViewById(int), java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(java.lang.String), net/rocrail/androc/widgets/LEDButton/setText(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/util/Collections/sort(java.util.List]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LocoImage/setLongClickable(boolean), net/rocrail/androc/widgets/LocoImage/setOnClickListener(android.view.View$OnClickListener), android/widget/Button/setText(java.lang.CharSequence), net/rocrail/androc/activities/ActBlock/getText(int), net/rocrail/androc/activities/ActBlock/getIntent(), net/rocrail/androc/widgets/LocoImage/setOnLongClickListener(android.view.View$OnLongClickListener), java/io/PrintStream/println(java.lang.String)]
+
+prob: 0,01538
+[java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/content/Intent/getExtras(), java/lang/StringBuilder/toString()]
+
+prob: 0,01538
+[java/io/PrintStream/println(java.lang.String), net/rocrail/androc/widgets/LevelCanvas/setPadding(int]
+
+prob: 0,01538
+[android/widget/TextView/setText(java.lang.CharSequence), net/rocrail/androc/widgets/LEDButton/setOnClickListener(android.view.View$OnClickListener), java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/TextView/append(java.lang.CharSequence), java/lang/StringBuilder/toString(]
+
+prob: 0,01538
+[android/graphics/Paint/setAntiAlias(boolean), android/graphics/Paint/setColor(int), java/lang/String/trim(), android/widget/ImageView/onDraw(android.graphics.Canvas), android/graphics/Paint/setStyle(android.graphics.Paint$Style), android/graphics/Color/rgb(int]
+
+prob: 0,01538
+[android/graphics/Paint/setAntiAlias(boolean), android/graphics/Paint/setColor(int), android/graphics/Canvas/drawBitmap(android.graphics.Bitmap]
+
+prob: 0,01538
+[android/graphics/Paint/setAntiAlias(boolean), android/graphics/Paint/setColor(int), android/graphics/Canvas/drawRoundRect(android.graphics.RectF]
+
+prob: 0,01538
+[android/graphics/Paint/setAntiAlias(boolean), android/graphics/Paint/setColor(int), android/graphics/Canvas/drawText(java.lang.String]
+
+prob: 0,01538
+[android/graphics/Bitmap/getWidth(), android/graphics/Paint/Paint()]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActLocoSetup/findViewById(int)]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActLocoSetup/getIntent(), java/lang/StringBuilder/append(int), android/os/Bundle/getString(java.lang.String), net/rocrail/androc/objects/Loco/getBmp(net.rocrail.androc.widgets.LocoImage), net/rocrail/androc/widgets/LocoImage/setImageBitmap(android.graphics.Bitmap), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), net/rocrail/androc/activities/ActLocoSetup/setContentView(int]
+
+prob: 0,01538
+[android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener)]
+
+prob: 0,01538
+[android/widget/SeekBar/setProgress(int)]
+
+prob: 0,01538
+[net/rocrail/androc/objects/Switch/getOriNr(boolean), java/lang/StringBuilder/append(int), java/lang/String/length(), java/lang/String/format(java.lang.String]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActTurntable/getIntent(), java/lang/StringBuilder/append(int)]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActAccessory/findViewById(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/Integer/parseInt(java.lang.String), java/lang/StringBuilder/toString(]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActAccessory/findViewById(int), android/widget/Button/setText(java.lang.CharSequence), android/widget/EditText/setText(java.lang.CharSequence), net/rocrail/androc/activities/ActAccessory/setContentView(int), java/lang/StringBuilder/append(int]
+
+prob: 0,01538
+[java/lang/CharSequence/toString(), android/widget/Button/setText(java.lang.CharSequence), android/text/Editable/toString(), android/widget/EditText/getText()]
+
+prob: 0,01538
+[android/widget/Button/getText()]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActPreferences/setContentView(int), android/widget/ArrayAdapter/setDropDownViewResource(int), android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/widget/Spinner/setSelection(int), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActPreferences/findViewById(int)]
+
+prob: 0,01538
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,01538
+[java.util.List)]
+
+prob: 0,01538
+[java/lang/String/concat(java.lang.String)]
+
+prob: 0,01538
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01538
+[android/view/Window/setLayout(int]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LEDButton/invalidate()]
+
+prob: 0,01538
+[android/graphics/Typeface/defaultFromStyle(int)]
+
+prob: 0,01538
+[java/lang/CharSequence/length()]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LEDButton/setEnabled(boolean)]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LEDButton/setTypeface(android.graphics.Typeface]
+
+prob: 0,01538
+[net/rocrail/androc/objects/Loco/getID()]
+
+prob: 0,01538
+[java/io/FileInputStream/read(byte[]), java/lang/String/format(java.lang.String]
+
+prob: 0,01538
+[net/rocrail/androc/activities/ActBlock/findViewById(int)]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LocoImage/setImageResource(int)]
+
+prob: 0,01538
+[net/rocrail/androc/objects/Loco/getBmp(net.rocrail.androc.widgets.LocoImage)]
+
+prob: 0,01538
+[android/widget/EditText/setText(java.lang.CharSequence)]
+
+prob: 0,01538
+[android/widget/TextView/setBackgroundColor(int)]
+
+prob: 0,01538
+[android/graphics/Paint/Paint()]
+
+prob: 0,01538
+[android/os/Bundle/getString(java.lang.String)]
+
+prob: 0,01538
+[net/rocrail/androc/widgets/LocoImage/setBackgroundColor(int)]
+
+prob: 0,01538
+[android/widget/ArrayAdapter/setDropDownViewResource(int), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,01538
+[android/widget/Button/setText(java.lang.CharSequence)]
+
+prob: 0,01538
+[android/widget/ArrayAdapter/setDropDownViewResource(int)]
+
+prob: 0,01538
+[java/util/List/iterator()]
+
+prob: 0,01538
+[android/widget/TextView/setText(java.lang.CharSequence)]
+
+prob: 0,01538
+[android/graphics/Paint/setAntiAlias(boolean), android/graphics/Paint/setColor(int)]
+
+prob: 0,01538
+[java/lang/String/valueOf(java.lang.Object)]
+

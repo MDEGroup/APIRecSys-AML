@@ -1,0 +1,12 @@
+android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context
+android/content/SharedPreferences/getInt(java.lang.String,int
+com/cax/pmk/widget/Slider/getPaddingLeft()
+android/view/View/setOnTouchListener(android.view.View$OnTouchListener
+android/widget/ListView/getAdapter(
+android/webkit/WebSettings/setTextZoom(int)
+android/view/MotionEvent/getX(
+android/view/View/setOnLongClickListener(android.view.View$OnLongClickListener)
+android/app/AlertDialog$Builder/create(
+android/media/SoundPool/SoundPool(int,int,int)
+java/io/File/isDirectory()
+java/io/File/isFile()

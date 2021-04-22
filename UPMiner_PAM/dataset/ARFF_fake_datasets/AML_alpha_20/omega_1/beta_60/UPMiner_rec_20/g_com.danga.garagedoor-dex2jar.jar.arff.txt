@@ -1,0 +1,6 @@
+java/lang/System/currentTimeMillis(
+android/util/Log/d(java.lang.String,java.lang.String
+android/os/PowerManager$WakeLock/acquire()
+org.api.fake
+java/util/concurrent/atomic/AtomicBoolean/compareAndSet(boolean,boolean
+android/os/Parcel/writeInt(int

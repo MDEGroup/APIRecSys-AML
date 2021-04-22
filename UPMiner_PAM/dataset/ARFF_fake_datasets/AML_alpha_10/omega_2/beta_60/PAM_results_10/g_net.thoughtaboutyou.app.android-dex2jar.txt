@@ -1,0 +1,174 @@
+prob: 0,07143
+[int)]
+
+prob: 0,07143
+[java.io.FileDescriptor]
+
+prob: 0,05357
+[int]
+
+prob: 0,05357
+[boolean]
+
+prob: 0,05357
+[android/util/Log/v(java.lang.String]
+
+prob: 0,03571
+[java/lang/reflect/Field/getName(), java/lang/reflect/Field/setAccessible(boolean), java/lang/reflect/Field/set(java.lang.Object]
+
+prob: 0,03571
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01786
+[java.io.PrintWriter)]
+
+prob: 0,01786
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,01786
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/util/ArrayList/set(int]
+
+prob: 0,01786
+[com/google/inject/util/Modules$RealOverriddenModuleBuilder$1$2/writeAll(java.lang.Iterable), java/util/LinkedHashSet/LinkedHashSet(java.util.Collection), java/util/List/size(), java/util/Set/iterator(), com/google/inject/util/Modules$RealOverriddenModuleBuilder$1$3/writeAll(java.lang.Iterable), com/google/inject/util/Modules$RealOverriddenModuleBuilder$1$1/writeAll(java.lang.Iterable), com/google/inject/util/Modules$RealOverriddenModuleBuilder$1/binder(), com/google/inject/spi/PrivateElements/getSource(]
+
+prob: 0,01786
+[com.google.inject.internal.ProcessedBindingData]
+
+prob: 0,01786
+[com.google.inject.Stage)]
+
+prob: 0,01786
+[com.google.inject.spi.TypeEncounter)]
+
+prob: 0,01786
+[java.lang.String)]
+
+prob: 0,01786
+[java/util/List/isEmpty()]
+
+prob: 0,01786
+[android.content.Context]
+
+prob: 0,01786
+[java/lang/reflect/Field/getName(), java/lang/reflect/Field/setAccessible(boolean), android/content/res/Resources/getInteger(int), android/content/res/Resources/getIdentifier(java.lang.String]
+
+prob: 0,01786
+[android/view/Window/getDecorView(), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), android/app/Activity/getWindow(), java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)]
+
+prob: 0,01786
+[java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Constructor/getDeclaringClass(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/reflect/Method/getDeclaringClass(]
+
+prob: 0,01786
+[java/lang/reflect/Constructor/getGenericParameterTypes(), java/lang/reflect/Method/getGenericParameterTypes(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,01786
+[android/content/res/Resources/getString(int)]
+
+prob: 0,01786
+[java.lang.StringBuilder)]
+
+prob: 0,01786
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Class/getSimpleName(), android/os/Bundle/get(java.lang.String), java/lang/Class/isPrimitive(), java/lang/reflect/Field/getType()]
+
+prob: 0,01786
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Dialog/setContentView(android.view.View), android/app/Dialog/setCancelable(boolean), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(]
+
+prob: 0,01786
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/widget/ListView/setEmptyView(android.view.View), android/widget/TextView/setText(java.lang.CharSequence), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/os/Handler/post(java.lang.Runnable), android/widget/ListView/setAdapter(android.widget.ListAdapter), android/view/View/getWindowToken(), android/view/View/findViewById(int), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String]
+
+prob: 0,01786
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/lang/AssertionError/AssertionError(java.lang.Object), java/util/Map/isEmpty(), java/util/Iterator/next(), java/util/Map/values(), java/lang/StringBuilder/append(java.lang.Object]
+
+prob: 0,01786
+[java/util/Iterator/hasNext(), java/lang/AssertionError/AssertionError(java.lang.Object), com/google/inject/internal/InjectionRequestProcessor/process(java.lang.Iterable), java/util/List/iterator(), com/google/inject/internal/LookupProcessor/process(java.lang.Iterable), java/util/Iterator/next(]
+
+prob: 0,01786
+[java/util/concurrent/CountDownLatch/countDown(), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01786
+[java/util/Iterator/next(), java/util/Iterator/hasNext()]
+
+prob: 0,01786
+[roboguice/config/DefaultRoboModule/requestStaticInjection(java.lang.Class[]), android/app/Application/getPackageName(), com/google/inject/binder/AnnotatedBindingBuilder/toProvider(com.google.inject.Key), android/app/Application/getPackageManager(), android/app/Application/getContentResolver(), com/google/inject/binder/AnnotatedBindingBuilder/toProvider(com.google.inject.Provider), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,01786
+[java/lang/ClassLoader/getResource(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,01786
+[java/io/IOException/IOException(java.lang.String), java/net/URL/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01786
+[android/view/View/getLayoutParams(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/view/View/getMeasuredWidth(), android/support/v4/view/ViewPager/getPaddingLeft(), java/lang/Math/max(int]
+
+prob: 0,01786
+[android/graphics/Canvas/rotate(float), android/graphics/Canvas/restoreToCount(int), android/view/ViewGroup/draw(android.graphics.Canvas), android/support/v4/view/ViewPager/getPaddingTop(), android/support/v4/view/ViewPager/getHeight(), android/support/v4/view/ViewPager/getWidth(), android/support/v4/view/ViewPager/invalidate(), android/graphics/Canvas/translate(float]
+
+prob: 0,01786
+[android/view/MotionEvent/getEdgeFlags(), android/support/v4/view/ViewPager/scrollTo(int]
+
+prob: 0,01786
+[java/util/ArrayList/remove(int), java/lang/Math/max(int]
+
+prob: 0,01786
+[java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Constructor/getGenericExceptionTypes(), java/lang/reflect/Method/getGenericExceptionTypes()]
+
+prob: 0,01786
+[java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,01786
+[java.lang.reflect.Type)]
+
+prob: 0,01786
+[java/lang/Throwable/setStackTrace(java.lang.StackTraceElement[]), java/util/ArrayList/ArrayList(java.util.Collection), java/util/ArrayList/toArray(java.lang.Object[]), java/util/ArrayList/size(), java/util/ArrayList/addAll(java.util.Collection), java/lang/Exception/getStackTrace(), roboguice/util/SafeAsyncTask/call(), java/util/Arrays/asList(java.lang.Object[]), java/lang/Throwable/getStackTrace(]
+
+prob: 0,01786
+[java/lang/Exception/setStackTrace(java.lang.StackTraceElement[])]
+
+prob: 0,01786
+[java.util.Collection)]
+
+prob: 0,01786
+[java.lang.Class)]
+
+prob: 0,01786
+[boolean)]
+
+prob: 0,01786
+[java.util.ArrayList)]
+
+prob: 0,01786
+[android.support.v4.app.a)]
+
+prob: 0,01786
+[java/lang/Runnable/run(), java/util/ArrayList/toArray(java.lang.Object[]), java/util/ArrayList/size(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/ArrayList/clear(]
+
+prob: 0,01786
+[android/os/Looper/myLooper(), java/util/ArrayList/get(int), android/os/Handler/removeCallbacks(java.lang.Runnable), android/os/Handler/getLooper()]
+
+prob: 0,01786
+[float)]
+
+prob: 0,01786
+[android/support/v4/view/PagerTitleStrip/getPaddingLeft(), android/support/v4/view/PagerTitleStrip/getPaddingBottom(), android/widget/TextView/measure(int]
+
+prob: 0,01786
+[java.lang.String]
+
+prob: 0,01786
+[com/google/inject/internal/util/$CustomConcurrentHashMap$Impl$Segment/unlock(), java/util/concurrent/atomic/AtomicReferenceArray/get(int), com/google/inject/internal/util/$CustomConcurrentHashMap$Impl$Segment/lock(), com/google/inject/internal/util/$CustomConcurrentHashMap$ComputingStrategy/newEntry(java.lang.Object]
+
+prob: 0,01786
+[android/widget/FrameLayout/addView(android.view.View]
+
+prob: 0,01786
+[java/lang/reflect/Constructor/getDeclaringClass(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/reflect/Method/getDeclaringClass(]
+
+prob: 0,01786
+[java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01786
+[java/util/Iterator/next()]
+
+prob: 0,01786
+[java/lang/StringBuilder/toString()]
+

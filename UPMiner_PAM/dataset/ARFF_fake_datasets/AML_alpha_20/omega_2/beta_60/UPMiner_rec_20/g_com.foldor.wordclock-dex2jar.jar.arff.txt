@@ -1,0 +1,5 @@
+com/chiralcode/colorpicker/ColorPicker/getHeight()
+org.api.fake
+android/graphics/Paint/setStrokeJoin(android.graphics.Paint$Join)
+java/lang/Math/toDegrees(double)
+org.rand.api

@@ -1,0 +1,21 @@
+prob: 0,33333
+[org.api.fake]
+
+prob: 0,11111
+[java/text/DecimalFormat/DecimalFormat(java.lang.String), java/lang/String/compareTo(java.lang.String), java/lang/String/length(), android/view/View/findViewById(int), java/text/DecimalFormat/format(java.lang.Object), java/text/DecimalFormat/format(double), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), java/lang/String/valueOf(java.lang.Object), android/widget/TextView/setTypeface(android.graphics.Typeface]
+
+prob: 0,11111
+[android/content/res/Resources/getDisplayMetrics(), android/widget/ArrayAdapter/createFromResource(android.content.Context]
+
+prob: 0,11111
+[android/content/res/Resources/getDisplayMetrics(), com/github/cetoolbox/fragments/tabs/SimpleActivity/findViewById(int), java/util/Locale/Locale(java.lang.String), android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/app/Activity/onCreate(android.os.Bundle), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), java/lang/Double/longBitsToDouble(long), com/github/cetoolbox/fragments/tabs/SimpleActivity/setContentView(int), android/content/SharedPreferences/getInt(java.lang.String]
+
+prob: 0,11111
+[android/widget/TabHost/newTabSpec(java.lang.String), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,11111
+[android/app/AlertDialog$Builder/setIcon(int), java/lang/Double/doubleToLongBits(double), android/view/LayoutInflater/inflate(int]
+
+prob: 0,11111
+[com/github/cetoolbox/fragments/tabs/AboutActivity/setContentView(int), java/io/InputStream/read(byte[]), android/webkit/WebView/loadData(java.lang.String]
+

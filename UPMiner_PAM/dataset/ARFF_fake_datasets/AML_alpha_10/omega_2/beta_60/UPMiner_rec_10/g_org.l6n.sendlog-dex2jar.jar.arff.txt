@@ -1,0 +1,6 @@
+android/util/Log/d(java.lang.String,java.lang.String
+java/io/FileInputStream/read(byte[])
+java/lang/Process/getOutputStream(
+android/content/SharedPreferences/edit()
+java/lang/Process/destroy()
+java/util/zip/ZipEntry/ZipEntry(java.lang.String

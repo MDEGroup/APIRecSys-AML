@@ -1,0 +1,19 @@
+org.api.fake  0,20000
+org.rand.api  0,20000
+android.view.MotionEvent)  0,12000
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), android/util/Log/e(java.lang.String  0,08000
+java/io/File/canWrite(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/io/File/exists(), android/util/Log/i(java.lang.String  0,08000
+java/lang/StringBuilder/StringBuilder()  0,08000
+android/media/MediaPlayer/setDataSource(java.lang.String), android/media/MediaPlayer/prepare(), android/media/MediaPlayer/reset(), android/media/MediaPlayer/setOnVideoSizeChangedListener(android.media.MediaPlayer$OnVideoSizeChangedListener), android/media/MediaPlayer/setOnCompletionListener(android.media.MediaPlayer$OnCompletionListener), android/media/MediaPlayer/setOnPreparedListener(android.media.MediaPlayer$OnPreparedListener), android/media/MediaPlayer/setLooping(boolean)  0,04000
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(int  0,04000
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setCancelable(boolean), android/widget/ListView/ListView(android.content.Context), android/app/AlertDialog$Builder/setView(android.view.View), android/app/AlertDialog$Builder/show(), android/app/AlertDialog$Builder/setNeutralButton(int  0,04000
+java/util/zip/ZipEntry/isDirectory(), android/content/SharedPreferences$Editor/commit(), java/lang/StringBuilder/StringBuilder(), android/os/StatFs/getBlockSize(), java/io/File/mkdirs(), android/content/SharedPreferences$Editor/putLong(java.lang.String  0,04000
+java.lang.String)  0,04000
+android/os/Environment/getExternalStorageDirectory(), java/io/File/File(java.lang.String), java/io/File/getPath()  0,04000
+int  0,04000
+java/lang/StringBuilder/StringBuilder(), android/content/Context/getExternalFilesDir(java.lang.String)  0,04000
+java/lang/Class/forName(java.lang.String), android/util/Log/w(java.lang.String  0,04000
+java/lang/Class/forName(java.lang.String), java/lang/Class/getField(java.lang.String), android/content/res/Resources/getText(int), java/lang/StringBuilder/StringBuilder(), java/lang/reflect/Field/getInt(java.lang.Object)  0,04000
+java/lang/Class/forName(java.lang.String), android/util/Log/v(java.lang.String  0,04000
+android/util/Log/w(java.lang.String  0,04000
+java/io/File/File(java.lang.String), java/io/File/getPath()  0,04000

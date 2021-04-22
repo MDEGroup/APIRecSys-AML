@@ -1,0 +1,7 @@
+java/text/SimpleDateFormat/format(java.util.Date), java/util/Calendar/getTime(), android/service/notification/StatusBarNotification/getNotification(), com/RSen/Widget/Hangouts/NotificationListener/getContentResolver(), android/service/notification/StatusBarNotification/getPostTime(), java/lang/String/equals(java.lang.Object), android/content/ContentResolver/insert(android.net.Uri  0,14286
+android.content.ContentValues)  0,14286
+android/os/Bundle/getInt(java.lang.String  0,14286
+android/appwidget/AppWidgetManager/getInstance(android.content.Context), android/widget/Switch/isChecked(), android/widget/Toast/makeText(android.content.Context  0,14286
+android/widget/RemoteViews/setTextViewText(int  0,14286
+android.content.Intent)  0,14286
+int)  0,14286

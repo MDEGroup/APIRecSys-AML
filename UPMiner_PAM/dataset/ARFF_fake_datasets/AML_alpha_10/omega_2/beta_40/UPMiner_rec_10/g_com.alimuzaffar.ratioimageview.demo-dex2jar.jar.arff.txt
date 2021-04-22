@@ -1,0 +1,21 @@
+android/support/v4/view/ViewPager/isFocusable(
+java/lang/Runnable/run()
+android/view/View/getTop(
+java/io/PrintWriter/print(java.lang.String
+java/lang/StringBuilder/toString(
+java/util/ArrayList/get(int
+java/lang/StringBuilder/append(java.lang.String)
+android/view/View/measure(int,int
+android/support/v4/widget/DrawerLayout/setMeasuredDimension(int,int)
+java/lang/Math/min(float,float)
+android/view/View/getVisibility()
+org.api.fake
+android/graphics/Canvas/getClipBounds(android.graphics.Rect
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/StringBuilder()
+android/util/Log/w(java.lang.String,java.lang.String)
+android/support/v4/view/PagerTitleStrip/getPaddingLeft()
+android/view/View/getRight()
+android/util/Log/v(java.lang.String,java.lang.String)
+android/support/v4/view/ViewPager/getWidth(
+java/lang/Math/min(int,int
+org.rand.api

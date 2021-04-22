@@ -1,0 +1,132 @@
+prob: 0,08955
+[org.api.fake]
+
+prob: 0,08955
+[java.lang.String]
+
+prob: 0,07463
+[java.io.PrintWriter)]
+
+prob: 0,07463
+[int]
+
+prob: 0,05970
+[int)]
+
+prob: 0,04478
+[android.view.View)]
+
+prob: 0,04478
+[java.io.FileDescriptor]
+
+prob: 0,04478
+[java.util.ArrayList)]
+
+prob: 0,02985
+[android.support.v4.app.a)]
+
+prob: 0,02985
+[java.lang.StringBuilder)]
+
+prob: 0,02985
+[java.lang.String)]
+
+prob: 0,02985
+[boolean)]
+
+prob: 0,02985
+[android/util/Log/v(java.lang.String]
+
+prob: 0,01493
+[android.content.Context]
+
+prob: 0,01493
+[java/util/ArrayList/iterator(), java/util/Iterator/remove(), java/util/Iterator/hasNext(), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01493
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,01493
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Dialog/setCancelable(boolean), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), android/app/Dialog/setContentView(android.view.View), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(]
+
+prob: 0,01493
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/os/Bundle/getBoolean(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01493
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/util/ArrayList/set(int]
+
+prob: 0,01493
+[java/io/File/File(java.io.File]
+
+prob: 0,01493
+[java/util/regex/Matcher/group(int), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01493
+[java/util/regex/Pattern/compile(java.lang.String)]
+
+prob: 0,01493
+[java/lang/Math/min(float]
+
+prob: 0,01493
+[cc/hughes/droidchatty/SearchResultFragment/g(), android/view/View/getVisibility(), cc/hughes/droidchatty/SearchResultFragment/y(), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), cc/hughes/droidchatty/SearchResultFragment/a(android.widget.ListAdapter), android/content/Intent/getExtras(), android/support/v4/app/FragmentActivity/findViewById(int), android/os/Bundle/getString(java.lang.String), android/content/Intent/getStringExtra(java.lang.String), android/support/v4/app/FragmentActivity/getIntent(]
+
+prob: 0,01493
+[java/util/ArrayList/ArrayList(), cc/hughes/droidchatty/ThreadListFragment/l(), android/widget/ListView/setItemChecked(int]
+
+prob: 0,01493
+[a.a.a.a.i)]
+
+prob: 0,01493
+[android/widget/FrameLayout/addView(android.view.View]
+
+prob: 0,01493
+[java/net/URL/openConnection(), org/xml/sax/InputSource/getByteStream(), org/xml/sax/InputSource/getSystemId(), java/net/URL/URL(java.lang.String]
+
+prob: 0,01493
+[java/lang/String/split(java.lang.String), android/support/v4/app/FragmentActivity/openFileInput(java.lang.String), java/lang/String/length(), java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/File/exists(), java/lang/Integer/parseInt(java.lang.String), java/lang/Integer/valueOf(int), android/support/v4/app/FragmentActivity/getFileStreamPath(java.lang.String), java/util/Hashtable/put(java.lang.Object]
+
+prob: 0,01493
+[java/lang/String/length(), cc/hughes/droidchatty/ComposePostView/findViewById(int)]
+
+prob: 0,01493
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01493
+[android/util/Log/w(java.lang.String]
+
+prob: 0,01493
+[java/lang/String/equalsIgnoreCase(java.lang.String), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,01493
+[android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), java/util/ArrayList/ArrayList(), android/content/Intent/getAction(), java/lang/String/equals(java.lang.Object), android/widget/ListView/setChoiceMode(int), android/widget/ListView/setSelectionFromTop(int]
+
+prob: 0,01493
+[cc/hughes/droidchatty/ThreadViewFragment/f(), java/lang/Integer/parseInt(java.lang.String)]
+
+prob: 0,01493
+[cc/hughes/droidchatty/ThreadViewFragment/g(), android/view/View/findViewById(int), cc/hughes/droidchatty/ThreadViewFragment/p(), android/net/Uri/getQueryParameter(java.lang.String), android/view/View/setOnTouchListener(android.view.View$OnTouchListener), cc/hughes/droidchatty/ThreadViewFragment/a(android.widget.ListAdapter), android/text/method/LinkMovementMethod/LinkMovementMethod(), cc/hughes/droidchatty/ThreadViewFragment/l(), android/widget/ListView/onRestoreInstanceState(android.os.Parcelable), android/os/Bundle/containsKey(java.lang.String), android/view/View/setOnCreateContextMenuListener(android.view.View$OnCreateContextMenuListener)]
+
+prob: 0,01493
+[java/net/HttpURLConnection/disconnect(), java/net/URL/openConnection(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/net/HttpURLConnection/setRequestProperty(java.lang.String]
+
+prob: 0,01493
+[java/net/URL/URL(java.lang.String)]
+
+prob: 0,01493
+[java/util/Collections/reverseOrder(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Math/min(int]
+
+prob: 0,01493
+[java/util/Hashtable/keySet()]
+
+prob: 0,01493
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), cc/hughes/droidchatty/ComposePostView/findViewById(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/endsWith(java.lang.String]
+
+prob: 0,01493
+[android/widget/EditText/length(), android/widget/EditText/getText(), android/widget/EditText/append(java.lang.CharSequence), android/text/Editable/toString()]
+
+prob: 0,01493
+[cc/hughes/droidchatty/ComposePostView/getTitle()]
+
+prob: 0,01493
+[java/util/ArrayList/ArrayList(), android/content/Intent/getAction(), java/lang/String/equals(java.lang.Object), android/widget/ListView/setChoiceMode(int)]
+

@@ -1,0 +1,6 @@
+java/lang/StringBuilder/toString()
+java/util/ArrayList/size()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getFields()
+org.api.fake
+java/lang/StringBuilder/StringBuilder()

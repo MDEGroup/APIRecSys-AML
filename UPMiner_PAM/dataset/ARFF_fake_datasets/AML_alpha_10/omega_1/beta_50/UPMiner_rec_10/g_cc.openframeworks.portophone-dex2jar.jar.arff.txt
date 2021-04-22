@@ -1,0 +1,11 @@
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)
+java/io/File/getName()
+android/util/Log/e(java.lang.String,java.lang.String,java.lang.Throwable) java/lang/reflect/Field/getInt(java.lang.Object)
+org.api.fake
+java/lang/Class/forName(java.lang.String)
+android/util/Log/e(java.lang.String,java.lang.String,java.lang.Throwable)
+java/io/File/equals(java.lang.Object
+android/view/MotionEvent/getTouchMajor(int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+cc/openframeworks/OFActivity/getResources(

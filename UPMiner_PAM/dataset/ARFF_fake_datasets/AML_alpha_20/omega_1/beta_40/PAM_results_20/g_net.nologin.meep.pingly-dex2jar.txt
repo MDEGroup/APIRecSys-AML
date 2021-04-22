@@ -1,0 +1,147 @@
+prob: 0,08163
+[android.util.AttributeSet)]
+
+prob: 0,08163
+[android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,06122
+[org/json/JSONObject/has(java.lang.String), org/json/JSONObject/JSONObject(java.lang.String), org/json/JSONException/getMessage(), org/json/JSONObject/getString(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,06122
+[java/lang/StringBuilder/append(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,04082
+[net.nologin.meep.pingly.model.ScheduleEntry)]
+
+prob: 0,04082
+[android.app.Dialog)]
+
+prob: 0,04082
+[android.content.Intent)]
+
+prob: 0,04082
+[android.content.Context]
+
+prob: 0,04082
+[java/lang/StringBuilder/append(java.lang.String), android/content/ContentValues/put(java.lang.String]
+
+prob: 0,04082
+[java/lang/Integer/valueOf(int)]
+
+prob: 0,04082
+[java/lang/StringBuilder/append(long)]
+
+prob: 0,04082
+[android/util/Log/w(java.lang.String]
+
+prob: 0,02041
+[java.lang.Class]
+
+prob: 0,02041
+[net.nologin.meep.pingly.model.ProbeRun)]
+
+prob: 0,02041
+[android/preference/EditTextPreference/getEditText(), net/nologin/meep/pingly/activity/SettingsActivity/getString(int), android/preference/EditTextPreference/setDefaultValue(java.lang.Object), android/preference/PreferenceActivity/onCreate(android.os.Bundle), net/nologin/meep/pingly/activity/SettingsActivity/findPreference(java.lang.CharSequence), android/widget/EditText/setHint(java.lang.CharSequence), java/lang/String/format(java.lang.String]
+
+prob: 0,02041
+[boolean)]
+
+prob: 0,02041
+[android/view/View/inflate(android.content.Context]
+
+prob: 0,02041
+[net/nologin/meep/pingly/activity/ProbeRunHistoryActivity/findViewById(int), java/lang/Long/valueOf(long), android/widget/ListView/setEmptyView(android.view.View), net/nologin/meep/pingly/activity/ProbeRunHistoryActivity/startManagingCursor(android.database.Cursor), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), net/nologin/meep/pingly/activity/ProbeRunHistoryActivity/getIntentExtraProbeRun(), net/nologin/meep/pingly/activity/ProbeRunHistoryActivity/getIntentExtraProbe(), android/widget/ListView/setAdapter(android.widget.ListAdapter), net/nologin/meep/pingly/activity/ProbeRunHistoryActivity/registerForContextMenu(android.view.View), android/view/View/setOnClickListener(android.view.View$OnClickListener), net/nologin/meep/pingly/activity/ProbeRunHistoryActivity/setContentView(int]
+
+prob: 0,02041
+[java.lang.String]
+
+prob: 0,02041
+[java/lang/Process/getErrorStream(), java/lang/Runtime/exec(java.lang.String), net/nologin/meep/pingly/service/runner/PingProbeRunner/notifyUpdate(java.lang.String), net/nologin/meep/pingly/service/runner/PingProbeRunner/notifyFinishedWithFailure(java.lang.String), java/lang/Process/waitFor(), java/net/UnknownHostException/getMessage(), net/nologin/meep/pingly/service/runner/PingProbeRunner/getProbe(), java/lang/String/format(java.lang.String]
+
+prob: 0,02041
+[java/lang/Process/getInputStream()]
+
+prob: 0,02041
+[android/database/Cursor/close(), net/nologin/meep/pingly/db/ProbeRunDAO/getReadableDB(), android/database/Cursor/moveToFirst(), java/lang/StringBuilder/toString(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,02041
+[java/lang/Runtime/getRuntime()]
+
+prob: 0,02041
+[java/lang/Thread/sleep(long), android/content/Context/getString(int), java/nio/channels/SocketChannel/connect(java.net.SocketAddress), net/nologin/meep/pingly/service/runner/SocketConnectionProbeRunner/notifyFinishedWithSuccess(java.lang.String), net/nologin/meep/pingly/service/runner/SocketConnectionProbeRunner/notifyUpdate(java.lang.String), net/nologin/meep/pingly/service/runner/SocketConnectionProbeRunner/notifyFinishedWithFailure(java.lang.String), java/lang/Integer/valueOf(int), java/nio/channels/SocketChannel/open(), java/net/InetSocketAddress/InetSocketAddress(java.lang.String]
+
+prob: 0,02041
+[net/nologin/meep/pingly/db/ScheduleDAO/getWriteableDB(), java/lang/Long/valueOf(long), java/util/Date/Date()]
+
+prob: 0,02041
+[java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(long), net/nologin/meep/pingly/db/ScheduleDAO/getReadableDB(), java/util/List/add(java.lang.Object), android/database/Cursor/moveToNext(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,02041
+[java/lang/StringBuilder/append(java.lang.Object), org/json/JSONObject/getJSONObject(java.lang.String)]
+
+prob: 0,02041
+[android/app/AlertDialog$Builder/setTitle(int), android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,02041
+[android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(int), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,02041
+[java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02041
+[net/nologin/meep/pingly/activity/ProbeRunnerActivity/startService(android.content.Intent), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,02041
+[net/nologin/meep/pingly/activity/ProbeDetailActivity/findViewById(int), android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/widget/Spinner/setSelection(int), android/widget/EditText/setText(java.lang.CharSequence), android/util/Log/d(java.lang.String]
+
+prob: 0,02041
+[android/widget/EditText/setError(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,02041
+[java/lang/Object/toString(), android/widget/EditText/getText(), net/nologin/meep/pingly/activity/ProbeDetailActivity/getString(int), net/nologin/meep/pingly/activity/ProbeDetailActivity/getText(int), java/lang/String/trim(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,02041
+[android/widget/LinearLayout/removeAllViews(), net/nologin/meep/pingly/activity/ProbeDetailActivity/getLayoutInflater(), android/view/LayoutInflater/inflate(int]
+
+prob: 0,02041
+[org/apache/http/HttpResponse/getStatusLine(), net/nologin/meep/pingly/service/runner/HTTPResponseProbeRunner/notifyUpdate(java.lang.String), android/content/Context/getString(int), java/io/IOException/getMessage(), org/apache/http/conn/HttpHostConnectException/getMessage(), android/util/Log/w(java.lang.String]
+
+prob: 0,02041
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/database/sqlite/SQLiteDatabase/delete(java.lang.String]
+
+prob: 0,02041
+[java/lang/StringBuilder/append(java.lang.String), net/nologin/meep/pingly/activity/ProbeRunnerActivity/removeDialog(int), net/nologin/meep/pingly/activity/BasePinglyActivity/onResume(), android/content/IntentFilter/IntentFilter(java.lang.String), net/nologin/meep/pingly/activity/ProbeRunnerActivity/registerReceiver(android.content.BroadcastReceiver]
+
+prob: 0,02041
+[org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest)]
+
+prob: 0,02041
+[net/nologin/meep/pingly/service/runner/HTTPResponseProbeRunner/checkCancelled()]
+
+prob: 0,02041
+[java/net/URI/URI(java.lang.String)]
+
+prob: 0,02041
+[org/apache/http/client/methods/HttpGet/setURI(java.net.URI)]
+
+prob: 0,02041
+[java/lang/Integer/toString(int)]
+
+prob: 0,02041
+[android/content/Intent/toString(), android/os/Bundle/getLong(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,02041
+[android/content/Context/getString(int), java/io/IOException/getMessage()]
+
+prob: 0,02041
+[android/database/Cursor/moveToFirst()]
+
+prob: 0,02041
+[java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,02041
+[android/util/Log/i(java.lang.String]
+
+prob: 0,02041
+[java/lang/StringBuilder/append(java.lang.String)]
+

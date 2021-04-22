@@ -1,0 +1,47 @@
+java/util/Iterator/hasNext()  0,08696
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Integer/valueOf(int)  0,08696
+java/util/Iterator/next(), android/bluetooth/BluetoothDevice/getName(), android/util/Log/e(java.lang.String  0,04348
+android/os/PowerManager$WakeLock/acquire(), org/xcsoar/NativeView/requestFocus(), android/os/Environment/getExternalStorageState(), android/os/PowerManager/newWakeLock(int  0,04348
+org/xcsoar/XCSoar/getSystemService(java.lang.String)  0,04348
+org/xcsoar/NativeView/setFocusableInTouchMode(boolean)  0,04348
+android/bluetooth/BluetoothGattCharacteristic/getUuid(), android/bluetooth/BluetoothGatt/getServices(), java/util/Iterator/next(), java/util/List/iterator(), java/util/UUID/equals(java.lang.Object), android/bluetooth/BluetoothGattService/getCharacteristics(), android/util/Log/e(java.lang.String  0,04348
+android/view/Window/addFlags(int), android/widget/TextView/setText(java.lang.CharSequence), org/xcsoar/XCSoar/setContentView(android.view.View), android/util/Log/d(java.lang.String  0,04348
+java/util/List/remove(int), java/lang/StringBuilder/append(java.lang.Object), java/util/Set/add(java.lang.Object)  0,04348
+java/util/List/isEmpty()  0,04348
+android/util/DisplayMetrics/DisplayMetrics(), android/util/Log/e(java.lang.String  0,04348
+android/graphics/Rect/height(), android/os/Handler/obtainMessage(), android/os/Handler/sendMessage(android.os.Message), android/view/SurfaceHolder/getSurfaceFrame()  0,04348
+java/lang/StringBuilder/append(java.lang.String), java/util/Set/contains(java.lang.Object), java/util/List/add(java.lang.Object), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/Set/remove(java.lang.Object  0,04348
+java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), org/xcsoar/XCSoar/setContentView(android.view.View), java/lang/StringBuilder/toString()  0,04348
+java/lang/StringBuilder/append(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), java/lang/StringBuilder/StringBuilder()  0,04348
+java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getName(), java/lang/Class/getConstructor(java.lang.Class[), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/Object/getClass(), java/lang/reflect/InvocationTargetException/getCause(  0,04348
+android/content/Context/startActivity(android.content.Intent), java/lang/StringBuilder/append(java.lang.String), android/content/Intent/setDataAndType(android.net.Uri  0,04348
+javax/microedition/khronos/egl/EGLContext/getEGL(), javax/microedition/khronos/egl/EGL10/eglChooseConfig(javax.microedition.khronos.egl.EGLDisplay  0,04348
+android/util/Log/v(java.lang.String  0,04348
+android/util/Log/w(java.lang.String  0,04348
+java/util/Iterator/remove(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String  0,04348
+android.content.Intent)  0,04348
+java/io/IOException/IOException(java.lang.String), java/io/InputStream/close(), java/lang/Integer/intValue(), java/util/List/size(), java/lang/StringBuilder/toString(  0,04348
+ioio/lib/impl/IOIOProtocol$SequencerEvent/values()  0,04348
+java/lang/StringBuilder/append(int)  0,04348
+java/lang/Integer/toHexString(int)  0,04348
+java/lang/Thread/run()  0,04348
+java/util/Set/iterator()  0,04348
+ioio/lib/impl/IOIOProtocol$IncomingThread/setPriority(int)  0,04348
+java/util/List/clear()  0,04348
+java/lang/reflect/Constructor/newInstance(java.lang.Object[), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,04348
+java/lang/Class/isInstance(java.lang.Object)  0,04348
+android/app/DownloadManager$Query/setFilterByStatus(int), android/database/Cursor/getLong(int), android/database/Cursor/getColumnIndexOrThrow(java.lang.String), android/database/Cursor/getString(int), android/database/Cursor/moveToFirst(), android/app/DownloadManager/query(android.app.DownloadManager$Query), android/database/Cursor/moveToNext(), android/database/Cursor/getInt(int), android/app/DownloadManager/remove(long[), android/app/DownloadManager$Query/DownloadManager$Query(  0,04348
+long)  0,04348
+java.lang.String)  0,04348
+android/graphics/Paint/getTextBounds(char[  0,04348
+boolean  0,04348
+boolean)  0,04348
+java/net/Socket/getInputStream(), java/lang/String/equals(java.lang.Object), java/net/ServerSocket/ServerSocket(int), java/net/Socket/close(), java/net/ServerSocket/close(), java/net/ServerSocket/accept(), java/net/Socket/getOutputStream(), java/io/BufferedOutputStream/BufferedOutputStream(java.io.OutputStream  0,04348
+java/io/IOException/getMessage()  0,04348
+android/location/Location/hasSpeed(), android/os/Bundle/getInt(java.lang.String  0,04348
+java/lang/String/equals(java.lang.Object)  0,04348
+java/util/List/add(java.lang.Object)  0,04348
+java/lang/Integer/intValue(), java/util/List/size(), java/lang/StringBuilder/toString(  0,04348
+java/util/Iterator/next()  0,04348
+java/lang/Integer/valueOf(int)  0,04348
+java/lang/StringBuilder/StringBuilder()  0,04348

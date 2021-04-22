@@ -1,0 +1,6 @@
+android/content/SharedPreferences/getString(java.lang.String,java.lang.String)
+java/net/InetAddress/getByName(java.lang.String
+org.api.fake
+org.rand.api
+java/util/concurrent/atomic/AtomicLong/set(long)
+java/lang/String/toLowerCase()

@@ -1,0 +1,4 @@
+android/widget/LinearLayout/setPadding(int,int,int,int)
+org.api.fake
+android/content/res/Resources/getDisplayMetrics()
+bob/clock/BobClockD3Configure/findViewById(int)

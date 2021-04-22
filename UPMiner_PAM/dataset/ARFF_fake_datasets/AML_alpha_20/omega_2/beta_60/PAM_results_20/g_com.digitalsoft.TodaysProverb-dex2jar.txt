@@ -1,0 +1,198 @@
+prob: 0,12800
+[org.api.fake]
+
+prob: 0,12800
+[org.rand.api]
+
+prob: 0,12000
+[java.lang.String]
+
+prob: 0,10400
+[java.lang.String)]
+
+prob: 0,09600
+[java.util.HashMap]
+
+prob: 0,03200
+[int)]
+
+prob: 0,03200
+[android.content.Context]
+
+prob: 0,02400
+[android.appwidget.AppWidgetManager]
+
+prob: 0,02400
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,02400
+[com.google.ads.m)]
+
+prob: 0,02400
+[android.view.View]
+
+prob: 0,01600
+[android/content/Context/getPackageManager(), android/content/Intent/Intent(java.lang.String]
+
+prob: 0,01600
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,01600
+[com.google.ads.internal.d)]
+
+prob: 0,00800
+[org/json/JSONObject/JSONObject(java.lang.String), org/json/JSONObject/getString(java.lang.String), java/util/List/add(java.lang.Object), org/json/JSONObject/has(java.lang.String), org/json/JSONObject/getInt(java.lang.String), org/json/JSONArray/getJSONObject(int), org/json/JSONArray/length(), org/json/JSONObject/getJSONArray(java.lang.String]
+
+prob: 0,00800
+[android.gesture.Gesture)]
+
+prob: 0,00800
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/length(), java/lang/Long/longValue(]
+
+prob: 0,00800
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/length(), com/google/ads/g$a/ordinal(]
+
+prob: 0,00800
+[android/content/res/Resources/getString(int), android/widget/TextView/setText(java.lang.CharSequence), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,00800
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,00800
+[java/lang/Class/getFields(), java/util/Map/put(java.lang.Object]
+
+prob: 0,00800
+[android/content/pm/PackageManager$NameNotFoundException/printStackTrace()]
+
+prob: 0,00800
+[android/widget/TextView/getText()]
+
+prob: 0,00800
+[android/webkit/ConsoleMessage$MessageLevel/ordinal(), android/webkit/ConsoleMessage/sourceId(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/webkit/ConsoleMessage/messageLevel(), android/webkit/ConsoleMessage/lineNumber(]
+
+prob: 0,00800
+[java/net/HttpURLConnection/disconnect(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/net/HttpURLConnection/setInstanceFollowRedirects(boolean]
+
+prob: 0,00800
+[java/util/ArrayList/size(), java/util/Collections/sort(java.util.List), java/util/ArrayList/indexOf(java.lang.Object), java/util/ArrayList/get(int), java/util/ArrayList/iterator(), android/widget/ExpandableListView/setAdapter(android.widget.ExpandableListAdapter), android/widget/SimpleExpandableListAdapter/SimpleExpandableListAdapter(android.content.Context]
+
+prob: 0,00800
+[android.content.Context)]
+
+prob: 0,00800
+[java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/getResponseCode(), java/lang/StringBuilder/toString()]
+
+prob: 0,00800
+[java/lang/StringBuilder/StringBuilder(), org/json/JSONArray/JSONArray(), java/lang/StringBuilder/append(java.lang.Object), org/json/JSONArray/put(java.lang.Object)]
+
+prob: 0,00800
+[java/net/HttpURLConnection/connect()]
+
+prob: 0,00800
+[java/lang/StringBuilder/append(java.lang.String), android/webkit/ConsoleMessage/message(), android/webkit/WebChromeClient/onConsoleMessage(android.webkit.ConsoleMessage)]
+
+prob: 0,00800
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/Map/get(java.lang.Object), java/lang/StringBuilder/append(long), java/lang/Object/wait(long), java/lang/String/startsWith(java.lang.String]
+
+prob: 0,00800
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/Cursor/getColumnName(int), android/content/SharedPreferences$Editor/commit(), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,00800
+[java/lang/System/getProperty(java.lang.String]
+
+prob: 0,00800
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Set/isEmpty(]
+
+prob: 0,00800
+[java/util/Iterator/hasNext(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/util/Iterator/next(), java/util/Map/keySet(]
+
+prob: 0,00800
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.Object), java/util/Map/isEmpty(), java/util/Map/get(java.lang.Object), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,00800
+[org/w3c/dom/NodeList/getLength(), org/w3c/dom/Document/getElementsByTagName(java.lang.String), org/w3c/dom/Node/getFirstChild(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/ArrayList(), org/w3c/dom/NamedNodeMap/getNamedItem(java.lang.String]
+
+prob: 0,00800
+[java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext()]
+
+prob: 0,00800
+[org/w3c/dom/NodeList/item(int), org/w3c/dom/Node/getAttributes(), org/w3c/dom/Node/getNodeValue()]
+
+prob: 0,00800
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), com/digitalsoft/TodaysProverb/EditPackage/findViewById(int), android/app/Activity/onCreate(android.os.Bundle), com/digitalsoft/TodaysProverb/EditPackage/registerForContextMenu(android.view.View), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/content/Intent/getExtras(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,00800
+[java/util/ArrayList/ArrayList(java.util.Collection), android/widget/ArrayAdapter/createFromResource(android.content.Context]
+
+prob: 0,00800
+[com/digitalsoft/TodaysProverb/EditaText/setContentView(int), android/content/Intent/getExtras(), android/app/Activity/onCreate(android.os.Bundle), android/widget/Button/setOnClickListener(android.view.View$OnClickListener]
+
+prob: 0,00800
+[com/digitalsoft/TodaysProverb/EditaText/findViewById(int), android/widget/EditText/setText(java.lang.CharSequence), java/lang/Integer/valueOf(int), android/app/Activity/getIntent(), android/os/Bundle/getString(java.lang.String), android/os/Bundle/getInt(java.lang.String)]
+
+prob: 0,00800
+[java.util.HashMap)]
+
+prob: 0,00800
+[com.google.ads.c]
+
+prob: 0,00800
+[java/util/List/contains(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/equals(java.lang.Object), android/os/SystemClock/elapsedRealtime(), java/util/Arrays/asList(java.lang.Object[])]
+
+prob: 0,00800
+[java/lang/StringBuilder/append(long), java/util/Iterator/next()]
+
+prob: 0,00800
+[android.app.Activity)]
+
+prob: 0,00800
+[java/security/MessageDigest/digest(), java/util/UUID/getLeastSignificantBits(), java/util/UUID/getMostSignificantBits(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/System/arraycopy(java.lang.Object]
+
+prob: 0,00800
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(), android/net/Uri$Builder/Uri$Builder(), java/lang/String/trim(), android/net/Uri$Builder/build()]
+
+prob: 0,00800
+[android/net/Uri$Builder/encodedQuery(java.lang.String)]
+
+prob: 0,00800
+[java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), android/app/Activity/onCreate(android.os.Bundle), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), android/widget/RelativeLayout/RelativeLayout(android.content.Context), com/google/ads/AdActivity/getIntent(), com/google/ads/AdActivity/getApplicationContext(]
+
+prob: 0,00800
+[android/content/Intent/getBundleExtra(java.lang.String), java/util/HashMap/get(java.lang.Object), com/google/ads/internal/AdWebView/setWebViewClient(android.webkit.WebViewClient)]
+
+prob: 0,00800
+[android/widget/ImageButton/setImageResource(int), android/widget/FrameLayout/addView(android.view.View]
+
+prob: 0,00800
+[boolean]
+
+prob: 0,00800
+[java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String), org/json/JSONObject/length(), java/util/HashMap/HashMap(int), org/json/JSONObject/keys(), org/json/JSONObject/optString(java.lang.String]
+
+prob: 0,00800
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,00800
+[java/lang/Integer/valueOf(int)]
+
+prob: 0,00800
+[java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String)]
+
+prob: 0,00800
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,00800
+[java/util/Set/iterator()]
+
+prob: 0,00800
+[java/util/Iterator/next()]
+
+prob: 0,00800
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00800
+[java/lang/StringBuilder/toString()]
+
+prob: 0,00800
+[java/lang/StringBuilder/append(java.lang.String)]
+

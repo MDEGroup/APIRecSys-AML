@@ -1,0 +1,36 @@
+prob: 0,19048
+[org.api.fake]
+
+prob: 0,19048
+[org.rand.api]
+
+prob: 0,14286
+[int]
+
+prob: 0,09524
+[android.content.Intent)]
+
+prob: 0,04762
+[java/lang/Boolean/toString(), java/lang/Integer/Integer(int), java/lang/StringBuilder/append(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/String/equals(java.lang.Object), android/net/wifi/WifiManager/enableNetwork(int]
+
+prob: 0,04762
+[android.os.Parcel]
+
+prob: 0,04762
+[android.appwidget.AppWidgetManager]
+
+prob: 0,04762
+[java/lang/StringBuilder/append(boolean), android/net/ConnectivityManager/requestRouteToHost(int]
+
+prob: 0,04762
+[android/os/PowerManager$WakeLock/acquire(), com/danga/garagedoor/InRangeService/startForeground(int]
+
+prob: 0,04762
+[java/lang/String/toLowerCase(), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,04762
+[com/danga/garagedoor/InRangeService/stopForeground(boolean), com/danga/garagedoor/InRangeService/unregisterReceiver(android.content.BroadcastReceiver), java/util/concurrent/atomic/AtomicBoolean/set(boolean), android/app/NotificationManager/cancel(int), android/net/wifi/WifiManager$WifiLock/release(), com/danga/garagedoor/InRangeService/stopSelf(), android/os/PowerManager$WakeLock/release(), android/util/Log/d(java.lang.String]
+
+prob: 0,04762
+[android/content/SharedPreferences/getString(java.lang.String]
+

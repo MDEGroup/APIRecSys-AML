@@ -1,0 +1,120 @@
+java/lang/StringBuilder/append(java.lang.String)  0,08333
+int  0,07292
+java.lang.Object)  0,06250
+java/lang/StringBuilder/toString()  0,06250
+java/lang/Integer/intValue(), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getAnnotation(java.lang.Class), java/lang/StackTraceElement/StackTraceElement(java.lang.String  0,03125
+long)  0,03125
+java.lang.String  0,03125
+java.lang.Class  0,03125
+java.lang.String)  0,03125
+java/util/List/add(java.lang.Object)  0,03125
+int)  0,03125
+java/util/Iterator/hasNext(), java/util/Iterator/next()  0,03125
+boolean)  0,02083
+android.os.IBinder)  0,02083
+android/os/Bundle/putString(java.lang.String  0,02083
+java/lang/Enum/ordinal()  0,02083
+java/util/Collection/add(java.lang.Object)  0,02083
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/String/toString(), java/lang/StringBuilder/StringBuilder()  0,02083
+android.os.Bundle)  0,02083
+java.lang.annotation.Annotation[)  0,02083
+java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/reflect/Array/newInstance(java.lang.Class  0,02083
+java.lang.reflect.Type)  0,02083
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,02083
+android/net/Uri/parse(java.lang.String)  0,02083
+java/lang/StringBuilder/append(char)  0,02083
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,02083
+java/net/URI/create(java.lang.String), java/util/List/set(int  0,01042
+java/lang/Thread/getName(), java/lang/String/length(), java/lang/Thread/setName(java.lang.String), java/lang/StringBuilder/append(long), java/lang/StringBuilder/StringBuilder(int), java/lang/String/substring(int  0,01042
+java.security.cert.X509Certificate)  0,01042
+java.util.List)  0,01042
+android/accounts/AccountManager/removeAccount(android.accounts.Account  0,01042
+java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/List/remove(int)  0,01042
+i.E)  0,01042
+boolean  0,01042
+java/lang/String/valueOf(java.lang.Object), android/graphics/Bitmap/getWidth(), java/lang/StringBuilder/append(int), java/lang/String/format(java.lang.String  0,01042
+long  0,01042
+java/net/InetAddress/getHostAddress(), java/lang/AssertionError/AssertionError(java.lang.Object), java/net/IDN/toASCII(java.lang.String), java/lang/String/isEmpty(), java/lang/String/contains(java.lang.CharSequence), java/lang/String/indexOf(int), java/lang/String/endsWith(java.lang.String), java/net/InetAddress/getAddress(), java/lang/String/charAt(int), java/lang/String/toLowerCase(java.util.Locale)  0,01042
+java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.Object)  0,01042
+java.lang.Object  0,01042
+java/lang/String/split(java.lang.String), java/lang/StringBuilder/deleteCharAt(int), java/net/IDN/toUnicode(java.lang.String), java/lang/String/charAt(int), java/lang/StringBuilder/length(), java/lang/NullPointerException/NullPointerException(java.lang.String  0,01042
+java/util/concurrent/CountDownLatch/await()  0,01042
+java/lang/String/getBytes(java.nio.charset.Charset)  0,01042
+java/lang/Long/valueOf(long), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), java/lang/Long/longValue(), java/lang/Iterable/iterator(), android/content/ContentResolver/delete(android.net.Uri  0,01042
+android/net/Uri$Builder/Uri$Builder(), android/app/Activity/onCreate(android.os.Bundle), android/content/Intent/Intent(java.lang.String), android/net/Uri$Builder/authority(java.lang.String), android/app/Activity/finish(), android/text/TextUtils/isEmpty(java.lang.CharSequence), android/content/Intent/Intent(java.lang.String  0,01042
+android/net/Uri$Builder/build()  0,01042
+android/net/Uri$Builder/appendPath(java.lang.String)  0,01042
+android/app/Activity/getPackageManager()  0,01042
+android/content/Context/getPackageManager(), java/lang/StringBuilder/append(java.lang.String), android/os/Bundle/get(java.lang.String), android/os/Bundle/writeToParcel(android.os.Parcel  0,01042
+g.e[)  0,01042
+g.b.d)  0,01042
+android.accounts.Account  0,01042
+eu.the4thfloor.msync.api.models.Event  0,01042
+android/view/View/setClickable(boolean), android/widget/GridLayout/getContext(), android/view/LayoutInflater/inflate(int  0,01042
+android/view/Window/setLayout(int  0,01042
+android/text/format/Time/getCurrentTimezone(), android/content/ContentUris/parseId(android.net.Uri), android/content/SharedPreferences/getString(java.lang.String  0,01042
+java/lang/Long/toString(long), java/util/Collections/addAll(java.util.Collection  0,01042
+java/util/Collections/emptyList()  0,01042
+java/lang/String/equals(java.lang.Object)  0,01042
+i/X/a(java.lang.String)  0,01042
+java/util/List/isEmpty()  0,01042
+java/util/ArrayList/ArrayList(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/Collection/size(), java/util/Collections/singletonList(java.lang.Object), java/util/List/get(int  0,01042
+java/util/ArrayList/ArrayList(), java/util/Collections/binarySearch(java.util.List  0,01042
+java/util/ArrayList/ArrayList(), java/lang/StringBuilder/StringBuilder(), java/lang/String/valueOf(int  0,01042
+java/util/ArrayList/ArrayList(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/append(char), android/content/Context/getContentResolver()  0,01042
+java/util/concurrent/Semaphore/availablePermits(), java/lang/String/toString(), java/util/concurrent/atomic/AtomicIntegerFieldUpdater/compareAndSet(java.lang.Object  0,01042
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Thread/interrupted(), java/lang/Thread/currentThread(), java/lang/Thread/interrupt(), [[B/clone(), java/util/concurrent/atomic/AtomicBoolean/get(), java/util/concurrent/atomic/AtomicBoolean/compareAndSet(boolean  0,01042
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), javax/net/ssl/SSLSession/getLocalCertificates(), javax/net/ssl/SSLSession/getProtocol(), javax/net/ssl/SSLSession/getPeerCertificates(), javax/net/ssl/SSLSession/getCipherSuite(  0,01042
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object  0,01042
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/util/Map/put(java.lang.Object  0,01042
+java/util/concurrent/locks/LockSupport/unpark(java.lang.Thread)  0,01042
+java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(java.lang.Object), java/util/Arrays/toString(java.lang.Object[), javax/net/ssl/SSLSocket/getEnabledProtocols(), java/util/List/size(), java/net/UnknownServiceException/UnknownServiceException(java.lang.String  0,01042
+java/util/ArrayList/ArrayList(int), java/util/Collections/addAll(java.util.Collection  0,01042
+java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/toString()  0,01042
+java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int  0,01042
+java/util/regex/Matcher/lookingAt(), java/util/regex/Matcher/end()  0,01042
+java.util.Set)  0,01042
+android/os/Message/getData(), android/app/Service/getApplicationContext(), android/util/Log/isLoggable(java.lang.String  0,01042
+java.util.Set  0,01042
+java/lang/String/startsWith(java.lang.String), java/lang/String/length(  0,01042
+java/lang/String/startsWith(java.lang.String), java/lang/Math/min(long  0,01042
+java.lang.annotation.Annotation[  0,01042
+java/lang/Character/isISOControl(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/String/length(), java/lang/String/codePointAt(int), java/lang/String/replace(java.lang.CharSequence  0,01042
+java.lang.Object[)  0,01042
+java/lang/Class/getConstructors(), java/util/concurrent/locks/ReentrantReadWriteLock$WriteLock/unlock(), java/util/Map/put(java.lang.Object  0,01042
+java.lang.reflect.Method)  0,01042
+java/util/LinkedHashMap/put(java.lang.Object  0,01042
+java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/Object/getClass(  0,01042
+java/lang/Class/getName(), java/lang/reflect/ParameterizedType/getActualTypeArguments(), java/lang/StringBuilder/append(java.lang.Object)  0,01042
+i.a.b.g  0,01042
+java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/System/arraycopy(java.lang.Object  0,01042
+java/util/ConcurrentModificationException/ConcurrentModificationException(), java/util/Map/size(), java/util/Map$Entry/getValue()  0,01042
+java/net/ProtocolException/ProtocolException(java.lang.String), java/io/IOException/IOException(java.lang.String)  0,01042
+java/util/Iterator/remove(), java/util/List/size(), java/util/List/get(int), java/util/Deque/add(java.lang.Object), java/util/concurrent/atomic/AtomicInteger/incrementAndGet(), java/util/Deque/size(), java/util/concurrent/atomic/AtomicInteger/get(), java/util/Deque/iterator(  0,01042
+java/util/Iterator/remove(), java/util/Iterator/hasNext(), java/util/Iterator/next(), android/os/Bundle/keySet(  0,01042
+android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), java/lang/String/startsWith(java.lang.String), java/util/ArrayList/ArrayList(), java/lang/StringBuilder/toString()  0,01042
+android/os/Bundle/putAll(android.os.Bundle), java/lang/StringBuilder/StringBuilder()  0,01042
+org/json/JSONObject/JSONObject(java.lang.String)  0,01042
+java/util/Collections/unmodifiableList(java.util.List)  0,01042
+android/os/Bundle/Bundle(android.os.Bundle)  0,01042
+org/json/JSONArray/getInt(int)  0,01042
+android/os/Bundle/getBoolean(java.lang.String)  0,01042
+android/os/Bundle/getInt(java.lang.String)  0,01042
+org/json/JSONArray/getString(int)  0,01042
+org/json/JSONArray/length()  0,01042
+android/os/Bundle/getString(java.lang.String)  0,01042
+org/json/JSONObject/getJSONArray(java.lang.String)  0,01042
+java/lang/Iterable/iterator()  0,01042
+java/lang/Thread/currentThread()  0,01042
+java/lang/String/split(java.lang.String)  0,01042
+java/util/concurrent/atomic/AtomicIntegerFieldUpdater/compareAndSet(java.lang.Object  0,01042
+java/util/List/get(int)  0,01042
+java/util/Set/iterator()  0,01042
+java/io/IOException/IOException(java.lang.String)  0,01042
+java/util/List/size()  0,01042
+java/util/Map/put(java.lang.Object  0,01042
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,01042
+java/lang/StringBuilder/append(java.lang.Object)  0,01042
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)  0,01042
+java/util/ArrayList/ArrayList()  0,01042
+java/lang/StringBuilder/StringBuilder()  0,01042

@@ -1,0 +1,13 @@
+boolean)  0,27273
+java/lang/String/getBytes(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(  0,09091
+java/lang/Integer/intValue(), java/util/Iterator/next(), java/lang/String/substring(int  0,09091
+java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(java.util.Collection), java/lang/Integer/toHexString(int), java/lang/String/indexOf(java.lang.String  0,09091
+java/lang/String/charAt(int), java/lang/StringBuffer/append(char)  0,09091
+java/lang/String/split(java.lang.String  0,09091
+boolean  0,09091
+java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/List/size(), java/lang/StringBuffer/toString(), java/util/List/get(int), java/lang/StringBuffer/insert(int  0,09091
+android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,09091
+java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/util/List/size(), java/lang/String/substring(int  0,09091
+java/lang/String/toLowerCase()  0,09091
+java/util/Iterator/hasNext(), java/util/List/size()  0,09091
+java/util/ArrayList/ArrayList(java.util.Collection), java/lang/Integer/toHexString(int)  0,09091

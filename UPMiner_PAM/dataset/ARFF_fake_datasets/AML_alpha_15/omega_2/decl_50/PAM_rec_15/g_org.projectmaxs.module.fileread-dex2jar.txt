@@ -1,0 +1,62 @@
+android.os.Parcel  0,14286
+java/lang/StringBuilder/StringBuilder()  0,14286
+java.lang.String  0,07143
+long  0,07143
+android.content.Intent)  0,07143
+android/net/Uri/encode(java.lang.String)  0,07143
+java/util/ArrayList/ArrayList(), android/content/ContentResolver/query(android.net.Uri  0,07143
+java/io/InputStream/read(byte[), java/lang/StringBuilder/append(java.lang.String), java/io/ByteArrayOutputStream/ByteArrayOutputStream(int), java/io/File/File(java.lang.String), java/io/ByteArrayOutputStream/write(byte[  0,03571
+java/io/InputStream/read(byte[), java/io/File/getAbsolutePath(), java/io/OutputStream/write(byte[  0,03571
+org/projectmaxs/module/fileread/commands/AbstractLsCommand/toElement(java.io.File)  0,03571
+java/lang/Double/toString(double), android/location/Location/getLongitude(), android/location/Location/getAltitude(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString(), android/location/Location/getTime(  0,03571
+android/location/Location/hasAltitude()  0,03571
+java/lang/Float/toString(float)  0,03571
+android/location/Location/getLatitude()  0,03571
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/logging/Level/intValue(  0,03571
+java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,03571
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.Object)  0,03571
+java/util/ArrayList/ArrayList(int)  0,03571
+android/location/Location/getProvider()  0,03571
+android/location/Location/hasSpeed()  0,03571
+android/location/Location/getAccuracy()  0,03571
+android/location/Location/getSpeed()  0,03571
+java/lang/Long/toString(long)  0,03571
+android/location/Location/hasAccuracy()  0,03571
+org.projectmaxs.shared.mainmodule.Command  0,03571
+java.lang.CharSequence  0,03571
+java.lang.String[  0,03571
+java.io.Reader)  0,03571
+java.io.Writer  0,03571
+java/lang/Double/valueOf(double), java/lang/String/format(java.lang.String  0,03571
+android/content/Intent/getParcelableExtra(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/System/getProperty(java.lang.String), android/util/Log/getStackTraceString(java.lang.Throwable)  0,03571
+java/lang/Throwable/getMessage()  0,03571
+java/lang/String/isEmpty()  0,03571
+android/content/Intent/getAction()  0,03571
+java/lang/Integer/toString(int)  0,03571
+android/util/Log/getStackTraceString(java.lang.Throwable), java/lang/StringBuilder/append(char)  0,03571
+java/lang/Class/forName(java.lang.String)  0,03571
+java/lang/Integer/intValue(), android/app/Service/onCreate(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,03571
+android/os/HandlerThread/HandlerThread(java.lang.String)  0,03571
+org/projectmaxs/shared/module/MAXSModuleIntentService/getString(int)  0,03571
+org/projectmaxs/shared/module/MAXSModuleIntentService/getPackageName()  0,03571
+android/os/HandlerThread/getLooper()  0,03571
+java/lang/Class/getField(java.lang.String)  0,03571
+java/lang/reflect/Field/get(java.lang.Object)  0,03571
+android/os/HandlerThread/start(  0,03571
+java/io/File/isDirectory(), java/io/File/isFile(), java/util/Arrays/sort(java.lang.Object[  0,03571
+org/projectmaxs/shared/global/jul/JULHandler$1/formatMessage(java.util.logging.LogRecord)  0,03571
+java/util/logging/LogRecord/getLevel()  0,03571
+java/util/logging/LogRecord/getThrown()  0,03571
+java/util/Map/put(java.lang.Object  0,03571
+java/io/OutputStream/close()  0,03571
+java/io/File/getName()  0,03571
+android/os/ParcelFileDescriptor$AutoCloseOutputStream/ParcelFileDescriptor$AutoCloseOutputStream(android.os.ParcelFileDescriptor)  0,03571
+java/io/InputStream/close()  0,03571
+java.lang.String)  0,03571
+int  0,03571
+java/io/File/listFiles(java.io.FileFilter)  0,03571
+java/lang/StringBuilder/append(char)  0,03571
+java/io/File/getAbsolutePath()  0,03571
+java/lang/StringBuilder/append(java.lang.Object)  0,03571
+java/lang/StringBuilder/toString()  0,03571
+java/lang/StringBuilder/append(java.lang.String)  0,03571

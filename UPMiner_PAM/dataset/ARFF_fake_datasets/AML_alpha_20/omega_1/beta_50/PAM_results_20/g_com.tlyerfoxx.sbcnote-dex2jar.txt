@@ -1,0 +1,354 @@
+prob: 0,06034
+[int)]
+
+prob: 0,05172
+[android/app/AlertDialog/setButton(java.lang.CharSequence]
+
+prob: 0,05172
+[int]
+
+prob: 0,04310
+[java.io.FileDescriptor]
+
+prob: 0,04310
+[java/lang/StringBuilder/toString()]
+
+prob: 0,03448
+[java.util.HashMap]
+
+prob: 0,03448
+[android/util/Log/v(java.lang.String]
+
+prob: 0,02586
+[android.content.Context]
+
+prob: 0,02586
+[java.lang.String]
+
+prob: 0,02586
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01724
+[com.google.ads.internal.d)]
+
+prob: 0,01724
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,01724
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int]
+
+prob: 0,01724
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/Calendar/get(int), android/widget/EditText/setOnClickListener(android.view.View$OnClickListener), java/lang/StringBuilder/StringBuilder(), java/util/Calendar/getInstance(]
+
+prob: 0,01724
+[float]
+
+prob: 0,01724
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,01724
+[android/content/Context/getPackageManager(), android/content/Intent/Intent(java.lang.String]
+
+prob: 0,01724
+[android/widget/EditText/setInputType(int)]
+
+prob: 0,01724
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/Iterator/next()]
+
+prob: 0,01724
+[android/widget/EditText/setText(java.lang.CharSequence)]
+
+prob: 0,01724
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), com/example/helloworld/All_List/getSharedPreferences(java.lang.String]
+
+prob: 0,01724
+[java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/set(int]
+
+prob: 0,01724
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00862
+[com.google.ads.m)]
+
+prob: 0,00862
+[java.lang.ClassLoader)]
+
+prob: 0,00862
+[android/os/Bundle/Bundle(), java/util/ArrayList/size(), android/os/Bundle/putParcelableArray(java.lang.String]
+
+prob: 0,00862
+[android/os/Bundle/Bundle(), java/util/ArrayList/get(int)]
+
+prob: 0,00862
+[java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int)]
+
+prob: 0,00862
+[android/widget/ListView/setEmptyView(android.view.View), android/view/View/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/os/Handler/post(java.lang.Runnable), android/support/v4/app/ListFragment/getView(), android/widget/TextView/setVisibility(int)]
+
+prob: 0,00862
+[android.view.ViewGroup]
+
+prob: 0,00862
+[android/os/Handler/hasMessages(int), android/content/Intent/getFlags(), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,00862
+[java/util/ArrayList/add(java.lang.Object), android/content/Context/getContentResolver(), java/util/HashMap/get(java.lang.Object), android/util/Log/v(java.lang.String]
+
+prob: 0,00862
+[android/content/Intent/getScheme()]
+
+prob: 0,00862
+[com/example/helloworld/ADEdit_Flow2/findViewById(int)]
+
+prob: 0,00862
+[android.app.Notification]
+
+prob: 0,00862
+[java.util.HashMap)]
+
+prob: 0,00862
+[android.app.Activity]
+
+prob: 0,00862
+[android/app/Dialog/setContentView(android.view.View), android/support/v4/app/DialogFragment/getView(), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(]
+
+prob: 0,00862
+[android/app/Dialog/setCancelable(boolean), android/support/v4/app/DialogFragment/getActivity(), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,00862
+[java.lang.StringBuilder)]
+
+prob: 0,00862
+[com.google.ads.c]
+
+prob: 0,00862
+[java/util/List/contains(java.lang.Object)]
+
+prob: 0,00862
+[java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int]
+
+prob: 0,00862
+[android.app.Activity)]
+
+prob: 0,00862
+[android/app/AlertDialog/setCancelable(boolean), com/example/helloworld/All_List/getSharedPreferences(java.lang.String]
+
+prob: 0,00862
+[android/app/AlertDialog/setCancelable(boolean), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,00862
+[android/app/Notification/Notification(), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,00862
+[java/security/MessageDigest/digest(), java/util/UUID/getLeastSignificantBits(), java/util/UUID/getMostSignificantBits(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/System/arraycopy(java.lang.Object]
+
+prob: 0,00862
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), android/net/Uri$Builder/encodedQuery(java.lang.String), java/lang/String/trim(), android/net/Uri$Builder/build(), java/util/Map/keySet(]
+
+prob: 0,00862
+[java/lang/Integer/intValue(), java/util/HashMap/get(java.lang.Object), com/google/ads/AdActivity/getIntent(), com/google/ads/AdActivity/getApplicationContext(]
+
+prob: 0,00862
+[android/content/Intent/getBundleExtra(java.lang.String), android/widget/RelativeLayout/RelativeLayout(android.content.Context)]
+
+prob: 0,00862
+[android/view/ViewConfiguration/get(android.content.Context), android/support/v4/view/ViewPager/setFocusable(boolean), android/view/ViewConfiguration/getScaledMinimumFlingVelocity(), android/support/v4/view/ViewPager/setDescendantFocusability(int), android/support/v4/view/ViewPager/setWillNotDraw(boolean), android/support/v4/view/ViewPager/getContext(), android/content/Context/getResources(), android/content/res/Resources/getDisplayMetrics(), android/widget/Scroller/Scroller(android.content.Context]
+
+prob: 0,00862
+[android/widget/ImageButton/setImageResource(int), android/widget/FrameLayout/addView(android.view.View]
+
+prob: 0,00862
+[boolean]
+
+prob: 0,00862
+[java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String), org/json/JSONObject/getJSONArray(java.lang.String]
+
+prob: 0,00862
+[java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String), org/json/JSONObject/length(), java/util/HashMap/HashMap(int), org/json/JSONObject/keys(), org/json/JSONObject/optString(java.lang.String]
+
+prob: 0,00862
+[org/json/JSONObject/JSONObject(java.lang.String), org/json/JSONObject/getString(java.lang.String), java/util/List/add(java.lang.Object), java/lang/Integer/valueOf(int), org/json/JSONObject/has(java.lang.String), org/json/JSONObject/getInt(java.lang.String), org/json/JSONArray/getJSONObject(int), org/json/JSONArray/length()]
+
+prob: 0,00862
+[com/example/helloworld/ADEdit_Flow/findViewById(int), java/lang/StringBuilder/toString()]
+
+prob: 0,00862
+[android/widget/TabHost/newTabSpec(java.lang.String), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,00862
+[android/content/Intent/removeExtra(java.lang.String), android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String]
+
+prob: 0,00862
+[java/util/ArrayList/isEmpty()]
+
+prob: 0,00862
+[java/lang/Runnable/run(), java/util/ArrayList/toArray(java.lang.Object[]), java/util/ArrayList/get(int), android/os/Handler/removeCallbacks(java.lang.Runnable), android/os/Handler/getLooper(), java/util/ArrayList/clear(]
+
+prob: 0,00862
+[android/os/Looper/myLooper(), java/util/ArrayList/size(), java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,00862
+[java.util.ArrayList)]
+
+prob: 0,00862
+[android.support.v4.app.BackStackRecord)]
+
+prob: 0,00862
+[java/io/PrintWriter/PrintWriter(java.io.Writer)]
+
+prob: 0,00862
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/length(), com/google/ads/g$a/ordinal(]
+
+prob: 0,00862
+[android.gesture.Gesture)]
+
+prob: 0,00862
+[android/webkit/ConsoleMessage$MessageLevel/ordinal(), android/webkit/ConsoleMessage/sourceId(), android/webkit/ConsoleMessage/message(), android/webkit/WebChromeClient/onConsoleMessage(android.webkit.ConsoleMessage), android/webkit/ConsoleMessage/messageLevel()]
+
+prob: 0,00862
+[java.lang.String)]
+
+prob: 0,00862
+[android.content.Context)]
+
+prob: 0,00862
+[android/graphics/Canvas/translate(float]
+
+prob: 0,00862
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/Object/equals(java.lang.Object), android/os/SystemClock/elapsedRealtime(), java/util/Arrays/asList(java.lang.Object[]), java/lang/StringBuilder/append(long), java/lang/Object/wait(long), java/lang/String/startsWith(java.lang.String]
+
+prob: 0,00862
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(long), java/lang/Long/longValue(]
+
+prob: 0,00862
+[java/lang/StringBuilder/append(java.lang.String), com/google/ads/internal/AdWebView/setWebViewClient(android.webkit.WebViewClient), android/app/Activity/onCreate(android.os.Bundle), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00862
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/webkit/ConsoleMessage/lineNumber(]
+
+prob: 0,00862
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/toArray(java.lang.Object[]), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00862
+[java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,00862
+[android/view/MotionEvent/getEdgeFlags(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/view/VelocityTracker/computeCurrentVelocity(int]
+
+prob: 0,00862
+[android/support/v4/view/ViewPager/getScrollX()]
+
+prob: 0,00862
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/LinkedHashMap/entrySet(), java/lang/Class/getName(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(]
+
+prob: 0,00862
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/RuntimeException/RuntimeException(java.lang.String]
+
+prob: 0,00862
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/support/v4/view/ViewPager/scrollTo(int]
+
+prob: 0,00862
+[android/os/SystemClock/uptimeMillis()]
+
+prob: 0,00862
+[android.view.View)]
+
+prob: 0,00862
+[android/widget/Scroller/computeScrollOffset(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/widget/Scroller/abortAnimation(), java/lang/Math/abs(int), android/view/VelocityTracker/obtain(), android/widget/Scroller/getFinalX(), android/view/MotionEvent/getAction(), java/lang/Math/abs(float), android/widget/Scroller/getCurrX(), android/view/MotionEvent/getY(]
+
+prob: 0,00862
+[android/view/VelocityTracker/recycle()]
+
+prob: 0,00862
+[java/lang/Class/getFields(), java/util/Map/put(java.lang.Object]
+
+prob: 0,00862
+[android.view.View]
+
+prob: 0,00862
+[java/net/HttpURLConnection/disconnect(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/net/HttpURLConnection/setInstanceFollowRedirects(boolean]
+
+prob: 0,00862
+[java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/getResponseCode(), java/net/HttpURLConnection/connect()]
+
+prob: 0,00862
+[java/lang/System/getProperty(java.lang.String]
+
+prob: 0,00862
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,00862
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,00862
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), java/lang/StringBuilder/append(java.lang.String), java/util/Set/isEmpty(]
+
+prob: 0,00862
+[java/util/Set/iterator(), android/net/Uri$Builder/Uri$Builder(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object)]
+
+prob: 0,00862
+[java/util/Set/iterator(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/Map/get(java.lang.Object)]
+
+prob: 0,00862
+[org/json/JSONArray/JSONArray(), java/lang/StringBuilder/append(java.lang.Object), org/json/JSONArray/put(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,00862
+[java/util/Map/isEmpty()]
+
+prob: 0,00862
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/Cursor/getColumnName(int), android/content/SharedPreferences$Editor/commit(), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,00862
+[android/util/DisplayMetrics/DisplayMetrics(), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), android/view/WindowManager/getDefaultDisplay(), android/view/Display/getRotation(), com/example/helloworld/GetDisplaySize/setContentView(int), java/lang/StringBuilder/append(float), com/example/helloworld/GetDisplaySize/getWindowManager(), com/example/helloworld/GetDisplaySize/findViewById(int), android/view/Display/getRefreshRate(), android/view/Display/getMetrics(android.util.DisplayMetrics]
+
+prob: 0,00862
+[android.support.v4.view.PagerAdapter)]
+
+prob: 0,00862
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), com/example/helloworld/Today_List/getSharedPreferences(java.lang.String]
+
+prob: 0,00862
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), com/example/helloworld/Month_List/getSharedPreferences(java.lang.String]
+
+prob: 0,00862
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), java/util/Calendar/set(int]
+
+prob: 0,00862
+[java/lang/String/valueOf(char), android/app/Activity/onCreate(android.os.Bundle), java/io/FileOutputStream/write(byte[]), java/lang/String/getBytes(), java/io/File/getPath(), FoXxLib/F_FileIOStream/openFileOutput(java.lang.String]
+
+prob: 0,00862
+[java/io/IOException/printStackTrace(), java/io/FileInputStream/read(), java/io/File/File(java.lang.String), java/lang/String/valueOf(float), java/io/FileInputStream/close(), FoXxLib/F_FileIOStream/openFileInput(java.lang.String)]
+
+prob: 0,00862
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,00862
+[java/lang/Math/max(int]
+
+prob: 0,00862
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/length()]
+
+prob: 0,00862
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String]
+
+prob: 0,00862
+[java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,00862
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,00862
+[java/util/Iterator/next()]
+
+prob: 0,00862
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,00862
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,00862
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00862
+[java/lang/StringBuilder/append(java.lang.String)]
+

@@ -1,0 +1,4 @@
+android/view/MotionEvent/getY(
+org.api.fake
+java/util/zip/ZipEntry/isDirectory()
+org.rand.api

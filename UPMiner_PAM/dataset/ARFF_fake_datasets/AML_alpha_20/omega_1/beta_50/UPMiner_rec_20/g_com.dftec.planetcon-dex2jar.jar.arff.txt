@@ -1,0 +1,9 @@
+java/lang/String/valueOf(int
+android/app/AlertDialog/dismiss()
+org.api.fake
+com/dftec/planetcon/settings/ColorPicker/getHeight(
+android/content/res/Resources/getString(int)
+android/content/res/Resources/getDisplayMetrics()
+java/lang/StringBuilder/StringBuilder()
+android/widget/TextView/setMaxWidth(int)
+java/lang/String/toLowerCase()

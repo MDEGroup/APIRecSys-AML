@@ -1,0 +1,66 @@
+prob: 0,10000
+[java.lang.String)]
+
+prob: 0,10000
+[java.lang.String]
+
+prob: 0,10000
+[android.view.View]
+
+prob: 0,10000
+[android.content.Intent)]
+
+prob: 0,10000
+[android/util/Log/v(java.lang.String]
+
+prob: 0,06667
+[android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,03333
+[android/net/wifi/WifiInfo/getIpAddress(), android/net/wifi/WifiManager/getConnectionInfo(), java/lang/String/split(java.lang.String), android/net/ConnectivityManager/getActiveNetworkInfo(), android/net/NetworkInfo/isConnected(), java/lang/Integer/parseInt(java.lang.String), android/content/Context/getSystemService(java.lang.String), android/content/Context/getApplicationContext(]
+
+prob: 0,03333
+[android/app/AlertDialog$Builder/setIcon(int), jp/klab/wakeonlangcm/RegisterActivity/getApplicationContext(), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,03333
+[android/app/AlertDialog$Builder/setTitle(int)]
+
+prob: 0,03333
+[jp/klab/wakeonlangcm/RegisterActivity/findViewById(int), jp/klab/wakeonlangcm/RegisterActivity/registerReceiver(android.content.BroadcastReceiver]
+
+prob: 0,03333
+[java.lang.String[]]
+
+prob: 0,03333
+[jp/klab/wakeonlangcm/NoSleepActivity/setContentView(int), android/os/PowerManager/newWakeLock(int]
+
+prob: 0,03333
+[int)]
+
+prob: 0,03333
+[jp/klab/wakeonlangcm/MainActivity/finish(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,03333
+[java/lang/String/toUpperCase(), java/lang/StringBuilder/append(java.lang.String), android/widget/EditText/getText(), java/lang/String/matches(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/valueOf(java.lang.Object), android/app/AlertDialog/dismiss(), android/text/Editable/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String]
+
+prob: 0,03333
+[jp/klab/wakeonlangcm/MainActivity/getString(int), java/lang/Integer/parseInt(java.lang.String)]
+
+prob: 0,03333
+[java.util.Set]
+
+prob: 0,03333
+[java.lang.String[])]
+
+prob: 0,03333
+[java/lang/Class/forName(java.lang.String), android/util/Log/v(java.lang.String]
+
+prob: 0,03333
+[java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,03333
+[java/util/ArrayList/ArrayList(), java/lang/String/split(java.lang.String), java/lang/String/format(java.lang.String]
+
+prob: 0,03333
+[java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+

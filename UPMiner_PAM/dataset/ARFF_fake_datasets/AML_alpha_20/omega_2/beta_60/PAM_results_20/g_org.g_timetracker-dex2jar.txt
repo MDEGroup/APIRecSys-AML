@@ -1,0 +1,147 @@
+prob: 0,20000
+[java.lang.String)]
+
+prob: 0,18333
+[java.lang.String]
+
+prob: 0,05000
+[int)]
+
+prob: 0,03333
+[android/graphics/Rect/offset(int]
+
+prob: 0,03333
+[int]
+
+prob: 0,03333
+[java.lang.ClassLoader]
+
+prob: 0,01667
+[java/io/DataOutputStream/writeBytes(java.lang.String), java/io/IOException/getMessage(), android/net/LocalSocket/getOutputStream(), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), java/lang/InterruptedException/getMessage(), java/lang/Thread/sleep(long), java/io/IOException/printStackTrace(), android/util/Log/e(java.lang.String]
+
+prob: 0,01667
+[java/lang/Class/forName(java.lang.String), android/content/res/Resources/getString(int), android/content/res/Resources/getDisplayMetrics(), org/qtproject/qt5/android/bindings/QtActivity/getResources(), java/lang/StringBuilder/append(java.lang.String), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName]
+
+prob: 0,01667
+[android/view/Window/addFlags(int), android/view/View/setSystemUiVisibility(int), java/lang/reflect/Field/getInt(java.lang.Object), android/view/Window/clearFlags(int), org/qtproject/qt5/android/QtLayout/requestLayout(]
+
+prob: 0,01667
+[java/lang/System/load(java.lang.String), java/lang/StringBuilder/toString(), java/io/File/exists()]
+
+prob: 0,01667
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Exception/toString(), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,01667
+[java/lang/StringBuilder/append(java.lang.String), android/content/res/Resources/getDimensionPixelSize(int), java/lang/StringBuilder/StringBuilder(), android/view/Display/getMetrics(android.util.DisplayMetrics), android/app/Activity/getResources(), java/lang/StringBuilder/toString()]
+
+prob: 0,01667
+[android/widget/ScrollView/addView(android.view.View), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,01667
+[org/qtproject/qt5/android/QtLayout/getLocationOnScreen(int[]), android/app/Activity/getWindow(), android/view/Window/getDecorView(), android/view/View/getWindowVisibleDisplayFrame(android.graphics.Rect)]
+
+prob: 0,01667
+[android/graphics/Rect/Rect()]
+
+prob: 0,01667
+[android/view/Display/getMetrics(android.util.DisplayMetrics), android/graphics/Rect/width(), android/util/DisplayMetrics/DisplayMetrics(), android/view/WindowManager/getDefaultDisplay(), android/app/Activity/getWindowManager(]
+
+prob: 0,01667
+[android/view/Window/getDecorView(), android/app/Activity/getWindow()]
+
+prob: 0,01667
+[android/os/Process/myPid()]
+
+prob: 0,01667
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/io/File/File(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,01667
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/HashMap/containsKey(java.lang.Object), java/lang/StackTraceElement/getClassName(), java/lang/Thread/currentThread(), java/lang/String/equals(java.lang.Object), java/lang/reflect/Method/getParameterTypes(), java/lang/StackTraceElement/getMethodName(), java/lang/Thread/getStackTrace(), java/util/HashMap/get(java.lang.Object), java/util/Iterator/next(]
+
+prob: 0,01667
+[java/util/ArrayList/iterator(), java/lang/reflect/Field/get(java.lang.Object), java/util/Iterator/hasNext(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01667
+[java.lang.Object)]
+
+prob: 0,01667
+[android.os.Bundle)]
+
+prob: 0,01667
+[android/graphics/drawable/GradientDrawable/getConstantState(), java/lang/reflect/Field/getFloat(java.lang.Object), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01667
+[android/net/LocalSocket/getInputStream()]
+
+prob: 0,01667
+[java/lang/Class/getDeclaredField(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01667
+[java/lang/Class/getDeclaredField(java.lang.String), java/lang/Exception/printStackTrace()]
+
+prob: 0,01667
+[java/lang/String/valueOf(char), java/lang/reflect/Field/get(java.lang.Object), java/lang/reflect/Field/getFloat(java.lang.Object), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01667
+[java.util.ArrayList]
+
+prob: 0,01667
+[android/content/ContextWrapper/getResources(), java/lang/StringBuilder/append(java.lang.String), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,01667
+[android/content/ContextWrapper/getResources(), android/app/AlertDialog/setButton(java.lang.CharSequence]
+
+prob: 0,01667
+[long)]
+
+prob: 0,01667
+[dalvik/system/DexClassLoader/DexClassLoader(java.lang.String]
+
+prob: 0,01667
+[java/lang/System/getProperty(java.lang.String]
+
+prob: 0,01667
+[java/io/File/createNewFile(), java/lang/String/split(java.lang.String), java/io/File/exists(), java/lang/Exception/printStackTrace(), java/lang/StringBuilder/StringBuilder(), android/os/Bundle/containsKey(java.lang.String), java/io/File/mkdirs(), java/io/FileOutputStream/FileOutputStream(java.io.File), android/content/ContextWrapper/getPackageManager(), java/util/ArrayList/ArrayList(), android/os/Bundle/getInt(java.lang.String), java/io/File/File(java.lang.String), java/io/DataOutputStream/writeLong(long), android/content/ContextWrapper/getApplicationInfo()]
+
+prob: 0,01667
+[java/io/DataOutputStream/close()]
+
+prob: 0,01667
+[android/content/ContextWrapper/getPackageName()]
+
+prob: 0,01667
+[java/util/ArrayList/ArrayList(), javax/net/ssl/TrustManagerFactory/getTrustManagers(), java/util/ArrayList/toArray(java.lang.Object[]), javax/net/ssl/TrustManagerFactory/init(java.security.KeyStore), java/util/ArrayList/add(java.lang.Object), javax/net/ssl/TrustManagerFactory/getDefaultAlgorithm(), javax/net/ssl/TrustManagerFactory/getInstance(java.lang.String), java/security/cert/X509Certificate/getEncoded(), javax/net/ssl/X509TrustManager/getAcceptedIssuers(), java/util/ArrayList/size(), android/util/Log/e(java.lang.String]
+
+prob: 0,01667
+[android/app/Activity/getComponentName(), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,01667
+[android/app/Activity/registerForContextMenu(android.view.View), android/app/Activity/getPackageManager(), org/qtproject/qt5/android/QtLayout/getViewTreeObserver(), android/view/ViewTreeObserver/addOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener), android/content/res/Resources/getDrawable(int), android/view/Display/getRotation(), android/app/Activity/getSystemService(java.lang.String)]
+
+prob: 0,01667
+[java/lang/StringBuilder/append(int), java/util/HashMap/remove(java.lang.Object), org/qtproject/qt5/android/QtLayout/removeView(android.view.View), android/util/Log/e(java.lang.String]
+
+prob: 0,01667
+[android.view.View]
+
+prob: 0,01667
+[java/lang/Runtime/exec(java.lang.String]
+
+prob: 0,01667
+[boolean]
+
+prob: 0,01667
+[android/view/KeyEvent/getRepeatCount(), java/lang/Exception/printStackTrace(), android/view/KeyEvent/getMetaState(), android/view/KeyEvent/getKeyCode(), java/lang/reflect/Method/invoke(java.lang.Object]
+
+prob: 0,01667
+[java/lang/String/charAt(int), java/lang/String/length(), android/view/KeyEvent/getCharacters()]
+
+prob: 0,01667
+[android/util/DisplayMetrics/DisplayMetrics(), android/view/WindowManager/getDefaultDisplay(), android/app/Activity/getWindowManager(]
+
+prob: 0,01667
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01667
+[java/lang/StringBuilder/StringBuilder()]
+

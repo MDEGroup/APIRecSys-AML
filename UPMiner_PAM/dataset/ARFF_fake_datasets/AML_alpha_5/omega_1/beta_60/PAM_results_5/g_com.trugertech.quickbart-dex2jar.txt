@@ -1,0 +1,105 @@
+prob: 0,09091
+[java.lang.String]
+
+prob: 0,09091
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,04545
+[android/os/Bundle/getSerializable(java.lang.String), com/trugertech/quickbart/ActivityFavoriteEdit/setTitle(int), java/lang/Long/valueOf(long), android/app/Activity/onCreate(android.os.Bundle), android/content/Intent/getExtras(]
+
+prob: 0,04545
+[java/lang/String/toString(), com/trugertech/quickbart/ActivityFavoriteEdit/setContentView(int)]
+
+prob: 0,04545
+[android/widget/ArrayAdapter/setDropDownViewResource(int), com/trugertech/quickbart/ActivityFavoriteEdit/getApplicationContext(), com/trugertech/quickbart/ActivityFavoriteEdit/setResult(int), com/trugertech/quickbart/ActivityFavoriteEdit/startManagingCursor(android.database.Cursor), com/trugertech/quickbart/ActivityFavoriteEdit/finish(), android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter), com/trugertech/quickbart/ActivityFavoriteEdit/findViewById(int), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,04545
+[android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), com/trugertech/quickbart/ActivityDisplayInfo/getPackageName(), com/trugertech/quickbart/ActivityDisplayInfo/getPackageManager(), com/trugertech/quickbart/ActivityDisplayInfo/setResult(int), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,04545
+[com/trugertech/quickbart/ActivityDisplayInfo/setContentView(int), java/lang/StringBuilder/append(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), java/lang/String/toString()]
+
+prob: 0,04545
+[android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/os/Bundle/getLong(java.lang.String)]
+
+prob: 0,04545
+[java.lang.Throwable)]
+
+prob: 0,04545
+[java/util/ArrayList/ArrayList(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), com/trugertech/quickbart/ActivityPlannerSchedule/setListAdapter(android.widget.ListAdapter), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Long/valueOf(long), com/trugertech/quickbart/ActivityPlannerSchedule/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence]
+
+prob: 0,04545
+[java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), java/io/BufferedReader/close(), java/io/File/File(java.lang.String), java/io/File/mkdir(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), android/util/Log/e(java.lang.String]
+
+prob: 0,04545
+[com/trugertech/quickbart/ActivityPlannerSchedule/setTitle(int), com/trugertech/quickbart/ActivityPlannerSchedule/setResult(int), com/trugertech/quickbart/ActivityPlannerSchedule/getIntent(), android/app/ListActivity/onCreate(android.os.Bundle), com/trugertech/quickbart/ActivityPlannerSchedule/finish(), java/lang/String/concat(java.lang.String), android/content/Intent/getStringArrayExtra(java.lang.String), com/trugertech/quickbart/ActivityPlannerSchedule/getPackageName(), com/trugertech/quickbart/ActivityPlannerSchedule/setContentView(int]
+
+prob: 0,04545
+[com/trugertech/quickbart/ActivityTabMain/setContentView(int), android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence]
+
+prob: 0,04545
+[java.lang.String)]
+
+prob: 0,04545
+[com/trugertech/quickbart/ActivityFavoriteSchedule/setContentView(int), android/os/Bundle/getSerializable(java.lang.String), java/lang/String/toString(), android/os/Bundle/getLong(java.lang.String]
+
+prob: 0,04545
+[java/io/PrintStream/print(java.lang.String), android/app/ListActivity/onCreate(android.os.Bundle), java/lang/Long/valueOf(long)]
+
+prob: 0,04545
+[com/trugertech/quickbart/ActivityFavoriteSchedule/setTitle(int), com/trugertech/quickbart/ActivityFavoriteSchedule/getIntent(), android/content/Intent/getExtras(), com/trugertech/quickbart/ActivityFavoriteSchedule/setResult(int), java/lang/Exception/getMessage()]
+
+prob: 0,04545
+[com/trugertech/quickbart/ActivityFavoriteSchedule/setListAdapter(android.widget.ListAdapter), java/util/ArrayList/ArrayList(), com/trugertech/quickbart/ActivityFavoriteSchedule/setResult(int), android/database/Cursor/getString(int]
+
+prob: 0,04545
+[com/trugertech/quickbart/ActivityFavoriteSchedule/startManagingCursor(android.database.Cursor), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/widget/TextView/setText(java.lang.CharSequence), com/trugertech/quickbart/ActivityFavoriteSchedule/findViewById(int), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,04545
+[com/trugertech/quickbart/ActivityFavoriteSchedule/finish()]
+
+prob: 0,04545
+[java/lang/Long/longValue()]
+
+prob: 0,04545
+[android/database/Cursor/getColumnIndexOrThrow(java.lang.String)]
+
+prob: 0,04545
+[android.view.View]
+
+prob: 0,04545
+[java/net/URL/openStream(), java/net/MalformedURLException/getLocalizedMessage(), java/net/URL/URL(java.lang.String), javax/xml/parsers/SAXParserFactory/newInstance(), javax/xml/parsers/ParserConfigurationException/getLocalizedMessage(), org/xml/sax/XMLReader/parse(org.xml.sax.InputSource), org/xml/sax/SAXException/getLocalizedMessage(), javax/xml/parsers/SAXParserFactory/newSAXParser(), javax/xml/parsers/SAXParser/getXMLReader(), org/xml/sax/InputSource/InputSource(java.io.InputStream), java/io/IOException/getLocalizedMessage(), org/xml/sax/XMLReader/setContentHandler(org.xml.sax.ContentHandler]
+
+prob: 0,04545
+[java/io/BufferedReader/close(), java/util/ArrayList/ArrayList(), org/apache/http/client/methods/HttpPost/addHeader(java.lang.String]
+
+prob: 0,04545
+[java/lang/String/split(java.lang.String), java/lang/StringBuilder/toString(), java/io/FileReader/FileReader(java.lang.String)]
+
+prob: 0,04545
+[java/lang/StringBuilder/append(int), java/io/File/exists(), java/io/File/list(java.io.FilenameFilter), java/io/File/delete()]
+
+prob: 0,04545
+[com.bugsense.trace.BugSenseHandler$Processor]
+
+prob: 0,04545
+[android/view/Display/getHeight(), java/lang/Integer/toString(int), android/view/Display/getOrientation(), android/util/Log/i(java.lang.String]
+
+prob: 0,04545
+[android/app/NotificationManager/notify(int]
+
+prob: 0,04545
+[android/widget/ArrayAdapter/ArrayAdapter(android.content.Context]
+
+prob: 0,04545
+[java/lang/String/valueOf(java.lang.Object)]
+
+prob: 0,04545
+[java/util/ArrayList/get(int), java/lang/StringBuilder/toString()]
+
+prob: 0,04545
+[java/lang/Exception/getMessage()]
+
+prob: 0,04545
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+

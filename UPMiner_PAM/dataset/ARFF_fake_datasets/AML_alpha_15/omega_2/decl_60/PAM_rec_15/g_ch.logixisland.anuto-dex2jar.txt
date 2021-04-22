@@ -1,0 +1,13 @@
+android.view.ViewGroup  0,26087
+java.util.List)  0,13043
+android.view.View  0,13043
+ch.logixisland.anuto.engine.logic.map.GameMap)  0,13043
+int  0,04348
+android/graphics/Canvas/concat(android.graphics.Matrix), ch/logixisland/anuto/view/game/TowerView/getHeight(), android/graphics/Canvas/drawText(java.lang.String  0,04348
+java.lang.Float  0,04348
+ch/logixisland/anuto/entity/tower/Tower/getPosition(), android/graphics/Canvas/save(), android/graphics/Canvas/restore(), android/graphics/Canvas/translate(float  0,04348
+ch/logixisland/anuto/entity/tower/GlueTower/getPossibleTargets(), java/util/Iterator/hasNext(), ch/logixisland/anuto/entity/tower/GlueTower/getAngleTo(ch.logixisland.anuto.util.math.Vector2), ch/logixisland/anuto/entity/tower/GlueTower/getPosition(), ch/logixisland/anuto/entity/tower/GlueTower/isReloaded(), java/util/Iterator/next(), ch/logixisland/anuto/entity/tower/GlueTower/getGameEngine(), ch/logixisland/anuto/entity/tower/GlueTower/setReloaded(boolean), java/util/Collection/iterator(  0,04348
+org.api.fake  0,04348
+org.rand.api  0,04348
+ch/logixisland/anuto/view/game/TowerInfoFragment/getResources(), java/lang/StringBuilder/append(int), java/util/List/size(), ch/logixisland/anuto/view/game/TowerInfoFragment/getString(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/Button/setText(java.lang.CharSequence), java/util/List/get(int), java/lang/StringBuilder/toString(  0,04348
+java/lang/StringBuilder/append(java.lang.String), android/widget/Button/setEnabled(boolean), java/lang/StringBuilder/StringBuilder()  0,04348

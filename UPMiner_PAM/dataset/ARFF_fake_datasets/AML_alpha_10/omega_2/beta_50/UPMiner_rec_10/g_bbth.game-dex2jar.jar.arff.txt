@@ -1,0 +1,15 @@
+android/content/res/XmlResourceParser/next(
+bbth/game/ai/OffensiveAI/getClosestNode(bbth.engine.util.Point
+android/util/FloatMath/cos(float)
+java/lang/Math/min(float,float)
+java/lang/Integer/intValue()
+org.api.fake
+android/graphics/Paint/setColor(int)
+android/graphics/Canvas/translate(float,float)
+android/content/res/XmlResourceParser/getName()
+java/io/IOException/printStackTrace()
+bbth/game/units/Unit/getX()
+java/util/EnumMap/get(java.lang.Object
+org.rand.api
+java/util/ArrayList/ArrayList()
+bbth/game/units/Unit/getY()

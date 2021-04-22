@@ -1,0 +1,273 @@
+prob: 0,07143
+[int)]
+
+prob: 0,07143
+[java.lang.String)]
+
+prob: 0,04286
+[boolean)]
+
+prob: 0,04286
+[java/util/Iterator/hasNext()]
+
+prob: 0,02857
+[int]
+
+prob: 0,02857
+[java/lang/CharSequence/length(), android/view/inputmethod/InputConnection/commitText(java.lang.CharSequence]
+
+prob: 0,02857
+[android/util/Log/w(java.lang.String]
+
+prob: 0,02857
+[boolean]
+
+prob: 0,02857
+[android/content/res/Resources/getString(int)]
+
+prob: 0,02857
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01429
+[android/view/inputmethod/InputMethodInfo/getSubtypeAt(int), android/view/inputmethod/InputMethodSubtype/getMode(), android/view/inputmethod/InputMethodInfo/getComponent(), java/lang/String/startsWith(java.lang.String), android/content/ComponentName/getPackageName(), java/util/List/iterator(), android/view/inputmethod/InputMethodManager/getEnabledInputMethodList(]
+
+prob: 0,01429
+[android/view/inputmethod/InputMethodInfo/getSubtypeCount(), java/util/Iterator/next(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01429
+[java/lang/String/toUpperCase(), java/util/List/iterator(), java/util/Locale/getDefault(), java/util/HashSet/HashSet(]
+
+prob: 0,01429
+[android.content.res.XmlResourceParser)]
+
+prob: 0,01429
+[android/preference/CheckBoxPreference/setTitle(java.lang.CharSequence), android/util/Log/e(java.lang.String]
+
+prob: 0,01429
+[java.lang.String]
+
+prob: 0,01429
+[org/pocketworkstation/pckeyboard/ContactsDictionary/clearDictionary(), android/util/Log/e(java.lang.String]
+
+prob: 0,01429
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), org/pocketworkstation/pckeyboard/ContactsDictionary/getMaxWordLength(), android/database/Cursor/moveToNext(), android/database/Cursor/isAfterLast()]
+
+prob: 0,01429
+[android/graphics/Paint/setColor(int), android/graphics/drawable/Drawable/draw(android.graphics.Canvas), android/graphics/Canvas/drawText(java.lang.String]
+
+prob: 0,01429
+[android/preference/PreferenceGroup/addPreference(android.preference.Preference), org/pocketworkstation/pckeyboard/InputLanguageSelection/getResources(), java/util/List/size(), android/util/Log/i(java.lang.String]
+
+prob: 0,01429
+[android/preference/PreferenceActivity/onPause(), android/preference/PreferenceGroup/getPreference(int), android/content/SharedPreferences/edit(), android/preference/PreferenceGroup/getPreferenceCount(), android/content/SharedPreferences$Editor/putString(java.lang.String]
+
+prob: 0,01429
+[android/app/Activity/onCreate(android.os.Bundle), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01429
+[org/pocketworkstation/pckeyboard/LatinKeyboardBaseView/requestLayout()]
+
+prob: 0,01429
+[java/lang/IllegalArgumentException/printStackTrace(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)]
+
+prob: 0,01429
+[android/view/View/getPaddingBottom(), android/view/View/getMeasuredWidth(), android/widget/PopupWindow/showAtLocation(android.view.View]
+
+prob: 0,01429
+[android/graphics/Canvas/translate(float]
+
+prob: 0,01429
+[org.pocketworkstation.pckeyboard.PointerTracker)]
+
+prob: 0,01429
+[java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(int), org/pocketworkstation/pckeyboard/DeadAccentSequence/executeToString(int]
+
+prob: 0,01429
+[java/lang/StringBuilder/length(), java/lang/StringBuilder/codePointAt(int), java/lang/Character/getType(int), java/lang/StringBuilder/reverse(), org/pocketworkstation/pckeyboard/DeadAccentSequence/clear(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01429
+[android/content/res/Resources/getString(int), org/pocketworkstation/pckeyboard/LatinIME/getResources(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/content/SharedPreferences/getBoolean(java.lang.String]
+
+prob: 0,01429
+[android/content/res/Resources/getString(int), android/content/res/Resources/updateConfiguration(android.content.res.Configuration]
+
+prob: 0,01429
+[android/content/res/Resources/getString(int), java/lang/StringBuilder/append(java.lang.String), org/pocketworkstation/pckeyboard/LatinIMEDebugSettings/getResources(), android/preference/CheckBoxPreference/setSummary(java.lang.CharSequence)]
+
+prob: 0,01429
+[org/pocketworkstation/pckeyboard/CandidateView/getScrollX(), android/graphics/drawable/Drawable/setBounds(int]
+
+prob: 0,01429
+[java/nio/ByteOrder/nativeOrder(), java/nio/ByteBuffer/order(java.nio.ByteOrder), java/nio/channels/ReadableByteChannel/read(java.nio.ByteBuffer), android/util/Log/i(java.lang.String]
+
+prob: 0,01429
+[android/content/res/Resources/getDisplayMetrics(), org/pocketworkstation/pckeyboard/LatinIME/getResources()]
+
+prob: 0,01429
+[org.pocketworkstation.pckeyboard.WordComposer]
+
+prob: 0,01429
+[org/pocketworkstation/pckeyboard/LatinIME/sendKeyChar(char), java/lang/Character/toString(char), org/pocketworkstation/pckeyboard/LatinIME/getApplicationContext(), android/view/inputmethod/InputConnection/commitText(java.lang.CharSequence]
+
+prob: 0,01429
+[org/pocketworkstation/pckeyboard/LatinIME/getApplicationContext(), android/app/NotificationManager/cancel(int), android/app/NotificationManager/notify(int]
+
+prob: 0,01429
+[java/lang/Package/getName(), java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(), android/content/res/XmlResourceParser/getAttributeValue(java.lang.String]
+
+prob: 0,01429
+[java/util/ArrayList/ArrayList(), java/lang/String/length(), java/util/Locale/Locale(java.lang.String), java/util/Locale/getDisplayName(java.util.Locale), android/util/Log/i(java.lang.String]
+
+prob: 0,01429
+[java/util/ArrayList/iterator(), org/pocketworkstation/pckeyboard/LatinKeyboardBaseView/getResources(), java/util/WeakHashMap/clear(), java/util/Iterator/next(), org/pocketworkstation/pckeyboard/LatinKeyboardBaseView/getPaddingTop()]
+
+prob: 0,01429
+[java/util/ArrayList/iterator(), java/lang/String/toLowerCase(), java/lang/CharSequence/toString(), java/lang/CharSequence/charAt(int), java/util/Iterator/next()]
+
+prob: 0,01429
+[android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), org/pocketworkstation/pckeyboard/Main/getString(int), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence]
+
+prob: 0,01429
+[java/lang/Character/isUpperCase(char), android/text/TextUtils/equals(java.lang.CharSequence]
+
+prob: 0,01429
+[java/lang/CharSequence/length(), android/view/inputmethod/InputConnection/deleteSurroundingText(int]
+
+prob: 0,01429
+[java/lang/CharSequence/toString(), java/lang/Character/isDigit(char), java/lang/StringBuilder/StringBuilder(int), java/util/Set/add(java.lang.Object), java/lang/Character/valueOf(char)]
+
+prob: 0,01429
+[java/lang/CharSequence/charAt(int), java/util/Set/contains(java.lang.Object), java/lang/Character/isUpperCase(char)]
+
+prob: 0,01429
+[java/util/Iterator/next(), java/lang/StringBuilder/toString(), java/util/Iterator/hasNext(), java/lang/CharSequence/length()]
+
+prob: 0,01429
+[java/lang/String/equals(java.lang.Object), android/content/res/Resources/getBoolean(int)]
+
+prob: 0,01429
+[android.view.KeyEvent)]
+
+prob: 0,01429
+[android/view/Window/setAttributes(android.view.WindowManager$LayoutParams), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog/getWindow(), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,01429
+[java.lang.CharSequence)]
+
+prob: 0,01429
+[java.io.PrintWriter]
+
+prob: 0,01429
+[java/lang/StringBuilder/append(java.lang.String), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context)]
+
+prob: 0,01429
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/text/format/DateFormat/format(java.lang.CharSequence]
+
+prob: 0,01429
+[android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), org/pocketworkstation/pckeyboard/LatinIME/getResources(), org/pocketworkstation/pckeyboard/LatinIME/registerReceiver(android.content.BroadcastReceiver]
+
+prob: 0,01429
+[android/inputmethodservice/InputMethodService/onCreate(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context)]
+
+prob: 0,01429
+[java/lang/Integer/parseInt(java.lang.String)]
+
+prob: 0,01429
+[android/widget/PopupWindow/setContentView(android.view.View), org/pocketworkstation/pckeyboard/LatinKeyboardView/setOnKeyboardActionListener(org.pocketworkstation.pckeyboard.LatinKeyboardBaseView$OnKeyboardActionListener), android/view/LayoutInflater/inflate(int]
+
+prob: 0,01429
+[android/view/MotionEvent/getEventTime(), android/view/MotionEvent/getMetaState(), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), android/view/MotionEvent/getActionIndex(), android/view/MotionEvent/recycle(), org/pocketworkstation/pckeyboard/LatinKeyboardView/getOnKeyboardActionListener(), android/view/MotionEvent/setAction(int), org/pocketworkstation/pckeyboard/LatinKeyboardView/swipeUp(), android/view/MotionEvent/getDownTime(), org/pocketworkstation/pckeyboard/LatinKeyboardView/getKeyboard(), org/pocketworkstation/pckeyboard/LatinKeyboardView/getHeight(), android/view/MotionEvent/getAction(), org/pocketworkstation/pckeyboard/LatinKeyboardView/invalidate(), android/view/MotionEvent/obtain(long]
+
+prob: 0,01429
+[android/database/Cursor/getColumnIndex(java.lang.String), org/pocketworkstation/pckeyboard/AutoDictionary/getMaxWordLength(), android/database/Cursor/moveToNext(), android/database/Cursor/getInt(int]
+
+prob: 0,01429
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteDatabase/insert(java.lang.String]
+
+prob: 0,01429
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,01429
+[java/util/HashSet/iterator(), java/lang/Integer/toString(int), android/database/Cursor/close()]
+
+prob: 0,01429
+[java/lang/Integer/intValue(), java/util/Map$Entry/getKey(), java/util/HashMap/entrySet()]
+
+prob: 0,01429
+[java/lang/Integer/intValue(), android/content/res/Resources/getIdentifier(java.lang.String]
+
+prob: 0,01429
+[java/lang/Integer/intValue(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01429
+[org/pocketworkstation/pckeyboard/LatinIMESettings/addPreferencesFromResource(int), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01429
+[android/preference/ListPreference/setEntryValues(java.lang.CharSequence[]), org/pocketworkstation/pckeyboard/LatinIMESettings/findPreference(java.lang.CharSequence), org/pocketworkstation/pckeyboard/LatinIMESettings/getListView(), android/util/Log/i(java.lang.String]
+
+prob: 0,01429
+[android.view.View]
+
+prob: 0,01429
+[java/lang/String/length(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/Character/valueOf(char]
+
+prob: 0,01429
+[java/lang/String/length(), java/lang/String/indexOf(java.lang.String]
+
+prob: 0,01429
+[java/lang/StringBuilder/append(java.lang.Object), java/lang/String/charAt(int), android/util/SparseArray/get(int)]
+
+prob: 0,01429
+[java/util/Iterator/hasNext(), org/pocketworkstation/pckeyboard/LatinKeyboardBaseView/getPaddingLeft(), android/content/res/Resources/getDimension(int]
+
+prob: 0,01429
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/util/Log/i(java.lang.String]
+
+prob: 0,01429
+[java/util/Iterator/hasNext(), java/lang/Long/valueOf(long), java/util/Iterator/next()]
+
+prob: 0,01429
+[java/lang/String/charAt(int), java/lang/String/length(), java/lang/Character/isLetter(char), android/database/Cursor/getString(int), android/database/Cursor/moveToFirst()]
+
+prob: 0,01429
+[android/database/Cursor/moveToFirst()]
+
+prob: 0,01429
+[java/util/Locale/Locale(java.lang.String)]
+
+prob: 0,01429
+[java/lang/String/length(), android/database/Cursor/close(), android/database/Cursor/isAfterLast()]
+
+prob: 0,01429
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,01429
+[java/util/Iterator/hasNext(), android/database/sqlite/SQLiteDatabase/insert(java.lang.String]
+
+prob: 0,01429
+[android/database/Cursor/getString(int)]
+
+prob: 0,01429
+[android/database/Cursor/close()]
+
+prob: 0,01429
+[java/lang/StringBuilder/toString()]
+
+prob: 0,01429
+[org/pocketworkstation/pckeyboard/LatinIME/getResources()]
+
+prob: 0,01429
+[android/view/inputmethod/InputConnection/commitText(java.lang.CharSequence]
+
+prob: 0,01429
+[java/lang/CharSequence/length()]
+
+prob: 0,01429
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)]
+
+prob: 0,01429
+[android/util/Log/i(java.lang.String]
+
+prob: 0,01429
+[java/lang/String/length()]
+

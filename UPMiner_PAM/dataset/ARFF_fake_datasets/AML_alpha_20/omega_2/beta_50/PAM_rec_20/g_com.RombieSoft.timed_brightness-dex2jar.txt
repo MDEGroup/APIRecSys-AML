@@ -1,0 +1,38 @@
+java.util.HashMap  0,12903
+android/util/Log/v(java.lang.String  0,09677
+android/content/Context/getPackageManager(), android/content/Intent/Intent(java.lang.String  0,06452
+java.lang.String)  0,03226
+android/content/res/Resources/getString(int), java/lang/String/replaceAll(java.lang.String  0,03226
+java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), android/widget/SimpleAdapter/SimpleAdapter(android.content.Context  0,03226
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), org/json/JSONArray/JSONArray(), java/lang/StringBuilder/append(java.lang.Object), org/json/JSONArray/put(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Set/isEmpty(  0,03226
+java/util/Iterator/hasNext(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/util/Map/isEmpty(), java/util/Map/get(java.lang.Object), org/json/JSONObject/put(java.lang.String  0,03226
+java/lang/Long/valueOf(long), java/lang/StringBuilder/append(java.lang.String), android/location/Location/getAccuracy(), java/lang/String/format(java.lang.String  0,03226
+int)  0,03226
+java/lang/System/getProperty(java.lang.String  0,03226
+android/app/Dialog/setTitle(java.lang.CharSequence), android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,03226
+java/util/Map/get(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/os/SystemClock/elapsedRealtime(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(long), java/lang/Object/wait(long), java/lang/StringBuilder/append(java.lang.Object  0,03226
+java/net/HttpURLConnection/disconnect(), java/lang/StringBuilder/StringBuilder(), java/net/HttpURLConnection/connect(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/net/HttpURLConnection/setInstanceFollowRedirects(boolean  0,03226
+java/net/HttpURLConnection/disconnect(), java/net/URL/openConnection(), android/content/SharedPreferences/getString(java.lang.String  0,03226
+java/net/URL/URL(java.lang.String)  0,03226
+java/net/HttpURLConnection/getResponseCode()  0,03226
+android/widget/ArrayAdapter/setDropDownViewResource(int), android/app/Dialog/setContentView(int), android/app/Dialog/findViewById(int), android/app/Dialog/Dialog(android.content.Context), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/app/Dialog/setOwnerActivity(android.app.Activity)  0,03226
+android/database/Cursor/getColumnIndex(java.lang.String), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/ref/WeakReference/get(), android/database/Cursor/getColumnName(int), android/content/SharedPreferences$Editor/commit(), android/content/ContentResolver/query(android.net.Uri  0,03226
+android.util.AttributeSet)  0,03226
+java.lang.String  0,03226
+android/view/LayoutInflater/inflate(int  0,03226
+java.util.Map  0,03226
+java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/Float/parseFloat(java.lang.String), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), java/net/HttpURLConnection/getHeaderField(java.lang.String  0,03226
+java/util/StringTokenizer/nextToken()  0,03226
+java/util/StringTokenizer/StringTokenizer(java.lang.String)  0,03226
+java/util/StringTokenizer/hasMoreTokens()  0,03226
+java/lang/Long/parseLong(java.lang.String)  0,03226
+boolean  0,03226
+android/widget/RelativeLayout/setGravity(int), java/lang/StringBuilder/append(java.lang.String), android/content/Intent/putExtras(android.os.Bundle), android/content/Intent/getExtras(), android/content/ComponentName/ComponentName(java.lang.String  0,03226
+android.app.Activity)  0,03226
+java/lang/Object/equals(java.lang.Object)  0,03226
+android.appwidget.AppWidgetManager  0,03226
+java/lang/StringBuilder/append(java.lang.Object)  0,03226
+java/net/URL/openConnection()  0,03226
+java/lang/StringBuilder/StringBuilder()  0,03226
+java/lang/StringBuilder/toString()  0,03226
+java/lang/StringBuilder/append(java.lang.String)  0,03226

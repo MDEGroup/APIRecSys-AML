@@ -1,0 +1,117 @@
+prob: 0,13793
+[java.lang.String]
+
+prob: 0,06897
+[java.lang.String)]
+
+prob: 0,06897
+[java/lang/Integer/intValue(), android/content/res/Resources/getIdentifier(java.lang.String]
+
+prob: 0,06897
+[boolean)]
+
+prob: 0,03448
+[android/widget/EditText/getWindowToken(), android/webkit/WebView/loadUrl(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), android/webkit/WebView/requestFocus(), java/lang/String/startsWith(java.lang.String]
+
+prob: 0,03448
+[org.apache.cordova.CordovaDialogsHelper$Result)]
+
+prob: 0,03448
+[boolean]
+
+prob: 0,03448
+[android/widget/ProgressBar/ProgressBar(android.content.Context), android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,03448
+[android/net/Uri/getHost(), java/util/regex/Matcher/matches(), java/lang/Integer/equals(java.lang.Object), java/lang/Integer/valueOf(int), java/lang/Exception/toString(), java/util/regex/Pattern/matcher(java.lang.CharSequence), android/net/Uri/getPort(), android/net/Uri/getPath(), android/net/Uri/getScheme(]
+
+prob: 0,03448
+[android/net/Uri/getPath(), java/net/URL/openConnection(), android/content/ContentResolver/getType(android.net.Uri), java/lang/String/split(java.lang.String), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/net/HttpURLConnection/getHeaderField(java.lang.String), android/net/Uri/toString(), java/net/HttpURLConnection/setDoInput(boolean]
+
+prob: 0,03448
+[android/view/Window/addFlags(int), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,03448
+[java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalAccessException/getLocalizedMessage(), java/lang/reflect/Method/invoke(java.lang.Object]
+
+prob: 0,03448
+[android/webkit/WebSettings/setGeolocationDatabasePath(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,03448
+[java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,03448
+[java/util/LinkedList/isEmpty(), java/util/ArrayList/size(), java/util/ArrayList/get(int), java/lang/StringBuilder/toString()]
+
+prob: 0,03448
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,03448
+[java/lang/Object/getClass()]
+
+prob: 0,03448
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/append(java.lang.String), java/util/LinkedList/removeFirst(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(int), java/util/LinkedList/size(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(]
+
+prob: 0,03448
+[java/util/Iterator/hasNext()]
+
+prob: 0,03448
+[java.lang.Object)]
+
+prob: 0,03448
+[android/view/animation/AlphaAnimation/setAnimationListener(android.view.animation.Animation$AnimationListener), android/view/animation/AlphaAnimation/setDuration(long), android/app/Dialog/dismiss(), android/view/animation/AlphaAnimation/AlphaAnimation(float]
+
+prob: 0,03448
+[android.webkit.HttpAuthHandler]
+
+prob: 0,03448
+[android/app/Dialog/setContentView(android.view.View), android/widget/ImageView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/ImageView/setImageResource(int), android/os/Handler/Handler(), android/widget/ImageView/setMinimumWidth(int), android/view/Display/getHeight(), android/view/Window/setFlags(int]
+
+prob: 0,03448
+[android/content/Intent/setData(android.net.Uri), java/lang/StringBuilder/toString()]
+
+prob: 0,03448
+[android/view/View/setBackground(android.graphics.drawable.Drawable)]
+
+prob: 0,03448
+[android/widget/EditText/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/RelativeLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/webkit/WebView/setId(int), org/apache/cordova/inappbrowser/InAppBrowserDialog/dismiss(), android/webkit/WebSettings/setUserAgentString(java.lang.String), android/view/Window/setAttributes(android.view.WindowManager$LayoutParams), android/view/WindowManager$LayoutParams/WindowManager$LayoutParams()]
+
+prob: 0,03448
+[android/widget/RelativeLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/content/res/ColorStateList/ColorStateList(int[][]]
+
+prob: 0,03448
+[android/webkit/WebView/WebView(android.content.Context)]
+
+prob: 0,03448
+[android/net/Uri/getScheme(), java/lang/StringBuilder/append(java.lang.String), android/net/Uri/parse(java.lang.String), android/content/Intent/Intent(java.lang.String), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,03448
+[org/apache/cordova/inappbrowser/InAppBrowserDialog/requestWindowFeature(int)]
+
+prob: 0,03448
+[android/webkit/WebView/requestFocusFromTouch()]
+
+prob: 0,03448
+[android/widget/RelativeLayout/addView(android.view.View)]
+
+prob: 0,03448
+[android/widget/ImageButton/setLayoutParams(android.view.ViewGroup$LayoutParams)]
+
+prob: 0,03448
+[android/app/ProgressDialog/show(), android/widget/ProgressBar/ProgressBar(android.content.Context), android/app/ProgressDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/widget/ProgressBar/setLayoutParams(android.view.ViewGroup$LayoutParams), android/view/Window/setBackgroundDrawable(android.graphics.drawable.Drawable), android/view/Window/clearFlags(int)]
+
+prob: 0,03448
+[java/lang/RuntimeException/toString(), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03448
+[java.io.OutputStream)]
+
+prob: 0,03448
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/String/split(java.lang.String), android/net/Uri/getSchemeSpecificPart(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[]), java/lang/String/getBytes(), java/lang/String/indexOf(int), android/util/Base64/decode(java.lang.String]
+
+prob: 0,03448
+[android/webkit/WebSettings/setUserAgentString(java.lang.String)]
+
+prob: 0,03448
+[java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder()]
+

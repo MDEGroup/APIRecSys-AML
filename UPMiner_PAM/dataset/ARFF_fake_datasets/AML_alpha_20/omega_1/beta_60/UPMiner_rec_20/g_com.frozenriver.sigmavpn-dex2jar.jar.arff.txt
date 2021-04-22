@@ -1,0 +1,7 @@
+android/content/SharedPreferences/edit(
+org.api.fake
+android/app/Dialog/setTitle(java.lang.CharSequence)
+android/widget/Toast/makeText(android.content.Context,java.lang.CharSequence,int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder(java.lang.String
+java/lang/Integer/parseInt(java.lang.String

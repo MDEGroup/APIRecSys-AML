@@ -1,0 +1,87 @@
+prob: 0,12500
+[java.lang.String]
+
+prob: 0,06250
+[java.lang.Throwable)]
+
+prob: 0,06250
+[android/media/AudioRecord/AudioRecord(int]
+
+prob: 0,06250
+[android/widget/EditText/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/RelativeLayout/addView(android.view.View), android/view/View/setPadding(int]
+
+prob: 0,06250
+[android/view/Display/getHeight(), android/view/Display/getWidth(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/view/WindowManager/getDefaultDisplay(), android/widget/FrameLayout$LayoutParams/FrameLayout$LayoutParams(int]
+
+prob: 0,06250
+[android/view/Window/setFlags(int]
+
+prob: 0,06250
+[android/media/MediaPlayer/setDisplay(android.view.SurfaceHolder), java/lang/StringBuilder/append(java.lang.String), android/widget/MediaController/setEnabled(boolean), android/content/res/AssetManager/openFd(java.lang.String), android/media/MediaPlayer/prepare(), android/net/Uri/parse(java.lang.String), java/io/FileInputStream/close(), com/unity3d/player/u/getResources(), android/media/MediaPlayer/setOnVideoSizeChangedListener(android.media.MediaPlayer$OnVideoSizeChangedListener), android/media/MediaPlayer/setOnBufferingUpdateListener(android.media.MediaPlayer$OnBufferingUpdateListener), android/media/MediaPlayer/setOnCompletionListener(android.media.MediaPlayer$OnCompletionListener), android/media/MediaPlayer/setOnPreparedListener(android.media.MediaPlayer$OnPreparedListener), android/content/res/AssetFileDescriptor/getFileDescriptor(), android/content/res/Resources/getAssets(), android/widget/MediaController/setMediaPlayer(android.widget.MediaController$MediaPlayerControl), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor]
+
+prob: 0,06250
+[java/nio/ByteBuffer/get(byte[]]
+
+prob: 0,06250
+[android/content/Context/getPackageManager(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(int), android/os/Environment/getExternalStorageState(), java/lang/String/equals(java.lang.Object), java/util/Vector/Vector(), java/util/Vector/add(java.lang.Object), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,06250
+[android/os/Environment/getExternalStorageDirectory(), java/util/Vector/size(), android/content/Context/getPackageName(), java/io/File/exists(), java/io/File/File(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Vector/toArray(java.lang.Object[]), java/io/File/isFile()]
+
+prob: 0,06250
+[int[])]
+
+prob: 0,06250
+[android/location/LocationManager/getProvider(java.lang.String), java/util/List/isEmpty(), java/util/Iterator/next(), android/location/LocationManager/getLastKnownLocation(java.lang.String), android/location/LocationManager/requestLocationUpdates(java.lang.String]
+
+prob: 0,06250
+[java/lang/Math/min(long]
+
+prob: 0,06250
+[org/xmlpull/v1/XmlPullParser/getEventType(), java/lang/StringBuilder/append(java.lang.String), java/lang/Exception/getLocalizedMessage(), org/xmlpull/v1/XmlPullParser/setInput(java.io.InputStream]
+
+prob: 0,06250
+[java/util/Map/size(), java/lang/StringBuilder/StringBuilder(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/lang/StringBuilder/toString(), java/util/List/iterator(]
+
+prob: 0,06250
+[java/net/HttpURLConnection/disconnect(), java/lang/StringBuilder/StringBuilder(), java/net/URLConnection/getOutputStream(), java/net/URLConnection/getInputStream(), java/net/HttpURLConnection/getResponseCode(), java/net/URLConnection/getHeaderFields(), java/util/Map/containsKey(java.lang.Object), java/io/OutputStream/write(byte[]]
+
+prob: 0,06250
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/getHeaderFields(), java/util/Iterator/next(), java/util/Set/iterator()]
+
+prob: 0,06250
+[java/net/URL/openConnection()]
+
+prob: 0,06250
+[java/io/InputStream/read(byte[])]
+
+prob: 0,06250
+[java/net/URL/getProtocol()]
+
+prob: 0,06250
+[java/util/List/get(int)]
+
+prob: 0,06250
+[java/net/URLConnection/getContentLength()]
+
+prob: 0,06250
+[java/io/IOException/toString()]
+
+prob: 0,06250
+[java/lang/String/length()]
+
+prob: 0,06250
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,06250
+[java/net/URL/getFile()]
+
+prob: 0,06250
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey()]
+
+prob: 0,06250
+[java/util/List/isEmpty()]
+
+prob: 0,06250
+[java/util/Iterator/next(), java/util/Set/iterator()]
+

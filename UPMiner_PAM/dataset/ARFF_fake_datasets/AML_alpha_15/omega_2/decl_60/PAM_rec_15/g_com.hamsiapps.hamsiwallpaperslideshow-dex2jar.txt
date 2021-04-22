@@ -1,0 +1,11 @@
+java/lang/StringBuilder/append(java.lang.String), com/hamsiapps/hamsiwallpaperslideshow/MainActivity/startActivity(android.content.Intent), android/util/Log/e(java.lang.String  0,10000
+int)  0,10000
+android.view.View  0,10000
+android/content/res/Resources/getDisplayMetrics(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/graphics/Paint/getTextBounds(java.lang.String  0,10000
+android/graphics/Paint/setColor(int), android/graphics/Bitmap/getWidth()  0,10000
+java.lang.String)  0,10000
+boolean)  0,10000
+android.graphics.Bitmap  0,10000
+java.util.ArrayList)  0,10000
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), android/app/ProgressDialog/isShowing(), android/app/AlertDialog/show(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,10000
+android/app/AlertDialog$Builder/setIcon(int), com/hamsiapps/hamsiwallpaperslideshow/MainActivity/getString(int), com/hamsiapps/hamsiwallpaperslideshow/MainActivity/getPackageName(), android/app/AlertDialog$Builder/setTitle(int), java/lang/String/replaceAll(java.lang.String  0,10000

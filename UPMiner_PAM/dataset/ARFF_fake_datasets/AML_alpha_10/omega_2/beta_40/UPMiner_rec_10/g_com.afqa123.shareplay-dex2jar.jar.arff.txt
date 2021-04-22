@@ -1,0 +1,24 @@
+java/lang/Object/getClass(
+java/lang/StringBuilder/append(java.lang.String
+java/util/logging/Logger/finest(java.lang.String)
+java/lang/StringBuilder/toString(
+java/util/Map/put(java.lang.Object,java.lang.Object)
+javax/jmdns/impl/DNSOutgoing/getNumberOfAnswers()
+java/util/logging/Logger/isLoggable(java.util.logging.Level
+javax/jmdns/impl/ListenerStatus$ServiceTypeListenerStatus/getListener(
+java/io/IOException/IOException(java.lang.String)
+java/lang/String/valueOf(int
+android/content/Intent/Intent(android.content.Context,java.lang.Class)
+java/util/Iterator/next()
+java/util/Collection/iterator(
+java/util/List/iterator(
+java/io/ByteArrayOutputStream/toByteArray(
+java/lang/Class/getSimpleName()
+org.api.fake
+java/util/Iterator/hasNext()
+java/net/InetAddress/getHostAddress()
+javax/jmdns/impl/ListenerStatus$ServiceListenerStatus/getListener()
+java/util/Set/contains(java.lang.Object
+java/util/concurrent/ConcurrentMap/keySet(
+org.rand.api
+java/util/Iterator/hasNext() java/util/Iterator/next()

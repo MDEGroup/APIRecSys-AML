@@ -1,0 +1,12 @@
+org.api.fake  0,15000
+org.rand.api  0,15000
+android.appwidget.AppWidgetManager)  0,15000
+android.content.Context)  0,15000
+com/att/preference/colorpicker/ColorPickerDialog/getContext(), com/att/preference/colorpicker/ColorPickerPanelView/setOnClickListener(android.view.View$OnClickListener), android/widget/LinearLayout/setPadding(int  0,05000
+bob/clock/BobClockD3Configure/setResult(int  0,05000
+bob/clock/BobClockD3Configure/findViewById(int), android/preference/PreferenceManager/setSharedPreferencesName(java.lang.String), android/os/Bundle/getInt(java.lang.String), android/preference/PreferenceActivity/onCreate(android.os.Bundle), bob/clock/BobClockD3Configure/setContentView(int), android/content/Intent/getExtras(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), bob/clock/BobClockD3Configure/getIntent(), bob/clock/BobClockD3Configure/getPreferenceManager(), bob/clock/BobClockD3Configure/addPreferencesFromResource(int  0,05000
+java/lang/StringBuilder/append(java.lang.String), android/graphics/Color/green(int), java/lang/String/length(), android/graphics/Color/blue(int), android/graphics/Color/red(int), java/lang/StringBuilder/toString(), java/lang/Integer/toHexString(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/graphics/Color/alpha(int  0,05000
+android/widget/LinearLayout/getPaddingTop(), android/widget/LinearLayout/removeViews(int  0,05000
+android.util.AttributeSet)  0,05000
+android/graphics/RectF/centerX(), android/graphics/RectF/centerY(), android/graphics/Paint/setShader(android.graphics.Shader), android/graphics/RectF/RectF(), android/graphics/Canvas/drawRect(float  0,05000
+android/webkit/WebView/WebView(android.content.Context), android/webkit/WebSettings/setJavaScriptEnabled(boolean), android/webkit/WebSettings/setSavePassword(boolean), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,05000

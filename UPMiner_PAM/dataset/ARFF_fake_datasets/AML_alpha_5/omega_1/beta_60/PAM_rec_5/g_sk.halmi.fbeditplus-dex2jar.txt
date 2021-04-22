@@ -1,0 +1,49 @@
+android/app/AlertDialog/setCancelable(boolean), android/view/LayoutInflater/inflate(int  0,07500
+org/apache/http/params/HttpParams/setParameter(java.lang.String  0,07500
+android/view/LayoutInflater/inflate(int  0,07500
+java/lang/String/length(), java/lang/String/substring(int  0,05000
+android/content/Intent/putExtra(java.lang.String  0,05000
+java/io/InputStream/available(), java/io/InputStream/read(byte[), android/content/res/AssetManager/open(java.lang.String), android/content/Context/getAssets(), java/io/InputStream/close()  0,05000
+android/content/res/Resources/getString(int  0,05000
+android/os/Handler/sendMessageDelayed(android.os.Message  0,02500
+sk/halmi/fbeditplus/overview/ChooseDownloadLevelActivity/startActivity(android.content.Intent), sk/halmi/fbeditplus/overview/ChooseDownloadLevelActivity/getSharedPreferences(java.lang.String  0,02500
+java/lang/Integer/parseInt(java.lang.String), sk/halmi/fbeditplus/view/ChooseDownloadLevelView/setLevelCounts(int[), android/content/Intent/getStringExtra(java.lang.String), java/lang/String/length(), android/content/Intent/getIntExtra(java.lang.String  0,02500
+sk/halmi/fbeditplus/overview/ChooseUploadLevelActivity/finish(), sk/halmi/fbeditplus/view/ChooseUploadLevelView/setLevels(byte[), sk/halmi/fbeditplus/overview/ChooseUploadLevelActivity/findViewById(int), sk/halmi/fbeditplus/view/ChooseUploadLevelView/getStartingLevel(), sk/halmi/fbeditplus/view/ChooseUploadLevelView/invalidate(), sk/halmi/fbeditplus/view/ChooseUploadLevelView/setStartingLevel(int), sk/halmi/fbeditplus/view/ChooseUploadLevelView/setClickable(boolean  0,02500
+sk/halmi/fbeditplus/AboutActivity/findViewById(int), android/content/res/Resources/getString(int), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), sk/halmi/fbeditplus/AboutActivity/setContentView(int), java/lang/StringBuilder/toString(), sk/halmi/fbeditplus/AboutActivity/getResources(  0,02500
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), sk/halmi/fbeditplus/DownloadLevelPackActivity/findViewById(int), java/lang/StringBuilder/append(int), android/widget/Spinner/getSelectedItem(), java/lang/StringBuilder/append(float  0,02500
+java/lang/String/valueOf(java.lang.Object), java/util/Random/nextInt(int), java/util/Random/Random()  0,02500
+java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Vector/size(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), android/util/Log/d(java.lang.String  0,02500
+android/content/res/Resources/getText(int)  0,02500
+android/view/View/setOnClickListener(android.view.View$OnClickListener), android/app/Activity/onStart(), android/widget/TextView/setText(java.lang.CharSequence), sk/halmi/fbeditplus/view/OverviewView/invalidate(), sk/halmi/fbeditplus/overview/OverviewActivity/finish(), sk/halmi/fbeditplus/overview/OverviewActivity/getSharedPreferences(java.lang.String  0,02500
+android/app/Activity/onStart(), android/widget/TextView/setText(java.lang.CharSequence), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/widget/Toast/show()  0,02500
+android/content/Intent/getByteArrayExtra(java.lang.String)  0,02500
+android/content/res/Resources/getColor(int), android/graphics/Paint/setColor(int), sk/halmi/fbeditplus/view/EditorView/getResources(), sk/halmi/fbeditplus/view/EditorView/getWidth(), android/graphics/Canvas/drawPath(android.graphics.Path  0,02500
+android/content/res/Resources/getColor(int), android/graphics/Paint/setColor(int), android/graphics/Canvas/drawText(java.lang.String  0,02500
+java/io/InputStream/read(byte[  0,02500
+sk/halmi/fbeditplus/DownloadLevelPackActivity/findViewById(int), android/widget/EditText/setText(java.lang.CharSequence), java/util/Calendar/getInstance(), android/widget/RatingBar/setRating(float), android/widget/RatingBar/setOnRatingBarChangeListener(android.widget.RatingBar$OnRatingBarChangeListener), java/util/Calendar/get(int), android/widget/Spinner/setAdapter(android.widget.SpinnerAdapter), android/os/Bundle/getString(java.lang.String), android/os/Bundle/getFloat(java.lang.String), sk/halmi/fbeditplus/DownloadLevelPackActivity/setContentView(int), sk/halmi/fbeditplus/DownloadLevelPackActivity/requestWindowFeature(int), android/widget/ArrayAdapter/setDropDownViewResource(int), android/widget/ArrayAdapter/createFromResource(android.content.Context  0,02500
+sk/halmi/fbeditplus/DownloadLevelPackActivity/getSystemService(java.lang.String), sk/halmi/fbeditplus/DownloadLevelPackActivity/findViewById(int), java/lang/Thread/start(), android/widget/Toast/show(), java/lang/Thread/Thread(java.lang.Runnable), sk/halmi/fbeditplus/DownloadLevelPackActivity/getString(int), sk/halmi/fbeditplus/DownloadLevelPackActivity/setProgressBarIndeterminateVisibility(boolean), android/net/ConnectivityManager/getActiveNetworkInfo(), android/view/View/setEnabled(boolean  0,02500
+android/widget/EditText/getText()  0,02500
+java/io/InputStream/available(), java/io/InputStream/read(byte[), java/util/Vector/insertElementAt(java.lang.Object  0,02500
+java/io/InputStream/available(), java/io/InputStream/read(byte[), java/util/Arrays/fill(byte[  0,02500
+android/content/Context/openFileInput(java.lang.String), java/util/Vector/Vector(), java/lang/Integer/valueOf(int), java/util/Vector/add(java.lang.Object), java/util/Vector/Vector(int)  0,02500
+android.content.Context  0,02500
+sk/halmi/fbeditplus/EditorActivity/startActivity(android.content.Intent), android/graphics/Path/reset(), android/graphics/Path/lineTo(float  0,02500
+sk/halmi/fbeditplus/EditorActivity/startActivity(android.content.Intent), android/content/Intent/Intent(java.lang.String  0,02500
+android/content/Intent/getAction(), android/content/Intent/hasExtra(java.lang.String), android/content/Intent/getIntExtra(java.lang.String  0,02500
+android.view.View  0,02500
+java/io/File/createNewFile(), java/io/File/File(java.io.File  0,02500
+java/lang/Math/floor(double), android/content/Context/openFileInput(java.lang.String), java/io/FileInputStream/available(), android/widget/Toast/show(), java/io/FileInputStream/close(  0,02500
+android/view/View/setClickable(boolean), android/widget/EditText/setText(java.lang.CharSequence), android/widget/EditText/setEnabled(boolean)  0,02500
+android/view/View/setVisibility(int), java/lang/StringBuilder/append(int), android/content/SharedPreferences/getInt(java.lang.String  0,02500
+sk/halmi/fbeditplus/UploadLevelPackActivity/findViewById(int)  0,02500
+sk/halmi/fbeditplus/UploadLevelPackActivity/getSystemService(java.lang.String), android/content/res/Resources/getString(int  0,02500
+sk/halmi/fbeditplus/view/ChooseDownloadLevelView/getStartingLevel(), sk/halmi/fbeditplus/overview/ChooseDownloadLevelActivity/findViewById(int), sk/halmi/fbeditplus/view/ChooseDownloadLevelView/setStartingLevel(int), sk/halmi/fbeditplus/view/ChooseDownloadLevelView/setClickable(boolean), sk/halmi/fbeditplus/view/ChooseDownloadLevelView/invalidate(  0,02500
+sk/halmi/fbeditplus/overview/ChooseDownloadLevelActivity/finish(), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/app/Activity/onStart(), android/widget/TextView/setText(java.lang.CharSequence)  0,02500
+sk/halmi/fbeditplus/view/ChooseDownloadLevelView/setLevels(byte[), android/widget/Toast/show()  0,02500
+java/lang/StringBuilder/toString()  0,02500
+java/lang/Math/floor(double)  0,02500
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02500
+java/lang/StringBuilder/append(int)  0,02500
+android/content/Context/openFileInput(java.lang.String)  0,02500
+java/lang/String/valueOf(java.lang.Object)  0,02500
+java/lang/StringBuilder/append(java.lang.String)  0,02500

@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org.api.fake
+java/lang/StringBuilder/toString(
+ch/logixisland/anuto/view/game/TowerInfoFragment/getResources()

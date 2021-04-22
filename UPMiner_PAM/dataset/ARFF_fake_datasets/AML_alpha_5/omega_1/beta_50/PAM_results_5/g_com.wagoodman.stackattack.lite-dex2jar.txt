@@ -1,0 +1,195 @@
+prob: 0,16667
+[java.lang.Boolean]
+
+prob: 0,05556
+[int]
+
+prob: 0,05556
+[android/opengl/GLUtils/texImage2D(int]
+
+prob: 0,05556
+[java.lang.String]
+
+prob: 0,03704
+[java.lang.Integer)]
+
+prob: 0,03704
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/Boolean/valueOf(boolean), com/wagoodman/stackattack/ColorBroker/enqueue(java.lang.Object), java/util/Set/iterator(]
+
+prob: 0,03704
+[java/util/Map$Entry/getKey(), java/lang/Integer/valueOf(int), java/util/Map$Entry/getValue(), com/wagoodman/stackattack/ShapeManager/entrySet(), com/wagoodman/stackattack/ColorBroker/dequeue()]
+
+prob: 0,03704
+[java.lang.Boolean)]
+
+prob: 0,03704
+[android/util/SparseArray/indexOfKey(int), android/util/SparseArray/get(int), java/util/HashSet/add(java.lang.Object), android/util/SparseArray/put(int]
+
+prob: 0,03704
+[java/lang/Float/valueOf(float), java/lang/Boolean/valueOf(boolean)]
+
+prob: 0,03704
+[com/wagoodman/stackattack/ShapeManager/get(java.lang.Object)]
+
+prob: 0,03704
+[java/lang/Integer/valueOf(int)]
+
+prob: 0,03704
+[java/lang/Boolean/valueOf(boolean)]
+
+prob: 0,01852
+[javax/microedition/khronos/opengles/GL10/glBindTexture(int]
+
+prob: 0,01852
+[java/lang/Integer/intValue(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01852
+[java/lang/Integer/intValue(), javax/microedition/khronos/opengles/GL10/glTranslatef(float]
+
+prob: 0,01852
+[com/wagoodman/stackattack/BoardManager/stopHorizontal(), com/wagoodman/stackattack/BoardManager/transitionCenter(), android/view/MotionEvent/getAction(), com/wagoodman/stackattack/Block/getId(), com/wagoodman/stackattack/BoardManager/transitionRight(), java/lang/Math/max(int]
+
+prob: 0,01852
+[android/view/MotionEvent/getY(int), android/view/MotionEvent/getX(int)]
+
+prob: 0,01852
+[java/util/ArrayList/iterator(), java/lang/Math/max(int]
+
+prob: 0,01852
+[java/util/ArrayList/iterator(), java/util/TreeMap/size(), android/util/SparseIntArray/put(int]
+
+prob: 0,01852
+[java/util/ArrayList/iterator(), java/util/ArrayList/ArrayList(), java/util/ArrayList/contains(java.lang.Object), android/util/SparseIntArray/put(int]
+
+prob: 0,01852
+[java/util/ArrayList/iterator(), java/util/ArrayList/ArrayList(java.util.Collection), java/lang/Boolean/valueOf(boolean), java/lang/Integer/intValue(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Collections/sort(java.util.List]
+
+prob: 0,01852
+[java/util/HashSet/iterator(), java/util/HashSet/contains(java.lang.Object), java/lang/Integer/intValue()]
+
+prob: 0,01852
+[java/util/HashSet/iterator(), java/util/Iterator/hasNext(), java/util/concurrent/ConcurrentHashMap/get(java.lang.Object), java/util/Iterator/next(), java/lang/Integer/valueOf(int), java/util/concurrent/ConcurrentHashMap/entrySet(), javax/microedition/khronos/opengles/GL10/glGenTextures(int]
+
+prob: 0,01852
+[java/util/HashSet/contains(java.lang.Object), java/util/HashSet/iterator(), com/wagoodman/stackattack/GLShape/isInGroup(), java/util/Iterator/next(]
+
+prob: 0,01852
+[java/util/Iterator/hasNext(), java/lang/Boolean/valueOf(boolean), java/util/HashSet/HashSet(), java/lang/Boolean/booleanValue(), com/wagoodman/stackattack/ShapeManager/get(java.lang.Object)]
+
+prob: 0,01852
+[float]
+
+prob: 0,01852
+[java/util/Iterator/next(), java/lang/Integer/valueOf(int), java/lang/Boolean/booleanValue(), java/util/HashSet/iterator(), com/wagoodman/stackattack/ShapeManager/get(java.lang.Object), java/util/Iterator/hasNext(), java/util/ArrayList/size(]
+
+prob: 0,01852
+[com/wagoodman/stackattack/Color/pickColorExcept(com.wagoodman.stackattack.Color), java/lang/Math/random(), java/lang/Boolean/valueOf(boolean), java/lang/Boolean/booleanValue(), java/util/ArrayList/clear(), java/util/ArrayList/size(), com/wagoodman/stackattack/BoardManager/tour(), java/util/ArrayList/set(int]
+
+prob: 0,01852
+[float)]
+
+prob: 0,01852
+[javax.microedition.khronos.opengles.GL10]
+
+prob: 0,01852
+[com.wagoodman.stackattack.Coord]
+
+prob: 0,01852
+[java/util/HashSet/toString(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/HashMap/get(java.lang.Object), java/util/HashMap/keySet(]
+
+prob: 0,01852
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/valueOf(int]
+
+prob: 0,01852
+[android/util/SparseArray/size(), java/lang/Integer/intValue(), android/util/SparseArray/get(int), com/wagoodman/stackattack/DropSectionState/getHeight(), java/lang/Boolean/booleanValue(), com/wagoodman/stackattack/GameDifficulty/getScoreMultiplier(), java/lang/Integer/valueOf(int]
+
+prob: 0,01852
+[java.lang.Integer]
+
+prob: 0,01852
+[android/util/SparseIntArray/keyAt(int), java/lang/Integer/valueOf(int), android/util/SparseIntArray/get(int)]
+
+prob: 0,01852
+[android/util/SparseIntArray/size()]
+
+prob: 0,01852
+[android/view/Window/setFlags(int]
+
+prob: 0,01852
+[javax/microedition/khronos/opengles/GL10/glScalef(float]
+
+prob: 0,01852
+[float[][])]
+
+prob: 0,01852
+[java/util/HashSet/add(java.lang.Object), java/util/ArrayList/iterator(), java/util/TreeMap/put(java.lang.Object]
+
+prob: 0,01852
+[java/util/HashSet/add(java.lang.Object), java/util/HashSet/size(), java/util/HashSet/addAll(java.util.Collection)]
+
+prob: 0,01852
+[java/util/ArrayList/ArrayList(), java/util/ArrayList/containsAll(java.util.Collection), java/util/ArrayList/addAll(java.util.Collection), java/lang/System/currentTimeMillis(), com/wagoodman/stackattack/ShapeManager/get(java.lang.Object), java/lang/Long/valueOf(long)]
+
+prob: 0,01852
+[android/util/SparseIntArray/SparseIntArray()]
+
+prob: 0,01852
+[com/wagoodman/stackattack/Color/pickColor()]
+
+prob: 0,01852
+[android/util/SparseIntArray/indexOfKey(int)]
+
+prob: 0,01852
+[java/util/ArrayList/add(java.lang.Object), java/lang/Integer/valueOf(int), java/lang/Boolean/booleanValue(), java/util/ArrayList/ArrayList(), java/util/Random/nextInt(int]
+
+prob: 0,01852
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/concurrent/ConcurrentHashMap/put(java.lang.Object]
+
+prob: 0,01852
+[java/lang/System/currentTimeMillis(), java/util/ArrayList/get(int), java/util/ArrayList/iterator()]
+
+prob: 0,01852
+[java/util/HashSet/clear(), java/lang/Integer/valueOf(int), java/util/ArrayList/get(int)]
+
+prob: 0,01852
+[java/util/ArrayList/remove(java.lang.Object)]
+
+prob: 0,01852
+[int)]
+
+prob: 0,01852
+[com/wagoodman/stackattack/BlockValue/getRandomBonusValue(), com/wagoodman/stackattack/Block/getId(), com/wagoodman/stackattack/Color/pickColorExcept(com.wagoodman.stackattack.Color)]
+
+prob: 0,01852
+[java/util/ArrayList/clear()]
+
+prob: 0,01852
+[java/util/ArrayList/size()]
+
+prob: 0,01852
+[javax/microedition/khronos/opengles/GL10/glTranslatef(float]
+
+prob: 0,01852
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,01852
+[java/util/Set/iterator()]
+
+prob: 0,01852
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,01852
+[java/util/HashSet/HashSet()]
+
+prob: 0,01852
+[java/util/Map$Entry/getKey()]
+
+prob: 0,01852
+[java/lang/Integer/intValue()]
+
+prob: 0,01852
+[java/util/Iterator/next()]
+
+prob: 0,01852
+[java/util/Iterator/hasNext()]
+

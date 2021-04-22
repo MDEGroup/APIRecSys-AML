@@ -1,0 +1,20 @@
+com/github/pkunk/pq/a/d/remove(java.lang.Object
+com/github/pkunk/pq/c/c/size(
+java/util/List/add(java.lang.Object)
+java/util/Iterator/next() java/util/Map$Entry/getValue()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/StringBuilder/toString()
+java/util/Set/iterator(
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/StringBuilder() java/lang/StringBuilder/toString()
+java/util/Iterator/next()
+java/lang/Integer/intValue()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/StringBuilder() java/lang/StringBuilder/append(java.lang.String)
+java/util/Set/iterator()
+org.api.fake
+android/content/Context/getFilesDir(
+java/util/ArrayList/ArrayList(int)
+java/util/Set/contains(java.lang.Object
+org.rand.api

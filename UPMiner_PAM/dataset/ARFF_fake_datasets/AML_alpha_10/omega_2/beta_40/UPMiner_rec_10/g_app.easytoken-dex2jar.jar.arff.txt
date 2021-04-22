@@ -1,0 +1,27 @@
+java/lang/StringBuilder/append(java.lang.String
+java/io/BufferedReader/readLine(
+android/util/SparseArray/size()
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Long/valueOf(long)
+android/util/Base64/encodeToString(byte[],int)
+java/lang/StringBuilder/append(int
+app/easytoken/BareActivity/getIntent()
+java/lang/Runtime/getRuntime()
+org.api.fake
+android/view/Display/getDisplayId(
+org.rand.api
+java/lang/StringBuilder/toString(
+android/content/Context/openFileInput(java.lang.String)
+java/io/BufferedReader/BufferedReader(java.io.Reader,int
+java/lang/StringBuilder/StringBuilder()
+java/lang/reflect/Method/invoke(java.lang.Object,java.lang.Object[]
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])
+java/lang/Class/getMethods()
+java/lang/Integer/intValue()
+android/app/ActionBar$Tab/setTabListener(android.app.ActionBar$TabListener)
+java/lang/String/startsWith(java.lang.String
+java/net/InetAddress/getHostAddress()
+android/content/Intent/putExtra(java.lang.String,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/StringBuilder()
+android/text/format/Time/setToNow()

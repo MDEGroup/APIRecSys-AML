@@ -1,0 +1,264 @@
+prob: 0,04762
+[java/lang/String/String(char[]]
+
+prob: 0,03175
+[java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,03175
+[java.lang.Class]
+
+prob: 0,03175
+[java.lang.reflect.Type)]
+
+prob: 0,03175
+[java.lang.String)]
+
+prob: 0,03175
+[java.util.Map)]
+
+prob: 0,03175
+[boolean)]
+
+prob: 0,03175
+[java/util/Map$Entry/getKey()]
+
+prob: 0,03175
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03175
+[java/util/Iterator/next()]
+
+prob: 0,01587
+[java/util/Arrays/equals(byte[]]
+
+prob: 0,01587
+[java/lang/ThreadLocal/remove(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01587
+[java/io/IOException/IOException(java.lang.String), java/net/URI/URI(java.lang.String]
+
+prob: 0,01587
+[java/io/IOException/IOException(java.lang.String), java/lang/StringBuilder/toString(), java/io/FileOutputStream/flush(), java/io/File/renameTo(java.io.File]
+
+prob: 0,01587
+[java/io/IOException/IOException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(long), java/io/RandomAccessFile/length(), java/lang/StringBuilder/toString(), java/io/RandomAccessFile/seek(long), java/io/RandomAccessFile/readFully(byte[]]
+
+prob: 0,01587
+[java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/logging/Logger/log(java.util.logging.Level]
+
+prob: 0,01587
+[java/io/RandomAccessFile/close(), java/io/IOException/IOException(java.lang.String), java/io/File/File(java.lang.String), java/io/RandomAccessFile/setLength(long), java/io/File/getPath(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/io/File/renameTo(java.io.File), java/lang/StringBuilder/toString(), java/io/RandomAccessFile/write(byte[]]
+
+prob: 0,01587
+[a.a.a.a.a.g.d)]
+
+prob: 0,01587
+[com.b.b.t)]
+
+prob: 0,01587
+[retrofit.ba]
+
+prob: 0,01587
+[com/b/a/a/a/a/g/getSystemService(java.lang.String), android/util/Log/w(java.lang.String]
+
+prob: 0,01587
+[com.google.appengine.api.urlfetch.HTTPRequest)]
+
+prob: 0,01587
+[org.apache.http.HttpResponse)]
+
+prob: 0,01587
+[java/io/File/exists()]
+
+prob: 0,01587
+[java/io/FileOutputStream/close()]
+
+prob: 0,01587
+[a/a/a/a/s/y(), a/a/a/a/s/z(), android/content/Context/getPackageManager(), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,01587
+[android/content/pm/PackageManager/getApplicationLabel(android.content.pm.ApplicationInfo), android/content/Context/getPackageName(), android/content/Context/getApplicationInfo()]
+
+prob: 0,01587
+[java.util.Map]
+
+prob: 0,01587
+[java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/List/add(java.lang.Object), java/util/Collections/singletonList(java.lang.Object), java/lang/StringBuilder/length(), java/lang/StringBuilder/deleteCharAt(int), java/lang/String/endsWith(java.lang.String]
+
+prob: 0,01587
+[java/util/ArrayList/ArrayList(), java/lang/Integer/valueOf(int), java/util/TreeSet/TreeSet(java.util.Comparator), java/lang/String/format(java.util.Locale]
+
+prob: 0,01587
+[java/util/ArrayList/ArrayList(), java/lang/String/replace(java.lang.CharSequence]
+
+prob: 0,01587
+[java/lang/Class/getCanonicalName(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map/entrySet(), java/lang/StringBuilder/toString(), java/lang/reflect/Array/get(java.lang.Object]
+
+prob: 0,01587
+[java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/Class/getDeclaredMethod(java.lang.String]
+
+prob: 0,01587
+[com/a/a/h/y(), com/a/a/h/z(), java/lang/Integer/toString(int)]
+
+prob: 0,01587
+[java/util/Iterator/next(), java/util/TreeSet/add(java.lang.Object), java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,01587
+[retrofit.c.k)]
+
+prob: 0,01587
+[android/widget/TextView/setFocusable(boolean), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,01587
+[com/b/b/b/a/h/p(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Double/isInfinite(double), java/lang/StringBuilder/toString(]
+
+prob: 0,01587
+[java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,01587
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(double)]
+
+prob: 0,01587
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Collections/sort(java.util.List), a/a/a/a/k/a(a.a.a.a.a.c.y), java/lang/StringBuilder/toString(), a/a/a/a/s/x(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/Iterator/hasNext(), a/a/a/a/s/a(android.content.Context]
+
+prob: 0,01587
+[java/lang/Double/isNaN(double), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), com/b/b/b/a/j/g(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01587
+[java/lang/Double/isInfinite(double), java/lang/StringBuilder/append(java.lang.Object]
+
+prob: 0,01587
+[java/lang/StringBuilder/StringBuilder(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01587
+[com.b.b.c.a)]
+
+prob: 0,01587
+[java/util/Iterator/hasNext(), com/google/appengine/api/urlfetch/HTTPRequest/HTTPRequest(java.net.URL]
+
+prob: 0,01587
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map/entrySet(), java/lang/StringBuilder/toString(), java/util/Map$Entry/getKey()]
+
+prob: 0,01587
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/Thread/currentThread(), java/util/Iterator/next(), java/lang/Math/min(int]
+
+prob: 0,01587
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), android/content/SharedPreferences$Editor/commit(), java/lang/StringBuilder/StringBuilder(), android/content/SharedPreferences$Editor/putStringSet(java.lang.String]
+
+prob: 0,01587
+[java/util/Iterator/hasNext(), java/util/Collections/unmodifiableMap(java.util.Map), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/Iterator/next(), java/util/HashMap/HashMap(), java/util/Map/entrySet(]
+
+prob: 0,01587
+[java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/List/iterator(), java/util/Map/entrySet(), java/util/ArrayList/ArrayList(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/List/add(java.lang.Object), java/net/HttpURLConnection/getInputStream(]
+
+prob: 0,01587
+[java/lang/String/toLowerCase(java.util.Locale), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01587
+[java/util/Collection/iterator()]
+
+prob: 0,01587
+[java/lang/Number/doubleValue()]
+
+prob: 0,01587
+[java/net/URL/toString(), java/util/Map$Entry/getValue(), java/net/HttpURLConnection/getURL(), java/net/HttpURLConnection/getContentType(), java/net/HttpURLConnection/getResponseMessage(), java/net/HttpURLConnection/getResponseCode(), java/net/HttpURLConnection/getErrorStream()]
+
+prob: 0,01587
+[a.a.a.a.l)]
+
+prob: 0,01587
+[java.io.Writer)]
+
+prob: 0,01587
+[java.lang.Throwable]
+
+prob: 0,01587
+[int]
+
+prob: 0,01587
+[java.lang.Throwable)]
+
+prob: 0,01587
+[com.a.a.f]
+
+prob: 0,01587
+[android/os/StatFs/StatFs(java.lang.String), java/util/Iterator/hasNext(), java/lang/StringBuilder/toString(), android/os/Environment/getDataDirectory(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/io/File/getPath(]
+
+prob: 0,01587
+[com/a/a/h/z(), java/lang/Runtime/getRuntime(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/os/StatFs/getBlockSize(), java/lang/Runtime/availableProcessors()]
+
+prob: 0,01587
+[android/os/StatFs/getBlockCount()]
+
+prob: 0,01587
+[java/net/HttpURLConnection/getHeaderFields(), java/net/HttpURLConnection/getContentLength()]
+
+prob: 0,01587
+[java/util/regex/Matcher/group(int), java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/Math/min(int]
+
+prob: 0,01587
+[java/io/File/getName(), java/util/List/iterator(), java/util/Iterator/hasNext(), java/util/List/size()]
+
+prob: 0,01587
+[java/util/Set/contains(java.lang.Object)]
+
+prob: 0,01587
+[java.util.List)]
+
+prob: 0,01587
+[retrofit.c.l]
+
+prob: 0,01587
+[retrofit.c.k]
+
+prob: 0,01587
+[com.b.b.c.a]
+
+prob: 0,01587
+[java/lang/Thread/sleep(long), java/util/List/iterator()]
+
+prob: 0,01587
+[java/util/List/size(), java/util/List/isEmpty(), java/lang/Thread/interrupt()]
+
+prob: 0,01587
+[android/content/Intent/setData(android.net.Uri), android/app/PendingIntent/getService(android.content.Context]
+
+prob: 0,01587
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01587
+[android/content/ComponentName/flattenToShortString(), java/util/Set/iterator(), android/content/SharedPreferences/edit(), java/util/HashSet/HashSet(), java/util/Set/add(java.lang.Object)]
+
+prob: 0,01587
+[java/io/RandomAccessFile/seek(long)]
+
+prob: 0,01587
+[java/io/File/File(java.lang.String)]
+
+prob: 0,01587
+[android/content/Context/getPackageManager(), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,01587
+[java/lang/Double/isNaN(double)]
+
+prob: 0,01587
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01587
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,01587
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(long)]
+
+prob: 0,01587
+[android/util/Log/w(java.lang.String]
+
+prob: 0,01587
+[java/lang/StringBuilder/toString()]
+
+prob: 0,01587
+[java/util/Iterator/hasNext()]
+
+prob: 0,01587
+[java/lang/StringBuilder/append(java.lang.String)]
+

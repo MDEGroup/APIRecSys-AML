@@ -1,0 +1,4 @@
+java/net/InetAddress/getByName(java.lang.String
+java/lang/StringBuilder/append(boolean)
+com/danga/garagedoor/IGarageScanService$Stub/registerCallback(com.danga.garagedoor.IGarageScanCallback)
+android/os/Parcel/writeInt(int

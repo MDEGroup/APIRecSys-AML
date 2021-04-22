@@ -1,0 +1,258 @@
+prob: 0,07792
+[java.lang.String]
+
+prob: 0,06494
+[android.view.View]
+
+prob: 0,03896
+[int]
+
+prob: 0,03896
+[java/util/ArrayList/ArrayList(), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,03896
+[java.lang.String)]
+
+prob: 0,02597
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,02597
+[android/view/SubMenu/findItem(int)]
+
+prob: 0,02597
+[java.io.File]
+
+prob: 0,02597
+[int)]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getAction(), java/lang/String/length(), java/io/File/File(java.lang.String), java/io/File/mkdirs(), android/content/SharedPreferences/getInt(java.lang.String]
+
+prob: 0,01299
+[android.content.res.XmlResourceParser]
+
+prob: 0,01299
+[android.content.pm.ResolveInfo]
+
+prob: 0,01299
+[java.lang.Integer)]
+
+prob: 0,01299
+[org/xmlpull/v1/XmlPullParser/getEventType(), java/io/File/File(java.io.File]
+
+prob: 0,01299
+[java.util.TreeMap)]
+
+prob: 0,01299
+[org/xmlpull/v1/XmlSerializer/endTag(java.lang.String]
+
+prob: 0,01299
+[org.scid.android.gamelogic.GameTree$Node]
+
+prob: 0,01299
+[java.io.File)]
+
+prob: 0,01299
+[java/util/regex/Matcher/group(int), java/util/ArrayList/ArrayList(), java/lang/String/replaceAll(java.lang.String]
+
+prob: 0,01299
+[android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01299
+[org/scid/android/gamelogic/ChessParseError/getMessage(), java/lang/String/replaceAll(java.lang.String]
+
+prob: 0,01299
+[android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), org/scid/android/ScidAndroidActivity/setContentView(int), org/scid/android/ChessBoard/requestFocus(), android/widget/RatingBar/setOnTouchListener(android.view.View$OnTouchListener), org/scid/android/ScidAndroidActivity/findViewById(int), android/widget/TextView/setTextColor(int), android/widget/TextView/getTextColors(), android/widget/TextView/setFocusable(boolean), android/widget/ScrollView/setFocusable(boolean), org/scid/android/ChessBoard/setFocusable(boolean), org/scid/android/ChessBoard/setOnTouchListener(android.view.View$OnTouchListener), org/scid/android/ScidAndroidActivity/getWindow(), android/text/method/LinkMovementMethod/getInstance(), org/scid/android/ScidAndroidActivity/requestWindowFeature(int), android/widget/TextView/setOnLongClickListener(android.view.View$OnLongClickListener), org/scid/android/ChessBoard/setOnLongClickListener(android.view.View$OnLongClickListener), android/widget/TextView/setLinkTextColor(int), android/view/Window/setFeatureInt(int]
+
+prob: 0,01299
+[android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,01299
+[android/content/Intent/setData(android.net.Uri), org/scid/android/gamelogic/ChessParseError/getMessage(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01299
+[android/view/MenuItem/setVisible(boolean), android/view/Menu/findItem(int), android/view/MenuItem/setEnabled(boolean), android/view/MenuItem/getSubMenu(), android/app/Activity/onPrepareOptionsMenu(android.view.Menu), java/lang/String/length(), android/view/MenuItem/setChecked(boolean]
+
+prob: 0,01299
+[org/scid/android/ScidAndroidActivity/getPackageManager()]
+
+prob: 0,01299
+[android/text/ClipboardManager/hasText()]
+
+prob: 0,01299
+[org/scid/android/ScidAndroidActivity/getSystemService(java.lang.String)]
+
+prob: 0,01299
+[org/scid/android/ScidAndroidActivity/showDialog(int), android/content/Intent/setAction(java.lang.String), org/scid/android/ScidAndroidActivity/removeDialog(int), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01299
+[android/view/MenuItem/setChecked(boolean)]
+
+prob: 0,01299
+[org/scid/android/ImportPgnTask/dismissProgress(), android/app/Activity/finish(), android/app/Activity/getString(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01299
+[java/lang/Character/isWhitespace(char), java/lang/String/charAt(int), java/util/List/size(), java/util/List/get(int), java/lang/String/indexOf(int), java/lang/StringBuilder/toString(]
+
+prob: 0,01299
+[java/util/List/remove(int), java/lang/Character/isDigit(char), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char)]
+
+prob: 0,01299
+[android.net.Uri]
+
+prob: 0,01299
+[java/net/MalformedURLException/getMessage(), java/net/URL/openConnection(), java/lang/String/substring(int), java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream), java/io/File/createTempFile(java.lang.String]
+
+prob: 0,01299
+[android/preference/ListPreference/setEntryValues(java.lang.CharSequence[]), android/preference/PreferenceActivity/onCreate(android.os.Bundle), org/scid/android/Preferences/findPreference(java.lang.CharSequence), android/content/Intent/getStringArrayExtra(java.lang.String), android/preference/ListPreference/setDefaultValue(java.lang.Object), org/scid/android/Preferences/getIntent(), org/scid/android/Preferences/addPreferencesFromResource(int), android/content/Intent/getStringExtra(java.lang.String), android/preference/ListPreference/setEntries(java.lang.CharSequence[]]
+
+prob: 0,01299
+[java/text/DateFormat/setTimeZone(java.util.TimeZone), java/util/TimeZone/getTimeZone(java.lang.String), java/util/Date/Date()]
+
+prob: 0,01299
+[java/lang/Math/atan2(double]
+
+prob: 0,01299
+[android/widget/TextView/setFocusable(boolean), org/scid/android/ChessBoardEdit/setOnTrackballListener(org.scid.android.ChessBoard$OnTrackballListener), org/scid/android/EditBoard/setContentView(int), org/scid/android/ChessBoardEdit/setOnTouchListener(android.view.View$OnTouchListener), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), org/scid/android/ChessBoardEdit/setOnLongClickListener(android.view.View$OnLongClickListener), org/scid/android/ChessBoardEdit/setClickable(boolean), org/scid/android/EditBoard/findViewById(int), android/view/GestureDetector/GestureDetector(android.view.GestureDetector$OnGestureListener), org/scid/android/ChessBoardEdit/requestFocus(]
+
+prob: 0,01299
+[org/scid/android/ChessBoardEdit/setFocusable(boolean)]
+
+prob: 0,01299
+[android/view/GestureDetector/GestureDetector(android.view.GestureDetector$OnGestureListener), android/widget/TextView/setOnTouchListener(android.view.View$OnTouchListener)]
+
+prob: 0,01299
+[org/scid/android/EditBoard/getString(int), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,01299
+[java/lang/Thread/sleep(long), java/lang/Thread/setName(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/String/length(), android/util/Log/d(java.lang.String]
+
+prob: 0,01299
+[java/lang/Thread/sleep(long), java/lang/String/valueOf(java.lang.Object), java/lang/String/length(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01299
+[android/os/Process/setThreadPriority(int), java/lang/Thread/currentThread()]
+
+prob: 0,01299
+[android/app/ListActivity/onCreate(android.os.Bundle), org/scid/android/SelectFileActivity/setContentView(int), android/widget/TextView/setEllipsize(android.text.TextUtils$TruncateAt), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context)]
+
+prob: 0,01299
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), org/apache/http/client/methods/HttpGet/HttpGet(java.lang.String), java/lang/String/contains(java.lang.CharSequence), java/io/BufferedReader/close(), org/apache/http/HttpResponse/getStatusLine(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01299
+[java/util/Iterator/hasNext(), android/widget/Toast/show(), android/util/Log/isLoggable(java.lang.String]
+
+prob: 0,01299
+[java/io/IOException/getMessage(), java/util/List/size()]
+
+prob: 0,01299
+[java/io/File/File(java.lang.String), android/os/Bundle/getByteArray(java.lang.String), java/io/File/mkdirs()]
+
+prob: 0,01299
+[android/app/Activity/getString(int), android/app/ProgressDialog/setTitle(int), android/app/ProgressDialog/setIndeterminate(boolean), android/app/ProgressDialog/setProgressStyle(int), android/app/ProgressDialog/setMax(int), android/app/ProgressDialog/setProgress(int), android/app/ProgressDialog/setCancelable(boolean]
+
+prob: 0,01299
+[org/scid/android/SearchTask/dismissProgress()]
+
+prob: 0,01299
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences$Editor/commit(), java/io/File/File(java.lang.String), android/content/SharedPreferences/edit(), org/scid/android/ScidAndroidActivity/getApplicationContext(), android/content/SharedPreferences$Editor/putString(java.lang.String]
+
+prob: 0,01299
+[java/lang/String/valueOf(java.lang.Object), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,01299
+[java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/io/IOException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,01299
+[java/lang/Process/getInputStream(), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01299
+[java/lang/ProcessBuilder/start(), android/util/Log/e(java.lang.String]
+
+prob: 0,01299
+[java/util/Map$Entry/getKey(), java/lang/String/equals(java.lang.Object), java/util/List/iterator(), java/util/Map/entrySet(), java/util/Iterator/hasNext(]
+
+prob: 0,01299
+[java/util/Iterator/next(), java/util/Set/iterator(), java/util/List/add(java.lang.Object), java/util/Map$Entry/getValue()]
+
+prob: 0,01299
+[org.scid.android.PGNOptions)]
+
+prob: 0,01299
+[java/lang/Integer/intValue(), java/io/File/exists(), android/media/MediaPlayer/create(android.content.Context]
+
+prob: 0,01299
+[java/lang/Integer/intValue(), java/util/List/size(), java/util/List/get(int), java/io/ByteArrayOutputStream/close(), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), java/io/ByteArrayOutputStream/toByteArray(]
+
+prob: 0,01299
+[java/io/DataOutputStream/writeInt(int), java/io/DataOutputStream/writeUTF(java.lang.String), java/io/ByteArrayOutputStream/ByteArrayOutputStream(int), java/io/DataOutputStream/close(), java/io/DataOutputStream/flush()]
+
+prob: 0,01299
+[java/util/regex/Matcher/appendTail(java.lang.StringBuffer), java/util/regex/Matcher/appendReplacement(java.lang.StringBuffer]
+
+prob: 0,01299
+[boolean)]
+
+prob: 0,01299
+[android/app/ProgressDialog/setMessage(java.lang.CharSequence), android/app/ProgressDialog/show(), android/app/ProgressDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/content/Context/getString(int), android/app/ProgressDialog/setButton(int]
+
+prob: 0,01299
+[java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/File/File(java.lang.String]
+
+prob: 0,01299
+[java/io/File/getName(), java/lang/String/valueOf(java.lang.Object), java/io/IOException/getMessage(), android/util/Log/d(java.lang.String]
+
+prob: 0,01299
+[android/app/ProgressDialog/isShowing(), java/util/Iterator/next(), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), org/scid/android/chessok/PgnLinkListActivity/getListView(), android/app/ProgressDialog/dismiss()]
+
+prob: 0,01299
+[org/scid/android/chessok/PgnLinkListActivity/setListAdapter(android.widget.ListAdapter), java/util/Iterator/hasNext(), java/util/List/iterator(), android/widget/ArrayAdapter/add(java.lang.Object]
+
+prob: 0,01299
+[java/io/FileInputStream/read(byte[]), java/io/FileInputStream/available(), java/lang/String/String(byte[]), java/io/FileWriter/FileWriter(java.lang.String), java/io/BufferedWriter/close(), android/util/Log/e(java.lang.String]
+
+prob: 0,01299
+[java/io/BufferedWriter/BufferedWriter(java.io.Writer), java/io/FileInputStream/FileInputStream(java.lang.String), java/io/FileInputStream/close(), java/io/BufferedWriter/write(java.lang.String)]
+
+prob: 0,01299
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01299
+[org/scid/android/gamelogic/ChessParseError/getMessage(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01299
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,01299
+[android/content/Intent/getAction()]
+
+prob: 0,01299
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01299
+[android/app/Activity/finish(), android/app/Activity/getString(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01299
+[android/app/ProgressDialog/setMessage(java.lang.CharSequence), android/app/ProgressDialog/show()]
+
+prob: 0,01299
+[android/app/ProgressDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener)]
+
+prob: 0,01299
+[android/app/ProgressDialog/isShowing()]
+
+prob: 0,01299
+[java/util/Iterator/next()]
+
+prob: 0,01299
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01299
+[android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,01299
+[java/lang/StringBuilder/append(java.lang.String)]
+

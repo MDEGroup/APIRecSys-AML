@@ -1,0 +1,177 @@
+prob: 0,25926
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,11111
+[java.lang.String)]
+
+prob: 0,11111
+[java/lang/String/split(java.lang.String)]
+
+prob: 0,07407
+[java/util/Iterator/next()]
+
+prob: 0,07407
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,07407
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,03704
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/view/View/findViewById(int), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,03704
+[java/security/MessageDigest/digest(), java/io/IOException/toString(), java/security/DigestInputStream/DigestInputStream(java.io.InputStream]
+
+prob: 0,03704
+[java.lang.String]
+
+prob: 0,03704
+[java/lang/InterruptedException/getMessage()]
+
+prob: 0,03704
+[java/io/IOException/getMessage()]
+
+prob: 0,03704
+[java/lang/Object/wait()]
+
+prob: 0,03704
+[java/lang/StringBuilder/append(java.lang.String), java/util/List/iterator(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(]
+
+prob: 0,03704
+[java/lang/Thread/currentThread(), java/lang/Object/wait(long), java/lang/Exception/setStackTrace(java.lang.StackTraceElement[]), java/lang/Exception/printStackTrace(), android/util/Log/e(java.lang.String]
+
+prob: 0,03704
+[java/lang/InterruptedException/printStackTrace()]
+
+prob: 0,03704
+[java/lang/Thread/getStackTrace()]
+
+prob: 0,03704
+[java/util/List/size(), java/io/OutputStreamWriter/write(java.lang.String), java/io/OutputStreamWriter/flush(]
+
+prob: 0,03704
+[java/lang/String/contains(java.lang.CharSequence), java/lang/Exception/printStackTrace(]
+
+prob: 0,03704
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/Set/toArray(), java/lang/String/startsWith(java.lang.String), java/lang/Exception/Exception(), java/lang/StringBuilder/toString(]
+
+prob: 0,03704
+[java/util/ArrayList/ArrayList(), java/util/List/size(), java/util/List/get(int), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,03704
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/String/trim()]
+
+prob: 0,03704
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/List/addAll(java.util.Collection), java/lang/String/substring(int), java/util/List/iterator(), java/lang/Integer/toString(int), java/lang/String/length(]
+
+prob: 0,03704
+[java/util/ArrayList/ArrayList(), java/io/LineNumberReader/LineNumberReader(java.io.Reader), java/io/LineNumberReader/close(), java/io/FileReader/FileReader(java.lang.String), java/io/File/File(java.lang.String), java/lang/Exception/Exception(), java/io/FileReader/close(]
+
+prob: 0,03704
+[java/util/ArrayList/ArrayList(), java/lang/String/split(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/io/LineNumberReader/readLine(), java/io/FileReader/close(), java/io/File/File(java.lang.String]
+
+prob: 0,03704
+[java/lang/Math/ceil(double), java/lang/String/charAt(int), java/lang/StringBuffer/append(char), java/lang/String/length(), java/lang/Character/isDigit(char), java/lang/Double/doubleValue(), java/lang/StringBuffer/toString(), java/lang/Double/valueOf(java.lang.String), java/lang/StringBuffer/StringBuffer(]
+
+prob: 0,03704
+[java/util/List/isEmpty(), java/util/List/addAll(java.util.Collection), java/util/Iterator/next(]
+
+prob: 0,03704
+[java/util/List/clear(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,03704
+[java/util/List/clear(), java/util/List/iterator(), java/util/Collections/reverse(java.util.List)]
+
+prob: 0,03704
+[java/util/List/add(java.lang.Object), java/util/Iterator/hasNext()]
+
+prob: 0,03704
+[java.util.List)]
+
+prob: 0,03704
+[java/util/regex/Matcher/group(int), java/io/IOException/printStackTrace(), com/stericson/RootTools/containers/RootClass$READ_STATE/ordinal(), java/io/PrintStream/println(java.lang.String), java/lang/String/indexOf(java.lang.String), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(), java/io/FileNotFoundException/printStackTrace(]
+
+prob: 0,03704
+[java/util/regex/Pattern/compile(java.lang.String), java/io/File/getAbsolutePath(), java/util/regex/Matcher/find(), java/io/FileReader/FileReader(java.io.File), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,03704
+[java/util/regex/Pattern/matcher(java.lang.CharSequence)]
+
+prob: 0,03704
+[java/lang/String/split(java.lang.String), java/util/List/size(), java/lang/String/substring(int]
+
+prob: 0,03704
+[java/io/File/getName(), java/io/File/exists(), java/io/File/File(java.lang.String), java/io/File/getAbsolutePath(), java/lang/Integer/parseInt(java.lang.String), java/lang/System/getenv(java.lang.String), java/io/File/listFiles(), java/io/IOException/IOException(java.lang.String]
+
+prob: 0,03704
+[android/os/Bundle/Bundle(), java/lang/StringBuilder/append(java.lang.String), android/os/Handler/obtainMessage(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), android/os/Bundle/putInt(java.lang.String]
+
+prob: 0,03704
+[android/os/Message/setData(android.os.Bundle)]
+
+prob: 0,03704
+[java/lang/StringBuilder/append(int), java/lang/Exception/printStackTrace(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(long)]
+
+prob: 0,03704
+[android/os/Handler/sendMessage(android.os.Message)]
+
+prob: 0,03704
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,03704
+[android/app/AlertDialog/setButton(java.lang.CharSequence]
+
+prob: 0,03704
+[android/util/Log/w(java.lang.String]
+
+prob: 0,03704
+[java/lang/Integer/intValue(), java/lang/reflect/Field/get(java.lang.Object), java/io/OutputStreamWriter/write(java.lang.String), java/io/OutputStreamWriter/flush(]
+
+prob: 0,03704
+[java/lang/reflect/Field/setAccessible(boolean), java/lang/Object/getClass(), java/lang/StringBuilder/append(int), java/lang/Class/getDeclaredField(java.lang.String)]
+
+prob: 0,03704
+[android/os/StrictMode$VmPolicy$Builder/detectLeakedClosableObjects(), java/io/IOException/printStackTrace(), android/app/Activity/onCreate(android.os.Bundle), com/stericson/RootToolsTests/SanityCheckRootTools/getPackageName(), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/os/StrictMode$ThreadPolicy$Builder/detectNetwork(), android/os/StrictMode$VmPolicy$Builder/StrictMode$VmPolicy$Builder(), android/os/StrictMode$VmPolicy$Builder/detectLeakedSqlLiteObjects(), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,03704
+[android/widget/ScrollView/addView(android.view.View), android/os/StrictMode$VmPolicy$Builder/penaltyDeath(), android/app/ProgressDialog/setProgressStyle(int), android/widget/TextView/setText(java.lang.CharSequence)]
+
+prob: 0,03704
+[java/util/List/get(int)]
+
+prob: 0,03704
+[java/util/ArrayList/add(java.lang.Object), java/io/LineNumberReader/readLine()]
+
+prob: 0,03704
+[java/util/List/addAll(java.util.Collection), java/util/Iterator/next(]
+
+prob: 0,03704
+[java/io/LineNumberReader/LineNumberReader(java.io.Reader)]
+
+prob: 0,03704
+[java/io/LineNumberReader/close()]
+
+prob: 0,03704
+[java/io/FileReader/FileReader(java.lang.String)]
+
+prob: 0,03704
+[java/lang/Exception/Exception()]
+
+prob: 0,03704
+[java/io/File/getAbsolutePath()]
+
+prob: 0,03704
+[java/util/List/iterator()]
+
+prob: 0,03704
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,03704
+[java/lang/StringBuilder/toString()]
+
+prob: 0,03704
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,03704
+[java/lang/StringBuilder/StringBuilder()]
+

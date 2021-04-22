@@ -1,0 +1,12 @@
+android/app/ActionBar$LayoutParams/ActionBar$LayoutParams(int,int
+com/majeur/applicationsinfo/MainListFragment/getActivity()
+java/lang/CharSequence/toString(
+javax/xml/transform/dom/DOMSource/DOMSource(org.w3c.dom.Node)
+com/majeur/applicationsinfo/MainActivity/findViewById(int
+java/util/ArrayList/ArrayList(int)
+java/io/File/File(java.lang.String
+android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable)
+android/content/pm/ApplicationInfo/loadIcon(android.content.pm.PackageManager
+java/io/File/createNewFile()
+javax/xml/parsers/DocumentBuilderFactory/newInstance(
+com/majeur/applicationsinfo/MainActivity/getFragmentManager()

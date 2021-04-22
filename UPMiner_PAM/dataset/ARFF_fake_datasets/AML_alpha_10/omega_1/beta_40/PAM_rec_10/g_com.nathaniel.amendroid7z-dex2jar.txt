@@ -1,0 +1,19 @@
+android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setNegativeButton(int  0,18182
+java.lang.String)  0,13636
+java.lang.String  0,13636
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/app/AlertDialog$Builder/setTitle(int), android/view/View/findViewById(int), android/text/method/ScrollingMovementMethod/getInstance(), android/app/AlertDialog$Builder/setView(android.view.View), android/view/LayoutInflater/from(android.content.Context), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setPositiveButton(int  0,09091
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()  0,09091
+int)  0,09091
+android.view.View  0,09091
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,09091
+java/io/File/canWrite(), java/io/File/exists(), java/io/File/list(), java/io/File/File(java.lang.String  0,04545
+java/lang/Process/getInputStream(), java/lang/Runtime/getRuntime(), java/io/DataOutputStream/writeBytes(java.lang.String), java/io/DataInputStream/DataInputStream(java.io.InputStream), java/lang/Runtime/exec(java.lang.String), java/io/DataOutputStream/flush(), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), java/lang/Process/waitFor(), java/lang/Process/getOutputStream(  0,04545
+java/io/RandomAccessFile/close(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,04545
+java/io/IOException/printStackTrace(), java/io/RandomAccessFile/readLine(), java/lang/String/valueOf(long), android/util/Log/i(java.lang.String  0,04545
+java/io/File/isDirectory(), java/io/File/canRead(), java/io/File/getAbsolutePath(), java/io/File/isFile(), java/io/File/delete()  0,04545
+java/util/regex/Pattern/compile(java.lang.String), java/util/regex/Matcher/replaceAll(java.lang.String), android/widget/TextView/getPaint(), android/text/TextPaint/setFakeBoldText(boolean), java/util/regex/Pattern/matcher(java.lang.CharSequence)  0,04545
+android/widget/ArrayAdapter/setDropDownViewResource(int), android/widget/CheckBox/setOnClickListener(android.view.View$OnClickListener)  0,04545
+java.io.File)  0,04545
+com/nathaniel/amendroid7z/Settings/findViewById(int), android/os/Bundle/getBoolean(java.lang.String), android/widget/CheckBox/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener), android/content/Intent/getExtras(), com/nathaniel/amendroid7z/Settings/setContentView(int), android/widget/ImageButton/setOnClickListener(android.view.View$OnClickListener), android/widget/CheckBox/setChecked(boolean), com/nathaniel/amendroid7z/Settings/getIntent(), android/os/Bundle/getInt(java.lang.String), android/app/Activity/onCreate(android.os.Bundle  0,04545
+com/nathaniel/amendroid7z/Main/getSharedPreferences(java.lang.String  0,04545
+java/lang/StringBuilder/append(java.lang.String)  0,04545

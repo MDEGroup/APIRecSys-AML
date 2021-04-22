@@ -1,0 +1,18 @@
+android/view/MotionEvent/obtain(long,long,int,float,float,int
+java/util/Hashtable/Hashtable(
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/toString()
+org/apache/http/util/EntityUtils/toString(org.apache.http.HttpEntity)
+java/lang/Integer/parseInt(java.lang.String
+java/lang/StringBuilder/StringBuilder() java/lang/StringBuilder/toString()
+java/io/IOException/IOException(java.lang.String)
+java/util/StringTokenizer/StringTokenizer(java.lang.String,java.lang.String
+android/location/Location/getTime(
+java/util/Iterator/hasNext()
+org.api.fake
+java/lang/Class/newInstance()
+java/lang/String/indexOf(int
+java/lang/String/endsWith(java.lang.String
+android/content/Context/getPackageManager()
+android/widget/TextView/setPaintFlags(int)
+org.rand.api

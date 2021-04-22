@@ -1,0 +1,26 @@
+java.lang.String  0,18519
+java.lang.String)  0,07407
+java/lang/Integer/intValue(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Class/getName(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/Object/getClass(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String  0,07407
+cz/chladek/swipe_status_bar/MainActivity/getString(int), cz/chladek/swipe_status_bar/MainActivity/addPreferencesFromResource(int), android/preference/PreferenceActivity/onCreate(android.os.Bundle), cz/chladek/swipe_status_bar/MainActivity/getApplicationContext(), android/content/SharedPreferences/edit(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/preference/PreferenceCategory/removePreference(android.preference.Preference), android/content/SharedPreferences/getBoolean(java.lang.String  0,03704
+cz/chladek/swipe_status_bar/MainActivity/getSystemService(java.lang.String), android/widget/SeekBar/setPadding(int  0,03704
+android/app/AlertDialog$Builder/setPositiveButton(int  0,03704
+android/content/Intent/putExtra(java.lang.String  0,03704
+android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setNegativeButton(int  0,03704
+java/util/ArrayList/clone(), java/lang/ThreadLocal/set(java.lang.Object), android/os/Looper/myLooper(), android/util/AndroidRuntimeException/AndroidRuntimeException(java.lang.String), java/lang/ThreadLocal/get(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), a/b/a/ai/sendEmptyMessage(int), java/util/ArrayList/get(int  0,03704
+android.os.Parcel  0,03704
+android.view.View)  0,03704
+android/view/animation/AnimationUtils/currentAnimationTimeMillis(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/clone(), a/b/a/ai/sendEmptyMessageDelayed(int  0,03704
+java/util/ArrayList/isEmpty()  0,03704
+java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/reflect/InvocationTargetException/toString(), java/lang/IllegalAccessException/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), android/util/Log/e(java.lang.String  0,03704
+android/widget/ImageView/setVisibility(int), android/content/SharedPreferences/edit(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/content/SharedPreferences/getInt(java.lang.String  0,03704
+android/widget/SeekBar/getMax(), cz/chladek/swipe_status_bar/TestScreenActivity/setContentView(int), cz/chladek/swipe_status_bar/TestScreenActivity/getString(int), android/app/Activity/onCreate(android.os.Bundle), android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener), android/widget/SeekBar/setProgress(int), cz/chladek/swipe_status_bar/TestScreenActivity/findViewById(int), cz/chladek/swipe_status_bar/TestScreenActivity/getApplicationContext()  0,03704
+int)  0,03704
+int  0,03704
+android/os/Bundle/get(java.lang.String), java/lang/Long/longValue(), android/content/Intent/getExtras()  0,03704
+a.a.a.a.a.j  0,03704
+cz/chladek/swipe_status_bar/StatusBarService/getApplicationContext(), android/app/PendingIntent/getService(android.content.Context  0,03704
+cz/chladek/swipe_status_bar/StatusBarService/getApplicationContext(), cz/chladek/swipe_status_bar/StatusBarService/getString(int), android/content/Intent/Intent(android.content.Context  0,03704
+android.view.MotionEvent)  0,03704
+cz/chladek/swipe_status_bar/MainActivity/startActivity(android.content.Intent), java/util/Locale/Locale(java.lang.String), cz/chladek/swipe_status_bar/MainActivity/getString(int), java/lang/String/equals(java.lang.Object), android/content/res/Resources/updateConfiguration(android.content.res.Configuration  0,03704
+android/content/res/Resources/getDisplayMetrics()  0,03704
+android/os/Bundle/get(java.lang.String), java/lang/Long/longValue()  0,03704

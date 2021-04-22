@@ -1,0 +1,8 @@
+java/io/BufferedReader/readLine(
+java/io/InputStreamReader/InputStreamReader(java.io.InputStream)
+java/lang/StringBuilder/toString(
+android/widget/ArrayAdapter/getItem(int)
+android/widget/ListView/setAdapter(android.widget.ListAdapter)
+android/database/Cursor/moveToNext(
+android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener
+java/util/ArrayList/ArrayList()

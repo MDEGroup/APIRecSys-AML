@@ -1,0 +1,393 @@
+prob: 0,08333
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,07292
+[java.lang.String]
+
+prob: 0,05208
+[java.lang.Class]
+
+prob: 0,05208
+[java.lang.String)]
+
+prob: 0,05208
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,04167
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), java/util/List/size(), java/util/Set/iterator(), java/util/Iterator/next()]
+
+prob: 0,04167
+[java/util/Map/get(java.lang.Object), java/util/Map/keySet(]
+
+prob: 0,03125
+[boolean)]
+
+prob: 0,03125
+[com.j256.ormlite.table.TableInfo]
+
+prob: 0,03125
+[java/util/ArrayList/size()]
+
+prob: 0,03125
+[int]
+
+prob: 0,03125
+[java.lang.Class)]
+
+prob: 0,03125
+[java/util/Iterator/next()]
+
+prob: 0,03125
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,03125
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02083
+[com.j256.ormlite.table.TableInfo)]
+
+prob: 0,02083
+[java.lang.Object)]
+
+prob: 0,02083
+[java/lang/reflect/Field/get(java.lang.Object)]
+
+prob: 0,02083
+[java.lang.Object]
+
+prob: 0,02083
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,02083
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String]
+
+prob: 0,02083
+[java/lang/Class/getName()]
+
+prob: 0,02083
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,02083
+[java/util/List/size()]
+
+prob: 0,02083
+[java/util/Set/iterator()]
+
+prob: 0,02083
+[java/util/Iterator/hasNext(), java/util/Iterator/next()]
+
+prob: 0,01042
+[java/io/IOException/printStackTrace(), java/io/DataInputStream/readChar(), java/net/ServerSocket/accept(), java/net/Socket/setTcpNoDelay(boolean]
+
+prob: 0,01042
+[com.j256.ormlite.field.DataPersister)]
+
+prob: 0,01042
+[java/lang/Class/getResourceAsStream(java.lang.String), java/io/InputStream/read(byte[]), java/util/zip/CRC32/CRC32(), java/io/InputStream/close(), java/util/zip/CRC32/update(byte[]]
+
+prob: 0,01042
+[java/lang/Class/getResourceAsStream(java.lang.String), java/lang/String/replace(char]
+
+prob: 0,01042
+[java/lang/Integer/intValue(), android/content/SharedPreferences$Editor/commit(), java/util/Map/entrySet(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/Float/floatValue(), android/content/SharedPreferences/edit(]
+
+prob: 0,01042
+[java/lang/Integer/intValue(), java/util/Set/iterator(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,01042
+[java/util/HashMap/entrySet(), java/util/ArrayList/get(int), java/util/Map$Entry/getKey()]
+
+prob: 0,01042
+[java/util/Map$Entry/getKey(), java/util/Collections/emptyList(), java/util/Map/size(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), com/j256/ormlite/stmt/QueryBuilder/where(]
+
+prob: 0,01042
+[java/util/Map$Entry/getKey(), java/lang/Long/longValue()]
+
+prob: 0,01042
+[org/apache/http/HttpResponse/getStatusLine(), org/apache/http/cookie/Cookie/getName(), java/io/IOException/getMessage(), org/apache/http/client/params/HttpClientParams/setRedirecting(org.apache.http.params.HttpParams]
+
+prob: 0,01042
+[org/apache/http/impl/client/DefaultHttpClient/getCookieStore(), org/apache/http/client/CookieStore/getCookies(), java/lang/StringBuilder/toString()]
+
+prob: 0,01042
+[org/apache/http/StatusLine/getStatusCode()]
+
+prob: 0,01042
+[android/accounts/OperationCanceledException/getMessage(), java/io/IOException/getMessage(), android/accounts/OperationCanceledException/printStackTrace(), android/accounts/AccountManager/getAuthToken(android.accounts.Account]
+
+prob: 0,01042
+[android/os/Bundle/get(java.lang.String), android/accounts/AccountManagerFuture/getResult()]
+
+prob: 0,01042
+[java/lang/Class/forName(java.lang.String), java/lang/reflect/Constructor/newInstance(java.lang.Object[]), android/content/res/Resources/getIdentifier(java.lang.String]
+
+prob: 0,01042
+[java/io/File/getName(), java/io/File/File(java.lang.String)]
+
+prob: 0,01042
+[java/lang/Object/getClass()]
+
+prob: 0,01042
+[java/util/Map$Entry/getValue(), java/lang/Boolean/booleanValue()]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList(java.util.Collection), java/util/List/iterator(), java/util/List/get(int]
+
+prob: 0,01042
+[com.j256.ormlite.field.FieldType]
+
+prob: 0,01042
+[java.lang.Object[]]
+
+prob: 0,01042
+[java/lang/Class/getSuperclass(), java/lang/reflect/Field/setAccessible(boolean), java/lang/reflect/Field/isAccessible(), java/lang/Class/getDeclaredFields(), java/lang/reflect/Field/getModifiers(), java/lang/reflect/Field/isSynthetic(), java/lang/reflect/Field/getName(), java/util/ArrayList/ArrayList(), java/util/Collections/addAll(java.util.Collection]
+
+prob: 0,01042
+[java/io/File/isDirectory(), java/lang/StringBuilder/append(java.lang.String), java/io/File/exists(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01042
+[com/badlogic/gdx/backends/android/AndroidFileHandle/type(), android/media/SoundPool/load(java.lang.String]
+
+prob: 0,01042
+[android/media/MediaPlayer/setDataSource(java.io.FileDescriptor]
+
+prob: 0,01042
+[com/j256/ormlite/field/DataType/values(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,01042
+[com/j256/ormlite/field/DataType/getDataPersister()]
+
+prob: 0,01042
+[java.lang.reflect.Field)]
+
+prob: 0,01042
+[com/badlogic/gdx/graphics/GL11/glEnableClientState(int), com/badlogic/gdx/graphics/GL11/glClientActiveTexture(int), java/nio/FloatBuffer/limit(), java/nio/ByteBuffer/limit(int]
+
+prob: 0,01042
+[java/nio/ByteBuffer/limit()]
+
+prob: 0,01042
+[java/util/ArrayList/iterator(), java/util/Collections/sort(java.util.List]
+
+prob: 0,01042
+[java/util/ArrayList/isEmpty()]
+
+prob: 0,01042
+[pl/pzagawa/game/engine/objects/set/StaticGameObject/isAbove(pl.pzagawa.game.engine.objects.BoundingBox)]
+
+prob: 0,01042
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/widget/EditText/setSingleLine(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,01042
+[java/lang/reflect/Modifier/isStatic(int)]
+
+prob: 0,01042
+[java.lang.Object[])]
+
+prob: 0,01042
+[android/content/res/AssetManager/list(java.lang.String), java/io/File/File(java.io.File]
+
+prob: 0,01042
+[java/nio/FloatBuffer/position()]
+
+prob: 0,01042
+[java/net/Socket/getInputStream(), java/lang/StringBuilder/StringBuilder(), java/io/DataInputStream/readBoolean(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/io/DataInputStream/readInt(), java/io/DataInputStream/DataInputStream(java.io.InputStream)]
+
+prob: 0,01042
+[java/nio/FloatBuffer/flip()]
+
+prob: 0,01042
+[java/util/ArrayList/toArray(java.lang.Object[])]
+
+prob: 0,01042
+[java/util/ArrayList/clear()]
+
+prob: 0,01042
+[java/nio/FloatBuffer/position(int)]
+
+prob: 0,01042
+[java/nio/FloatBuffer/limit(int)]
+
+prob: 0,01042
+[java/util/ArrayList/get(int]
+
+prob: 0,01042
+[java/lang/reflect/Field/getName(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/reflect/Field/getType(), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/getClass(]
+
+prob: 0,01042
+[java/lang/reflect/Field/getName(), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList(), java/util/ArrayList/add(java.lang.Object), pl/pzagawa/game/engine/objects/set/StaticGameObject/isInsideVertically(pl.pzagawa.game.engine.objects.BoundingBox), java/util/Iterator/hasNext(), java/util/Iterator/next()]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList(), java/util/Map$Entry/getKey(), java/util/HashMap/entrySet(), java/util/ArrayList/add(java.lang.Object), java/lang/String/startsWith(java.lang.String), java/util/Map$Entry/getValue(]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList(), java/util/List/get(int), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/Exception/printStackTrace(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(), java/lang/StringBuilder/toString(]
+
+prob: 0,01042
+[java/lang/reflect/Constructor/newInstance(java.lang.Object[]), java/lang/Class/getName(), java/lang/reflect/Modifier/isStatic(int]
+
+prob: 0,01042
+[java/lang/Class/newInstance(), java/lang/Class/getModifiers(), java/lang/reflect/Constructor/setAccessible(boolean), java/lang/Class/isMemberClass(), java/lang/Class/getDeclaredConstructor(java.lang.Class[])]
+
+prob: 0,01042
+[java.lang.StringBuilder]
+
+prob: 0,01042
+[java/util/Iterator/hasNext(), java/util/List/iterator(), java/lang/Class/isEnum(), java/util/HashMap/HashMap()]
+
+prob: 0,01042
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Map/get(java.lang.Object), java/util/List/addAll(java.util.Collection), java/util/List/clear()]
+
+prob: 0,01042
+[java/util/Iterator/hasNext(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01042
+[java/lang/Object/equals(java.lang.Object), java/lang/reflect/Field/getType(), java/lang/Short/valueOf(short), java/lang/Float/valueOf(float]
+
+prob: 0,01042
+[java/io/DataInputStream/readFloat()]
+
+prob: 0,01042
+[java/nio/ByteOrder/nativeOrder(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), com/badlogic/gdx/graphics/GL20/glBindTexture(int]
+
+prob: 0,01042
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/List/size(), java/util/List/clear(), java/util/List/get(int), java/lang/Class/getSimpleName(), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,01042
+[java/io/DataOutputStream/write(byte[]]
+
+prob: 0,01042
+[java.nio.Buffer)]
+
+prob: 0,01042
+[boolean]
+
+prob: 0,01042
+[java/lang/reflect/Constructor/getParameterTypes(), java/lang/Class/getEnclosingClass(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,01042
+[java/net/Socket/setSoTimeout(int)]
+
+prob: 0,01042
+[java/lang/String/length(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int), java/lang/Integer/parseInt(java.lang.String]
+
+prob: 0,01042
+[java/lang/StringBuilder/append(char[]), java/lang/String/charAt(int)]
+
+prob: 0,01042
+[java/lang/StringBuilder/StringBuilder(int), java/lang/StringBuilder/append(java.lang.Object), java/io/InputStreamReader/InputStreamReader(java.io.InputStream]
+
+prob: 0,01042
+[java/util/ArrayList/remove(int), android/opengl/GLSurfaceView$Renderer/onSurfaceChanged(javax.microedition.khronos.opengles.GL10]
+
+prob: 0,01042
+[java/lang/Enum/name(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01042
+[com.j256.ormlite.table.DatabaseTableConfig)]
+
+prob: 0,01042
+[java/lang/StringBuilder/StringBuilder(java.lang.String), pl/pzagawa/game/engine/objects/PlayerObject/top(), pl/pzagawa/game/engine/objects/ViewObject/getRoomPosY(), pl/pzagawa/game/engine/objects/ViewObject/left(), pl/pzagawa/game/engine/objects/PlayerObject/left(), pl/pzagawa/game/engine/objects/ViewObject/top(), pl/pzagawa/game/engine/objects/ViewObject/getRoomPosX(]
+
+prob: 0,01042
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/length(]
+
+prob: 0,01042
+[android/os/Handler/post(java.lang.Runnable), android/os/Handler/removeCallbacks(java.lang.Runnable), java/lang/String/valueOf(java.lang.Object), java/lang/Integer/toString(int)]
+
+prob: 0,01042
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Long/toString(long), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01042
+[java/lang/StringBuilder/append(java.lang.String), java/io/DataInputStream/close(), java/io/DataInputStream/readLine(), java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream), java/io/DataInputStream/available(), java/io/FileInputStream/FileInputStream(java.io.File), java/lang/StringBuilder/toString(]
+
+prob: 0,01042
+[android/app/Activity/getString(int)]
+
+prob: 0,01042
+[com.badlogic.gdx.graphics.g3d.loaders.md5.MD5Renderer]
+
+prob: 0,01042
+[org/apache/http/client/methods/HttpPost/HttpPost()]
+
+prob: 0,01042
+[org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest)]
+
+prob: 0,01042
+[org/apache/http/client/methods/HttpPost/setHeader(java.lang.String]
+
+prob: 0,01042
+[float]
+
+prob: 0,01042
+[java/lang/Math/max(int]
+
+prob: 0,01042
+[java.util.Map)]
+
+prob: 0,01042
+[java/lang/Character/valueOf(char)]
+
+prob: 0,01042
+[java/lang/Boolean/valueOf(boolean)]
+
+prob: 0,01042
+[java/lang/Integer/valueOf(int)]
+
+prob: 0,01042
+[java/lang/Double/valueOf(double)]
+
+prob: 0,01042
+[java/lang/Long/valueOf(long)]
+
+prob: 0,01042
+[java/lang/Byte/valueOf(byte)]
+
+prob: 0,01042
+[java/io/PrintStream/println(java.lang.String)]
+
+prob: 0,01042
+[java/io/DataInputStream/DataInputStream(java.io.InputStream)]
+
+prob: 0,01042
+[java/lang/Object/equals(java.lang.Object)]
+
+prob: 0,01042
+[java/lang/String/length()]
+
+prob: 0,01042
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01042
+[org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01042
+[java/lang/Integer/toString(int)]
+
+prob: 0,01042
+[java/lang/Integer/intValue()]
+
+prob: 0,01042
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,01042
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01042
+[java/lang/reflect/Field/getType()]
+
+prob: 0,01042
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,01042
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,01042
+[java/util/Iterator/hasNext()]
+
+prob: 0,01042
+[java/lang/StringBuilder/toString()]
+

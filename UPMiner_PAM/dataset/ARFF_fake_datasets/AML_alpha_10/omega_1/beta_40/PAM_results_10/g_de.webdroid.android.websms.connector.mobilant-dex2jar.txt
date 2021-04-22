@@ -1,0 +1,78 @@
+prob: 0,15000
+[de.ub0r.android.websms.connector.common.ConnectorCommand)]
+
+prob: 0,10000
+[java.lang.String]
+
+prob: 0,05000
+[android.content.Intent)]
+
+prob: 0,05000
+[android/app/AlertDialog$Builder/setIcon(int), android/content/pm/PackageManager/queryBroadcastReceivers(android.content.Intent]
+
+prob: 0,05000
+[java/util/ArrayList/remove(int), java/util/ArrayList/size(), android/app/NotificationManager/cancel(int), android/os/PowerManager$WakeLock/isHeld(), java/lang/StringBuilder/StringBuilder(java.lang.String]
+
+prob: 0,05000
+[java/util/ArrayList/clear(), android/os/PowerManager$WakeLock/release(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,05000
+[android/os/PowerManager$WakeLock/acquire(), java/lang/StringBuilder/append(java.lang.String), android/os/PowerManager/newWakeLock(int]
+
+prob: 0,05000
+[de/ub0r/android/websms/connector/common/ConnectorService/getSystemService(java.lang.String), android/content/Intent/getAction()]
+
+prob: 0,05000
+[org/apache/http/impl/client/DefaultHttpClient/getCookieStore(), java/lang/StringBuilder/append(java.lang.String), org/apache/http/impl/conn/tsccm/ThreadSafeClientConnManager/ThreadSafeClientConnManager(org.apache.http.params.HttpParams]
+
+prob: 0,05000
+[org/apache/http/impl/client/DefaultHttpClient/getCookieStore(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), org/apache/http/cookie/Cookie/getValue(), java/util/Iterator/hasNext(]
+
+prob: 0,05000
+[java/lang/String/valueOf(char), java/lang/StringBuilder/append(java.lang.String), java/security/MessageDigest/update(byte[]]
+
+prob: 0,05000
+[java/security/MessageDigest/digest(), java/lang/StringBuilder/StringBuilder(int), java/lang/String/getBytes(), java/security/MessageDigest/getInstance(java.lang.String), java/lang/Integer/toHexString(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,05000
+[de/ub0r/android/websms/connector/common/ConnectorService/sendBroadcast(android.content.Intent), java/util/ArrayList/size(), android/app/IntentService/onDestroy(]
+
+prob: 0,05000
+[java.util.List]
+
+prob: 0,05000
+[java/lang/String/valueOf(java.lang.Object), org/apache/http/cookie/Cookie/getName(), java/util/Iterator/next(), org/apache/http/client/CookieStore/getCookies(), java/util/List/iterator()]
+
+prob: 0,05000
+[java/lang/StringBuilder/StringBuilder(java.lang.String), android/content/Intent/setFlags(int), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int)]
+
+prob: 0,05000
+[java/util/ArrayList/ArrayList(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/String/substring(int]
+
+prob: 0,05000
+[java/lang/String/length()]
+
+prob: 0,05000
+[java.lang.String)]
+
+prob: 0,05000
+[org.apache.http.HttpResponse)]
+
+prob: 0,05000
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,05000
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,05000
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Arrays/equals(byte[]]
+
+prob: 0,05000
+[android/content/Intent/getFlags()]
+
+prob: 0,05000
+[android/content/Intent/getAction()]
+
+prob: 0,05000
+[java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int)]
+

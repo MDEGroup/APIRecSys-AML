@@ -1,0 +1,9 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/lang/String/valueOf(int
+java/io/BufferedReader/readLine(
+com/cuacfm/istoegalego/org/SplashScreen/startService(android.content.Intent
+android/widget/RemoteViews/setTextViewText(int,java.lang.CharSequence)
+org.api.fake
+android/widget/RemoteViews/setImageViewResource(int,int
+android/content/Context/getApplicationContext(
+java/lang/Long/longValue()

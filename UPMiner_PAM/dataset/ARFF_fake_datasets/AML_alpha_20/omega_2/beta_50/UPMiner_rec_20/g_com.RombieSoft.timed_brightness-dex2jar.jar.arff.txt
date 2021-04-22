@@ -1,0 +1,8 @@
+android/widget/ArrayAdapter/ArrayAdapter(android.content.Context,int,java.lang.Object[]
+android/app/Dialog/setTitle(java.lang.CharSequence)
+java/lang/StringBuilder/toString(
+android/database/Cursor/getColumnIndex(java.lang.String)
+android/database/Cursor/moveToFirst(
+android/widget/TextView/setGravity(int
+java/util/HashMap/get(java.lang.Object)
+com/google/ads/AdView/getChildCount()

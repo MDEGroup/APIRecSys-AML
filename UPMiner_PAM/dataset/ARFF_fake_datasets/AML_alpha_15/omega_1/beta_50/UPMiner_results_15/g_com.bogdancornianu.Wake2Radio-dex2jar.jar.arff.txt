@@ -1,0 +1,5 @@
+android/content/SharedPreferences/getString(java.lang.String,java.lang.String)
+android/widget/Toast/makeText(android.content.Context,java.lang.CharSequence,int)
+java/text/SimpleDateFormat/SimpleDateFormat(java.lang.String,java.util.Locale)
+org.api.fake
+android/widget/Button/setText(java.lang.CharSequence)

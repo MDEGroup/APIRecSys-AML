@@ -1,0 +1,7 @@
+java/util/Iterator/hasNext()
+org.api.fake
+java/lang/StringBuilder/toString(
+ch/logixisland/anuto/view/game/TowerInfoFragment/getResources()
+ch/logixisland/anuto/entity/tower/Tower/getPosition()
+android/graphics/Canvas/concat(android.graphics.Matrix)
+org.rand.api

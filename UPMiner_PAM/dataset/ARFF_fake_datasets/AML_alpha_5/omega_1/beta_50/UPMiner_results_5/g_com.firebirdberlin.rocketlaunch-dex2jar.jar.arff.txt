@@ -1,0 +1,6 @@
+com/firebirdberlin/rocketlaunch/ApplicationInfoArray/add(java.lang.Object
+android/util/Log/w(java.lang.String,java.lang.String)
+com/firebirdberlin/rocketlaunch/ApplicationInfoArray/get(int)
+com/firebirdberlin/rocketlaunch/ApplicationInfoArray/iterator(
+com/firebirdberlin/rocketlaunch/RocketLaunch/getApplicationContext(
+android/widget/Filter$FilterResults/Filter$FilterResults()

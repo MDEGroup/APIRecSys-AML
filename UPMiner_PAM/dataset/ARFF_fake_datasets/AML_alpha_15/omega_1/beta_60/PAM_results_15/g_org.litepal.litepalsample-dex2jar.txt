@@ -1,0 +1,162 @@
+prob: 0,10526
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,07895
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,07895
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,05263
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(long), android/database/sqlite/SQLiteDatabase/delete(java.lang.String]
+
+prob: 0,05263
+[android.database.sqlite.SQLiteDatabase)]
+
+prob: 0,05263
+[java/lang/String/valueOf(long)]
+
+prob: 0,05263
+[java/lang/Class/forName(java.lang.String), java/lang/Class/getName(), java/lang/reflect/Modifier/isPrivate(int), java/util/List/add(java.lang.Object), java/lang/Class/getDeclaredFields(), java/lang/reflect/Field/getModifiers(), java/lang/reflect/Field/getType(), java/lang/reflect/Modifier/isStatic(int]
+
+prob: 0,05263
+[android.view.View]
+
+prob: 0,05263
+[org/litepal/crud/DeleteHandler/getForeignKeyColumnName(java.lang.String), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,05263
+[long)]
+
+prob: 0,05263
+[java/util/ArrayList/ArrayList(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,05263
+[android/database/Cursor/moveToNext()]
+
+prob: 0,05263
+[java/lang/StringBuilder/toString()]
+
+prob: 0,05263
+[java/util/Iterator/next()]
+
+prob: 0,05263
+[java/util/List/add(java.lang.Object)]
+
+prob: 0,05263
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02632
+[android/database/Cursor/getString(int), android/database/Cursor/moveToFirst(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,02632
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), org/litepal/tablemanager/AssociationUpdater/isForeignKeyColumnFormat(java.lang.String]
+
+prob: 0,02632
+[java/util/Iterator/hasNext(), java/lang/Long/valueOf(long), java/util/Map/get(java.lang.Object), android/content/ContentValues/put(java.lang.String]
+
+prob: 0,02632
+[java/util/Iterator/hasNext(), java/util/List/isEmpty(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), java/util/List/iterator(), java/lang/StringBuilder/toString()]
+
+prob: 0,02632
+[java/util/Iterator/hasNext(), java/util/Set/iterator(), org/litepal/tablemanager/Upgrader/getTableModelFromDB(java.lang.String), java/util/List/iterator(), java/util/Iterator/next(), java/util/Map/keySet(]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), android/content/ContentValues/ContentValues()]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), org/litepal/tablemanager/AssociationUpdater/execute(java.lang.String[]]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,02632
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), java/util/List/iterator(), java/util/Collection/iterator(]
+
+prob: 0,02632
+[java/util/Iterator/next(), java/lang/String/equalsIgnoreCase(java.lang.String), java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext()]
+
+prob: 0,02632
+[org/litepal/litepalsample/activity/UpdateSampleActivity/runOnUiThread(java.lang.Runnable)]
+
+prob: 0,02632
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.Object), java/util/List/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String]
+
+prob: 0,02632
+[java/util/ArrayList/ArrayList(), java/lang/Exception/printStackTrace(), java/util/List/clear(), android/database/Cursor/getString(int), android/database/Cursor/moveToFirst(), android/database/Cursor/moveToNext()]
+
+prob: 0,02632
+[java.lang.String)]
+
+prob: 0,02632
+[java/util/Set/iterator(), org/litepal/tablemanager/Upgrader/getTableModelFromDB(java.lang.String), java/lang/String/equalsIgnoreCase(java.lang.String), java/util/Map/put(java.lang.Object]
+
+prob: 0,02632
+[android/database/Cursor/getLong(int)]
+
+prob: 0,02632
+[android/database/Cursor/close()]
+
+prob: 0,02632
+[java.lang.String]
+
+prob: 0,02632
+[int]
+
+prob: 0,02632
+[java.util.Map]
+
+prob: 0,02632
+[org/litepal/litepalsample/model/Singer/save(), java/lang/Boolean/parseBoolean(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02632
+[org/xmlpull/v1/XmlPullParser/getEventType(), org/xmlpull/v1/XmlPullParserFactory/newInstance(), org/xmlpull/v1/XmlPullParser/setInput(java.io.InputStream]
+
+prob: 0,02632
+[java/lang/ClassNotFoundException/printStackTrace()]
+
+prob: 0,02632
+[java/lang/String/toUpperCase(java.util.Locale), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,02632
+[java.lang.String[]]
+
+prob: 0,02632
+[java/lang/reflect/Constructor/newInstance(java.lang.Object[]), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Collection/add(java.lang.Object), java/util/Iterator/hasNext(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,02632
+[org/litepal/crud/DataHandler/getForeignKeyColumnName(java.lang.String)]
+
+prob: 0,02632
+[java.util.List]
+
+prob: 0,02632
+[android.content.ContentValues)]
+
+prob: 0,02632
+[org/litepal/litepalsample/model/Singer/updateAll(java.lang.String[]), java/lang/Long/parseLong(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02632
+[org/litepal/litepalsample/activity/UpdateSampleActivity/getString(int)]
+
+prob: 0,02632
+[org/litepal/litepalsample/activity/DeleteSampleActivity/getString(int), java/lang/Long/parseLong(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,02632
+[boolean)]
+
+prob: 0,02632
+[android/content/ContentValues/putNull(java.lang.String), java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/List/iterator(), android/database/sqlite/SQLiteDatabase/update(java.lang.String]
+
+prob: 0,02632
+[org/xmlpull/v1/XmlPullParserFactory/newInstance(), org/xmlpull/v1/XmlPullParser/setInput(java.io.InputStream]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,02632
+[java/lang/Class/forName(java.lang.String)]
+
+prob: 0,02632
+[java/util/ArrayList/ArrayList(), android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+

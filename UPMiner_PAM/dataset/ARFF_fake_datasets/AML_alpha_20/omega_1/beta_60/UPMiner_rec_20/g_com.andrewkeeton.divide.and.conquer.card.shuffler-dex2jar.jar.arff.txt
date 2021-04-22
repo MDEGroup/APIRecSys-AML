@@ -1,0 +1,7 @@
+org.api.fake
+android/view/View/getLayoutParams()
+java/lang/StringBuilder/toString()
+java/util/ArrayList/size()
+java/util/ArrayList/add(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+android/util/Log/w(java.lang.String,java.lang.String)

@@ -1,0 +1,12 @@
+java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String  0,18182
+java/util/ArrayList/add(java.lang.Object), android/widget/EditText/setText(java.lang.CharSequence), com/kostasrotas/infusion/MainActivity/setContentView(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,09091
+android/widget/FrameLayout/addView(android.view.View  0,09091
+android.hardware.Camera)  0,09091
+android/hardware/Camera/setPreviewDisplay(android.view.SurfaceHolder), android/hardware/Camera/open(), android/hardware/Camera/setPreviewCallback(android.hardware.Camera$PreviewCallback), android/hardware/Camera$Parameters/getSupportedPreviewSizes(), java/util/List/clear(), android/hardware/Camera/getParameters(), com/kostasrotas/infusion/MySurfaceView/invalidate(), android/hardware/Camera/startPreview(), android/hardware/Camera/setParameters(android.hardware.Camera$Parameters), android/hardware/Camera$Parameters/setPreviewSize(int  0,09091
+java.lang.String)  0,09091
+int  0,09091
+java/lang/Integer/intValue(), java/lang/StringBuilder/append(int), java/util/List/size()  0,09091
+java/lang/Object/toString(), android/content/Intent/putExtra(java.lang.String  0,09091
+com/kostasrotas/infusion/TimerActivity/getPreferences(int), java/lang/String/format(java.lang.String  0,09091
+android/view/SurfaceView/onDraw(android.graphics.Canvas), android/graphics/Paint/setColor(int), android/graphics/Canvas/drawText(java.lang.String  0,09091
+java/lang/Double/valueOf(double), java/lang/Thread/start()  0,09091

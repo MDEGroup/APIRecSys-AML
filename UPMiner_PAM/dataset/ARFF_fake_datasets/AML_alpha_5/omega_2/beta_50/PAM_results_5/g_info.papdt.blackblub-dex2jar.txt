@@ -1,0 +1,126 @@
+prob: 0,12727
+[android.os.Parcel]
+
+prob: 0,05455
+[int)]
+
+prob: 0,05455
+[android.content.Context)]
+
+prob: 0,05455
+[int]
+
+prob: 0,05455
+[java.lang.String]
+
+prob: 0,03636
+[android.content.Intent)]
+
+prob: 0,03636
+[android/os/Parcel/writeInt(int), android/os/Parcel/recycle(), android/os/IBinder/transact(int]
+
+prob: 0,03636
+[android/app/Notification$Action/Notification$Action(int]
+
+prob: 0,03636
+[boolean)]
+
+prob: 0,03636
+[android/util/Log/w(java.lang.String]
+
+prob: 0,01818
+[java/lang/String/charAt(int), java/lang/Math/max(int]
+
+prob: 0,01818
+[android/os/Handler/postDelayed(java.lang.Runnable]
+
+prob: 0,01818
+[android/os/PowerManager/isIgnoringBatteryOptimizations(java.lang.String), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,01818
+[info/papdt/blackblub/ui/MainActivity/findViewById(int), android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener), info/papdt/blackblub/ui/MainActivity/setTheme(int), com/github/zagum/expandicon/ExpandIconView/setOnClickListener(android.view.View$OnClickListener), android/widget/ImageButton/setOnClickListener(android.view.View$OnClickListener), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/widget/LinearLayout/setPadding(int]
+
+prob: 0,01818
+[android/widget/FrameLayout/getViewTreeObserver(), info/papdt/blackblub/ui/dialog/SchedulerDialog/getContext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/util/Log/i(java.lang.String]
+
+prob: 0,01818
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), android/content/Intent/toString(), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/System/getProperty(java.lang.String), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,01818
+[android/graphics/Canvas/rotate(float), android/graphics/Canvas/translate(float]
+
+prob: 0,01818
+[android/os/Parcel/setDataPosition(int), java/util/Map/put(java.lang.Object]
+
+prob: 0,01818
+[com.android.internal.policy.IKeyguardService)]
+
+prob: 0,01818
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01818
+[java.lang.String[]]
+
+prob: 0,01818
+[android.view.ViewGroup]
+
+prob: 0,01818
+[android/widget/TextView/setText(java.lang.CharSequence), java/lang/Boolean/valueOf(boolean), java/lang/String/replace(char]
+
+prob: 0,01818
+[info/papdt/blackblub/service/MaskService/sendBroadcast(android.content.Intent), android/view/View/setBackgroundColor(int), java/lang/Class/getCanonicalName(), android/content/Intent/setAction(java.lang.String), android/view/View/View(android.content.Context), android/view/WindowManager/addView(android.view.View]
+
+prob: 0,01818
+[android/view/View/getAlpha(), java/lang/StringBuilder/append(java.lang.String), java/lang/Math/max(int]
+
+prob: 0,01818
+[android/view/WindowManager$LayoutParams/WindowManager$LayoutParams()]
+
+prob: 0,01818
+[android.view.MotionEvent)]
+
+prob: 0,01818
+[android/widget/FrameLayout/dispatchPopulateAccessibilityEvent(android.view.accessibility.AccessibilityEvent), android/view/accessibility/AccessibilityEvent/getText(), java/util/Calendar/set(int]
+
+prob: 0,01818
+[android/net/wifi/WifiManager/getWifiState(), android/bluetooth/BluetoothAdapter/getState(), android/nfc/NfcAdapter/enable(), android/telephony/TelephonyManager/setDataEnabled(int]
+
+prob: 0,01818
+[java/lang/reflect/Array/get(java.lang.Object]
+
+prob: 0,01818
+[android/content/Context/getPackageManager(), java/util/Iterator/hasNext(), android/content/pm/PackageManager/queryIntentActivities(android.content.Intent]
+
+prob: 0,01818
+[android/content/Intent/setData(android.net.Uri), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), android/app/Activity/startActivity(android.content.Intent), android/app/Activity/getPackageName(]
+
+prob: 0,01818
+[android/content/ActivityNotFoundException/printStackTrace(), java/lang/StringBuilder/StringBuilder(), android/net/Uri/parse(java.lang.String), android/content/Intent/Intent(java.lang.String)]
+
+prob: 0,01818
+[android/graphics/Paint/setAlpha(int), android/graphics/Canvas/drawCircle(float]
+
+prob: 0,01818
+[android.content.ComponentName]
+
+prob: 0,01818
+[android/widget/Switch/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener), info/papdt/blackblub/ui/dialog/SchedulerDialog/getContext(), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/widget/FrameLayout/getViewTreeObserver(), android/view/LayoutInflater/inflate(int]
+
+prob: 0,01818
+[info/papdt/blackblub/ui/dialog/SchedulerDialog/setView(android.view.View), android/widget/TextView/setText(java.lang.CharSequence), android/widget/Switch/setChecked(boolean), android/view/ViewTreeObserver/addOnGlobalLayoutListener(android.view.ViewTreeObserver$OnGlobalLayoutListener)]
+
+prob: 0,01818
+[android/view/View/findViewById(int)]
+
+prob: 0,01818
+[android/graphics/Bitmap/getGenerationId(), java/lang/StringBuilder/append(int), android/app/PendingIntent/toString(), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(java.lang.Object), android/net/Uri/toString()]
+
+prob: 0,01818
+[android/graphics/Paint/setStrokeWidth(float), java/lang/Math/sin(double)]
+
+prob: 0,01818
+[com.wdullaer.materialdatetimepicker.time.TimePickerController]
+
+prob: 0,01818
+[android/graphics/Paint/setColor(int), android/graphics/Canvas/drawText(java.lang.String]
+

@@ -1,0 +1,45 @@
+prob: 0,22222
+[org.api.fake]
+
+prob: 0,16667
+[int]
+
+prob: 0,16667
+[android.view.ViewGroup]
+
+prob: 0,05556
+[java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,05556
+[android/app/ActionBar$Tab/setTabListener(android.app.ActionBar$TabListener), android/app/ActionBar/setNavigationMode(int), com/frozenriver/sigmavpn/SigmaVPNClient/getActionBar(), android/app/ActionBar/newTab(), android/app/Activity/onCreate(android.os.Bundle), android/app/ActionBar$Tab/setText(java.lang.CharSequence), com/frozenriver/sigmavpn/SigmaVPNClient/getPreferences(int), android/app/ActionBar/addTab(android.app.ActionBar$Tab), com/frozenriver/sigmavpn/SigmaVPNClient/setContentView(int]
+
+prob: 0,05556
+[android/app/Dialog/findViewById(int), android/widget/CheckBox/isChecked(), android/widget/SeekBar/getProgress(), android/content/SharedPreferences$Editor/putBoolean(java.lang.String]
+
+prob: 0,05556
+[com/frozenriver/sigmavpn/SigmaVPNService/stopSelf(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Class/getName(), java/lang/Integer/parseInt(java.lang.String), java/lang/Object/getClass(), java/lang/Thread/sleep(long), android/os/ParcelFileDescriptor/close(), java/net/InetSocketAddress/InetSocketAddress(java.lang.String]
+
+prob: 0,05556
+[android/os/Handler/sendEmptyMessage(int)]
+
+prob: 0,05556
+[android/net/VpnService$Builder/addRoute(java.lang.String]
+
+prob: 0,05556
+[com/frozenriver/sigmavpn/SigmaVPNService/protect(java.net.DatagramSocket), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/net/DatagramSocket/bind(java.net.SocketAddress), java/lang/String/equals(java.lang.Object), java/lang/Thread/join(), java/lang/StringBuilder/toString(]
+
+prob: 0,05556
+[java/lang/String/split(java.lang.String), java/lang/StringBuilder/append(int), java/nio/channels/DatagramChannel/close(), java/nio/channels/DatagramChannel/socket(), java/lang/String/concat(java.lang.String), java/net/InetSocketAddress/InetSocketAddress(int), java/nio/channels/DatagramChannel/disconnect(), java/net/DatagramSocket/setReuseAddress(boolean), java/nio/channels/DatagramChannel/connect(java.net.SocketAddress), java/nio/channels/DatagramChannel/open(), java/lang/String/trim(), java/io/PrintStream/println(java.lang.String), java/lang/Thread/start(), java/nio/channels/DatagramChannel/configureBlocking(boolean), java/lang/Thread/Thread(java.lang.Runnable), java/io/FileInputStream/FileInputStream(java.io.FileDescriptor), android/os/ParcelFileDescriptor/getFileDescriptor(), java/io/FileOutputStream/FileOutputStream(java.io.FileDescriptor)]
+
+prob: 0,05556
+[android/app/Dialog/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/toString(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/Dialog/Dialog(android.content.Context), android/app/Dialog/setOwnerActivity(android.app.Activity), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener), android/widget/SeekBar/setProgress(int), android/app/Dialog/show(), android/content/SharedPreferences/getBoolean(java.lang.String]
+
+prob: 0,05556
+[android/app/Dialog/setContentView(int), android/app/Dialog/findViewById(int)]
+
+prob: 0,05556
+[android/app/Dialog/setCancelable(boolean)]
+
+prob: 0,05556
+[android/widget/Toast/makeText(android.content.Context]
+

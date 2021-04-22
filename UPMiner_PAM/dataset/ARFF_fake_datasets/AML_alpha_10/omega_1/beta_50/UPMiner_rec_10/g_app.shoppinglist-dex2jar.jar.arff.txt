@@ -1,0 +1,11 @@
+java/lang/StringBuilder/append(java.lang.Object)
+java/lang/String/String(char[],int,int)
+org.api.fake
+java/lang/StringBuilder/toString()
+org/apache/http/util/EntityUtils/toString(org.apache.http.HttpEntity)
+java/lang/StringBuilder/append(java.lang.String)
+android/net/Uri/parse(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/io/ByteArrayOutputStream/ByteArrayOutputStream()
+java/lang/String/toLowerCase()
+java/lang/String/length()

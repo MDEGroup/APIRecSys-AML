@@ -1,0 +1,10 @@
+java/lang/Math/min(float,float)
+android/widget/MultiAutoCompleteTextView/setOnFocusChangeListener(android.view.View$OnFocusChangeListener)
+android/database/Cursor/getCount(
+android/widget/MultiAutoCompleteTextView/setTokenizer(android.widget.MultiAutoCompleteTextView$Tokenizer
+java/util/Vector/Vector()
+java/lang/String/indexOf(int
+android/database/Cursor/getColumnIndex(java.lang.String)
+com/android/calculator2/ColorButton/getWidth()
+android/graphics/Paint/setTextAlign(android.graphics.Paint$Align
+java/lang/Math/min(int,int

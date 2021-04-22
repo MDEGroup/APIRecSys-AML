@@ -1,0 +1,20 @@
+java.lang.String)  0,25000
+org.api.fake  0,12500
+org.rand.api  0,12500
+android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String  0,08333
+android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,04167
+java/util/Iterator/next()  0,04167
+android/content/Intent/setData(android.net.Uri), com/addressbook/AddressBookActivity/finish(), com/addressbook/AddressBookActivity/startActivity(android.content.Intent), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,04167
+int)  0,04167
+android.content.Context)  0,04167
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(long), java/util/Calendar/getInstance(), java/lang/StringBuffer/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuffer/toString(), java/util/Calendar/getTimeInMillis(), java/lang/StringBuffer/StringBuffer(java.lang.String  0,04167
+java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence), android/app/AlertDialog$Builder/show(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/widget/Toast/show()  0,04167
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/startsWith(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/equalsIgnoreCase(java.lang.String), java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), java/util/StringTokenizer/StringTokenizer(java.lang.String  0,04167
+android/app/AlertDialog$Builder/setIcon(int), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,04167
+android/app/AlertDialog$Builder/setIcon(int), android/content/Intent/Intent(android.content.Context  0,04167
+android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence)  0,04167
+android/app/AlertDialog$Builder/setIcon(int), java/util/List/isEmpty(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,04167
+java/lang/StringBuilder/toString()  0,04167
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)  0,04167
+java/util/List/isEmpty(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,04167
+java/lang/StringBuilder/append(java.lang.String)  0,04167

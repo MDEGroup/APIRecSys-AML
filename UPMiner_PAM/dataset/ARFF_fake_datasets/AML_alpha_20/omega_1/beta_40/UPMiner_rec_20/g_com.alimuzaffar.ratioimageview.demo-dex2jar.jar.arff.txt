@@ -1,0 +1,21 @@
+android/support/v4/view/ViewPager/getPaddingLeft()
+android/support/v4/view/ViewPager/isFocusable(
+android/widget/TextView/getMeasuredHeight(
+android/graphics/drawable/Drawable/setBounds(int,int,int,int)
+java/io/PrintWriter/print(java.lang.String
+android/support/v4/view/PagerTitleStrip/getPaddingRight(
+java/lang/StringBuilder/toString(
+java/lang/Object/toString()
+android/widget/Scroller/computeScrollOffset()
+java/lang/StringBuilder/append(java.lang.String)
+android/support/v4/view/ViewPager/scrollTo(int,int
+java/lang/Math/min(float,float)
+android/view/View/getVisibility()
+org.api.fake
+android/view/View/getLayoutParams()
+java/lang/StringBuilder/append(java.lang.String) java/lang/StringBuilder/StringBuilder()
+android/view/MotionEvent/recycle(
+android/support/v4/widget/SlidingPaneLayout/isInEditMode(
+android/view/View/getRight()
+android/support/v4/view/ViewPager/getWidth(
+java/lang/Math/min(int,int

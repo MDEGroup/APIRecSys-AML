@@ -1,0 +1,8 @@
+java/util/Iterator/hasNext()
+android/graphics/Canvas/restoreToCount(int)
+android/view/View/getVisibility()
+org.api.fake
+android/view/View/getLayoutParams()
+java/util/ArrayList/size()
+java/util/ArrayList/add(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)

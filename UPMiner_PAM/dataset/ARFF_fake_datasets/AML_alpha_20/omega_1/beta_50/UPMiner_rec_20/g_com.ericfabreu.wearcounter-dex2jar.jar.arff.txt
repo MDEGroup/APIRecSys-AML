@@ -1,0 +1,9 @@
+android/support/v4/e/a/a(int)
+org.api.fake
+android/support/v7/widget/Toolbar/getContext()
+android/view/View/getLayoutParams()
+android/graphics/Path/rLineTo(float,float)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Stack/pop()
+android/view/View$MeasureSpec/getMode(int)
+java/lang/Math/max(int,int)

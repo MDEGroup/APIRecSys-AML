@@ -1,0 +1,294 @@
+prob: 0,21429
+[android/content/res/Resources/getString(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,05714
+[android.view.View]
+
+prob: 0,04286
+[android/content/res/Resources/getString(int), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,04286
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,02857
+[com/devilopers/guigeek/vins/CompartmentScreen/findViewById(int)]
+
+prob: 0,02857
+[java/lang/Math/max(int]
+
+prob: 0,02857
+[java/util/Vector/add(java.lang.Object)]
+
+prob: 0,02857
+[int)]
+
+prob: 0,02857
+[int]
+
+prob: 0,02857
+[com/devilopers/guigeek/vins/ImportScreen/getApplicationContext(), java/util/Iterator/hasNext()]
+
+prob: 0,02857
+[android/app/ProgressDialog/setMessage(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)]
+
+prob: 0,02857
+[android/database/Cursor/getColumnIndex(java.lang.String), java/util/Vector/Vector(), android/database/Cursor/moveToNext(), android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,02857
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,02857
+[java/io/File/File(java.lang.String)]
+
+prob: 0,02857
+[java/io/File/delete()]
+
+prob: 0,02857
+[android/app/AlertDialog/show()]
+
+prob: 0,02857
+[java/io/File/exists()]
+
+prob: 0,02857
+[android/widget/Toast/show()]
+
+prob: 0,02857
+[android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01429
+[java/lang/StringBuilder/append(java.lang.String), java/io/File/mkdirs(), java/io/File/exists(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/valueOf(int]
+
+prob: 0,01429
+[java/lang/StringBuilder/append(java.lang.String), java/io/ObjectOutputStream/flush(), java/lang/StringBuilder/append(int), android/util/Log/e(java.lang.String]
+
+prob: 0,01429
+[android.net.Uri)]
+
+prob: 0,01429
+[android.net.Uri]
+
+prob: 0,01429
+[boolean]
+
+prob: 0,01429
+[java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/ListView/isItemChecked(int), android/widget/ListView/getCount(), java/util/Vector/get(int]
+
+prob: 0,01429
+[android/os/Handler/obtainMessage(), java/io/ObjectOutputStream/ObjectOutputStream(java.io.OutputStream)]
+
+prob: 0,01429
+[android/os/Handler/sendMessage(android.os.Message), java/io/FileOutputStream/FileOutputStream(java.io.File)]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/TheWinesApp/setContentView(int), com/devilopers/guigeek/vins/TheWinesApp/getSharedPreferences(java.lang.String]
+
+prob: 0,01429
+[android/widget/TableRow$LayoutParams/TableRow$LayoutParams(int]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/VerticalTextView/getWidth(), android/graphics/Canvas/rotate(float), com/devilopers/guigeek/vins/VerticalTextView/getLayout(), com/devilopers/guigeek/vins/VerticalTextView/getCompoundPaddingLeft(), android/text/Layout/draw(android.graphics.Canvas), android/graphics/Canvas/save(), com/devilopers/guigeek/vins/VerticalTextView/getDrawableState(), android/graphics/Canvas/restore(), com/devilopers/guigeek/vins/VerticalTextView/getPaint(), android/text/TextPaint/setColor(int), android/graphics/Canvas/translate(float]
+
+prob: 0,01429
+[java/lang/StringBuilder/append(int), android/os/Handler/obtainMessage(), android/os/Handler/sendMessage(android.os.Message), java/lang/StringBuilder/toString()]
+
+prob: 0,01429
+[java.io.File)]
+
+prob: 0,01429
+[android/widget/MultiAutoCompleteTextView/setOnFocusChangeListener(android.view.View$OnFocusChangeListener), android/widget/ArrayAdapter/createFromResource(android.content.Context]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/AddScreen/finish(), java/lang/StringBuilder/append(java.lang.String), android/widget/RatingBar/getRating()]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/DisplayScreen/finish(), java/io/File/exists(), com/devilopers/guigeek/vins/DisplayScreen/setResult(int), java/io/File/delete()]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/DisplayScreen/finish(), android/os/Bundle/getSerializable(java.lang.String)]
+
+prob: 0,01429
+[android/view/Window/setSoftInputMode(int), com/devilopers/guigeek/vins/WineListView/setContentView(int), com/devilopers/guigeek/vins/WineListView/getListView(), com/devilopers/guigeek/vins/WineListView/registerForContextMenu(android.view.View), android/widget/ArrayAdapter/setDropDownViewResource(int)]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/WineListView/getActionBar()]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/WineListView/getResources()]
+
+prob: 0,01429
+[android/database/sqlite/SQLiteDatabase/beginTransaction()]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/WineListView/getApplicationContext()]
+
+prob: 0,01429
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01429
+[java/lang/String/valueOf(java.lang.Object), java/lang/String/length(), java/lang/Boolean/booleanValue(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,01429
+[java/lang/String/valueOf(java.lang.Object), android/app/ListActivity/onCreate(android.os.Bundle), android/util/Log/e(java.lang.String]
+
+prob: 0,01429
+[android/content/ContentValues/getAsString(java.lang.String), android/content/ContentValues/containsKey(java.lang.String), java/lang/String/equals(java.lang.Object), android/database/sqlite/SQLiteDatabase/close()]
+
+prob: 0,01429
+[java/lang/String/replace(java.lang.CharSequence]
+
+prob: 0,01429
+[android/app/Activity/getResources()]
+
+prob: 0,01429
+[java/io/File/exists(), android/widget/Spinner/setSelection(int), com/devilopers/guigeek/vins/EditScreen/findViewById(int), java/util/Currency/getInstance(java.util.Locale)]
+
+prob: 0,01429
+[android/database/Cursor/getInt(int)]
+
+prob: 0,01429
+[java.lang.String]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/SectionScreen/getApplicationContext()]
+
+prob: 0,01429
+[android/content/res/Resources/getString(int), java/lang/StringBuilder/append(int), android/widget/Toast/show(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01429
+[android/content/res/Resources/getString(int), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,01429
+[android/content/res/Resources/getString(int), java/lang/Thread/start(), android/app/ProgressDialog/setTitle(java.lang.CharSequence), android/widget/ListView/getCount(), android/app/ProgressDialog/ProgressDialog(android.content.Context), com/devilopers/guigeek/vins/ImportScreen/getResources(), android/widget/CheckBox/isChecked(), android/app/ProgressDialog/setCancelable(boolean), java/lang/Thread/Thread(java.lang.Runnable), android/app/ProgressDialog/setProgressStyle(int), android/app/ProgressDialog/setMax(int), android/widget/ListView/setItemChecked(int]
+
+prob: 0,01429
+[android/content/res/Resources/getString(int), java/lang/CharSequence/length(), java/util/Currency/getSymbol(), java/lang/String/equals(java.lang.Object), android/widget/RatingBar/setRating(float), java/lang/String/valueOf(double), java/lang/String/length(), android/widget/TextView/getText(), android/widget/TextView/setText(java.lang.CharSequence), java/lang/CharSequence/charAt(int), com/devilopers/guigeek/vins/EditScreen/getResources(), java/io/File/File(java.lang.String), com/devilopers/guigeek/vins/EditScreen/displayNewPicture(), java/util/Locale/getDefault(), android/widget/CheckBox/setChecked(boolean]
+
+prob: 0,01429
+[android/content/res/Resources/getString(int), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,01429
+[android/content/res/Resources/getString(int), java/io/File/File(java.io.File]
+
+prob: 0,01429
+[android/content/res/Resources/getString(int), com/devilopers/guigeek/vins/EditScreen/setResult(int), com/devilopers/guigeek/vins/EditScreen/getApplicationContext(), android/widget/Toast/show(), com/devilopers/guigeek/vins/EditScreen/getResources(), com/devilopers/guigeek/vins/EditScreen/finish(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01429
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Vector/iterator(), android/widget/EditText/getText(), java/util/Vector/add(java.lang.Object]
+
+prob: 0,01429
+[java/lang/StringBuilder/StringBuilder(java.lang.String), android/content/ContentValues/ContentValues(int), android/database/sqlite/SQLiteDatabase/setTransactionSuccessful(), java/lang/Integer/valueOf(int), android/database/sqlite/SQLiteDatabase/endTransaction(), android/content/ContentValues/put(java.lang.String]
+
+prob: 0,01429
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/ObjectOutputStream/writeObject(java.lang.Object)]
+
+prob: 0,01429
+[java/lang/StringBuilder/StringBuilder(java.lang.String), android/graphics/Bitmap/compress(android.graphics.Bitmap$CompressFormat]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/ImportScreen/findViewById(int), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01429
+[java/util/Vector/size(), android/text/Editable/toString(), com/devilopers/guigeek/vins/WineListView/setListAdapter(android.widget.ListAdapter), java/util/Vector/Vector()]
+
+prob: 0,01429
+[java/util/Vector/size(), android/os/Bundle/getSerializable(java.lang.String)]
+
+prob: 0,01429
+[android/widget/Toast/show(), android/app/ActionBar/setDisplayHomeAsUpEnabled(boolean), com/devilopers/guigeek/vins/WineListView/setListAdapter(android.widget.ListAdapter), android/content/res/Resources/getString(int), android/widget/ArrayAdapter/createFromResource(android.content.Context]
+
+prob: 0,01429
+[android/app/ProgressDialog/show()]
+
+prob: 0,01429
+[com/ipaulpro/afilechooser/FileListAdapter/notifyDataSetChanged(), java/util/Arrays/sort(java.lang.Object[]]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/SearchScreen/findViewById(int), android/content/ContentValues/put(java.lang.String]
+
+prob: 0,01429
+[java/lang/CharSequence/length(), java/lang/CharSequence/toString(), android/widget/TextView/getText(), java/lang/Boolean/valueOf(boolean)]
+
+prob: 0,01429
+[java/lang/CharSequence/length(), java/util/Currency/getSymbol(), java/lang/String/equals(java.lang.Object), android/widget/RatingBar/setRating(float), java/lang/Integer/parseInt(java.lang.String), com/devilopers/guigeek/vins/DisplayScreen/getSharedPreferences(java.lang.String]
+
+prob: 0,01429
+[java/lang/String/valueOf(int)]
+
+prob: 0,01429
+[android/database/Cursor/getColumnIndex(java.lang.String), java/lang/String/valueOf(java.lang.Object), android/database/Cursor/moveToFirst(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,01429
+[android/database/Cursor/getColumnIndex(java.lang.String), java/lang/String/split(java.lang.String]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/EditScreen/setResult(int), com/devilopers/guigeek/vins/EditScreen/findViewById(int), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/EditScreen/getIntent()]
+
+prob: 0,01429
+[android/content/Intent/getExtras()]
+
+prob: 0,01429
+[android/widget/Button/setVisibility(int)]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/EditScreen/getActionBar()]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/EditScreen/processPreferences()]
+
+prob: 0,01429
+[android/app/AlertDialog/show(), com/devilopers/guigeek/vins/EditScreen/getResources()]
+
+prob: 0,01429
+[android/view/Display/getHeight(), java/lang/String/length(), android/graphics/BitmapFactory/decodeFile(java.lang.String]
+
+prob: 0,01429
+[android/view/Display/getWidth()]
+
+prob: 0,01429
+[java/lang/String/valueOf(double)]
+
+prob: 0,01429
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Vector/iterator()]
+
+prob: 0,01429
+[android/widget/ListView/isItemChecked(int)]
+
+prob: 0,01429
+[android/widget/TextView/setText(java.lang.CharSequence)]
+
+prob: 0,01429
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/EditScreen/getApplicationContext()]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/EditScreen/finish()]
+
+prob: 0,01429
+[android/app/ActionBar/setDisplayHomeAsUpEnabled(boolean)]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/ImportScreen/getApplicationContext()]
+
+prob: 0,01429
+[java/util/Vector/size()]
+
+prob: 0,01429
+[android/widget/ArrayAdapter/createFromResource(android.content.Context]
+
+prob: 0,01429
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,01429
+[android/os/Bundle/getSerializable(java.lang.String)]
+
+prob: 0,01429
+[com/devilopers/guigeek/vins/EditScreen/getResources()]
+
+prob: 0,01429
+[java/lang/StringBuilder/append(java.lang.String)]
+

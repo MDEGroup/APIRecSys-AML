@@ -1,0 +1,5 @@
+android/util/Log/d(java.lang.String,java.lang.String
+java/lang/Exception/printStackTrace(
+org.api.fake
+org.rand.api
+java/lang/StringBuilder/toString(

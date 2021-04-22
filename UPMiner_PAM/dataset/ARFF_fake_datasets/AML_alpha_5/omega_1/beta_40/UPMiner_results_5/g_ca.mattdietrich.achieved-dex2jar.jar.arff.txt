@@ -1,0 +1,12 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+android/support/v4/widget/NestedScrollView/getHeight()
+org.api.fake
+android/view/View/getTop()
+android/view/View/getLayoutParams()
+android/content/res/Resources$Theme/setTo(android.content.res.Resources$Theme)
+android/graphics/Canvas/translate(float,float)
+java/util/ArrayList/size()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+android/util/Log/v(java.lang.String,java.lang.String)
+java/lang/Math/max(int,int)

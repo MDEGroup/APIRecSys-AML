@@ -1,0 +1,11 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+android/os/Parcel/writeNoException()
+java/io/BufferedReader/close()
+java/util/HashMap/keySet(
+org.api.fake
+java/util/Iterator/hasNext()
+org/json/JSONArray/toString()
+java/lang/Double/toString(double)
+android/os/Parcel/readException(
+android/os/Parcel/writeString(java.lang.String)
+com/budius/photogpstag/ServiceLogger/getSystemService(java.lang.String)

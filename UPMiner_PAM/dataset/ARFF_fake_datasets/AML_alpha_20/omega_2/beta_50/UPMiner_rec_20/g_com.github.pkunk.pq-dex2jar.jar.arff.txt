@@ -1,0 +1,11 @@
+com/github/pkunk/pq/a/d/remove(java.lang.Object
+java/util/zip/ZipInputStream/read(byte[])
+com/github/pkunk/pq/c/c/size(
+java/util/Iterator/hasNext()
+org.api.fake
+java/util/Map$Entry/getKey(
+android/content/Context/getFilesDir(
+java/util/ArrayList/ArrayList(int)
+java/util/Set/contains(java.lang.Object
+org.rand.api
+java/util/zip/ZipEntry/ZipEntry(java.lang.String

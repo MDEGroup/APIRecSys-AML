@@ -1,0 +1,5 @@
+android/app/AlertDialog/setButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener)
+org.api.fake
+java/lang/String/startsWith(java.lang.String
+org.rand.api
+android/app/AlertDialog/setMessage(java.lang.CharSequence)

@@ -1,0 +1,70 @@
+java.lang.String)  0,06849
+android/util/Log/w(java.lang.String  0,06849
+java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,05479
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,05479
+java.lang.String  0,04110
+boolean  0,02740
+android/content/Intent/putExtra(java.lang.String  0,02740
+java/lang/Class/getFields(), android/util/Log/w(java.lang.String  0,02740
+org.acra.sender.HttpSender$Method  0,02740
+java/util/Map/put(java.lang.Object  0,02740
+java/lang/Class/getMethod(java.lang.String  0,02740
+android/content/ContentValues/put(java.lang.String  0,01370
+org.happysanta.gd.Callback)  0,01370
+android/view/View/getPaddingBottom(), org/happysanta/gd/Menu/Views/MenuTextView/getTextColors(), android/widget/LinearLayout/addView(android.view.View), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,01370
+android/app/Activity/finish(), android/app/Application/getPackageName(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String  0,01370
+java/net/HttpURLConnection/disconnect(), java/io/InputStream/read(byte[), java/net/HttpURLConnection/getContentLength(), java/lang/Integer/valueOf(int), java/net/HttpURLConnection/getInputStream(), java/net/HttpURLConnection/connect(), java/io/FileOutputStream/close(), java/lang/NullPointerException/NullPointerException(), org/happysanta/gd/API/DownloadFile$AsyncDownloadTask/publishProgress(java.lang.Object[), org/happysanta/gd/API/DownloadFile$AsyncDownloadTask/isCancelled(), org/apache/http/HttpException/HttpException(java.lang.String), java/io/FileOutputStream/write(byte[  0,01370
+java/net/URL/openConnection(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), java/net/URL/URL(java.lang.String)  0,01370
+java/lang/String/String(char[  0,01370
+java/io/File/File(java.io.File  0,01370
+java/net/InetAddress/getHostAddress(), java/net/InetAddress/isLoopbackAddress(), java/net/NetworkInterface/getNetworkInterfaces(), java/lang/String/toString(), java/util/Enumeration/nextElement(), java/lang/StringBuilder/append(char), java/net/NetworkInterface/getInetAddresses(), java/net/SocketException/toString(), java/util/Enumeration/hasMoreElements(  0,01370
+android.view.MotionEvent)  0,01370
+java/io/File/listFiles(java.io.FilenameFilter), java/util/ArrayList/ArrayList(), java/io/File/getName(), java/io/File/isDirectory(), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/toArray(java.lang.Object[), java/io/File/exists(), java/util/Collections/sort(java.util.List  0,01370
+org/json/JSONException/printStackTrace(), java/util/Vector/addElement(java.lang.Object), java/util/Vector/toArray(java.lang.Object[), org/json/JSONObject/getJSONObject(java.lang.String), org/json/JSONArray/getInt(int), java/util/Vector/Vector(), org/json/JSONObject/getString(java.lang.String), org/json/JSONObject/getInt(java.lang.String), org/json/JSONArray/getJSONObject(int), org/json/JSONArray/length(), org/json/JSONObject/getJSONArray(java.lang.String  0,01370
+android/view/View/getLocalVisibleRect(android.graphics.Rect), android/graphics/Rect/height(), android/graphics/Rect/Rect(), org/happysanta/gd/Menu/Views/ObservableScrollView/scrollTo(int  0,01370
+android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String  0,01370
+android/util/SparseArray/size(), java/lang/Object/toString(), java/lang/StringBuilder/toString(  0,01370
+java/lang/Object/toString(), java/util/Iterator/hasNext(), java/net/URLEncoder/encode(java.lang.String  0,01370
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,01370
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,01370
+java/util/LinkedList/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/List/toArray(java.lang.Object[)  0,01370
+java/util/ArrayList/ArrayList(java.util.Collection), java/lang/Thread/start(), java/lang/Thread/Thread(java.lang.Runnable), java/util/LinkedList/add(java.lang.Object), android/util/Log/e(java.lang.String  0,01370
+org/happysanta/gd/Menu/Views/MenuLinearLayout/setOrientation(int), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,01370
+int  0,01370
+java/net/URL/URL(java.lang.String), org/json/JSONObject/toString(), org/acra/sender/HttpSender$Method/name(), android/util/Log/d(java.lang.String  0,01370
+android/view/Window/addFlags(int), android/widget/FrameLayout/setBackgroundColor(int), android/content/res/Resources/getIdentifier(java.lang.String  0,01370
+java/lang/Object/wait(long), java/lang/Thread/yield(), java/lang/Math/min(long  0,01370
+org/acra/ReportField/name(), org/json/JSONObject/accumulate(java.lang.String  0,01370
+java.lang.String[)  0,01370
+java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String), java/lang/StringBuilder/append(char), android/net/Uri/toString(), java/net/URL/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,01370
+android.view.View  0,01370
+java/lang/Runtime/getRuntime(), java/lang/Integer/toString(int), java/lang/Runtime/exec(java.lang.String[), android/util/Log/e(java.lang.String  0,01370
+java/lang/Character/toUpperCase(char), java/lang/String/length(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/lang/String/charAt(int), java/lang/Character/isUpperCase(char  0,01370
+java/lang/String/substring(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,01370
+java/lang/Class/getMethods(), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), java/lang/reflect/Method/invoke(java.lang.Object  0,01370
+java/lang/reflect/Method/getName(), java/lang/StringBuilder/append(char)  0,01370
+java/lang/Class/getFields(), java/lang/Integer/intValue(), java/lang/reflect/Field/getName(), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,01370
+java/lang/Class/getFields(), java/lang/reflect/Field/getName(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,01370
+android/view/Display/getHeight(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(java.lang.Object), android/view/Display/getPixelFormat(  0,01370
+java/lang/StringBuilder/append(float), android/util/DisplayMetrics/DisplayMetrics(), android/view/Display/getWidth(), android/view/Display/getOrientation(), android/view/Display/getRefreshRate(), android/view/Display/getMetrics(android.util.DisplayMetrics), android/view/Display/getDisplayId()  0,01370
+java/lang/Thread/getPriority(), java/lang/StringBuilder/append(int), java/lang/Thread/getName(  0,01370
+java/lang/Thread/getThreadGroup(), java/lang/ThreadGroup/getName(), java/lang/Thread/getId()  0,01370
+java/lang/StringBuilder/append(long), java/lang/StringBuilder/toString()  0,01370
+int)  0,01370
+java.lang.reflect.Field)  0,01370
+java/util/Iterator/hasNext(), java/lang/String/replaceAll(java.lang.String  0,01370
+java/lang/StringBuilder/append(java.lang.String), android/text/Html/fromHtml(java.lang.String), java/lang/String/String(byte[  0,01370
+java/lang/StringBuilder/append(java.lang.String), java/io/BufferedInputStream/reset(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream  0,01370
+java/lang/StringBuilder/append(java.lang.String), org/apache/http/HttpEntity/getContent(), java/io/InputStream/close(), org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient(), java/io/BufferedReader/readLine(), java/io/UnsupportedEncodingException/printStackTrace(), org/apache/http/impl/client/DefaultHttpClient/execute(org.apache.http.client.methods.HttpUriRequest), org/apache/http/HttpResponse/getEntity(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream  0,01370
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/util/SparseArray/keyAt(int), java/lang/StringBuilder/append(char), android/util/SparseArray/valueAt(int)  0,01370
+org/apache/http/params/HttpParams/setParameter(java.lang.String  0,01370
+android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int  0,01370
+java/util/HashMap/containsKey(java.lang.Object), java/util/ArrayList/ArrayList(), org/happysanta/gd/Menu/LevelsMenuScreen$AsyncAddElements/isCancelled(), java/lang/Long/valueOf(long), java/lang/Long/longValue(  0,01370
+java/util/Arrays/asList(java.lang.Object[), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/addAll(java.util.Collection), java/util/HashMap/get(java.lang.Object)  0,01370
+java/util/List/toArray(java.lang.Object[)  0,01370
+android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,01370
+java/lang/Integer/intValue(), java/lang/Class/getMethod(java.lang.String  0,01370
+java/lang/Integer/intValue()  0,01370
+java/lang/StringBuilder/toString()  0,01370
+java/lang/StringBuilder/StringBuilder()  0,01370
+java/lang/StringBuilder/append(java.lang.String)  0,01370

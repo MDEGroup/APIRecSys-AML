@@ -1,0 +1,8 @@
+android/view/View/getPaddingBottom()
+android/widget/EditText/setText(java.lang.CharSequence
+com/basgeekball/smarping/activities/ListActivity/setContentView(int
+java/util/HashMap/put(java.lang.Object,java.lang.Object)
+android/view/ViewTreeObserver/addOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener
+android/view/View/getPaddingRight(
+com/basgeekball/smarping/activities/ListActivity/getIntent()
+android/widget/EditText/setSelection(int)

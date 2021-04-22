@@ -1,0 +1,2 @@
+android/widget/TextView/setTextColor(int)
+java/lang/StringBuilder/append(java.lang.String)

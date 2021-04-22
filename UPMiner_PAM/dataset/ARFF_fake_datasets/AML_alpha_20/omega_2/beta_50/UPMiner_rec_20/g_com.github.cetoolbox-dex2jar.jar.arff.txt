@@ -1,0 +1,6 @@
+android/app/AlertDialog$Builder/setIcon(int)
+java/io/InputStream/available(
+android/widget/TextView/setGravity(int
+org.api.fake
+com/github/cetoolbox/fragments/tabs/AboutActivity/setContentView(int)
+org.rand.api

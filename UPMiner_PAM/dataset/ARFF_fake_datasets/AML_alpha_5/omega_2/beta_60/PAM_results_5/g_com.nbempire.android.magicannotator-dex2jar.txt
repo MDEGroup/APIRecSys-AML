@@ -1,0 +1,291 @@
+prob: 0,06154
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,04615
+[android.database.sqlite.SQLiteDatabase)]
+
+prob: 0,04615
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)]
+
+prob: 0,04615
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,04615
+[java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,04615
+[java/util/Iterator/next()]
+
+prob: 0,03077
+[android/os/Bundle/get(java.lang.String)]
+
+prob: 0,03077
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), android/app/AlertDialog$Builder/show(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), java/util/List/add(java.lang.Object), android/app/AlertDialog$Builder/setSingleChoiceItems(java.lang.CharSequence[]]
+
+prob: 0,03077
+[java/lang/StringBuilder/append(java.lang.String), android/widget/TextSwitcher/setText(java.lang.CharSequence), java/lang/CharSequence/toString(), android/widget/TextView/getText(), android/widget/Button/setEnabled(boolean), java/lang/Integer/parseInt(java.lang.String), android/widget/TextSwitcher/getCurrentView(), com/nbempire/android/magicannotator/util/android/view/MarketItemView/findViewById(int), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String]
+
+prob: 0,03077
+[com.google.android.apps.analytics.Referrer)]
+
+prob: 0,03077
+[android/view/View/getContext()]
+
+prob: 0,03077
+[java/util/Collections/sort(java.util.List)]
+
+prob: 0,03077
+[android.view.MotionEvent)]
+
+prob: 0,03077
+[boolean)]
+
+prob: 0,03077
+[int)]
+
+prob: 0,03077
+[com/nbempire/android/magicannotator/component/activity/annotator/TuteAnnotatorActivity/getText(int)]
+
+prob: 0,03077
+[android/database/sqlite/SQLiteException/toString(), java/lang/Long/valueOf(long), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,03077
+[java/util/SortedSet/add(java.lang.Object), java/util/SortedSet/iterator(), java/util/TreeSet/TreeSet()]
+
+prob: 0,03077
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,03077
+[java/lang/CharSequence/toString()]
+
+prob: 0,01538
+[int]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/component/activity/annotator/TrucoAnnotatorActivity/findViewById(int), java/lang/CharSequence/toString()]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/component/activity/ChoosePlayersActivity/getIntent(), android/os/Bundle/getStringArrayList(java.lang.String), com/nbempire/android/magicannotator/component/activity/ChoosePlayersActivity/setContentView(int), android/widget/Button/setText(int), java/util/ArrayList/ArrayList(), android/os/Bundle/getSerializable(java.lang.String), android/os/Bundle/getInt(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), com/nbempire/android/magicannotator/component/activity/ChoosePlayersActivity/findViewById(int]
+
+prob: 0,01538
+[android/app/AlertDialog/setButton(java.lang.CharSequence]
+
+prob: 0,01538
+[android/widget/ScrollView/addView(android.view.View), android/widget/TextView/setTextAppearance(android.content.Context]
+
+prob: 0,01538
+[android/util/Log/w(java.lang.String]
+
+prob: 0,01538
+[long)]
+
+prob: 0,01538
+[android/view/MenuItem/setVisible(boolean), java/util/List/size()]
+
+prob: 0,01538
+[java/util/List/isEmpty()]
+
+prob: 0,01538
+[java.lang.Boolean]
+
+prob: 0,01538
+[java.lang.String)]
+
+prob: 0,01538
+[org/apache/http/impl/DefaultHttpClientConnection/flush(), org/apache/http/HttpEntity/consumeContent(), org/apache/http/StatusLine/getStatusCode(), org/apache/http/HttpResponse/getHeaders(java.lang.String), org/apache/http/ProtocolVersion/greaterEquals(org.apache.http.ProtocolVersion), android/util/Log/v(java.lang.String]
+
+prob: 0,01538
+[org/apache/http/impl/DefaultHttpClientConnection/getMetrics()]
+
+prob: 0,01538
+[org/apache/http/impl/DefaultHttpClientConnection/receiveResponseEntity(org.apache.http.HttpResponse)]
+
+prob: 0,01538
+[org/apache/http/HttpConnectionMetrics/getRequestCount()]
+
+prob: 0,01538
+[org/apache/http/impl/DefaultHttpClientConnection/receiveResponseHeader()]
+
+prob: 0,01538
+[org/apache/http/HttpConnectionMetrics/getResponseCount()]
+
+prob: 0,01538
+[org/apache/http/HttpResponse/getStatusLine()]
+
+prob: 0,01538
+[android.content.Intent)]
+
+prob: 0,01538
+[android.content.SharedPreferences$Editor)]
+
+prob: 0,01538
+[com.nbempire.android.magicannotator.util.ExpandableList)]
+
+prob: 0,01538
+[android/view/View/getId()]
+
+prob: 0,01538
+[java/util/List/get(int)]
+
+prob: 0,01538
+[java/util/List/iterator()]
+
+prob: 0,01538
+[java/util/ArrayList/ArrayList(int), java/util/List/size(), java/util/Iterator/next()]
+
+prob: 0,01538
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Set/iterator(), java/util/List/add(java.lang.Object), com/nbempire/android/magicannotator/component/activity/annotator/ChanchoAnnotatorActivity/getText(int), android/os/Bundle/keySet(), android/os/Bundle/getString(java.lang.String]
+
+prob: 0,01538
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/String/valueOf(int), android/os/Bundle/keySet(]
+
+prob: 0,01538
+[java/util/ArrayList/ArrayList(), java/util/List/add(java.lang.Object), android/database/Cursor/moveToFirst(), android/database/Cursor/moveToNext()]
+
+prob: 0,01538
+[java/lang/Integer/intValue(), com/nbempire/android/magicannotator/component/activity/annotator/TrucoAnnotatorActivity/getText(int), java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,01538
+[java/util/Iterator/hasNext(), android/os/Bundle/getStringArrayList(java.lang.String), java/lang/StringBuilder/append(int), android/content/Intent/getExtras(), java/util/ArrayList/iterator(), android/os/Bundle/Bundle(), android/os/Bundle/putBundle(java.lang.String]
+
+prob: 0,01538
+[java/util/Iterator/hasNext(), android/os/Bundle/getStringArrayList(java.lang.String), com/nbempire/android/magicannotator/component/activity/annotator/GolfAnnotatorActivity/getIntent(), android/os/Bundle/getBundle(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,01538
+[java/util/Iterator/hasNext(), com/nbempire/android/magicannotator/component/activity/annotator/TuteAnnotatorActivity/getText(int), com/nbempire/android/magicannotator/domain/game/TuteScores/toString(), android/os/Bundle/getBundle(java.lang.String), java/util/Iterator/next(), java/util/Set/iterator(), java/util/List/add(java.lang.Object), android/os/Bundle/keySet(), android/os/Bundle/getCharSequence(java.lang.String), java/util/ArrayList/ArrayList(]
+
+prob: 0,01538
+[java/util/Iterator/hasNext(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,01538
+[java/util/Iterator/hasNext(), android/widget/TableRow$LayoutParams/TableRow$LayoutParams(int]
+
+prob: 0,01538
+[android/database/sqlite/SQLiteException/toString(), java/util/ArrayList/ArrayList(), java/lang/Integer/toString(int), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,01538
+[android/database/sqlite/SQLiteException/toString(), android/util/Log/e(java.lang.String]
+
+prob: 0,01538
+[android.database.sqlite.SQLiteDatabase]
+
+prob: 0,01538
+[java/lang/Long/valueOf(long), com/google/android/apps/analytics/PersistentHitStore$DataBaseHelper/getWritableDatabase(), android/content/ContentValues/put(java.lang.String]
+
+prob: 0,01538
+[android/database/Cursor/getColumnIndex(java.lang.String), java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(int), android/util/Log/i(java.lang.String]
+
+prob: 0,01538
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteException/toString(), java/lang/Long/valueOf(long), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,01538
+[java/security/SecureRandom/nextInt()]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), android/os/Bundle/Bundle(int)]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,01538
+[android/database/Cursor/getString(int)]
+
+prob: 0,01538
+[android.view.View]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/component/activity/StartUpActivity/getApplication(), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,01538
+[java/lang/CharSequence/toString(), java/util/Set/iterator(), java/util/Iterator/next()]
+
+prob: 0,01538
+[java/util/SortedSet/add(java.lang.Object), java/util/SortedSet/iterator(), java/util/TreeSet/TreeSet(), android/os/Bundle/getInt(java.lang.String)]
+
+prob: 0,01538
+[java/lang/Object/equals(java.lang.Object)]
+
+prob: 0,01538
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), android/os/Bundle/getStringArrayList(java.lang.String), java/util/Iterator/next(), android/widget/EditText/setText(java.lang.CharSequence), android/content/Intent/getExtras(), android/os/Bundle/getString(java.lang.String), android/app/Activity/onResume(]
+
+prob: 0,01538
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), android/os/Bundle/getStringArrayList(java.lang.String), com/nbempire/android/magicannotator/component/activity/annotator/GolfAnnotatorActivity/getIntent(), android/os/Bundle/getBundle(java.lang.String), android/os/Bundle/putInt(java.lang.String]
+
+prob: 0,01538
+[java/util/ArrayList/iterator(), java/lang/StringBuilder/append(int), com/nbempire/android/magicannotator/component/activity/annotator/GolfAnnotatorActivity/findViewById(int)]
+
+prob: 0,01538
+[android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,01538
+[android/os/Bundle/Bundle(), java/util/Iterator/hasNext(), android/os/Bundle/getStringArrayList(java.lang.String), android/content/Intent/getExtras(), android/widget/TableLayout/getContext(), android/os/Bundle/putString(java.lang.String]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/component/activity/annotator/GolfAnnotatorActivity/getIntent(), java/util/Iterator/next()]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/component/activity/annotator/GolfAnnotatorActivity/getText(int)]
+
+prob: 0,01538
+[android/widget/TextView/setEms(int), android/widget/TextView/setTextSize(float), android/text/InputFilter$LengthFilter/InputFilter$LengthFilter(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/EditText/setInputType(int), android/widget/EditText/EditText(android.content.Context), android/widget/TextView/TextView(android.content.Context), android/widget/EditText/setFilters(android.text.InputFilter[]), android/view/View/setId(int]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/component/activity/annotator/GenericAnnotatorActivity/findViewById(int), android/widget/TableRow/TableRow(android.content.Context)]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/component/activity/annotator/GenericAnnotatorActivity/findViewById(int), com/nbempire/android/magicannotator/component/activity/annotator/GenericAnnotatorActivity/getIntent()]
+
+prob: 0,01538
+[android/view/MenuItem/getItemId()]
+
+prob: 0,01538
+[java/lang/Object/toString(), android/os/Bundle/putBundle(java.lang.String]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/component/activity/ChoosePlayersActivity/getApplicationContext(), java/util/ArrayList/ArrayList(java.util.Collection), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/domain/game/TuteScores/toString()]
+
+prob: 0,01538
+[java/lang/Long/valueOf(long), com/google/android/apps/analytics/PersistentHitStore$DataBaseHelper/getWritableDatabase()]
+
+prob: 0,01538
+[android/util/Log/v(java.lang.String]
+
+prob: 0,01538
+[android/database/Cursor/getColumnIndex(java.lang.String), android/database/sqlite/SQLiteException/toString(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/component/activity/annotator/ChanchoAnnotatorActivity/getText(int)]
+
+prob: 0,01538
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,01538
+[com/nbempire/android/magicannotator/component/activity/annotator/GolfAnnotatorActivity/findViewById(int)]
+
+prob: 0,01538
+[android/widget/TextSwitcher/setText(java.lang.CharSequence)]
+
+prob: 0,01538
+[android/os/Bundle/keySet()]
+
+prob: 0,01538
+[android/os/Bundle/Bundle()]
+
+prob: 0,01538
+[android/content/Intent/getExtras()]
+
+prob: 0,01538
+[java/util/Set/iterator()]
+
+prob: 0,01538
+[android/os/Bundle/getBundle(java.lang.String)]
+
+prob: 0,01538
+[java/util/List/add(java.lang.Object)]
+
+prob: 0,01538
+[android/os/Bundle/getStringArrayList(java.lang.String)]
+

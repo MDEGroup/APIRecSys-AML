@@ -1,0 +1,9 @@
+org.api.fake
+android/os/Bundle/Bundle()
+android/app/Activity/onCreate(android.os.Bundle)
+java/text/Format/format(java.lang.Object)
+java/util/ArrayList/size()
+java/lang/StringBuilder/append(java.lang.String)
+android/support/v4/view/ViewPager/getWidth()
+android/util/Log/v(java.lang.String,java.lang.String)
+java/lang/Math/max(int,int)

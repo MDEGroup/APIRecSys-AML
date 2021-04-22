@@ -1,0 +1,9 @@
+android/app/AlertDialog$Builder/setIcon(int)
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+android/content/Context/getClassLoader()
+android/view/View/getVisibility()
+org.api.fake
+android/view/View/getLayoutParams()
+android/support/v4/view/ViewPager/getChildCount()
+java/util/ArrayList/size()
+java/lang/StringBuilder/append(java.lang.String)

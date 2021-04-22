@@ -1,0 +1,441 @@
+prob: 0,12088
+[java.lang.String]
+
+prob: 0,05495
+[org.json.JSONArray]
+
+prob: 0,04396
+[android.net.Uri)]
+
+prob: 0,03297
+[org.json.JSONObject)]
+
+prob: 0,03297
+[java.lang.String)]
+
+prob: 0,03297
+[org/json/JSONObject/get(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,03297
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02198
+[boolean)]
+
+prob: 0,02198
+[int]
+
+prob: 0,02198
+[android.content.Intent)]
+
+prob: 0,02198
+[java/io/File/isDirectory()]
+
+prob: 0,02198
+[android/net/Uri$Builder/Uri$Builder(), java/lang/String/substring(int), android/net/Uri$Builder/build(), android/net/Uri$Builder/appendEncodedPath(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/String/isEmpty()]
+
+prob: 0,02198
+[java/io/File/File(java.lang.String), android/net/Uri/getScheme(), java/lang/String/length(), java/lang/String/substring(int]
+
+prob: 0,02198
+[java/security/spec/InvalidKeySpecException/getMessage()]
+
+prob: 0,02198
+[android/net/Uri/fromFile(java.io.File)]
+
+prob: 0,02198
+[java.io.OutputStream)]
+
+prob: 0,02198
+[java/lang/String/equalsIgnoreCase(java.lang.String)]
+
+prob: 0,02198
+[java/lang/String/split(java.lang.String)]
+
+prob: 0,02198
+[android/net/Uri/getEncodedPath()]
+
+prob: 0,02198
+[java/lang/StringBuilder/toString()]
+
+prob: 0,02198
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,02198
+[org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01099
+[java/util/ArrayList/ArrayList(), java/util/ArrayList/isEmpty(), java/util/ArrayList/add(java.lang.Object), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01099
+[java/lang/String/split(java.lang.String), android/net/Uri/getSchemeSpecificPart(), java/lang/String/getBytes(), java/lang/String/indexOf(int), android/util/Base64/decode(java.lang.String]
+
+prob: 0,01099
+[org.apache.cordova.CordovaArgs]
+
+prob: 0,01099
+[java.util.UUID[]]
+
+prob: 0,01099
+[java/util/LinkedList/iterator(), java/util/LinkedList/removeFirst(), java/util/LinkedList/size(), java/lang/StringBuilder/toString(]
+
+prob: 0,01099
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/append(java.lang.String), java/util/Locale/getLanguage(), java/util/Locale/getDisplayLanguage(java.util.Locale), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01099
+[java/util/Locale/getDisplayCountry(java.util.Locale)]
+
+prob: 0,01099
+[org/json/JSONArray/put(java.lang.Object)]
+
+prob: 0,01099
+[java/lang/Class/getSimpleName(), android/util/Log/d(java.lang.String]
+
+prob: 0,01099
+[java/util/LinkedList/isEmpty(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/Object/getClass(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01099
+[java/lang/Class/newInstance(), java/lang/Class/isAssignableFrom(java.lang.Class), java/io/PrintStream/println(java.lang.String), java/lang/Exception/printStackTrace(]
+
+prob: 0,01099
+[android/content/Context/getPackageManager(), de/appplant/cordova/plugin/background/ForegroundService/getApplicationContext(), org/json/JSONObject/optString(java.lang.String]
+
+prob: 0,01099
+[java/io/InputStream/read(byte[]]
+
+prob: 0,01099
+[java/lang/String/endsWith(java.lang.String), android/net/Uri/getPath(), android/net/Uri/getEncodedPath()]
+
+prob: 0,01099
+[java/io/InputStream/available(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/String/substring(int), java/lang/StringBuilder/toString(), org/apache/cordova/file/AssetFilesystem/nativeUriForFullPath(java.lang.String), java/io/FileNotFoundException/FileNotFoundException(java.lang.String]
+
+prob: 0,01099
+[java/util/Map/get(java.lang.Object), java/lang/Long/longValue(), java/io/InputStream/close(), java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,01099
+[java/util/ArrayList/iterator(), java/lang/String/split(java.lang.String), java/util/Iterator/next(), java/lang/String/equals(java.lang.Object), java/util/ArrayList/size(), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), java/lang/String/replaceFirst(java.lang.String]
+
+prob: 0,01099
+[java/util/ArrayList/remove(int), java/util/ArrayList/ArrayList(java.util.Collection), java/util/Arrays/asList(java.lang.Object[]), java/lang/StringBuilder/StringBuilder(), java/lang/String/substring(int)]
+
+prob: 0,01099
+[java/lang/String/valueOf(java.lang.Object), android/util/Log/e(java.lang.String]
+
+prob: 0,01099
+[android/content/SharedPreferences$Editor/commit(), org/json/JSONArray/getString(int)]
+
+prob: 0,01099
+[android/view/animation/AlphaAnimation/setAnimationListener(android.view.animation.Animation$AnimationListener), android/view/animation/AlphaAnimation/setDuration(long), android/app/Dialog/dismiss(), android/view/animation/AlphaAnimation/AlphaAnimation(float]
+
+prob: 0,01099
+[java/net/HttpURLConnection/disconnect(), java/lang/reflect/Field/get(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01099
+[java/net/HttpURLConnection/getResponseCode()]
+
+prob: 0,01099
+[android/content/Intent/setData(android.net.Uri), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01099
+[org/apache/cordova/PluginResult$Status/ordinal()]
+
+prob: 0,01099
+[org/apache/cordova/filetransfer/FileTransfer$TrackingInputStream/read(byte[])]
+
+prob: 0,01099
+[java/lang/Class/getField(java.lang.String)]
+
+prob: 0,01099
+[android/app/Dialog/setContentView(android.view.View), android/widget/ImageView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/ImageView/setImageResource(int), android/os/Handler/Handler(), android/widget/ImageView/setMinimumWidth(int), android/view/Display/getHeight(), android/view/Window/setFlags(int]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(java.lang.String), android/net/Uri/buildUpon(), android/net/Uri$Builder/path(java.lang.String)]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/app/Activity/getContentResolver(), android/database/Cursor/getString(int), android/content/ContentResolver/delete(android.net.Uri]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/String/substring(int), java/lang/StringBuilder/toString(), java/lang/String/length(), android/net/Uri/getEncodedQuery(), java/lang/StringBuilder/append(char]
+
+prob: 0,01099
+[android/widget/RelativeLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/app/ProgressDialog/show(), android/widget/ProgressBar/ProgressBar(android.content.Context), android/app/ProgressDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/widget/ProgressBar/setLayoutParams(android.view.ViewGroup$LayoutParams), android/view/Window/setBackgroundDrawable(android.graphics.drawable.Drawable), android/view/Window/clearFlags(int), android/app/ProgressDialog/setContentView(android.view.View), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/widget/RelativeLayout$LayoutParams/addRule(int]
+
+prob: 0,01099
+[android/database/Cursor/getColumnIndex(java.lang.String), android/net/Uri/parse(java.lang.String)]
+
+prob: 0,01099
+[android/net/Uri$Builder/encodedQuery(java.lang.String), android/net/Uri$Builder/appendPath(java.lang.String), android/net/Uri$Builder/scheme(java.lang.String), android/net/Uri$Builder/authority(java.lang.String), android/net/Uri/getAuthority(]
+
+prob: 0,01099
+[android/net/Uri$Builder/encodedFragment(java.lang.String)]
+
+prob: 0,01099
+[android/bluetooth/BluetoothGattDescriptor/getPermissions(), android/bluetooth/BluetoothGatt/getServices(), android/bluetooth/BluetoothGattService/getUuid(), android/bluetooth/BluetoothGattDescriptor/getValue(), android/bluetooth/BluetoothGattService/getCharacteristics(), android/bluetooth/BluetoothGattCharacteristic/getUuid()]
+
+prob: 0,01099
+[java.util.UUID]
+
+prob: 0,01099
+[java/lang/reflect/Array/getLength(java.lang.Object)]
+
+prob: 0,01099
+[org.apache.cordova.CallbackContext)]
+
+prob: 0,01099
+[android/content/ClipData/getItemCount(), android/content/ContentResolver/getType(android.net.Uri), java/util/Arrays/toString(java.lang.Object[]), android/content/Intent/getCategories(), org/json/JSONException/getMessage(), android/content/Intent/getExtras(), android/content/Context/getContentResolver(), android/webkit/MimeTypeMap/getSingleton(), android/content/Intent/getComponent(), android/content/ClipData/getItemAt(int), android/webkit/MimeTypeMap/getExtensionFromMimeType(java.lang.String), android/content/ClipData$Item/getIntent(), android/content/Intent/getPackage(), android/content/Intent/getAction(), org/json/JSONException/getStackTrace(), android/content/Intent/getClipData(), android/content/Intent/getType(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01099
+[android/content/ClipData$Item/getHtmlText()]
+
+prob: 0,01099
+[org/json/JSONArray/JSONArray(java.lang.Object)]
+
+prob: 0,01099
+[android/content/Intent/getFlags()]
+
+prob: 0,01099
+[android/database/Cursor/close()]
+
+prob: 0,01099
+[java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/Class/forName(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01099
+[android/net/Uri/parse(java.lang.String), android/net/Uri/getEncodedPath(), android/net/Uri/getEncodedFragment()]
+
+prob: 0,01099
+[javax.crypto.SecretKey]
+
+prob: 0,01099
+[org.apache.cordova.CordovaDialogsHelper$Result)]
+
+prob: 0,01099
+[boolean]
+
+prob: 0,01099
+[android/widget/ProgressBar/ProgressBar(android.content.Context), android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,01099
+[android/net/Uri/getHost(), java/lang/Integer/equals(java.lang.Object), java/lang/Exception/toString(), android/net/Uri/getPath()]
+
+prob: 0,01099
+[java/util/regex/Matcher/matches()]
+
+prob: 0,01099
+[java/lang/Integer/valueOf(int)]
+
+prob: 0,01099
+[android/text/Html/fromHtml(java.lang.String)]
+
+prob: 0,01099
+[java/util/regex/Pattern/matcher(java.lang.CharSequence)]
+
+prob: 0,01099
+[android/net/Uri/getPort()]
+
+prob: 0,01099
+[android/net/Uri/getPath(), java/io/File/getParent(), android/net/Uri$Builder/build(), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(]
+
+prob: 0,01099
+[android/net/Uri/getPath(), java/net/URL/openConnection(), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/net/HttpURLConnection/getHeaderField(java.lang.String), android/net/Uri/toString(), java/net/HttpURLConnection/setDoInput(boolean]
+
+prob: 0,01099
+[android/net/Uri/getScheme(]
+
+prob: 0,01099
+[android/webkit/WebSettings/setGeolocationDatabasePath(java.lang.String), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01099
+[android/webkit/WebSettings/setUserAgentString(java.lang.String), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01099
+[java/util/Locale/getVariant(), java/lang/StringBuilder/append(java.lang.String), java/util/Locale/getCountry(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/util/Locale/getLanguage()]
+
+prob: 0,01099
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01099
+[java/lang/String/matches(java.lang.String)]
+
+prob: 0,01099
+[java/lang/String/isEmpty(]
+
+prob: 0,01099
+[java/text/DecimalFormat/getPercentInstance(java.util.Locale), org/json/JSONObject/get(java.lang.String), java/lang/String/equalsIgnoreCase(java.lang.String]
+
+prob: 0,01099
+[java/text/DecimalFormat/getPercentInstance(java.util.Locale), org/json/JSONObject/length(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01099
+[org/json/JSONObject/get(java.lang.String), java/util/Iterator/hasNext(), org/json/JSONObject/length(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01099
+[org/json/JSONObject/length(), org/json/JSONObject/isNull(java.lang.String)]
+
+prob: 0,01099
+[java/text/DecimalFormat/getInstance(java.util.Locale)]
+
+prob: 0,01099
+[org/json/JSONArray/getJSONObject(int), java/text/DecimalFormat/getCurrencyInstance(java.util.Locale)]
+
+prob: 0,01099
+[java/util/Locale/getDefault()]
+
+prob: 0,01099
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), org/json/JSONArray/JSONArray(), java/util/List/iterator(), org/json/JSONException/printStackTrace(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01099
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(int)]
+
+prob: 0,01099
+[java/util/Iterator/hasNext(), android/os/Bundle/get(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01099
+[java/lang/Object/toString()]
+
+prob: 0,01099
+[java/lang/Long/valueOf(long)]
+
+prob: 0,01099
+[java/text/SimpleDateFormat/format(java.util.Date)]
+
+prob: 0,01099
+[android/content/Intent/setType(java.lang.String)]
+
+prob: 0,01099
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])]
+
+prob: 0,01099
+[org/json/JSONObject/has(java.lang.String)]
+
+prob: 0,01099
+[android/text/format/DateFormat/getDateFormat(android.content.Context)]
+
+prob: 0,01099
+[android/text/format/DateFormat/getTimeFormat(android.content.Context)]
+
+prob: 0,01099
+[java/util/Calendar/getTime()]
+
+prob: 0,01099
+[java/util/TimeZone/getTimeZone(java.lang.String)]
+
+prob: 0,01099
+[java/util/Date/Date(long)]
+
+prob: 0,01099
+[org.apache.cordova.CordovaInterface)]
+
+prob: 0,01099
+[java.util.HashMap)]
+
+prob: 0,01099
+[java/io/File/File(java.io.File]
+
+prob: 0,01099
+[android/os/Environment/getExternalStorageDirectory()]
+
+prob: 0,01099
+[android/content/Context/getCacheDir()]
+
+prob: 0,01099
+[android/os/Environment/getExternalStorageState()]
+
+prob: 0,01099
+[org.apache.cordova.CordovaWebView)]
+
+prob: 0,01099
+[long)]
+
+prob: 0,01099
+[android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01099
+[java/util/ArrayList/ArrayList(), java/util/ArrayList/isEmpty(), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01099
+[org/json/JSONArray/JSONArray()]
+
+prob: 0,01099
+[java/util/ArrayList/size()]
+
+prob: 0,01099
+[java/util/ArrayList/get(int)]
+
+prob: 0,01099
+[org/json/JSONException/printStackTrace(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01099
+[android/net/Uri$Builder/path(java.lang.String)]
+
+prob: 0,01099
+[android/content/ContentResolver/getType(android.net.Uri)]
+
+prob: 0,01099
+[android/net/Uri/getEncodedFragment()]
+
+prob: 0,01099
+[android/net/Uri/getEncodedQuery()]
+
+prob: 0,01099
+[org/json/JSONArray/getString(int), android/util/Log/e(java.lang.String]
+
+prob: 0,01099
+[org/json/JSONArray/getJSONObject(int)]
+
+prob: 0,01099
+[java/text/DecimalFormat/getDecimalFormatSymbols(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01099
+[java/text/DecimalFormat/getDecimalFormatSymbols()]
+
+prob: 0,01099
+[android/text/format/Time/getCurrentTimezone(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01099
+[android/text/format/Time/getCurrentTimezone()]
+
+prob: 0,01099
+[android/net/Uri$Builder/authority(java.lang.String)]
+
+prob: 0,01099
+[java/util/Iterator/next()]
+
+prob: 0,01099
+[org/json/JSONArray/getString(int)]
+
+prob: 0,01099
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,01099
+[android/net/Uri$Builder/Uri$Builder()]
+
+prob: 0,01099
+[java/io/File/File(java.lang.String)]
+
+prob: 0,01099
+[android/net/Uri/getScheme()]
+
+prob: 0,01099
+[android/net/Uri$Builder/appendEncodedPath(java.lang.String)]
+
+prob: 0,01099
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01099
+[java/lang/String/length()]
+
+prob: 0,01099
+[android/net/Uri$Builder/build()]
+
+prob: 0,01099
+[android/net/Uri/getPath()]
+
+prob: 0,01099
+[java/util/Iterator/hasNext()]
+
+prob: 0,01099
+[java/lang/String/substring(int)]
+
+prob: 0,01099
+[java/lang/StringBuilder/StringBuilder()]
+

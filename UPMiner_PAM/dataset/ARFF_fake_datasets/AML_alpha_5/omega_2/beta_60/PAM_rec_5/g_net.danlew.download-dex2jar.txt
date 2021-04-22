@@ -1,0 +1,65 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,13158
+java/lang/StringBuilder/toString()  0,13158
+java/lang/StringBuilder/append(java.lang.String)  0,13158
+java/util/Map$Entry/getKey()  0,07895
+boolean)  0,05263
+java.lang.String)  0,05263
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,05263
+int  0,05263
+java/io/File/File(java.io.File  0,05263
+java/util/Map$Entry/getValue()  0,05263
+java/util/Map/entrySet()  0,05263
+java/util/Map/put(java.lang.Object  0,05263
+java/util/Iterator/hasNext()  0,05263
+java.lang.String  0,02632
+java/io/IOException/IOException(java.lang.String), java/io/File/renameTo(java.io.File  0,02632
+android/content/pm/PackageManager/getApplicationInfo(java.lang.String  0,02632
+android.content.Context  0,02632
+java/security/cert/CertificateException/CertificateException(java.lang.Throwable), java/security/cert/X509Certificate/getPublicKey(), java/util/Iterator/hasNext(), java/util/Arrays/equals(byte[  0,02632
+java.util.List)  0,02632
+com/crashlytics/android/internal/aO/a(java.util.Map), java/util/Map/put(java.lang.Object  0,02632
+java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(int), java/util/logging/Logger/log(java.util.logging.Level  0,02632
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/Thread/sleep(long), java/util/List/isEmpty(), java/lang/Thread/currentThread(), java/lang/Thread/interrupt(), java/util/List/size(), java/util/Iterator/next(), java/lang/StringBuilder/append(long), java/util/List/iterator(), java/lang/Math/min(int  0,02632
+java/util/Iterator/hasNext(), android/os/StatFs/getBlockCount(), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), java/lang/Runtime/availableProcessors(), java/io/File/getPath(), java/lang/StringBuilder/toString(  0,02632
+java/lang/StringBuilder/append(int), java/util/Iterator/next(), java/util/Set/iterator(  0,02632
+java/io/File/File(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/io/File/exists(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,02632
+java/util/Iterator/next(), java/util/concurrent/ConcurrentMap/get(java.lang.Object), java/util/Collection/contains(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/getClass()  0,02632
+java/net/URI/URI(java.lang.String  0,02632
+java.util.Map)  0,02632
+android/widget/TextView/setTextAppearance(android.content.Context  0,02632
+android/text/TextUtils/isEmpty(java.lang.CharSequence), net/danlew/download/DownloadActivity/getSystemService(java.lang.String), android/content/Intent/getAction(), net/danlew/download/DownloadActivity/getIntent(), java/lang/CharSequence/toString(), android/net/Uri/parse(java.lang.String), android/app/DownloadManager/enqueue(android.app.DownloadManager$Request), android/content/Intent/getCharSequenceExtra(java.lang.String), android/content/Intent/getData(), android/webkit/URLUtil/isNetworkUrl(java.lang.String), net/danlew/download/DownloadActivity/finish(), android/app/Activity/onCreate(android.os.Bundle), android/app/DownloadManager$Request/DownloadManager$Request(android.net.Uri), java/lang/String/equals(java.lang.Object), android/net/Uri/toString(  0,02632
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/lang/String/replace(java.lang.CharSequence  0,02632
+java/util/ArrayList/ArrayList(), java/util/List/size(), java/util/ArrayList/add(java.lang.Object), java/util/TreeSet/TreeSet(java.util.Comparator), java/lang/String/format(java.util.Locale  0,02632
+java/lang/Class/isInterface(), java/util/Map/put(java.lang.Object  0,02632
+java/lang/Class/getSuperclass(), java/util/Set/iterator(), java/util/List/add(java.lang.Object), java/lang/Object/getClass(), java/util/Map/put(java.lang.Object  0,02632
+java/io/FileOutputStream/close()  0,02632
+java/util/HashSet/HashSet()  0,02632
+java/util/concurrent/CopyOnWriteArraySet/CopyOnWriteArraySet(), java/util/Set/addAll(java.util.Collection), java/util/Set/isEmpty(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/append(java.lang.Object), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/util/concurrent/ConcurrentMap/putIfAbsent(java.lang.Object  0,02632
+java/util/Map/get(java.lang.Object), java/util/Map/keySet(), java/util/Set/iterator(), java/lang/Object/getClass()  0,02632
+java/util/Set/removeAll(java.util.Collection)  0,02632
+java/util/Set/containsAll(java.util.Collection)  0,02632
+java/util/concurrent/ConcurrentMap/remove(java.lang.Object)  0,02632
+java/util/Map/entrySet(  0,02632
+java/io/FileOutputStream/flush()  0,02632
+java/io/File/isDirectory(), java/lang/StringBuilder/append(java.lang.Object), java/io/File/delete(), java/io/File/File(java.io.File  0,02632
+java/io/File/listFiles(), java/lang/StringBuilder/toString()  0,02632
+com/crashlytics/android/internal/ai/a(), java/lang/StringBuilder/append(java.lang.String), com/crashlytics/android/Crashlytics/getContext(), java/util/Date/Date(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), com/crashlytics/android/internal/ai/a(java.lang.String  0,02632
+android/content/Context/getPackageCodePath(), java/util/Date/getTime()  0,02632
+java/util/Date/Date(), java/io/File/delete(), java/util/regex/Matcher/matches(), java/util/Arrays/sort(java.lang.Object[  0,02632
+java/util/Set/add(java.lang.Object), java/util/regex/Matcher/group(int), java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String)  0,02632
+java/io/File/getName(), java/util/Iterator/next(), java/lang/Integer/valueOf(int), java/util/Iterator/hasNext()  0,02632
+java.io.Writer)  0,02632
+java.lang.Throwable  0,02632
+com.crashlytics.android.h  0,02632
+java.lang.Throwable)  0,02632
+java/lang/Runtime/getRuntime()  0,02632
+android/os/StatFs/StatFs(java.lang.String)  0,02632
+android/os/Environment/getDataDirectory()  0,02632
+android/os/StatFs/getBlockSize()  0,02632
+com/crashlytics/android/W/a()  0,02632
+com/crashlytics/android/W/b()  0,02632
+android/content/Context/getPackageManager()  0,02632
+java/util/List/iterator()  0,02632
+java/util/concurrent/ConcurrentMap/get(java.lang.Object)  0,02632
+java/util/Set/iterator()  0,02632
+java/util/Iterator/next()  0,02632

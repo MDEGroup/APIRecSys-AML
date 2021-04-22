@@ -1,0 +1,6 @@
+java/io/InputStream/close()
+java/lang/String/getBytes(java.lang.String
+java/io/File/File(java.lang.String
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)
+java/lang/String/replace(java.lang.CharSequence,java.lang.CharSequence
+java/lang/Process/destroy()

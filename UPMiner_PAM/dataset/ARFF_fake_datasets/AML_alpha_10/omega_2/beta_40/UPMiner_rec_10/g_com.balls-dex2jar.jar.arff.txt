@@ -1,0 +1,10 @@
+android/webkit/ConsoleMessage/lineNumber(
+android/location/Location/getTime(
+java/util/Iterator/hasNext()
+org.api.fake
+android/content/Context/getPackageManager()
+java/lang/System/getProperty(java.lang.String,java.lang.String)
+java/lang/StringBuilder/StringBuilder(java.lang.String) java/lang/StringBuilder/toString()
+android/text/TextUtils/isEmpty(java.lang.CharSequence)
+java/lang/StringBuilder/StringBuilder(java.lang.String) java/util/Iterator/next()
+org.rand.api

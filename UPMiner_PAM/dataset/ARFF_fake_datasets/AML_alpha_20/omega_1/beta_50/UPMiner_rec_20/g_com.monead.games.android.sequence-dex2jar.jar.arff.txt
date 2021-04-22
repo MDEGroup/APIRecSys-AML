@@ -1,0 +1,6 @@
+android/app/Dialog/show()
+com/monead/games/android/sequence/Sequence/getResources(
+android/graphics/Paint/setTextSize(float
+android/content/res/Resources/getString(int)
+android/app/Dialog/setCancelable(boolean
+android/graphics/Paint/setColor(int)

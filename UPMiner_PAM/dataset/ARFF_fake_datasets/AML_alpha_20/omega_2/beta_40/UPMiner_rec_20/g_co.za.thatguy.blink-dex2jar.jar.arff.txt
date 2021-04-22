@@ -1,0 +1,8 @@
+android/net/Uri/getScheme(
+org.api.fake
+android/bluetooth/BluetoothAdapter/isEnabled()
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+org.rand.api
+android/net/Uri/getHost()

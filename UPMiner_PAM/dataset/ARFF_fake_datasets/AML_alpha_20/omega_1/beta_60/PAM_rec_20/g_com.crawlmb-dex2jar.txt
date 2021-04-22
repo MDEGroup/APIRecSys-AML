@@ -1,0 +1,49 @@
+org.api.fake  0,30000
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,08333
+java/io/DataInputStream/close(), android/widget/Toast/show(), java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/DataInputStream/readLine(), java/lang/StringBuffer/toString(), android/util/Log/e(java.lang.String  0,05000
+android.text.Spannable  0,05000
+java/lang/StringBuilder/append(java.lang.Object)  0,05000
+android.view.KeyEvent)  0,03333
+boolean)  0,03333
+android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,03333
+java.lang.String)  0,03333
+java/io/FileOutputStream/FileOutputStream(java.io.File  0,03333
+com.crawlmb.keyboard.CrawlKeyboardWrapper$KeyboardType  0,03333
+android/content/res/AssetManager/list(java.lang.String), com/crawlmb/activity/SplashActivity$InstallProgramTask/publishProgress(java.lang.Object[), java/io/File/File(java.lang.String), java/io/File/mkdir(), android/util/Log/e(java.lang.String  0,01667
+android.view.View  0,01667
+java/lang/Integer/intValue(), java/lang/Object/wait(), java/util/Queue/peek(), java/util/Queue/poll(), java/lang/StringBuilder/toString(), android/util/Log/d(java.lang.String  0,01667
+java/lang/Math/max(int  0,01667
+android/view/Window/setSoftInputMode(int), com/crawlmb/keyboard/CrawlKeyboardView/getId(), com/crawlmb/view/TermView/setLayoutParams(android.view.ViewGroup$LayoutParams), com/crawlmb/view/TermView/invalidate(), android/view/inputmethod/InputMethodManager/toggleSoftInput(int  0,01667
+com/crawlmb/EditConfigFilePreference/getContext(), android/content/Intent/setClass(android.content.Context  0,01667
+com/crawlmb/CharFileViewer/findViewById(int), com/crawlmb/CharFileViewer/getIntent(), com/crawlmb/CharFileViewer/registerForContextMenu(android.view.View), com/crawlmb/CharFileViewer/requestWindowFeature(int), android/os/Bundle/getString(java.lang.String), android/content/Intent/getData(), android/os/Bundle/getInt(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), com/crawlmb/CharFileViewer/setContentView(int), android/net/Uri/parse(java.lang.String  0,01667
+com/crawlmb/activity/CustomKeyboardActivity/findViewById(int), android/view/LayoutInflater/inflate(int  0,01667
+android/app/Dialog/setTitle(java.lang.CharSequence), android/widget/EditText/addTextChangedListener(android.text.TextWatcher), java/lang/StringBuilder/append(char), android/widget/Button/setOnClickListener(android.view.View$OnClickListener  0,01667
+android/app/Dialog/findViewById(int)  0,01667
+android/app/Dialog/Dialog(android.content.Context)  0,01667
+android/widget/EditText/setOnFocusChangeListener(android.view.View$OnFocusChangeListener)  0,01667
+android/app/Dialog/setContentView(int)  0,01667
+android/view/Window/addFlags(int), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), android/preference/PreferenceScreen/getSharedPreferences(), android/view/Window/clearFlags(int), com/crawlmb/activity/PreferencesActivity/getPreferenceScreen(), android/preference/PreferenceActivity/onResume(), com/crawlmb/activity/PreferencesActivity/getSharedPreferences(java.lang.String  0,01667
+android/preference/PreferenceCategory/addPreference(android.preference.Preference), com/crawlmb/activity/PreferencesActivity/findPreference(java.lang.CharSequence), com/crawlmb/activity/PreferencesActivity/getResources(), android/content/res/Resources/getStringArray(int), java/lang/StringBuilder/toString(), com/crawlmb/activity/PreferencesActivity/getFilesDir(  0,01667
+java/io/File/exists(), java/io/File/File(java.lang.String), java/lang/StringBuilder/append(java.lang.String)  0,01667
+java/util/Map/put(java.lang.Object  0,01667
+java/util/Iterator/hasNext(), java/util/HashMap/clear(), android/content/SharedPreferences$Editor/putInt(java.lang.String  0,01667
+com/crawlmb/activity/HelpActivity/setContentView(int), com/crawlmb/activity/HelpActivity/setTitle(java.lang.CharSequence), android/webkit/WebSettings/setLayoutAlgorithm(android.webkit.WebSettings$LayoutAlgorithm), android/webkit/WebSettings/setUseWideViewPort(boolean), java/lang/String/format(java.lang.String  0,01667
+android/graphics/Canvas/translate(float  0,01667
+android/content/SharedPreferences/contains(java.lang.String), com/crawlmb/keyboard/CrawlKeyboardView/getContext(), android/content/SharedPreferences/getInt(java.lang.String  0,01667
+java/lang/String/length(), java/lang/StringBuilder/StringBuilder(), java/lang/Integer/parseInt(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/trim(), com/crawlmb/activity/SplashActivity$InstallProgramTask/execute(java.lang.Object[), com/crawlmb/activity/SplashActivity/getFilesDir(  0,01667
+android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int  0,01667
+java/lang/StringBuilder/append(java.lang.String), java/io/File/File(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(int), java/io/File/exists(), com/crawlmb/activity/SplashActivity$InstallProgramTask/publishProgress(java.lang.Object[), android/util/Log/d(java.lang.String  0,01667
+java/io/IOException/printStackTrace(), java/io/BufferedOutputStream/flush(), com/crawlmb/activity/SplashActivity/getFilesDir(), java/io/FileOutputStream/FileOutputStream(java.lang.String  0,01667
+java/lang/String/valueOf(char), java/lang/StringBuilder/append(java.lang.String), android/widget/EditText/getText(), java/lang/StringBuilder/append(char), android/widget/Toast/makeText(android.content.Context  0,01667
+android/text/Editable/length()  0,01667
+int)  0,01667
+android/graphics/Typeface/createFromAsset(android.content.res.AssetManager  0,01667
+android/graphics/Paint/setAntiAlias(boolean), android/graphics/Paint/setColor(int), android/graphics/Paint/setTextAlign(android.graphics.Paint$Align), android/graphics/Paint/setStrokeWidth(float), android/view/GestureDetector/GestureDetector(android.content.Context  0,01667
+android/app/ProgressDialog/setMax(int), com/crawlmb/activity/SplashActivity/getFilesDir(), android/app/ProgressDialog/setIndeterminate(boolean), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,01667
+java/lang/Integer/valueOf(int)  0,01667
+java/lang/StringBuilder/append(int)  0,01667
+java/io/File/exists()  0,01667
+com/crawlmb/activity/SplashActivity/getFilesDir()  0,01667
+java/io/File/File(java.lang.String)  0,01667
+java/lang/StringBuilder/toString()  0,01667
+java/lang/StringBuilder/append(java.lang.String)  0,01667

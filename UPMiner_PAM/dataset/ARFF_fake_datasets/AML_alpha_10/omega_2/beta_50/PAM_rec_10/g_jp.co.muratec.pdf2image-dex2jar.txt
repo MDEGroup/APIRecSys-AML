@@ -1,0 +1,26 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,14286
+java/io/IOException/printStackTrace(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/toString(int), java/io/File/File(java.lang.String), android/util/Log/d(java.lang.String  0,09524
+int  0,09524
+android.view.View  0,04762
+com/artifex/mupdf/PageView/getTop(), android/graphics/Rect/height(), android/graphics/Rect/intersect(android.graphics.Rect), android/graphics/Rect/equals(java.lang.Object), com/artifex/mupdf/PageView/getRight(), com/artifex/mupdf/PageView/getBottom(), android/graphics/Rect/Rect(int  0,04762
+java/lang/String/valueOf(java.lang.Object), android/app/ProgressDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/ProgressDialog/setTitle(java.lang.CharSequence), android/widget/EditText/EditText(android.content.Context), android/app/AlertDialog$Builder/create(), android/app/ProgressDialog/setCancelable(boolean), jp/co/muratec/pdf2image/PDF2ImageActivity/getString(int), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setIcon(int), android/app/ProgressDialog/setMessage(java.lang.CharSequence), android/view/LayoutInflater/inflate(int  0,04762
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/view/LayoutInflater/from(android.content.Context), java/lang/StringBuilder/toString()  0,04762
+android.app.Dialog  0,04762
+android/view/Window/addFlags(int), android/content/Intent/Intent(android.content.Context  0,04762
+java/lang/Runtime/getRuntime(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(double), java/lang/String/lastIndexOf(java.lang.String), java/lang/StringBuilder/toString(), java/io/File/getName(), jp/co/muratec/pdf2image/PDF2ImageActivity/getApplicationContext(), java/lang/String/length(), android/graphics/PointF/PointF(), android/graphics/PointF/set(float  0,04762
+android/app/AlertDialog/setView(android.view.View), android/widget/EditText/EditText(android.content.Context), android/app/AlertDialog$Builder/create(), com/artifex/mupdf/MuPDFActivity/getString(int), android/app/AlertDialog/setCancelable(boolean), android/app/AlertDialog/setButton(int  0,04762
+android/os/Bundle/putString(java.lang.String  0,04762
+android/widget/RelativeLayout/setBackgroundResource(int), android/widget/ImageButton/setBackgroundDrawable(android.graphics.drawable.Drawable), android/widget/TextView/setPadding(int  0,04762
+com/artifex/mupdf/MuPDFActivity/getLastNonConfigurationInstance(), com/artifex/mupdf/MuPDFActivity/getFilesDir(), android/content/pm/PackageManager/getApplicationInfo(java.lang.String  0,04762
+java.lang.String  0,04762
+java.lang.String)  0,04762
+java/lang/Math/min(float  0,04762
+java/lang/String/format(java.lang.String  0,04762
+java/util/ArrayList/ArrayList(), java/io/File/getName(), android/os/Environment/getExternalStorageState(), android/app/AlertDialog/show(), java/lang/String/equals(java.lang.Object), android/app/AlertDialog$Builder/setMessage(int), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,04762
+com/artifex/mupdf/ChoosePDFActivity/getString(int)  0,04762
+jp/co/muratec/pdf2image/FilerActivity/getString(int), jp/co/muratec/pdf2image/FilerActivity/getString(int  0,04762
+jp/co/muratec/pdf2image/FilerActivity/findViewById(int), jp/co/muratec/pdf2image/FilerActivity/getIntent(), android/content/Intent/getIntExtra(java.lang.String  0,04762
+java/lang/String/equals(java.lang.Object)  0,04762
+android/app/AlertDialog/show()  0,04762
+jp/co/muratec/pdf2image/FilerActivity/findViewById(int)  0,04762
+java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/toString(int), java/io/File/File(java.lang.String)  0,04762

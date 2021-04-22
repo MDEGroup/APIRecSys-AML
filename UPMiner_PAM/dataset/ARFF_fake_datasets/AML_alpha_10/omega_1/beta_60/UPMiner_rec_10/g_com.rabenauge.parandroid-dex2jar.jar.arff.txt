@@ -1,0 +1,4 @@
+com/rabenauge/parandroid/h/a()
+javax/microedition/khronos/opengles/GL11/glDisableClientState(int)
+com/rabenauge/parandroid/k/a(long
+javax/microedition/khronos/opengles/GL11/glColorPointer(int,int,int,java.nio.Buffer

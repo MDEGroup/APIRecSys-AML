@@ -1,0 +1,9 @@
+android/widget/ArrayAdapter/ArrayAdapter(android.content.Context,int,int,java.lang.Object[])
+org.api.fake
+java/util/Iterator/hasNext()
+java/util/List/iterator()
+android/content/pm/PackageManager/getLaunchIntentForPackage(java.lang.String
+android/database/Cursor/getInt(int
+java/util/List/isEmpty()
+org.rand.api
+android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener

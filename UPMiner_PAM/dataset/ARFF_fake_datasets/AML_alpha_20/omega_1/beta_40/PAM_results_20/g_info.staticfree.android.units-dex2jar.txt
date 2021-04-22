@@ -1,0 +1,213 @@
+prob: 0,15909
+[java.lang.String]
+
+prob: 0,11364
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,04545
+[java.lang.String)]
+
+prob: 0,04545
+[java/lang/StringBuffer/toString()]
+
+prob: 0,04545
+[java/lang/StringBuffer/append(java.lang.String)]
+
+prob: 0,04545
+[java/lang/String/length()]
+
+prob: 0,04545
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,02273
+[java/lang/String/valueOf(java.lang.Object), java/io/File/File(java.lang.String), java/lang/System/getProperty(java.lang.String), java/util/Vector/add(java.lang.Object), java/io/File/getPath(), java/io/File/exists(), java/lang/StringBuilder/StringBuilder(java.lang.String]
+
+prob: 0,02273
+[java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), java/lang/StringBuffer/append(java.lang.String), java/util/Vector/add(java.lang.Object), java/lang/StringBuffer/StringBuffer(), java/util/Vector/Vector(]
+
+prob: 0,02273
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(double), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuffer/StringBuffer(]
+
+prob: 0,02273
+[java/lang/String/valueOf(java.lang.Object), java/lang/String/length(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,02273
+[android.content.ContentResolver)]
+
+prob: 0,02273
+[int)]
+
+prob: 0,02273
+[java.util.HashMap)]
+
+prob: 0,02273
+[info/staticfree/android/units/Units/getAssets(), java/io/IOException/printStackTrace(), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,02273
+[java/lang/String/toLowerCase(), java/lang/StringBuilder/StringBuilder(java.lang.String), info/staticfree/android/units/UnitList/managedQuery(android.net.Uri]
+
+prob: 0,02273
+[android/widget/MultiAutoCompleteTextView/setOnFocusChangeListener(android.view.View$OnFocusChangeListener), android/view/View/setOnLongClickListener(android.view.View$OnLongClickListener), android/widget/TextView/setOnCreateContextMenuListener(android.view.View$OnCreateContextMenuListener), android/app/Activity/onCreate(android.os.Bundle), android/widget/MultiAutoCompleteTextView/getInputType(), info/staticfree/android/units/Units$LoadInitialUnitUsageTask/execute(java.lang.Object[]), android/os/Bundle/getString(java.lang.String), android/widget/ListView/setAdapter(android.widget.ListAdapter), android/os/Bundle/getCharSequence(java.lang.String), info/staticfree/android/units/Units/setContentView(int), android/os/Bundle/getBoolean(java.lang.String]
+
+prob: 0,02273
+[android/view/View/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,02273
+[java/lang/String/subSequence(int]
+
+prob: 0,02273
+[java/util/Properties/getProperty(java.lang.String), java/lang/String/valueOf(java.lang.Object), java/lang/String/substring(int]
+
+prob: 0,02273
+[java/lang/Double/valueOf(double), java/lang/Math/pow(double]
+
+prob: 0,02273
+[java/util/Vector/contains(java.lang.Object)]
+
+prob: 0,02273
+[java/util/Vector/iterator()]
+
+prob: 0,02273
+[java/lang/Math/min(float]
+
+prob: 0,02273
+[int]
+
+prob: 0,02273
+[org/jared/commons/ui/WorkspaceView/postInvalidate(), java/lang/Math/exp(double), android/widget/Scroller/getCurrX(), android/widget/Scroller/getCurrY(), java/lang/Math/max(int]
+
+prob: 0,02273
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/charAt(int), java/lang/String/equals(java.lang.Object), java/lang/StringBuffer/toString(), java/lang/String/substring(int]
+
+prob: 0,02273
+[android/widget/Scroller/isFinished(), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), org/jared/commons/ui/WorkspaceView/getScrollX(), java/lang/System/nanoTime(), android/view/View/cancelLongPress(), android/view/MotionEvent/getAction(), java/lang/Math/abs(float), org/jared/commons/ui/WorkspaceView/getChildAt(int]
+
+prob: 0,02273
+[java/util/regex/Matcher/group(int), java/lang/String/valueOf(java.lang.Object), java/lang/CharSequence/length(), android/widget/FilterQueryProvider/runQuery(java.lang.CharSequence), info/staticfree/android/units/UnitUsageDBHelper$UnitCursorAdapter/getFilterQueryProvider(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/regex/Pattern/matcher(java.lang.CharSequence), java/lang/StringBuilder/toString(), java/util/regex/Matcher/matches(]
+
+prob: 0,02273
+[com/android/calculator2/ColorButton/getWidth(), com/android/calculator2/ColorButton/getHeight(), com/android/calculator2/ColorButton/getText(), com/android/calculator2/ColorButton/getPaint(), android/graphics/Paint/getTextSize(), android/graphics/Paint/ascent(), android/graphics/Paint/measureText(java.lang.String), java/lang/CharSequence/toString(), android/graphics/Paint/setTextAlign(android.graphics.Paint$Align]
+
+prob: 0,02273
+[android/graphics/Paint/setTextSize(float), android/graphics/Paint/descent()]
+
+prob: 0,02273
+[android/content/res/Resources/getColor(int), com/android/calculator2/ColorButton/getPaint(), android/graphics/Paint/setStrokeWidth(float), android/graphics/Paint/setStyle(android.graphics.Paint$Style), android/graphics/Paint/setAlpha(int), android/graphics/Paint/Paint(), android/graphics/Paint/Paint(android.graphics.Paint), com/android/calculator2/ColorButton/getResources(]
+
+prob: 0,02273
+[android/graphics/Paint/setColor(int)]
+
+prob: 0,02273
+[com/android/calculator2/ColorButton/postInvalidateDelayed(long), android/graphics/Canvas/getClipBounds(), android/graphics/Canvas/drawText(java.lang.String]
+
+prob: 0,02273
+[com/android/calculator2/ColorButton/setTextSize(int]
+
+prob: 0,02273
+[java/io/BufferedReader/readLine()]
+
+prob: 0,02273
+[java/io/BufferedReader/close()]
+
+prob: 0,02273
+[java/io/IOException/toString()]
+
+prob: 0,02273
+[java/lang/String/trim()]
+
+prob: 0,02273
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,02273
+[java/lang/StringBuffer/length()]
+
+prob: 0,02273
+[android/database/Cursor/getColumnIndex(java.lang.String), java/lang/String/valueOf(java.lang.Object), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,02273
+[android/database/Cursor/getColumnIndex(java.lang.String), android/content/Intent/createChooser(android.content.Intent]
+
+prob: 0,02273
+[android/database/Cursor/getColumnIndex(java.lang.String), android/widget/ListView/setAdapter(android.widget.ListAdapter), info/staticfree/android/units/UnitDetails/managedQuery(android.net.Uri]
+
+prob: 0,02273
+[java/lang/StringBuilder/append(java.lang.String), org/json/JSONObject/length()]
+
+prob: 0,02273
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), net/sourceforge/unitsinjava/BuiltInFunction$proc/ordinal(), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,02273
+[info/staticfree/android/units/Application/getAssets(), java/io/IOException/printStackTrace(), java/lang/StringBuilder/toString(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream]
+
+prob: 0,02273
+[android/content/res/AssetManager/open(java.lang.String)]
+
+prob: 0,02273
+[java.lang.String[]]
+
+prob: 0,02273
+[android.content.ContentValues]
+
+prob: 0,02273
+[android.content.ContentValues)]
+
+prob: 0,02273
+[java/lang/Math/acos(double), java/lang/Math/exp(double), java/lang/Math/asin(double), java/lang/StringBuilder/append(java.lang.Object), java/lang/Math/log(double]
+
+prob: 0,02273
+[java/lang/Error/Error(java.lang.String), java/lang/Double/isInfinite(double)]
+
+prob: 0,02273
+[net/sourceforge/unitsinjava/BuiltInFunction$type/ordinal()]
+
+prob: 0,02273
+[java/lang/Math/sin(double)]
+
+prob: 0,02273
+[java/lang/Double/isNaN(double)]
+
+prob: 0,02273
+[java/lang/Math/tan(double)]
+
+prob: 0,02273
+[java/lang/Math/cos(double)]
+
+prob: 0,02273
+[java/lang/Math/atan(double)]
+
+prob: 0,02273
+[java/util/Hashtable/get(java.lang.Object)]
+
+prob: 0,02273
+[info/staticfree/android/units/Units/showDialog(int), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/widget/MultiAutoCompleteTextView/showDropDown(), java/lang/String/substring(int]
+
+prob: 0,02273
+[java/util/ArrayList/iterator(), java/util/Hashtable/keySet()]
+
+prob: 0,02273
+[java/lang/String/toUpperCase(), android/database/sqlite/SQLiteDatabase/beginTransaction(), android/database/sqlite/SQLiteDatabase/setTransactionSuccessful(), android/database/sqlite/SQLiteDatabase/insert(java.lang.String]
+
+prob: 0,02273
+[java/lang/String/indexOf(int)]
+
+prob: 0,02273
+[java/util/Iterator/next()]
+
+prob: 0,02273
+[info/staticfree/android/units/UnitDetails/managedQuery(android.net.Uri]
+
+prob: 0,02273
+[java/lang/String/charAt(int)]
+
+prob: 0,02273
+[android/database/sqlite/SQLiteDatabase/setTransactionSuccessful(), android/database/sqlite/SQLiteDatabase/insert(java.lang.String]
+
+prob: 0,02273
+[java/lang/StringBuilder/toString()]
+
+prob: 0,02273
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,02273
+[java/lang/String/valueOf(java.lang.Object)]
+

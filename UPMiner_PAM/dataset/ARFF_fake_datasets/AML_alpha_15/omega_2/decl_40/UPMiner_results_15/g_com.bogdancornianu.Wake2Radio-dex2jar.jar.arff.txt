@@ -1,0 +1,6 @@
+android/widget/Button/setOnClickListener(android.view.View$OnClickListener
+org.api.fake
+java/util/Map$Entry/getKey()
+org.rand.api
+java/text/SimpleDateFormat/format(java.lang.Object)
+java/lang/Object/toString()

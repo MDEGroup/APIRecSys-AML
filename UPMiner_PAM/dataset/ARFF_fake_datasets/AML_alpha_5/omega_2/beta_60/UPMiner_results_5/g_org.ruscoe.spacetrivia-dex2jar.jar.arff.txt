@@ -1,0 +1,4 @@
+java/util/Map/get(java.lang.Object)
+android/content/Intent/Intent(java.lang.String
+java/io/BufferedReader/readLine(
+java/util/ArrayList/ArrayList()

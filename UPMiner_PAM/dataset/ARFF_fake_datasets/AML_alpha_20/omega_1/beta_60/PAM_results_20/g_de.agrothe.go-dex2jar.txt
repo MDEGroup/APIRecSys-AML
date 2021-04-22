@@ -1,0 +1,108 @@
+prob: 0,12903
+[int]
+
+prob: 0,09677
+[int)]
+
+prob: 0,06452
+[android.view.View]
+
+prob: 0,06452
+[android/view/Window/requestFeature(int), android/app/Dialog/setContentView(android.view.View), android/view/ViewStub/inflate(), de/agrothe/go/MainActivity/getLayoutInflater(), android/widget/ListView/setAdapter(android.widget.ListAdapter), android/content/res/Resources/getString(int]
+
+prob: 0,06452
+[java.util.List]
+
+prob: 0,06452
+[android/view/View/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,03226
+[java/util/regex/Matcher/group(int), java/util/Map/put(java.lang.Object]
+
+prob: 0,03226
+[de/agrothe/go/sgf/Node$PropertyNode/addChildNode(de.agrothe.go.sgf.Node$PropertyNode), java/util/List/isEmpty(), java/util/Iterator/next(), java/util/List/get(int), de/agrothe/go/sgf/Node$PropertyNode/add2Children(de.agrothe.go.sgf.Node), java/util/List/iterator(]
+
+prob: 0,03226
+[boolean)]
+
+prob: 0,03226
+[de/agrothe/go/MainActivity/openFileOutput(java.lang.String]
+
+prob: 0,03226
+[java.lang.String[]]
+
+prob: 0,03226
+[android/graphics/Paint/setColor(int), android/graphics/drawable/shapes/PathShape/resize(float]
+
+prob: 0,03226
+[de.agrothe.go.sgf.Node]
+
+prob: 0,03226
+[android/view/View/findViewById(int)]
+
+prob: 0,03226
+[android/app/Dialog/getWindow()]
+
+prob: 0,03226
+[java/util/Arrays/asList(java.lang.Object[])]
+
+prob: 0,03226
+[android/app/Dialog/Dialog(android.content.Context)]
+
+prob: 0,03226
+[android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener)]
+
+prob: 0,03226
+[android/content/res/Resources/getString(int), java/io/File/isDirectory(), java/lang/StringBuilder/append(java.lang.String), java/io/File/exists(), java/lang/StringBuilder/StringBuilder(), java/io/File/getAbsolutePath(), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence), java/lang/StringBuilder/toString(), android/app/AlertDialog$Builder/setIcon(int), android/content/res/Resources/getString(int]
+
+prob: 0,03226
+[android/content/res/Resources/getString(int), android/webkit/WebView/setNetworkAvailable(boolean), android/app/AlertDialog$Builder/setView(android.view.View), android/app/AlertDialog$Builder/show(), android/webkit/WebView/loadDataWithBaseURL(java.lang.String]
+
+prob: 0,03226
+[android/text/format/DateFormat/format(java.lang.CharSequence]
+
+prob: 0,03226
+[java/util/Iterator/hasNext(), java/util/List/size(), java/util/List/isEmpty(), java/util/Map/get(java.lang.Object), java/util/Iterator/next(), java/util/Map/keySet(), java/io/Writer/write(java.lang.String]
+
+prob: 0,03226
+[android/graphics/drawable/Drawable/setBounds(int]
+
+prob: 0,03226
+[android/os/HandlerThread/HandlerThread(java.lang.String), android/content/res/Resources/getString(int), de/agrothe/go/MainActivity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), android/view/GestureDetector/GestureDetector(android.content.Context]
+
+prob: 0,03226
+[android/os/HandlerThread/getLooper(), de/agrothe/go/MainActivity/getFileStreamPath(java.lang.String), android/content/res/Resources/getText(int), android/view/View/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,03226
+[de/agrothe/go/MainActivity/findViewById(int)]
+
+prob: 0,03226
+[android/view/View/setVisibility(int)]
+
+prob: 0,03226
+[java/util/List/size(), java/util/List/clear(), java/util/Iterator/hasNext()]
+
+prob: 0,03226
+[android/widget/EditText/setLayoutParams(android.view.ViewGroup$LayoutParams), android/app/AlertDialog$Builder/setIcon(int), android/view/View/requestFocus(), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,03226
+[android/net/Uri/getScheme(), java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getAction(), android/net/Uri/getEncodedPath(), java/net/URL/URL(java.lang.String]
+
+prob: 0,03226
+[java/net/URL/openConnection(), android/net/Uri/getHost()]
+
+prob: 0,03226
+[java/util/Set/iterator(), java/io/Writer/write(int)]
+
+prob: 0,03226
+[float]
+
+prob: 0,03226
+[java/util/List/get(int), java/util/List/iterator()]
+
+prob: 0,03226
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,03226
+[android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int]
+

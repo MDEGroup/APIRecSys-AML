@@ -1,0 +1,125 @@
+int  0,09804
+int)  0,05882
+java.io.FileDescriptor  0,04902
+java.lang.String  0,02941
+java.util.ArrayList  0,02941
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,02941
+android/util/Log/v(java.lang.String  0,02941
+java/lang/StringBuilder/append(int)  0,02941
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01961
+android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int  0,01961
+android/app/AlertDialog$Builder/setPositiveButton(int  0,01961
+java/util/ArrayList/size()  0,01961
+android/view/WindowManager/getDefaultDisplay(), java/lang/StringBuilder/toString(), com/rj/pixelesque/PixelArtEditor/getWindowManager(), android/view/Display/getMetrics(android.util.DisplayMetrics), com/rj/pixelesque/PixelArtEditor/println(java.lang.String  0,00980
+org/json/JSONArray/toString(), android/content/Context/getSharedPreferences(java.lang.String  0,00980
+float)  0,00980
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/content/res/Resources/getString(int), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int  0,00980
+android.view.MotionEvent)  0,00980
+java/util/Iterator/hasNext(), android/graphics/Color/green(int), android/graphics/Color/alpha(int), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), android/graphics/Color/red(int), android/graphics/Color/blue(int  0,00980
+java/util/HashMap/entrySet()  0,00980
+android/view/Window/setAttributes(android.view.WindowManager$LayoutParams), android/view/Window/setGravity(int), android/widget/Button/setTextColor(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener  0,00980
+android/view/Window/setAttributes(android.view.WindowManager$LayoutParams), android/view/Window/setGravity(int), android/widget/Button/setTextColor(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/Button/setBackgroundColor(int  0,00980
+java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), android/graphics/Point/Point(int  0,00980
+java/util/HashMap/containsKey(java.lang.Object)  0,00980
+javax/microedition/khronos/opengles/GL11/glClientActiveTexture(int), javax/microedition/khronos/opengles/GL11/glEnableClientState(int), javax/microedition/khronos/opengles/GL11/glBindTexture(int  0,00980
+android/app/Dialog/onCreate(android.os.Bundle), de/devmil/common/ui/color/ColorSelectorDialog/findViewById(int), de/devmil/common/ui/color/ColorSelectorDialog/getWindow(), android/view/Window/getAttributes()  0,00980
+android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable), de/devmil/common/ui/color/HsvColorValueView/setWillNotDraw(boolean), android/widget/ImageView/ImageView(android.content.Context), de/devmil/common/ui/color/HsvColorValueView/addView(android.view.View  0,00980
+de/devmil/common/ui/color/HsvColorValueView/getMeasuredHeight(), android/graphics/LinearGradient/LinearGradient(float  0,00980
+android.view.View  0,00980
+android/content/Context/openFileInput(java.lang.String), android/content/res/AssetManager/open(java.lang.String), java/io/File/File(java.lang.String), java/io/File/exists(), processing/core/PApplet/getAssets(  0,00980
+org/apache/http/HttpEntity/getContent()  0,00980
+java/lang/String/indexOf(java.lang.String)  0,00980
+java/net/URI/create(java.lang.String)  0,00980
+org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient()  0,00980
+processing/core/PApplet/getApplicationContext()  0,00980
+org/apache/http/HttpResponse/getEntity()  0,00980
+android/widget/Button/setBackgroundColor(int)  0,00980
+java/io/IOException/printStackTrace(), java/lang/String/lastIndexOf(int), android/graphics/Bitmap/createBitmap(int[  0,00980
+java/lang/String/toLowerCase(), java/io/File/getAbsolutePath(), java/io/FileOutputStream/FileOutputStream(java.io.File)  0,00980
+java/util/zip/GZIPOutputStream/GZIPOutputStream(java.io.OutputStream)  0,00980
+java/io/File/getAbsolutePath(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String  0,00980
+android/view/Window/setFlags(int  0,00980
+java.lang.String)  0,00980
+java/lang/Throwable/printStackTrace(), java/lang/Object/getClass()  0,00980
+java/lang/IllegalArgumentException/printStackTrace(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/reflect/Method/invoke(java.lang.Object  0,00980
+android/view/MotionEvent/getHistoricalX(int), android/view/MotionEvent/getHistorySize(), android/view/MotionEvent/getAction(), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), java/lang/System/arraycopy(java.lang.Object  0,00980
+java.io.InputStream)  0,00980
+byte[)  0,00980
+java/util/zip/GZIPInputStream/GZIPInputStream(java.io.InputStream), java/lang/String/toLowerCase(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/io/FileInputStream/FileInputStream(java.io.File), java/io/IOException/printStackTrace(), java/lang/StringBuilder/toString(), java/lang/String/endsWith(java.lang.String  0,00980
+java/util/zip/GZIPInputStream/GZIPInputStream(java.io.InputStream), java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Exception/printStackTrace(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/endsWith(java.lang.String  0,00980
+java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/File/getName()  0,00980
+java/io/File/getParent(), java/io/File/File(java.lang.String), java/io/File/exists()  0,00980
+java/io/File/mkdirs()  0,00980
+de/devmil/common/ui/color/ColorSelectorDialog/setContentView(int)  0,00980
+java/lang/StringBuilder/append(char)  0,00980
+java/lang/String/charAt(int)  0,00980
+java/lang/Long/parseLong(java.lang.String  0,00980
+android/app/Dialog/setContentView(android.view.View), android/app/Dialog/setCancelable(boolean), android/support/v4/app/DialogFragment/getActivity(), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), android/support/v4/app/DialogFragment/getView(), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener)  0,00980
+java/lang/Integer/intValue(), javax/microedition/khronos/opengles/GL11ExtensionPack/glDeleteFramebuffersOES(int  0,00980
+float  0,00980
+java.lang.StringBuilder)  0,00980
+de/devmil/common/ui/color/HsvHueSelectorView/getContext(), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,00980
+java.util.ArrayList)  0,00980
+android.support.v4.app.BackStackRecord)  0,00980
+javax/microedition/khronos/opengles/GL10/glClientActiveTexture(int), java/nio/IntBuffer/position(int), javax/microedition/khronos/opengles/GL10/glDrawElements(int  0,00980
+java/io/OutputStream/close(), java/lang/String/valueOf(java.lang.Object), java/lang/String/toLowerCase(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00980
+java/io/OutputStream/flush()  0,00980
+android/graphics/Paint/Paint(), android/graphics/Paint/setShader(android.graphics.Shader), android/graphics/Bitmap/createBitmap(int  0,00980
+de/devmil/common/ui/color/HsvAlphaSelectorView/setGravity(int), android/graphics/drawable/Drawable/getIntrinsicWidth(), de/devmil/common/ui/color/HsvAlphaSelectorView/addView(android.view.View  0,00980
+android.content.Context  0,00980
+android/view/ViewConfiguration/get(android.content.Context), android/content/res/Resources/getDisplayMetrics(), android/support/v4/view/ViewPager/setFocusable(boolean), android/view/ViewConfiguration/getScaledMinimumFlingVelocity(), android/support/v4/view/ViewPager/setDescendantFocusability(int), android/support/v4/view/ViewPager/setWillNotDraw(boolean), android/view/ViewConfiguration/getScaledMaximumFlingVelocity(), android/support/v4/view/ViewPager/getContext(), android/content/Context/getResources(), android/widget/Scroller/Scroller(android.content.Context  0,00980
+android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence  0,00980
+boolean)  0,00980
+android/graphics/Canvas/rotate(float), android/graphics/Canvas/translate(float  0,00980
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/view/View/getParent(  0,00980
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/SystemClock/uptimeMillis(), android/support/v4/view/ViewPager/scrollTo(int  0,00980
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Map$Entry/getValue(  0,00980
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/widget/ListView/setEmptyView(android.view.View), android/view/View/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/os/Handler/post(java.lang.Runnable), android/support/v4/app/ListFragment/getView(), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String  0,00980
+java/util/ArrayList/remove(int), java/lang/String/equals(java.lang.Object), java/util/ArrayList/get(int), java/lang/Integer/parseInt(java.lang.String), java/lang/String/indexOf(int  0,00980
+java/util/ArrayList/remove(int), android/support/v4/view/ViewPager/hasFocus(), java/lang/Math/max(int  0,00980
+android/widget/Scroller/isFinished(), android/support/v4/view/ViewPager/scrollTo(int  0,00980
+de/devmil/common/ui/color/ColorSelectorActivity/findViewById(int), android/view/Window/getAttributes(), de/devmil/common/ui/color/ColorSelectorActivity/setContentView(int), de/devmil/common/ui/color/ColorSelectorActivity/getWindow()  0,00980
+de/devmil/common/ui/color/ColorSelectorActivity/setTheme(int), android/app/Activity/onCreate(android.os.Bundle)  0,00980
+java.lang.ClassLoader)  0,00980
+android/os/Bundle/Bundle(), java/io/PrintWriter/PrintWriter(java.io.Writer)  0,00980
+android/os/Bundle/Bundle(), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder()  0,00980
+java/lang/StringBuilder/append(java.lang.String), android/content/Intent/setDataAndType(android.net.Uri  0,00980
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(float), java/lang/StringBuilder/append(java.lang.Object), java/io/PrintStream/println(java.lang.Object  0,00980
+java/lang/StringBuilder/append(int), android/os/Bundle/putParcelableArray(java.lang.String  0,00980
+java/util/ArrayList/toArray(java.lang.Object[)  0,00980
+java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object)  0,00980
+java/io/File/listFiles(java.io.FilenameFilter), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/String/substring(int  0,00980
+java/io/File/getName(), java/lang/String/length()  0,00980
+java/lang/String/length(), org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), org/apache/http/client/methods/HttpGet/HttpGet(java.net.URI), java/io/FileInputStream/FileInputStream(java.io.File)  0,00980
+java/lang/String/length(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/toCharArray(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/StringBuffer/append(java.lang.String), java/lang/reflect/Array/newInstance(java.lang.Class  0,00980
+java.io.File  0,00980
+java/util/LinkedHashMap/entrySet(), java/lang/StringBuilder/StringBuilder(), java/util/Map$Entry/getKey()  0,00980
+java/util/Iterator/next(), java/lang/Class/getName(), java/lang/Object/getClass()  0,00980
+java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object), java/lang/StringBuilder/append(java.lang.String)  0,00980
+java/util/ArrayList/ArrayList(), java/util/HashSet/add(java.lang.Object), android/graphics/Point/Point(int  0,00980
+android.view.ViewGroup  0,00980
+com.rj.pixelesque.PixelArt  0,00980
+java/lang/Float/isNaN(float), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String  0,00980
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/substring(int)  0,00980
+java/lang/String/valueOf(java.lang.Object), java/lang/Float/isInfinite(float), java/io/PrintStream/println(), java/lang/Math/abs(float)  0,00980
+android/os/Handler/hasMessages(int), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,00980
+android/content/Intent/getFlags(), java/util/ArrayList/add(java.lang.Object), android/content/Intent/getScheme(), android/content/Context/getContentResolver(), java/util/HashMap/get(java.lang.Object)  0,00980
+android/view/View/setVisibility(int), android/widget/TextView/setOnClickListener(android.view.View$OnClickListener), android/widget/TextView/setBackgroundColor(int), android/content/Context/getSystemService(java.lang.String), android/widget/LinearLayout/addView(android.view.View)  0,00980
+org/json/JSONArray/getInt(int), de/devmil/common/ui/color/HistorySelectorView/findViewById(int), de/devmil/common/ui/color/HistorySelectorView/getContext(), android/view/LayoutInflater/inflate(int  0,00980
+java/util/Queue/add(java.lang.Object)  0,00980
+android/view/LayoutInflater/inflate(int  0,00980
+java/lang/StringBuilder/append(float)  0,00980
+android/graphics/Canvas/translate(float  0,00980
+java/lang/Math/max(int  0,00980
+java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Exception/printStackTrace(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/endsWith(java.lang.String  0,00980
+java/lang/Class/getName(), java/lang/Object/getClass()  0,00980
+java/lang/StringBuilder/append(java.lang.Object)  0,00980
+java/io/IOException/printStackTrace()  0,00980
+java/io/FileInputStream/FileInputStream(java.io.File)  0,00980
+java/io/File/getAbsolutePath()  0,00980
+java/io/PrintStream/println(java.lang.String)  0,00980
+java/lang/Exception/printStackTrace()  0,00980
+java/lang/String/toLowerCase()  0,00980
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00980
+java/lang/StringBuilder/toString()  0,00980
+java/lang/StringBuilder/append(java.lang.String)  0,00980

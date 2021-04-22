@@ -1,0 +1,75 @@
+prob: 0,14815
+[java/lang/StringBuilder/append(java.lang.String), android/database/sqlite/SQLiteDatabase/beginTransaction(), android/database/sqlite/SQLiteDatabase/setTransactionSuccessful(), android/database/sqlite/SQLiteDatabase/execSQL(java.lang.String]
+
+prob: 0,11111
+[int]
+
+prob: 0,07407
+[java.lang.String)]
+
+prob: 0,03704
+[org.chrisbailey.todo.activities.ToDoActivity)]
+
+prob: 0,03704
+[android/content/res/Resources/getDisplayMetrics(), android/os/Bundle/getInt(java.lang.String]
+
+prob: 0,03704
+[org.chrisbailey.todo.activities.ToDoActivity$FOCUS)]
+
+prob: 0,03704
+[android/app/Activity/onCreate(android.os.Bundle), org/chrisbailey/todo/activities/PreferencesActivity/setContentView(int), android/widget/Gallery/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), org/chrisbailey/todo/activities/PreferencesActivity/findViewById(int), android/widget/Gallery/setSelection(int), android/view/View/setOnClickListener(android.view.View$OnClickListener), android/widget/TextView/getTextSize(), android/widget/LinearLayout/setOnClickListener(android.view.View$OnClickListener), android/widget/Gallery/setAdapter(android.widget.SpinnerAdapter), android/widget/TextView/TextView(android.content.Context]
+
+prob: 0,03704
+[android/widget/EditText/setBackgroundResource(int), android/widget/EditText/addTextChangedListener(android.text.TextWatcher), android/content/Intent/getExtras(), org/chrisbailey/todo/activities/ToDoActivity/getIntent(), org/chrisbailey/todo/activities/ToDoActivity/getApplicationContext(), org/chrisbailey/todo/activities/ToDoActivity/finish(), android/widget/EditText/setId(int), org/chrisbailey/todo/activities/ToDoActivity/setContentView(int)]
+
+prob: 0,03704
+[java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/getText(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/TextView/setTextSize(float), java/util/ArrayList/add(java.lang.Object), android/widget/TextView/setTextColor(int), java/util/ArrayList/get(int), java/util/ArrayList/ArrayList(), android/text/Html/fromHtml(java.lang.String), java/lang/CharSequence/toString(), android/widget/TextView/setText(java.lang.CharSequence), android/widget/TextView/setVisibility(int), android/widget/ImageView/setBackgroundResource(int), android/widget/ImageView/setImageResource(int), java/lang/StringBuilder/toString(), org/chrisbailey/todo/activities/PreferencesActivity/findViewById(int]
+
+prob: 0,03704
+[android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence]
+
+prob: 0,03704
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), org/chrisbailey/todo/activities/ToDoActivity/getString(int), java/lang/String/length(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/ImageView/getId(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,03704
+[java/util/ArrayList/iterator(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/ImageView/getId(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,03704
+[android/app/AlertDialog$Builder/setIcon(int), android/content/res/Resources/getString(int), java/util/Iterator/hasNext(), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/widget/CheckBox/getId(), android/view/View/getId()]
+
+prob: 0,03704
+[android/appwidget/AppWidgetManager/getInstance(android.content.Context), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/String/contains(java.lang.CharSequence), android/appwidget/AppWidgetProviderInfo/toString(), java/util/List/iterator(), android/appwidget/AppWidgetManager/getInstalledProviders(]
+
+prob: 0,03704
+[android/content/ComponentName/getClassName(), org/chrisbailey/todo/activities/SizesConfiguration/getApplicationContext(), android/content/pm/PackageManager/getComponentEnabledSetting(android.content.ComponentName)]
+
+prob: 0,03704
+[org/chrisbailey/todo/db/ToDoDatabase/getReadableDatabase(), java/lang/Long/valueOf(long), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,03704
+[org/chrisbailey/todo/db/ToDoDatabase/getReadableDatabase(), android/database/Cursor/isNull(int), android/util/Log/e(java.lang.String]
+
+prob: 0,03704
+[android/util/Log/w(java.lang.String]
+
+prob: 0,03704
+[android/graphics/Canvas/translate(float]
+
+prob: 0,03704
+[java/lang/Math/atan2(double]
+
+prob: 0,03704
+[java/lang/Integer/intValue(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/String/contains(java.lang.CharSequence), java/util/ArrayList/iterator(), java/util/ArrayList/ArrayList(), java/util/ArrayList/add(java.lang.Object), android/util/Log/e(java.lang.String]
+
+prob: 0,03704
+[java/util/Collections/sort(java.util.List), java/lang/String/lastIndexOf(java.lang.String), java/lang/Class/getFields(), java/lang/reflect/Field/getName(), java/lang/Exception/printStackTrace(), java/util/ArrayList/size()]
+
+prob: 0,03704
+[android.appwidget.AppWidgetManager]
+
+prob: 0,03704
+[android.content.Intent)]
+
+prob: 0,03704
+[android/database/sqlite/SQLiteDatabase/setTransactionSuccessful(), android/database/sqlite/SQLiteDatabase/execSQL(java.lang.String]
+

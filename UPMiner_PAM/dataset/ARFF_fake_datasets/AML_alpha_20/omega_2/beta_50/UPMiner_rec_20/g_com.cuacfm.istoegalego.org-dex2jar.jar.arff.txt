@@ -1,0 +1,9 @@
+java/lang/String/valueOf(int
+com/cuacfm/istoegalego/org/SplashScreen/startService(android.content.Intent
+android/widget/RemoteViews/setTextViewText(int,java.lang.CharSequence)
+org.api.fake
+android/widget/RemoteViews/setImageViewResource(int,int
+android/view/View/findViewById(int
+java/lang/StringBuilder/append(java.lang.String)
+android/util/Log/v(java.lang.String,java.lang.String)
+org.rand.api

@@ -1,0 +1,18 @@
+org.api.fake  0,31818
+java.lang.String  0,09091
+int  0,09091
+android/app/AlertDialog$Builder/setIcon(int), android/widget/TextView/setText(int)  0,04545
+android/app/AlertDialog$Builder/setIcon(int), android/widget/CheckBox/setEnabled(boolean), android/app/AlertDialog$Builder/setPositiveButton(int  0,04545
+android/text/method/LinkMovementMethod/getInstance()  0,04545
+com/ginkel/hashit/PasswordActivity/getIntent(), java/lang/Object/toString(), java/lang/String/format(java.lang.String  0,04545
+android/widget/Toast/show(), java/lang/String/format(java.lang.String  0,04545
+com/ginkel/hashit/SettingsActivity/a(android.preference.PreferenceCategory  0,04545
+android/app/AlertDialog$Builder/setCancelable(boolean), android/widget/EditText/setText(java.lang.CharSequence)  0,04545
+android/widget/TabHost$TabSpec/setIndicator(java.lang.CharSequence  0,04545
+com/ginkel/hashit/ParametersActivity/setPreferenceScreen(android.preference.PreferenceScreen), android/preference/PreferenceManager/setSharedPreferencesName(java.lang.String), android/preference/ListPreference/setOnPreferenceChangeListener(android.preference.Preference$OnPreferenceChangeListener), android/content/Intent/getAction(), android/content/SharedPreferences$Editor/putInt(java.lang.String  0,04545
+java/util/ArrayList/ArrayList(), java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String  0,04545
+java/util/regex/Matcher/group(int), java/lang/String/format(java.lang.String  0,04545
+java/lang/CharSequence/length(), java/util/regex/Matcher/matches(), java/lang/CharSequence/toString()  0,04545
+java.util.Collection)  0,04545
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/view/View/findViewById(int), android/app/AlertDialog$Builder/setView(android.view.View), android/app/AlertDialog$Builder/show(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setTitle(int), android/view/View/inflate(android.content.Context  0,04545
+android/view/View/findViewById(int), android/app/AlertDialog$Builder/setView(android.view.View), android/app/AlertDialog$Builder/show(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setTitle(int), android/view/View/inflate(android.content.Context  0,04545

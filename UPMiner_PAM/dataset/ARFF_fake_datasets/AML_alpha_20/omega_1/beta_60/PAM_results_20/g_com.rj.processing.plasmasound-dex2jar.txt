@@ -1,0 +1,402 @@
+prob: 0,11009
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,05505
+[int]
+
+prob: 0,05505
+[java.lang.String]
+
+prob: 0,04587
+[int)]
+
+prob: 0,04587
+[java.io.FileDescriptor]
+
+prob: 0,04587
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,03670
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(float)]
+
+prob: 0,02752
+[java.util.ArrayList]
+
+prob: 0,02752
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int]
+
+prob: 0,02752
+[android/util/DisplayMetrics/DisplayMetrics(), java/lang/StringBuilder/append(java.lang.String), android/view/WindowManager/getDefaultDisplay(), android/view/Display/getMetrics(android.util.DisplayMetrics)]
+
+prob: 0,02752
+[android/util/Log/v(java.lang.String]
+
+prob: 0,02752
+[java/lang/StringBuilder/toString()]
+
+prob: 0,02752
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01835
+[android.content.Context)]
+
+prob: 0,01835
+[org/json/JSONException/printStackTrace(), android/content/Context/getSharedPreferences(java.lang.String]
+
+prob: 0,01835
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,01835
+[java.lang.String)]
+
+prob: 0,01835
+[boolean]
+
+prob: 0,01835
+[java/util/zip/GZIPInputStream/GZIPInputStream(java.io.InputStream), java/io/FileInputStream/FileInputStream(java.io.File), java/lang/StringBuilder/toString(), java/lang/String/endsWith(java.lang.String]
+
+prob: 0,01835
+[java/lang/Object/toString(), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/Writer/write(char[]]
+
+prob: 0,01835
+[java/io/Reader/read(char[]), java/lang/Exception/printStackTrace(), java/io/StringWriter/StringWriter()]
+
+prob: 0,01835
+[java/io/InputStream/close()]
+
+prob: 0,01835
+[java/io/File/getName()]
+
+prob: 0,01835
+[java/io/File/File(java.io.File]
+
+prob: 0,01835
+[java/lang/String/toLowerCase()]
+
+prob: 0,01835
+[java/lang/Exception/printStackTrace()]
+
+prob: 0,01835
+[java/util/ArrayList/size()]
+
+prob: 0,00917
+[org/json/JSONException/printStackTrace(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/HashMap/values()]
+
+prob: 0,00917
+[java/lang/Math/abs(float)]
+
+prob: 0,00917
+[android/os/Handler/hasMessages(int), android/content/Intent/getFlags(), android/content/Context/getContentResolver(), java/util/HashMap/get(java.lang.Object), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,00917
+[android/content/Intent/getScheme()]
+
+prob: 0,00917
+[android/widget/RadioButton/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/TextView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/RadioButton/setId(int), android/widget/TextView/setTextSize(float), android/widget/RadioButton/setText(java.lang.CharSequence), amir/android/icebreaking/RadioGroupPrefs/getContext(), android/widget/TextView/TextView(android.content.Context), amir/android/icebreaking/RadioGroupPrefs/addView(android.view.View), android/widget/TextView/setTextColor(int), android/widget/RadioButton/RadioButton(android.content.Context), android/widget/RadioGroup$LayoutParams/RadioGroup$LayoutParams(int]
+
+prob: 0,00917
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,00917
+[java/lang/Thread/sleep(long), java/lang/StringBuilder/append(boolean)]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(boolean), java/lang/Class/getName(), java/io/PrintStream/println(java.lang.String), java/lang/Object/getClass()]
+
+prob: 0,00917
+[javax/microedition/khronos/opengles/GL11/glClientActiveTexture(int), javax/microedition/khronos/opengles/GL11/glEnableClientState(int), javax/microedition/khronos/opengles/GL11/glBindTexture(int]
+
+prob: 0,00917
+[processing/core/PApplet/getResources(), java/io/IOException/printStackTrace(), android/util/Log/e(java.lang.String]
+
+prob: 0,00917
+[android/content/Context/openFileInput(java.lang.String), java/io/FileInputStream/FileInputStream(java.io.File), processing/core/PApplet/getAssets(]
+
+prob: 0,00917
+[java/lang/String/length(), android/content/res/AssetManager/open(java.lang.String), java/io/File/File(java.lang.String), org/apache/http/HttpResponse/getEntity(), java/io/IOException/printStackTrace(), org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), java/io/File/exists(), org/apache/http/client/methods/HttpGet/HttpGet(java.net.URI)]
+
+prob: 0,00917
+[java/lang/String/length(), java/lang/String/toCharArray(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/StringBuffer/append(java.lang.String), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,00917
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Collection/iterator()]
+
+prob: 0,00917
+[org/apache/http/HttpEntity/getContent()]
+
+prob: 0,00917
+[java/lang/String/indexOf(java.lang.String)]
+
+prob: 0,00917
+[java/net/URI/create(java.lang.String)]
+
+prob: 0,00917
+[org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient()]
+
+prob: 0,00917
+[processing/core/PApplet/getApplicationContext()]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/util/ArrayList/size(), java/lang/String/substring(int), java/lang/Integer/parseInt(java.lang.String)]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,00917
+[java/io/File/getName(), java/lang/String/toLowerCase(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/io/FileOutputStream/FileOutputStream(java.io.File), java/lang/StringBuilder/toString(), java/lang/String/endsWith(java.lang.String]
+
+prob: 0,00917
+[java/util/zip/GZIPOutputStream/GZIPOutputStream(java.io.OutputStream), java/io/File/getAbsolutePath()]
+
+prob: 0,00917
+[java/io/File/getAbsolutePath(), java/io/File/mkdirs(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String]
+
+prob: 0,00917
+[android/view/Window/setFlags(int]
+
+prob: 0,00917
+[java/lang/Throwable/printStackTrace(), java/lang/IllegalArgumentException/printStackTrace(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Object/getClass(), java/lang/reflect/Method/invoke(java.lang.Object]
+
+prob: 0,00917
+[android/view/MotionEvent/getHistoricalX(int), android/view/MotionEvent/getHistorySize(), android/view/MotionEvent/getAction(), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), java/lang/System/arraycopy(java.lang.Object]
+
+prob: 0,00917
+[java.io.InputStream)]
+
+prob: 0,00917
+[byte[])]
+
+prob: 0,00917
+[java/io/File/getParent(), java/io/File/File(java.lang.String), java/io/File/exists()]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,00917
+[java/lang/String/charAt(int)]
+
+prob: 0,00917
+[android/app/Dialog/setContentView(android.view.View), android/support/v4/app/DialogFragment/getActivity(), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(]
+
+prob: 0,00917
+[android/app/Dialog/setCancelable(boolean)]
+
+prob: 0,00917
+[android/support/v4/app/DialogFragment/getView()]
+
+prob: 0,00917
+[android/util/Base64OutputStream/close(), android/util/Base64OutputStream/Base64OutputStream(java.io.OutputStream]
+
+prob: 0,00917
+[com/rj/processing/plasmasound/PlasmaSound/println(java.lang.String)]
+
+prob: 0,00917
+[com/rj/processing/plasmasound/PlasmaSound/getWindowManager(]
+
+prob: 0,00917
+[float]
+
+prob: 0,00917
+[java.lang.StringBuilder)]
+
+prob: 0,00917
+[android/widget/SeekBar/setProgress(int), amir/android/icebreaking/SeekBarPreference/notifyChanged(), java/lang/Math/round(float), android/widget/SeekBar/getProgress(), java/lang/String/valueOf(int), amir/android/icebreaking/SeekBarPreference/callChangeListener(java.lang.Object]
+
+prob: 0,00917
+[android/widget/ToggleButton/setChecked(boolean), java/lang/StringBuilder/StringBuilder(java.lang.String), android/content/SharedPreferences/getBoolean(java.lang.String]
+
+prob: 0,00917
+[android/widget/ToggleButton/setChecked(boolean), android/view/LayoutInflater/inflate(int]
+
+prob: 0,00917
+[android/os/Environment/getExternalStorageDirectory(), java/lang/StringBuilder/append(java.lang.String), com/rj/processing/plasmasoundhd/SequencerActivity/isAdded(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/io/File/File(java.io.File]
+
+prob: 0,00917
+[com/rj/processing/plasmasoundhd/PDActivity/println(java.lang.String)]
+
+prob: 0,00917
+[com/rj/processing/plasmasoundhd/PDActivity/getWindowManager()]
+
+prob: 0,00917
+[java/lang/StringBuilder/toString(]
+
+prob: 0,00917
+[android/view/ViewGroup/getLayoutParams(), android/view/Window/getDecorView(), android/widget/Button/setEnabled(boolean), android/view/ViewGroup/setLayoutParams(android.view.ViewGroup$LayoutParams), android/view/ViewGroup/getHeight(), java/lang/StringBuilder/toString(), android/view/LayoutInflater/inflate(int]
+
+prob: 0,00917
+[android/view/Window/setAttributes(android.view.WindowManager$LayoutParams)]
+
+prob: 0,00917
+[android/app/Dialog/getWindow()]
+
+prob: 0,00917
+[org.json.JSONObject)]
+
+prob: 0,00917
+[java.util.ArrayList)]
+
+prob: 0,00917
+[android.support.v4.app.BackStackRecord)]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(float), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/io/PrintStream/println(java.lang.Object]
+
+prob: 0,00917
+[javax/microedition/khronos/opengles/GL10/glClientActiveTexture(int), java/nio/IntBuffer/position(int), javax/microedition/khronos/opengles/GL10/glDrawElements(int]
+
+prob: 0,00917
+[java/io/OutputStream/close(), java/io/IOException/printStackTrace(), java/lang/String/valueOf(java.lang.Object), java/lang/String/toLowerCase(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/lastIndexOf(int), android/graphics/Bitmap/createBitmap(int[]]
+
+prob: 0,00917
+[java/io/OutputStream/flush()]
+
+prob: 0,00917
+[android.content.Context]
+
+prob: 0,00917
+[boolean)]
+
+prob: 0,00917
+[java.io.File]
+
+prob: 0,00917
+[com/rj/processing/plasmasoundhd/WaveformEditor/getWindowManager()]
+
+prob: 0,00917
+[com/rj/processing/plasmasoundhd/WaveformEditor/println(java.lang.String]
+
+prob: 0,00917
+[android/view/ViewConfiguration/get(android.content.Context), android/content/res/Resources/getDisplayMetrics(), android/support/v4/view/ViewPager/setFocusable(boolean), android/view/ViewConfiguration/getScaledMinimumFlingVelocity(), android/support/v4/view/ViewPager/setDescendantFocusability(int), android/support/v4/view/ViewPager/setWillNotDraw(boolean), android/view/ViewConfiguration/getScaledMaximumFlingVelocity(), android/support/v4/view/ViewPager/getContext(), android/content/Context/getResources(), android/widget/Scroller/Scroller(android.content.Context]
+
+prob: 0,00917
+[com.rj.processing.plasmasoundhd.SequencerActivity)]
+
+prob: 0,00917
+[android/graphics/Canvas/rotate(float), android/graphics/Canvas/translate(float]
+
+prob: 0,00917
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(]
+
+prob: 0,00917
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/SystemClock/uptimeMillis(), android/support/v4/view/ViewPager/scrollTo(int]
+
+prob: 0,00917
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/Bundle/Bundle(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintWriter/PrintWriter(java.io.Writer), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,00917
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/view/View/findViewById(int), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/os/Handler/post(java.lang.Runnable), android/support/v4/app/ListFragment/getView(), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String]
+
+prob: 0,00917
+[android/os/SystemClock/uptimeMillis(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,00917
+[java/util/ArrayList/remove(int), java/lang/String/indexOf(int]
+
+prob: 0,00917
+[java/util/ArrayList/remove(int), android/support/v4/view/ViewPager/hasFocus(), java/lang/Math/max(int]
+
+prob: 0,00917
+[android/widget/Scroller/isFinished(), android/support/v4/view/ViewPager/scrollTo(int]
+
+prob: 0,00917
+[com.rj.processing.plasmasoundhd.PlasmaActivity)]
+
+prob: 0,00917
+[android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/app/AlertDialog$Builder/setTitle(int), android/content/Context/getPackageName(), java/lang/String/format(java.lang.String]
+
+prob: 0,00917
+[android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,00917
+[android/content/res/Resources/getString(int), android/content/SharedPreferences$Editor/commit(), android/content/SharedPreferences/edit(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/content/SharedPreferences/contains(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/content/SharedPreferences$Editor/putString(java.lang.String]
+
+prob: 0,00917
+[com/rj/processing/plasmasoundhd/PDActivity/rectMode(int), com/rj/processing/plasmasoundhd/PDActivity/rect(float]
+
+prob: 0,00917
+[java/lang/Integer/intValue(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,00917
+[java/lang/Integer/intValue(), javax/microedition/khronos/opengles/GL11ExtensionPack/glDeleteFramebuffersOES(int]
+
+prob: 0,00917
+[java/util/HashMap/containsKey(java.lang.Object), java/util/Set/iterator(), java/lang/Integer/valueOf(int)]
+
+prob: 0,00917
+[android.content.SharedPreferences]
+
+prob: 0,00917
+[java.lang.ClassLoader)]
+
+prob: 0,00917
+[android/os/Bundle/Bundle(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), android/os/Bundle/putParcelableArray(java.lang.String]
+
+prob: 0,00917
+[java/util/ArrayList/toArray(java.lang.Object[])]
+
+prob: 0,00917
+[java/util/LinkedHashMap/entrySet(), java/lang/Class/getName(), java/util/LinkedHashMap/isEmpty(), java/util/LinkedHashMap/remove(java.lang.Object)]
+
+prob: 0,00917
+[android/widget/ListView/setEmptyView(android.view.View), android/widget/TextView/setText(java.lang.CharSequence)]
+
+prob: 0,00917
+[android/widget/TextView/setText(java.lang.CharSequence), java/lang/Integer/valueOf(int), java/lang/StringBuilder/toString()]
+
+prob: 0,00917
+[android.view.ViewGroup]
+
+prob: 0,00917
+[java/lang/Float/isNaN(float), java/io/PrintStream/println(), java/io/PrintStream/println(java.lang.String]
+
+prob: 0,00917
+[java/lang/String/valueOf(java.lang.Object), java/util/ArrayList/get(int), java/lang/StringBuilder/toString()]
+
+prob: 0,00917
+[java/lang/String/valueOf(java.lang.Object), java/lang/Float/isInfinite(float), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,00917
+[android/util/Log/e(java.lang.String]
+
+prob: 0,00917
+[java/lang/Math/max(int]
+
+prob: 0,00917
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,00917
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,00917
+[java/util/ArrayList/get(int)]
+
+prob: 0,00917
+[java/io/File/getAbsolutePath()]
+
+prob: 0,00917
+[java/lang/RuntimeException/RuntimeException(java.lang.String)]
+
+prob: 0,00917
+[java/io/PrintStream/println(java.lang.String)]
+
+prob: 0,00917
+[android/content/Context/getSharedPreferences(java.lang.String]
+
+prob: 0,00917
+[android/view/LayoutInflater/inflate(int]
+
+prob: 0,00917
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,00917
+[java/io/IOException/printStackTrace()]
+
+prob: 0,00917
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00917
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString()]
+

@@ -1,0 +1,360 @@
+prob: 0,08333
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,07292
+[int]
+
+prob: 0,06250
+[java.lang.Object)]
+
+prob: 0,06250
+[java/lang/StringBuilder/toString()]
+
+prob: 0,03125
+[java/lang/Integer/intValue(), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getAnnotation(java.lang.Class), java/lang/StackTraceElement/StackTraceElement(java.lang.String]
+
+prob: 0,03125
+[long)]
+
+prob: 0,03125
+[java.lang.String]
+
+prob: 0,03125
+[java.lang.Class]
+
+prob: 0,03125
+[java.lang.String)]
+
+prob: 0,03125
+[java/util/List/add(java.lang.Object)]
+
+prob: 0,03125
+[int)]
+
+prob: 0,03125
+[java/util/Iterator/hasNext(), java/util/Iterator/next()]
+
+prob: 0,02083
+[boolean)]
+
+prob: 0,02083
+[android.os.IBinder)]
+
+prob: 0,02083
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,02083
+[java/lang/Enum/ordinal()]
+
+prob: 0,02083
+[java/util/Collection/add(java.lang.Object)]
+
+prob: 0,02083
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/String/toString(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,02083
+[android.os.Bundle)]
+
+prob: 0,02083
+[java.lang.annotation.Annotation[])]
+
+prob: 0,02083
+[java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,02083
+[java.lang.reflect.Type)]
+
+prob: 0,02083
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,02083
+[android/net/Uri/parse(java.lang.String)]
+
+prob: 0,02083
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,02083
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,01042
+[java/net/URI/create(java.lang.String), java/util/List/set(int]
+
+prob: 0,01042
+[java/lang/Thread/getName(), java/lang/String/length(), java/lang/Thread/setName(java.lang.String), java/lang/StringBuilder/append(long), java/lang/StringBuilder/StringBuilder(int), java/lang/String/substring(int]
+
+prob: 0,01042
+[java.security.cert.X509Certificate)]
+
+prob: 0,01042
+[java.util.List)]
+
+prob: 0,01042
+[android/accounts/AccountManager/removeAccount(android.accounts.Account]
+
+prob: 0,01042
+[java/lang/Integer/intValue(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/List/remove(int)]
+
+prob: 0,01042
+[i.E)]
+
+prob: 0,01042
+[boolean]
+
+prob: 0,01042
+[java/lang/String/valueOf(java.lang.Object), android/graphics/Bitmap/getWidth(), java/lang/StringBuilder/append(int), java/lang/String/format(java.lang.String]
+
+prob: 0,01042
+[long]
+
+prob: 0,01042
+[java/net/InetAddress/getHostAddress(), java/lang/AssertionError/AssertionError(java.lang.Object), java/net/IDN/toASCII(java.lang.String), java/lang/String/isEmpty(), java/lang/String/contains(java.lang.CharSequence), java/lang/String/indexOf(int), java/lang/String/endsWith(java.lang.String), java/net/InetAddress/getAddress(), java/lang/String/charAt(int), java/lang/String/toLowerCase(java.util.Locale)]
+
+prob: 0,01042
+[java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01042
+[java.lang.Object]
+
+prob: 0,01042
+[java/lang/String/split(java.lang.String), java/lang/StringBuilder/deleteCharAt(int), java/net/IDN/toUnicode(java.lang.String), java/lang/String/charAt(int), java/lang/StringBuilder/length(), java/lang/NullPointerException/NullPointerException(java.lang.String]
+
+prob: 0,01042
+[java/util/concurrent/CountDownLatch/await()]
+
+prob: 0,01042
+[java/lang/String/getBytes(java.nio.charset.Charset)]
+
+prob: 0,01042
+[java/lang/Long/valueOf(long), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), java/lang/Long/longValue(), java/lang/Iterable/iterator(), android/content/ContentResolver/delete(android.net.Uri]
+
+prob: 0,01042
+[android/net/Uri$Builder/Uri$Builder(), android/app/Activity/onCreate(android.os.Bundle), android/content/Intent/Intent(java.lang.String), android/net/Uri$Builder/authority(java.lang.String), android/app/Activity/finish(), android/text/TextUtils/isEmpty(java.lang.CharSequence), android/content/Intent/Intent(java.lang.String]
+
+prob: 0,01042
+[android/net/Uri$Builder/build()]
+
+prob: 0,01042
+[android/net/Uri$Builder/appendPath(java.lang.String)]
+
+prob: 0,01042
+[android/app/Activity/getPackageManager()]
+
+prob: 0,01042
+[android/content/Context/getPackageManager(), java/lang/StringBuilder/append(java.lang.String), android/os/Bundle/get(java.lang.String), android/os/Bundle/writeToParcel(android.os.Parcel]
+
+prob: 0,01042
+[g.e[])]
+
+prob: 0,01042
+[g.b.d)]
+
+prob: 0,01042
+[android.accounts.Account]
+
+prob: 0,01042
+[eu.the4thfloor.msync.api.models.Event]
+
+prob: 0,01042
+[android/view/View/setClickable(boolean), android/widget/GridLayout/getContext(), android/view/LayoutInflater/inflate(int]
+
+prob: 0,01042
+[android/view/Window/setLayout(int]
+
+prob: 0,01042
+[android/text/format/Time/getCurrentTimezone(), android/content/ContentUris/parseId(android.net.Uri), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01042
+[java/lang/Long/toString(long), java/util/Collections/addAll(java.util.Collection]
+
+prob: 0,01042
+[java/util/Collections/emptyList()]
+
+prob: 0,01042
+[java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01042
+[i/X/a(java.lang.String)]
+
+prob: 0,01042
+[java/util/List/isEmpty()]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/Collection/size(), java/util/Collections/singletonList(java.lang.Object), java/util/List/get(int]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList(), java/util/Collections/binarySearch(java.util.List]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList(), java/lang/StringBuilder/StringBuilder(), java/lang/String/valueOf(int]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/append(char), android/content/Context/getContentResolver()]
+
+prob: 0,01042
+[java/util/concurrent/Semaphore/availablePermits(), java/lang/String/toString(), java/util/concurrent/atomic/AtomicIntegerFieldUpdater/compareAndSet(java.lang.Object]
+
+prob: 0,01042
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Thread/interrupted(), java/lang/Thread/currentThread(), java/lang/Thread/interrupt(), [[B/clone(), java/util/concurrent/atomic/AtomicBoolean/get(), java/util/concurrent/atomic/AtomicBoolean/compareAndSet(boolean]
+
+prob: 0,01042
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), javax/net/ssl/SSLSession/getLocalCertificates(), javax/net/ssl/SSLSession/getProtocol(), javax/net/ssl/SSLSession/getPeerCertificates(), javax/net/ssl/SSLSession/getCipherSuite(]
+
+prob: 0,01042
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object]
+
+prob: 0,01042
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01042
+[java/util/concurrent/locks/LockSupport/unpark(java.lang.Thread)]
+
+prob: 0,01042
+[java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(java.lang.Object), java/util/Arrays/toString(java.lang.Object[]), javax/net/ssl/SSLSocket/getEnabledProtocols(), java/util/List/size(), java/net/UnknownServiceException/UnknownServiceException(java.lang.String]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList(int), java/util/Collections/addAll(java.util.Collection]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/toString()]
+
+prob: 0,01042
+[java/lang/String/equalsIgnoreCase(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,01042
+[java/util/regex/Matcher/lookingAt(), java/util/regex/Matcher/end()]
+
+prob: 0,01042
+[java.util.Set)]
+
+prob: 0,01042
+[android/os/Message/getData(), android/app/Service/getApplicationContext(), android/util/Log/isLoggable(java.lang.String]
+
+prob: 0,01042
+[java.util.Set]
+
+prob: 0,01042
+[java/lang/String/startsWith(java.lang.String), java/lang/String/length(]
+
+prob: 0,01042
+[java/lang/String/startsWith(java.lang.String), java/lang/Math/min(long]
+
+prob: 0,01042
+[java.lang.annotation.Annotation[]]
+
+prob: 0,01042
+[java/lang/Character/isISOControl(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/String/length(), java/lang/String/codePointAt(int), java/lang/String/replace(java.lang.CharSequence]
+
+prob: 0,01042
+[java.lang.Object[])]
+
+prob: 0,01042
+[java/lang/Class/getConstructors(), java/util/concurrent/locks/ReentrantReadWriteLock$WriteLock/unlock(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01042
+[java.lang.reflect.Method)]
+
+prob: 0,01042
+[java/util/LinkedHashMap/put(java.lang.Object]
+
+prob: 0,01042
+[java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/Object/getClass(]
+
+prob: 0,01042
+[java/lang/Class/getName(), java/lang/reflect/ParameterizedType/getActualTypeArguments(), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01042
+[i.a.b.g]
+
+prob: 0,01042
+[java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/System/arraycopy(java.lang.Object]
+
+prob: 0,01042
+[java/util/ConcurrentModificationException/ConcurrentModificationException(), java/util/Map/size(), java/util/Map$Entry/getValue()]
+
+prob: 0,01042
+[java/net/ProtocolException/ProtocolException(java.lang.String), java/io/IOException/IOException(java.lang.String)]
+
+prob: 0,01042
+[java/util/Iterator/remove(), java/util/List/size(), java/util/List/get(int), java/util/Deque/add(java.lang.Object), java/util/concurrent/atomic/AtomicInteger/incrementAndGet(), java/util/Deque/size(), java/util/concurrent/atomic/AtomicInteger/get(), java/util/Deque/iterator(]
+
+prob: 0,01042
+[java/util/Iterator/remove(), java/util/Iterator/hasNext(), java/util/Iterator/next(), android/os/Bundle/keySet(]
+
+prob: 0,01042
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), java/lang/String/startsWith(java.lang.String), java/util/ArrayList/ArrayList(), java/lang/StringBuilder/toString()]
+
+prob: 0,01042
+[android/os/Bundle/putAll(android.os.Bundle), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01042
+[org/json/JSONObject/JSONObject(java.lang.String)]
+
+prob: 0,01042
+[java/util/Collections/unmodifiableList(java.util.List)]
+
+prob: 0,01042
+[android/os/Bundle/Bundle(android.os.Bundle)]
+
+prob: 0,01042
+[org/json/JSONArray/getInt(int)]
+
+prob: 0,01042
+[android/os/Bundle/getBoolean(java.lang.String)]
+
+prob: 0,01042
+[android/os/Bundle/getInt(java.lang.String)]
+
+prob: 0,01042
+[org/json/JSONArray/getString(int)]
+
+prob: 0,01042
+[org/json/JSONArray/length()]
+
+prob: 0,01042
+[android/os/Bundle/getString(java.lang.String)]
+
+prob: 0,01042
+[org/json/JSONObject/getJSONArray(java.lang.String)]
+
+prob: 0,01042
+[java/lang/Iterable/iterator()]
+
+prob: 0,01042
+[java/lang/Thread/currentThread()]
+
+prob: 0,01042
+[java/lang/String/split(java.lang.String)]
+
+prob: 0,01042
+[java/util/concurrent/atomic/AtomicIntegerFieldUpdater/compareAndSet(java.lang.Object]
+
+prob: 0,01042
+[java/util/List/get(int)]
+
+prob: 0,01042
+[java/util/Set/iterator()]
+
+prob: 0,01042
+[java/io/IOException/IOException(java.lang.String)]
+
+prob: 0,01042
+[java/util/List/size()]
+
+prob: 0,01042
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01042
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,01042
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01042
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)]
+
+prob: 0,01042
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,01042
+[java/lang/StringBuilder/StringBuilder()]
+

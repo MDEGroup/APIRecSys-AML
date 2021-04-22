@@ -1,0 +1,753 @@
+prob: 0,09091
+[org.api.fake]
+
+prob: 0,09091
+[org.rand.api]
+
+prob: 0,07576
+[org.codehaus.jackson.map.introspect.BasicBeanDescription]
+
+prob: 0,04545
+[org.codehaus.jackson.map.DeserializerProvider]
+
+prob: 0,03535
+[org.codehaus.jackson.JsonGenerator]
+
+prob: 0,03030
+[org.codehaus.jackson.map.introspect.BasicBeanDescription)]
+
+prob: 0,03030
+[int)]
+
+prob: 0,02020
+[org.codehaus.jackson.map.DeserializationContext)]
+
+prob: 0,02020
+[int]
+
+prob: 0,02020
+[android.view.View)]
+
+prob: 0,01515
+[org.xmlpull.v1.XmlPullParser)]
+
+prob: 0,01515
+[org.codehaus.jackson.map.JsonSerializer)]
+
+prob: 0,01515
+[org.codehaus.jackson.map.ser.BeanSerializerBuilder)]
+
+prob: 0,01515
+[java.util.List]
+
+prob: 0,01515
+[java.util.List)]
+
+prob: 0,01515
+[java.lang.Class)]
+
+prob: 0,01515
+[org.codehaus.jackson.map.type.TypeBindings)]
+
+prob: 0,01515
+[java.text.ParsePosition)]
+
+prob: 0,01515
+[java.lang.CharSequence]
+
+prob: 0,01515
+[org.codehaus.jackson.map.DeserializerProvider)]
+
+prob: 0,01515
+[java/lang/Object/getClass()]
+
+prob: 0,01515
+[org.codehaus.jackson.map.introspect.Annotated]
+
+prob: 0,01515
+[java.lang.Class]
+
+prob: 0,01515
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01010
+[java/lang/Iterable/iterator()]
+
+prob: 0,01010
+[char]
+
+prob: 0,01010
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/List/iterator()]
+
+prob: 0,01010
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,01010
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getName(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01010
+[java/util/ArrayList/ArrayList(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,01010
+[java/lang/Class/getSimpleName()]
+
+prob: 0,01010
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(]
+
+prob: 0,01010
+[java/util/LinkedList/iterator()]
+
+prob: 0,01010
+[java/lang/Class/getName(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01010
+[java/lang/Float/floatValue(), java/lang/Double/doubleValue()]
+
+prob: 0,01010
+[java/lang/Number/intValue()]
+
+prob: 0,01010
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01010
+[java/util/Iterator/hasNext(), java/util/LinkedHashMap/put(java.lang.Object]
+
+prob: 0,01010
+[java/util/Map$Entry/getKey()]
+
+prob: 0,01010
+[java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,01010
+[java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01010
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01010
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,01010
+[java/lang/Class/getName()]
+
+prob: 0,01010
+[java/util/Iterator/next()]
+
+prob: 0,01010
+[java/lang/StringBuilder/toString()]
+
+prob: 0,00505
+[org/codehaus/jackson/JsonParser$NumberType/ordinal(), org/codehaus/jackson/JsonToken/ordinal(), org/codehaus/jackson/impl/JsonGeneratorBase/writeBoolean(boolean), org/codehaus/jackson/impl/JsonGeneratorBase/writeString(char[]]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/JsonGeneratorBase/writeNumber(double), org/codehaus/jackson/impl/JsonGeneratorBase/writeNull(), org/codehaus/jackson/impl/JsonGeneratorBase/writeFieldName(java.lang.String), org/codehaus/jackson/impl/JsonGeneratorBase/writeString(java.lang.String), org/codehaus/jackson/impl/JsonGeneratorBase/writeNumber(long), org/codehaus/jackson/impl/JsonGeneratorBase/writeNumber(java.math.BigInteger)]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/JsonGeneratorBase/writeString(java.lang.String), org/codehaus/jackson/impl/JsonGeneratorBase/writeNumber(double), org/codehaus/jackson/impl/JsonGeneratorBase/writeNull(), java/util/concurrent/atomic/AtomicLong/get(]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/JsonGeneratorBase/writeNumber(long), org/codehaus/jackson/impl/JsonGeneratorBase/writeBoolean(boolean), java/util/concurrent/atomic/AtomicBoolean/get()]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/JsonGeneratorBase/writeNumber(java.math.BigInteger), java/util/concurrent/atomic/AtomicInteger/get(), org/codehaus/jackson/impl/JsonGeneratorBase/writeNumber(java.math.BigDecimal), java/lang/Number/shortValue(), java/lang/Number/doubleValue(), org/codehaus/jackson/impl/JsonGeneratorBase/writeBinary(byte[]), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00505
+[java/lang/Number/byteValue()]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/JsonGeneratorBase/writeNumber(int)]
+
+prob: 0,00505
+[java/lang/Number/longValue()]
+
+prob: 0,00505
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,00505
+[java/lang/Number/floatValue()]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/JsonGeneratorBase/writeNumber(float)]
+
+prob: 0,00505
+[java/lang/String/format(java.lang.String]
+
+prob: 0,00505
+[greendroid/widget/PageIndicator/getPaddingLeft(), android/graphics/Canvas/translate(float]
+
+prob: 0,00505
+[java/lang/Class/getGenericInterfaces(), java/util/Map/put(java.lang.Object]
+
+prob: 0,00505
+[java/net/URL/URL(java.lang.String), android/os/Handler/sendMessage(android.os.Message), android/graphics/BitmapFactory/decodeStream(java.io.InputStream]
+
+prob: 0,00505
+[android/content/Context/getString(int)]
+
+prob: 0,00505
+[java/lang/Integer/toString()]
+
+prob: 0,00505
+[java/lang/Class/isInterface(), java/util/Map/values(), java/util/LinkedHashMap/values(), java/lang/StringBuilder/toString(), java/lang/Class/getName(]
+
+prob: 0,00505
+[java/util/Collection/iterator()]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/ReaderBasedNumericParser/reportInvalidNumber(java.lang.String)]
+
+prob: 0,00505
+[android/graphics/Path/reset(), android/graphics/Bitmap/getWidth(), android/graphics/Canvas/drawRoundRect(android.graphics.RectF]
+
+prob: 0,00505
+[android/preference/ListPreference/setEntryValues(java.lang.CharSequence[]), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,00505
+[ch/fritscher/getvelo/ui/GetVeloPreferenceActvity/findPreference(java.lang.CharSequence), android/preference/ListPreference/setOnPreferenceChangeListener(android.preference.Preference$OnPreferenceChangeListener), android/preference/PreferenceActivity/onCreate(android.os.Bundle), java/util/TreeMap/TreeMap(java.util.Comparator), android/preference/ListPreference/setEntries(java.lang.CharSequence[]), java/util/SortedMap/size()]
+
+prob: 0,00505
+[org.codehaus.jackson.map.MapperConfig]
+
+prob: 0,00505
+[java.lang.StringBuilder]
+
+prob: 0,00505
+[java/lang/reflect/Constructor/newInstance(java.lang.Object[]), java/lang/Throwable/getMessage(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), org/codehaus/jackson/map/introspect/AnnotatedConstructor/fixAccess()]
+
+prob: 0,00505
+[java/lang/Throwable/getCause()]
+
+prob: 0,00505
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuffer/StringBuffer(]
+
+prob: 0,00505
+[java.util.Collection]
+
+prob: 0,00505
+[java/lang/reflect/Method/getName(), java/lang/reflect/Method/getDeclaringClass(), java/lang/reflect/Constructor/getDeclaringClass(), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/getClass(]
+
+prob: 0,00505
+[java.util.Collection)]
+
+prob: 0,00505
+[java/util/LinkedHashMap/entrySet(), java/util/Map$Entry/getValue(]
+
+prob: 0,00505
+[java/util/LinkedHashMap/entrySet(), java/util/LinkedHashMap/isEmpty(), java/util/Collections/emptyList(), java/util/Iterator/next()]
+
+prob: 0,00505
+[java/lang/StringBuilder/StringBuilder(int), java/lang/reflect/Method/getDeclaringClass(), java/lang/reflect/Field/getDeclaringClass(]
+
+prob: 0,00505
+[java/util/Set/iterator()]
+
+prob: 0,00505
+[org/codehaus/jackson/node/ObjectNode/nullNode(), java/util/Iterator/hasNext(), java/util/LinkedHashMap/put(java.lang.Object]
+
+prob: 0,00505
+[java/util/Collections/emptyList(), java/beans/PropertyDescriptor/PropertyDescriptor(java.lang.String]
+
+prob: 0,00505
+[java/beans/PropertyDescriptor/getPropertyType()]
+
+prob: 0,00505
+[java/beans/PropertyDescriptor/getWriteMethod()]
+
+prob: 0,00505
+[java/beans/Introspector/getBeanInfo(java.lang.Class)]
+
+prob: 0,00505
+[java/beans/BeanInfo/getPropertyDescriptors()]
+
+prob: 0,00505
+[java/beans/PropertyDescriptor/getName()]
+
+prob: 0,00505
+[java/lang/Thread/currentThread()]
+
+prob: 0,00505
+[java/lang/Thread/getContextClassLoader()]
+
+prob: 0,00505
+[java/util/List/remove(int)]
+
+prob: 0,00505
+[java/util/List/size()]
+
+prob: 0,00505
+[java/lang/reflect/Modifier/isStatic(int), java/util/ArrayList/ArrayList(), java/lang/Class/getDeclaredMethods()]
+
+prob: 0,00505
+[java/util/List/add(java.lang.Object), java/lang/Class/getDeclaredConstructors(]
+
+prob: 0,00505
+[java/lang/reflect/Constructor/getParameterTypes()]
+
+prob: 0,00505
+[java/lang/reflect/Method/getModifiers()]
+
+prob: 0,00505
+[java/lang/reflect/Method/getParameterTypes()]
+
+prob: 0,00505
+[java/util/List/get(int)]
+
+prob: 0,00505
+[java/util/Iterator/remove(), java/util/Map$Entry/getValue()]
+
+prob: 0,00505
+[java/util/ArrayList/ArrayList(int), java/util/LinkedHashMap/values()]
+
+prob: 0,00505
+[java/util/List/addAll(java.util.Collection)]
+
+prob: 0,00505
+[java/util/LinkedHashMap/LinkedHashMap()]
+
+prob: 0,00505
+[java/util/LinkedHashMap/size()]
+
+prob: 0,00505
+[android/view/View/getWidth()]
+
+prob: 0,00505
+[greendroid/widget/QuickActionWidget/showAtLocation(android.view.View]
+
+prob: 0,00505
+[android.view.View]
+
+prob: 0,00505
+[java.lang.Object)]
+
+prob: 0,00505
+[android/widget/CheckBox/setClickable(boolean), android/view/LayoutInflater/inflate(int]
+
+prob: 0,00505
+[android/widget/ImageView/setBackgroundDrawable(android.graphics.drawable.Drawable)]
+
+prob: 0,00505
+[java.lang.String]
+
+prob: 0,00505
+[org.codehaus.jackson.map.deser.SettableBeanProperty[])]
+
+prob: 0,00505
+[java/lang/Short/intValue()]
+
+prob: 0,00505
+[java/lang/StringBuffer/append(java.lang.Object)]
+
+prob: 0,00505
+[java/lang/StringBuffer/toString(), java/lang/Integer/intValue(), java/lang/Boolean/booleanValue()]
+
+prob: 0,00505
+[java/lang/StringBuffer/append(java.lang.String)]
+
+prob: 0,00505
+[java/lang/Long/longValue()]
+
+prob: 0,00505
+[java/util/Iterator/next(), java/util/Iterator/hasNext(), android/view/LayoutInflater/inflate(int]
+
+prob: 0,00505
+[java/lang/Byte/intValue()]
+
+prob: 0,00505
+[java/lang/Character/charValue()]
+
+prob: 0,00505
+[android/graphics/Matrix/setTranslate(float]
+
+prob: 0,00505
+[java/lang/reflect/Field/getName(), java/lang/reflect/Method/getName(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,00505
+[java/io/StringReader/StringReader(java.lang.String)]
+
+prob: 0,00505
+[javax/xml/parsers/DocumentBuilder/parse(org.xml.sax.InputSource)]
+
+prob: 0,00505
+[byte[]]
+
+prob: 0,00505
+[java/util/LinkedList/isEmpty(), java/util/Iterator/hasNext(), java/util/Iterator/next()]
+
+prob: 0,00505
+[java/lang/System/arraycopy(java.lang.Object]
+
+prob: 0,00505
+[android/os/Bundle/getSerializable(java.lang.String), java/util/List/add(java.lang.Object)]
+
+prob: 0,00505
+[ch/fritscher/getvelo/ui/StationActivity/findViewById(int)]
+
+prob: 0,00505
+[ch/fritscher/getvelo/ui/StationActivity/setTitle(java.lang.CharSequence)]
+
+prob: 0,00505
+[ch/fritscher/getvelo/ui/StationActivity/getResources()]
+
+prob: 0,00505
+[com/google/android/maps/MapController/setZoom(int)]
+
+prob: 0,00505
+[ch/fritscher/getvelo/ui/StationActivity/setActionBarContentView(int)]
+
+prob: 0,00505
+[java/util/Iterator/hasNext(), ch/fritscher/getvelo/ui/WidgetConfigActivity/getString(int), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,00505
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(int), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey()]
+
+prob: 0,00505
+[java/util/Iterator/hasNext(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/util/Iterator/next(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,00505
+[java/util/Iterator/hasNext(), java/util/Set/iterator(]
+
+prob: 0,00505
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/HashMap/HashMap(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,00505
+[com/google/android/maps/MapView/getController()]
+
+prob: 0,00505
+[android/content/Intent/getExtras()]
+
+prob: 0,00505
+[android/content/res/Resources/getDrawable(int)]
+
+prob: 0,00505
+[com/google/android/maps/MapView/getOverlays()]
+
+prob: 0,00505
+[ch/fritscher/getvelo/ui/StationActivity/getContentView()]
+
+prob: 0,00505
+[ch/fritscher/getvelo/ui/StationActivity/getIntent()]
+
+prob: 0,00505
+[com/google/android/maps/OverlayItem/OverlayItem(com.google.android.maps.GeoPoint]
+
+prob: 0,00505
+[android.location.Location)]
+
+prob: 0,00505
+[android/graphics/Canvas/drawBitmap(android.graphics.Bitmap]
+
+prob: 0,00505
+[java.io.InputStream)]
+
+prob: 0,00505
+[java/lang/Integer/valueOf(int)]
+
+prob: 0,00505
+[java/lang/Double/valueOf(double)]
+
+prob: 0,00505
+[java/lang/Long/valueOf(long)]
+
+prob: 0,00505
+[java/lang/Byte/valueOf(byte)]
+
+prob: 0,00505
+[java/lang/Short/valueOf(short)]
+
+prob: 0,00505
+[java/lang/Float/valueOf(float)]
+
+prob: 0,00505
+[java/lang/Character/valueOf(char]
+
+prob: 0,00505
+[java/lang/reflect/AccessibleObject/setAccessible(boolean)]
+
+prob: 0,00505
+[java/lang/reflect/AccessibleObject/isAccessible()]
+
+prob: 0,00505
+[java/lang/reflect/Member/getDeclaringClass(), java/lang/Class/getName()]
+
+prob: 0,00505
+[java/lang/SecurityException/getMessage(]
+
+prob: 0,00505
+[boolean)]
+
+prob: 0,00505
+[ch/fritscher/getvelo/ui/WidgetConfigActivity/finish()]
+
+prob: 0,00505
+[android/os/Bundle/getInt(java.lang.String]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/ReaderBasedParser/parseNumberText(int), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/JsonReadContext/getTypeDesc()]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/ReaderBasedParser/_reportUnexpectedChar(int]
+
+prob: 0,00505
+[com/google/android/maps/GeoPoint/getLongitudeE6(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,00505
+[com/google/android/maps/GeoPoint/getLatitudeE6(), java/lang/StringBuilder/toString()]
+
+prob: 0,00505
+[com/google/android/maps/OverlayItem/getPoint()]
+
+prob: 0,00505
+[java/util/Map/size()]
+
+prob: 0,00505
+[android/net/Uri/parse(java.lang.String)]
+
+prob: 0,00505
+[com/google/android/maps/OverlayItem/getTitle()]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(double)]
+
+prob: 0,00505
+[java/util/ArrayList/get(int)]
+
+prob: 0,00505
+[android/content/Intent/Intent(java.lang.String]
+
+prob: 0,00505
+[java/lang/Package/getName()]
+
+prob: 0,00505
+[java/lang/Class/getPackage()]
+
+prob: 0,00505
+[org.codehaus.jackson.map.AnnotationIntrospector)]
+
+prob: 0,00505
+[java/math/BigDecimal/intValue()]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/JsonNumericParserBase/getText()]
+
+prob: 0,00505
+[java/lang/StringBuilder/StringBuilder(), java/lang/String/indexOf(int), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,00505
+[java/lang/StringBuilder/StringBuilder(), javax/xml/parsers/DocumentBuilderFactory/newDocumentBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,00505
+[java/math/BigInteger/intValue()]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/JsonNumericParserBase/_reportError(java.lang.String)]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Boolean/valueOf(boolean)]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.String), org/codehaus/jackson/impl/ReaderBasedNumericParser/reset(boolean]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Class/forName(java.lang.String]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.String), org/xml/sax/InputSource/InputSource(java.io.Reader)]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Iterator/hasNext()]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char)]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/RuntimeException/RuntimeException(java.lang.String)]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.String), org/codehaus/jackson/smile/SmileParser/_reportMismatchedEndMarker(int]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString()]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,00505
+[org/codehaus/jackson/impl/JsonNumericParserBase/_throwInternal()]
+
+prob: 0,00505
+[java/math/BigDecimal/compareTo(java.math.BigDecimal]
+
+prob: 0,00505
+[org/codehaus/jackson/smile/SmileParser/loadMore()]
+
+prob: 0,00505
+[android/widget/TextView/setCompoundDrawablesWithIntrinsicBounds(android.graphics.drawable.Drawable]
+
+prob: 0,00505
+[android/os/Handler/removeCallbacks(java.lang.Runnable)]
+
+prob: 0,00505
+[android/view/MotionEvent/getAction()]
+
+prob: 0,00505
+[android/view/VelocityTracker/addMovement(android.view.MotionEvent)]
+
+prob: 0,00505
+[android/view/MotionEvent/getX()]
+
+prob: 0,00505
+[android/view/VelocityTracker/getXVelocity()]
+
+prob: 0,00505
+[java/lang/Math/abs(int)]
+
+prob: 0,00505
+[android/view/VelocityTracker/obtain()]
+
+prob: 0,00505
+[android/widget/Scroller/isFinished()]
+
+prob: 0,00505
+[android/view/VelocityTracker/computeCurrentVelocity(int]
+
+prob: 0,00505
+[java/lang/Integer/intValue(), android/os/AsyncTask/onPostExecute(java.lang.Object), java/util/Iterator/hasNext()]
+
+prob: 0,00505
+[android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,00505
+[javax/xml/bind/annotation/XmlElement/type()]
+
+prob: 0,00505
+[javax/xml/bind/annotation/XmlElementRef/name()]
+
+prob: 0,00505
+[java/beans/Introspector/decapitalize(java.lang.String)]
+
+prob: 0,00505
+[java/lang/Class/getAnnotation(java.lang.Class)]
+
+prob: 0,00505
+[javax/xml/bind/annotation/XmlElements/value()]
+
+prob: 0,00505
+[java/lang/Class/isAssignableFrom(java.lang.Class)]
+
+prob: 0,00505
+[javax/xml/bind/annotation/XmlElementRefs/value()]
+
+prob: 0,00505
+[javax/xml/bind/annotation/XmlElement/name()]
+
+prob: 0,00505
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,00505
+[javax/xml/bind/annotation/XmlElementRef/type()]
+
+prob: 0,00505
+[javax/xml/bind/annotation/XmlRootElement/name(]
+
+prob: 0,00505
+[java/lang/ThreadLocal/set(java.lang.Object)]
+
+prob: 0,00505
+[java/beans/IntrospectionException/getMessage()]
+
+prob: 0,00505
+[java/lang/ThreadLocal/get()]
+
+prob: 0,00505
+[java/lang/ref/SoftReference/SoftReference(java.lang.Object)]
+
+prob: 0,00505
+[javax/xml/bind/annotation/XmlType/propOrder()]
+
+prob: 0,00505
+[java/lang/String/length()]
+
+prob: 0,00505
+[java/lang/String/substring(int)]
+
+prob: 0,00505
+[java/lang/Character/toUpperCase(char)]
+
+prob: 0,00505
+[java/lang/String/charAt(int)]
+
+prob: 0,00505
+[java/beans/PropertyDescriptor/getName(]
+
+prob: 0,00505
+[java/lang/Enum/name()]
+
+prob: 0,00505
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String]
+
+prob: 0,00505
+[java/util/LinkedList/clear()]
+
+prob: 0,00505
+[android/view/LayoutInflater/from(android.content.Context)]
+
+prob: 0,00505
+[greendroid/widget/ActionBar/getContext()]
+
+prob: 0,00505
+[java/lang/Number/longValue(]
+
+prob: 0,00505
+[java/security/MessageDigest/digest()]
+
+prob: 0,00505
+[java/security/MessageDigest/reset()]
+
+prob: 0,00505
+[java/lang/StringBuilder/setLength(int)]
+
+prob: 0,00505
+[java/lang/Integer/toHexString(int)]
+
+prob: 0,00505
+[java/lang/String/getBytes()]
+
+prob: 0,00505
+[java/security/MessageDigest/update(byte[]]
+
+prob: 0,00505
+[java/lang/Boolean/booleanValue()]
+
+prob: 0,00505
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,00505
+[java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/util/Iterator/next(), java/util/HashMap/put(java.lang.Object]
+
+prob: 0,00505
+[org/codehaus/jackson/smile/SmileParser/_reportMismatchedEndMarker(int]
+
+prob: 0,00505
+[android/os/AsyncTask/onPostExecute(java.lang.Object)]
+
+prob: 0,00505
+[java/util/ArrayList/ArrayList(), java/lang/Class/getDeclaredMethods()]
+
+prob: 0,00505
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,00505
+[org/codehaus/jackson/JsonToken/ordinal()]
+
+prob: 0,00505
+[java/lang/RuntimeException/RuntimeException(java.lang.String)]
+
+prob: 0,00505
+[java/util/Iterator/next(), java/util/Iterator/hasNext()]
+
+prob: 0,00505
+[java/lang/Class/getName(), java/lang/StringBuilder/toString()]
+

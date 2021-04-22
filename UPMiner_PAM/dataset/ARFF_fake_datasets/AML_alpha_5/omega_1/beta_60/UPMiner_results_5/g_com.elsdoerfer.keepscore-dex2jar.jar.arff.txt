@@ -1,0 +1,8 @@
+com/elsdoerfer/keepscore/Setup/findViewById(int)
+android/app/AlertDialog$Builder/setIcon(int)
+android/app/AlertDialog$Builder/setMessage(int
+java/lang/Integer/valueOf(int
+android/database/Cursor/getColumnIndex(java.lang.String)
+com/elsdoerfer/keepscore/Setup/getString(int
+com/elsdoerfer/keepscore/Setup/setContentView(int
+android/widget/EditText/isEnabled()

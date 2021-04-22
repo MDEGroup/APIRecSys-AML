@@ -1,0 +1,420 @@
+prob: 0,05882
+[java/lang/reflect/Field/getDeclaringClass()]
+
+prob: 0,05882
+[java.lang.Class)]
+
+prob: 0,04706
+[java/lang/Class/isAssignableFrom(java.lang.Class)]
+
+prob: 0,04706
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()]
+
+prob: 0,04706
+[java/lang/reflect/Field/getType()]
+
+prob: 0,04706
+[java/lang/StringBuilder/toString()]
+
+prob: 0,03529
+[com.vackosar.searchbasedlauncher.control.AppsManager)]
+
+prob: 0,03529
+[com.google.inject.spi.TypeEncounter)]
+
+prob: 0,03529
+[java/lang/reflect/Field/getName(), java/lang/reflect/Field/setAccessible(boolean), java/lang/ref/WeakReference/get(), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), java/lang/reflect/Field/set(java.lang.Object]
+
+prob: 0,03529
+[java/lang/reflect/Field/getName(), java/lang/ref/WeakReference/get(), java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), java/lang/String/format(java.lang.String]
+
+prob: 0,03529
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/lang/Double/parseDouble(java.lang.String), java/lang/String/String(char[]]
+
+prob: 0,03529
+[java/lang/Object/getClass()]
+
+prob: 0,03529
+[java/lang/reflect/Field/setAccessible(boolean)]
+
+prob: 0,03529
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,03529
+[java/util/Iterator/next()]
+
+prob: 0,02353
+[java.util.Map)]
+
+prob: 0,02353
+[boolean]
+
+prob: 0,02353
+[android.app.AlertDialog$Builder]
+
+prob: 0,02353
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/Iterator/remove(]
+
+prob: 0,02353
+[java/util/Iterator/hasNext(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/Iterator/next(), java/util/Map/keySet(), java/util/Map/entrySet(), java/util/Set/add(java.lang.Object]
+
+prob: 0,02353
+[java/lang/AssertionError/AssertionError(java.lang.Object)]
+
+prob: 0,02353
+[java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,02353
+[java.lang.reflect.Type)]
+
+prob: 0,02353
+[java/util/Map$Entry/getKey(), java/util/Collection/size(), java/util/Collection/clear(), java/util/Map/entrySet()]
+
+prob: 0,02353
+[java.io.ObjectOutputStream)]
+
+prob: 0,02353
+[java/util/Collection/isEmpty()]
+
+prob: 0,02353
+[java/io/InvalidObjectException/initCause(java.lang.Throwable), java/lang/StringBuilder/append(java.lang.String), java/io/InvalidObjectException/InvalidObjectException(java.lang.String), java/io/ObjectInputStream/defaultReadObject(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/io/ObjectInputStream/readObject(), java/io/ObjectInputStream/readInt(]
+
+prob: 0,02353
+[java/lang/Integer/intValue()]
+
+prob: 0,02353
+[java/util/List/iterator()]
+
+prob: 0,02353
+[java/lang/NumberFormatException/NumberFormatException(java.lang.String)]
+
+prob: 0,02353
+[java/lang/Double/isInfinite(double)]
+
+prob: 0,02353
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,02353
+[java/util/Set/iterator()]
+
+prob: 0,02353
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01176
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Double/isInfinite(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(double), java/lang/StringBuilder/toString(]
+
+prob: 0,01176
+[java/lang/StringBuilder/append(java.lang.String), com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,01176
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/util/BitSet/BitSet(), java/lang/String/substring(int]
+
+prob: 0,01176
+[java/lang/reflect/Method/getDeclaringClass(), java/lang/reflect/Method/isBridge(), java/util/Collection/iterator(]
+
+prob: 0,01176
+[java/lang/reflect/Method/isSynthetic()]
+
+prob: 0,01176
+[java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01176
+[java.lang.reflect.ParameterizedType]
+
+prob: 0,01176
+[java/lang/Double/valueOf(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(double)]
+
+prob: 0,01176
+[com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/Double/isNaN(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/Number/doubleValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,01176
+[java/lang/Long/valueOf(long), java/lang/String/format(java.lang.String]
+
+prob: 0,01176
+[java/lang/Thread/setPriority(int)]
+
+prob: 0,01176
+[com.google.inject.internal.ProcessedBindingData]
+
+prob: 0,01176
+[android/app/Application/getPackageManager()]
+
+prob: 0,01176
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,01176
+[java/lang/reflect/Constructor/newInstance(java.lang.Object[])]
+
+prob: 0,01176
+[android/app/Application/getPackageName(), java/lang/IllegalStateException/IllegalStateException(java.lang.String]
+
+prob: 0,01176
+[java/lang/Class/newInstance()]
+
+prob: 0,01176
+[int]
+
+prob: 0,01176
+[org/roboguice/shaded/goole/common/collect/ImmutableListMultimap/isPartialView(), org/roboguice/shaded/goole/common/collect/ImmutableList/isEmpty(), java/util/Map$Entry/getValue(]
+
+prob: 0,01176
+[int)]
+
+prob: 0,01176
+[com/google/inject/util/Modules$ModuleWriter/visit(com.google.inject.spi.ScopeBinding), java/lang/StringBuilder/toString(]
+
+prob: 0,01176
+[java/lang/Class/getSimpleName(), java/util/Map/remove(java.lang.Object), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01176
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,01176
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01176
+[java/util/Collection/iterator(), java/util/Collections/unmodifiableSet(java.util.Set), java/util/Iterator/remove(), java/util/Map/get(java.lang.Object]
+
+prob: 0,01176
+[java.lang.reflect.Field)]
+
+prob: 0,01176
+[java.util.Collection]
+
+prob: 0,01176
+[java.util.Map]
+
+prob: 0,01176
+[java/lang/Integer/parseInt(java.lang.String)]
+
+prob: 0,01176
+[java/lang/Long/parseLong(java.lang.String)]
+
+prob: 0,01176
+[java.lang.Object[])]
+
+prob: 0,01176
+[boolean)]
+
+prob: 0,01176
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/concurrent/CountDownLatch/countDown(), java/util/Map/values(), java/util/Iterator/next(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,01176
+[android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[]]
+
+prob: 0,01176
+[android/preference/PreferenceActivity/findPreference(java.lang.CharSequence)]
+
+prob: 0,01176
+[java/lang/reflect/Method/getGenericExceptionTypes(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/reflect/Method/getDeclaringClass(]
+
+prob: 0,01176
+[java/lang/reflect/Constructor/getGenericExceptionTypes(), java/lang/reflect/Constructor/getDeclaringClass()]
+
+prob: 0,01176
+[java/lang/reflect/Constructor/getGenericParameterTypes(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/reflect/Method/getDeclaringClass(]
+
+prob: 0,01176
+[java/lang/reflect/Method/getGenericParameterTypes(), java/lang/StringBuilder/toString(), java/lang/reflect/Constructor/getDeclaringClass()]
+
+prob: 0,01176
+[java/util/Iterator/hasNext(), java/lang/Class/getModifiers(), java/lang/Class/getDeclaredConstructor(java.lang.Class[]), java/lang/Class/getName(), java/util/Set/iterator(), java/lang/reflect/Constructor/getAnnotation(java.lang.Class]
+
+prob: 0,01176
+[java/util/Iterator/hasNext(), java/util/List/isEmpty(), com/google/inject/internal/InjectionRequestProcessor/process(java.lang.Iterable), com/google/inject/internal/LookupProcessor/process(java.lang.Iterable), java/util/Iterator/next(]
+
+prob: 0,01176
+[java/util/Iterator/hasNext(), java/util/Map/values(), java/util/Collections/sort(java.util.List]
+
+prob: 0,01176
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/Object/getClass(), java/util/List/iterator()]
+
+prob: 0,01176
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/concurrent/ConcurrentMap/size(]
+
+prob: 0,01176
+[java/lang/String/length(), java/lang/Integer/toHexString(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/security/MessageDigest/getInstance(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int), java/lang/String/getBytes(java.lang.String), java/lang/String/substring(int]
+
+prob: 0,01176
+[java/util/Map/isEmpty()]
+
+prob: 0,01176
+[java/util/Iterator/next(), java/lang/reflect/Modifier/isPrivate(int), java/lang/reflect/Constructor/getModifiers()]
+
+prob: 0,01176
+[java/util/Iterator/next(), java/util/Collections/unmodifiableList(java.util.List), java/util/List/add(java.lang.Object), java/util/Iterator/hasNext(), java/util/List/isEmpty()]
+
+prob: 0,01176
+[java/lang/reflect/Field/getName(), java/lang/Class/getSimpleName(), android/content/Intent/getExtras(), java/lang/reflect/Field/set(java.lang.Object]
+
+prob: 0,01176
+[java/lang/reflect/Field/getName(), android/content/res/Resources/getString(int), java/lang/reflect/Field/set(java.lang.Object]
+
+prob: 0,01176
+[java/lang/reflect/Field/setAccessible(boolean), android/content/res/Resources/getInteger(int), android/content/res/Resources/getMovie(int), java/lang/Boolean/valueOf(boolean)]
+
+prob: 0,01176
+[java/lang/RuntimeException/RuntimeException(java.lang.Throwable), java/security/MessageDigest/digest(byte[])]
+
+prob: 0,01176
+[roboguice/config/DefaultRoboModule/bind(java.lang.Class), roboguice/config/DefaultRoboModule/bindScope(java.lang.Class]
+
+prob: 0,01176
+[com.google.gson.reflect.TypeToken)]
+
+prob: 0,01176
+[java/lang/ThreadLocal/remove(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01176
+[java/util/BitSet/cardinality()]
+
+prob: 0,01176
+[java/util/Map$Entry/getKey(), java/util/concurrent/ConcurrentMap/entrySet(), java/io/ObjectOutputStream/writeObject(java.lang.Object), java/io/ObjectOutputStream/writeInt(int)]
+
+prob: 0,01176
+[java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/Map/entrySet(), java/util/Iterator/hasNext(), org/roboguice/shaded/goole/common/collect/ImmutableList/size()]
+
+prob: 0,01176
+[java/util/Map$Entry/getKey(), java/util/AbstractCollection/removeAll(java.util.Collection), java/util/Set/removeAll(java.util.Collection), java/util/Collection/contains(java.lang.Object)]
+
+prob: 0,01176
+[java/util/Map$Entry/getKey(), java/util/AbstractCollection/retainAll(java.util.Collection)]
+
+prob: 0,01176
+[java/util/Set/retainAll(java.util.Collection), java/util/Collection/contains(java.lang.Object)]
+
+prob: 0,01176
+[org.roboguice.shaded.goole.common.cache.CacheLoader)]
+
+prob: 0,01176
+[java.util.Collection)]
+
+prob: 0,01176
+[com.google.gson.reflect.TypeToken]
+
+prob: 0,01176
+[java/util/Collection/equals(java.lang.Object)]
+
+prob: 0,01176
+[org/roboguice/shaded/goole/common/collect/ImmutableSet/size(), java/lang/StringBuilder/append(java.lang.Object), java/lang/IllegalArgumentException/getMessage(), java/util/Arrays/asList(java.lang.Object[])]
+
+prob: 0,01176
+[java.lang.reflect.Type]
+
+prob: 0,01176
+[java.util.Comparator)]
+
+prob: 0,01176
+[com/google/inject/util/Modules$OverrideModule/currentStage(), java/util/List/size(), java/util/Iterator/hasNext(), java/lang/Object/getClass(), com/google/inject/spi/PrivateElements/getSource(]
+
+prob: 0,01176
+[com/google/inject/util/Modules$OverrideModule/binder()]
+
+prob: 0,01176
+[com/google/inject/util/Modules$OverrideModule$3/writeAll(java.lang.Iterable)]
+
+prob: 0,01176
+[com/google/inject/util/Modules$OverrideModule$2/writeAll(java.lang.Iterable)]
+
+prob: 0,01176
+[java.lang.Throwable)]
+
+prob: 0,01176
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Double/isInfinite(double), com/google/gson/internal/bind/JsonTreeReader/isLenient(]
+
+prob: 0,01176
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/reflect/Field/setAccessible(boolean), java/lang/RuntimeException/RuntimeException(java.lang.Throwable), android/os/Bundle/get(java.lang.String), java/lang/reflect/Field/getType()]
+
+prob: 0,01176
+[java/util/LinkedHashSet/LinkedHashSet(java.util.Collection)]
+
+prob: 0,01176
+[com/google/inject/util/Modules$OverrideModule$1/writeAll(java.lang.Iterable)]
+
+prob: 0,01176
+[java/util/logging/Logger/warning(java.lang.String), java/lang/StringBuilder/append(java.lang.String), com/google/inject/internal/InternalFlags$IncludeStackTraceOption/valueOf(java.lang.String), java/util/Arrays/asList(java.lang.Object[]), java/lang/StringBuilder/StringBuilder(]
+
+prob: 0,01176
+[com/google/inject/internal/InternalFlags$IncludeStackTraceOption/values()]
+
+prob: 0,01176
+[java/lang/System/getProperty(java.lang.String)]
+
+prob: 0,01176
+[java/lang/reflect/ParameterizedType/getRawType()]
+
+prob: 0,01176
+[java.lang.Class]
+
+prob: 0,01176
+[java/lang/Double/isNaN(double), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(double)]
+
+prob: 0,01176
+[java/lang/Double/isNaN(double), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,01176
+[com.google.gson.JsonElement)]
+
+prob: 0,01176
+[java/lang/Class/forName(java.lang.String), java/lang/String/split(java.lang.String), java/lang/Class/asSubclass(java.lang.Class), android/os/Bundle/getString(java.lang.String), java/util/ArrayList/ArrayList(), android/content/pm/PackageManager/getApplicationInfo(java.lang.String]
+
+prob: 0,01176
+[java/lang/Class/getDeclaredMethod(java.lang.String]
+
+prob: 0,01176
+[java/lang/Double/toString(double)]
+
+prob: 0,01176
+[java/io/Writer/append(java.lang.CharSequence)]
+
+prob: 0,01176
+[java/lang/Class/getSuperclass()]
+
+prob: 0,01176
+[java/lang/reflect/Method/getModifiers()]
+
+prob: 0,01176
+[java/lang/Class/getName()]
+
+prob: 0,01176
+[java/util/List/add(java.lang.Object)]
+
+prob: 0,01176
+[java/lang/Class/getDeclaredConstructor(java.lang.Class[])]
+
+prob: 0,01176
+[android/app/Application/getPackageName()]
+
+prob: 0,01176
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01176
+[java/lang/IllegalArgumentException/getMessage()]
+
+prob: 0,01176
+[java/lang/Class/forName(java.lang.String)]
+
+prob: 0,01176
+[java/lang/String/length()]
+
+prob: 0,01176
+[java/lang/StringBuilder/append(double)]
+
+prob: 0,01176
+[java/lang/Double/isNaN(double)]
+
+prob: 0,01176
+[java/util/Map$Entry/getValue()]
+
+prob: 0,01176
+[java/util/Map/entrySet()]
+
+prob: 0,01176
+[java/util/Map$Entry/getKey()]
+
+prob: 0,01176
+[java/util/Iterator/hasNext()]
+
+prob: 0,01176
+[java/lang/StringBuilder/StringBuilder()]
+

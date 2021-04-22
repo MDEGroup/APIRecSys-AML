@@ -1,0 +1,9 @@
+java/util/Iterator/next()
+com/badlogic/gdx/scenes/scene2d/ui/Container/resetTransform(com.badlogic.gdx.graphics.g2d.Batch)
+org.api.fake
+java/util/Iterator/hasNext()
+java/lang/String/substring(int)
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

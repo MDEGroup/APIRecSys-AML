@@ -1,0 +1,13 @@
+android/app/AlertDialog$Builder/setIcon(int)
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/lang/String/equalsIgnoreCase(java.lang.String)
+android/widget/ArrayAdapter/ArrayAdapter(android.content.Context,int,int,java.lang.Object[])
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/isEmpty()
+java/lang/Exception/getMessage(
+org.api.fake
+java/util/List/size()
+android/content/pm/PackageManager/getLaunchIntentForPackage(java.lang.String
+android/database/Cursor/getInt(int
+android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener)
+org.rand.api

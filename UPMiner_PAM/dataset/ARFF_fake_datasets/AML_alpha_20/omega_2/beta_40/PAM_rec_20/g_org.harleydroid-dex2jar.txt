@@ -1,0 +1,58 @@
+int  0,10526
+java.io.FileDescriptor  0,07018
+android/util/Log/v(java.lang.String  0,07018
+android/content/Intent/putExtra(java.lang.String  0,03509
+boolean)  0,03509
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,03509
+java.lang.String)  0,03509
+android.app.Notification  0,03509
+java.lang.String  0,03509
+java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,03509
+java/lang/StringBuilder/append(java.lang.String)  0,03509
+java/lang/String/length(), java/util/regex/Pattern/matcher(java.lang.CharSequence), java/util/regex/Matcher/group(int), java/lang/Thread/sleep(long), android/util/Log/e(java.lang.String  0,01754
+java/util/concurrent/LinkedBlockingQueue/LinkedBlockingQueue(), android/bluetooth/BluetoothAdapter/cancelDiscovery(), android/bluetooth/BluetoothSocket/getOutputStream(), java/io/IOException/IOException(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,01754
+java.lang.CharSequence)  0,01754
+android/preference/ListPreference/setEntryValues(java.lang.CharSequence[), java/util/ArrayList/ArrayList(), android/bluetooth/BluetoothDevice/getAddress(), java/util/Iterator/hasNext(), android/bluetooth/BluetoothAdapter/getBondedDevices(), java/util/Iterator/next(), java/util/Set/iterator(), android/preference/ListPreference/setEntries(java.lang.CharSequence[), android/bluetooth/BluetoothAdapter/getDefaultAdapter(), android/bluetooth/BluetoothDevice/getName(  0,01754
+android.util.AttributeSet)  0,01754
+android/graphics/Canvas/drawTextOnPath(java.lang.String  0,01754
+android/graphics/Typeface/createFromAsset(android.content.res.AssetManager  0,01754
+android/app/AlertDialog$Builder/setIcon(int), android/app/Activity/getPackageManager(), android/widget/TextView/setText(java.lang.CharSequence), android/app/AlertDialog/show(), android/app/AlertDialog/findViewById(int), android/app/AlertDialog$Builder/setView(android.view.View), android/view/LayoutInflater/from(android.content.Context), android/app/AlertDialog$Builder/setNeutralButton(int  0,01754
+java.io.PrintWriter  0,01754
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/get(int), java/lang/StringBuilder/toString()  0,01754
+java.lang.StringBuilder)  0,01754
+java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int  0,01754
+org/harleydroid/e/setName(java.lang.String)  0,01754
+android/graphics/Canvas/rotate(float), android/graphics/Canvas/restoreToCount(int), android/view/ViewGroup/draw(android.graphics.Canvas), android/support/v4/view/ViewPager/getPaddingTop(), android/support/v4/view/ViewPager/getHeight(), android/support/v4/view/ViewPager/getWidth(), android/graphics/Canvas/translate(float  0,01754
+int)  0,01754
+android/view/MotionEvent/getEdgeFlags(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/widget/Scroller/abortAnimation(), android/view/VelocityTracker/computeCurrentVelocity(int  0,01754
+java/lang/Integer/parseInt(java.lang.String)  0,01754
+android.view.View)  0,01754
+java/lang/Runnable/run(), java/util/ArrayList/get(int), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/Handler/removeCallbacks(java.lang.Runnable), android/os/Handler/getLooper(), java/util/ArrayList/clear(  0,01754
+java/lang/Runnable/run(), java/util/ArrayList/size(), android/widget/Scroller/getCurrY(), android/support/v4/view/ViewPager/getScrollY(), java/util/ArrayList/get(int), android/support/v4/view/ViewPager/scrollTo(int  0,01754
+java/util/ArrayList/size(), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int)  0,01754
+android/support/v4/view/ViewPager/getScrollX()  0,01754
+float  0,01754
+android/widget/Scroller/computeScrollOffset(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getY(), java/lang/Math/abs(int), android/view/VelocityTracker/obtain(  0,01754
+android/widget/Scroller/getFinalX(), android/widget/Scroller/abortAnimation(), android/view/MotionEvent/getAction(), java/lang/Math/abs(float), android/widget/Scroller/getCurrX()  0,01754
+android/view/VelocityTracker/recycle()  0,01754
+android/view/MotionEvent/getX()  0,01754
+java/lang/Thread/sleep(long), java/lang/String/split(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/String/format(java.lang.String  0,01754
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01754
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/toArray(java.lang.Object[), java/lang/StringBuilder/toString()  0,01754
+android/view/View/getRight(), java/lang/StringBuilder/toString()  0,01754
+android/view/View/isHorizontalScrollBarEnabled(), java/lang/StringBuilder/append(java.lang.String), android/view/View/getId(), java/lang/System/identityHashCode(java.lang.Object), java/lang/Integer/toHexString(int), java/lang/StringBuilder/StringBuilder(int), java/lang/Class/getName(), android/view/View/isEnabled(), java/lang/StringBuilder/append(char), android/view/View/isLongClickable(), java/lang/Object/getClass(), android/view/View/getBottom(), android/content/res/Resources/getResourcePackageName(int), android/view/View/willNotDraw(), android/content/res/Resources/getResourceTypeName(int), android/view/View/getVisibility(), android/view/View/isFocusable(), android/view/View/isFocused(), android/view/View/getResources(), android/view/View/isClickable(), android/view/View/isPressed(), android/content/res/Resources/getResourceEntryName(int), android/view/View/isVerticalScrollBarEnabled(), android/view/View/getTop(), android/view/View/getLeft(), android/view/View/isSelected(  0,01754
+java/io/PrintWriter/PrintWriter(java.io.Writer), java/lang/StringBuilder/append(int), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String  0,01754
+android.content.Context  0,01754
+java/io/FileOutputStream/FileOutputStream(java.io.File  0,01754
+java.util.ArrayList)  0,01754
+android.support.v4.app.b)  0,01754
+android/os/Looper/myLooper(), java/util/ArrayList/toArray(java.lang.Object[), java/util/ArrayList/size()  0,01754
+android/widget/Toast/setText(int), android/content/Intent/Intent(android.content.Context  0,01754
+java/lang/Math/max(int  0,01754
+android/widget/Scroller/getCurrX()  0,01754
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size()  0,01754
+java/lang/StringBuilder/toString()  0,01754
+java/util/ArrayList/size()  0,01754
+java/lang/StringBuilder/append(int)  0,01754
+java/util/ArrayList/add(java.lang.Object)  0,01754
+java/lang/StringBuilder/StringBuilder()  0,01754

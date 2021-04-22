@@ -1,0 +1,11 @@
+java/util/zip/ZipInputStream/read(byte[])
+java/util/Map$Entry/getValue(
+java/util/Iterator/next()
+java/util/List/add(java.lang.Object)
+org.api.fake
+java/util/Iterator/hasNext()
+java/util/Set/iterator()
+android/content/Context/getFilesDir(
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/StringBuilder()
+java/util/Map$Entry/getKey()

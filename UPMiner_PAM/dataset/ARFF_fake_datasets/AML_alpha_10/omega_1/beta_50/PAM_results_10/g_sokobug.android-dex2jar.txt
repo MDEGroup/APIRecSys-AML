@@ -1,0 +1,240 @@
+prob: 0,13235
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,07353
+[float)]
+
+prob: 0,07353
+[int]
+
+prob: 0,05882
+[java/lang/StringBuilder/toString()]
+
+prob: 0,04412
+[android/content/res/AssetManager/list(java.lang.String), java/io/File/File(java.io.File]
+
+prob: 0,04412
+[java/util/Iterator/hasNext(), java/util/Iterator/next()]
+
+prob: 0,02941
+[java.lang.Class]
+
+prob: 0,02941
+[java/lang/String/length(), java/lang/String/charAt(int)]
+
+prob: 0,02941
+[com/badlogic/gdx/jnigen/BuildTarget/newDefaultTarget(com.badlogic.gdx.jnigen.BuildTarget$TargetOs]
+
+prob: 0,02941
+[java/lang/StringBuilder/append(int), java/util/Map/get(java.lang.Object), java/util/Set/iterator(), java/util/Map/keySet(]
+
+prob: 0,02941
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(boolean), java/lang/Object/hashCode(), android/util/Log/d(java.lang.String]
+
+prob: 0,02941
+[float]
+
+prob: 0,02941
+[android/view/SurfaceHolder$Callback/surfaceDestroyed(android.view.SurfaceHolder)]
+
+prob: 0,02941
+[java/lang/StringBuilder/append(boolean)]
+
+prob: 0,02941
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01471
+[java/io/DataInputStream/readFloat(), java/net/ServerSocket/accept(), java/net/Socket/setTcpNoDelay(boolean]
+
+prob: 0,01471
+[java/net/Socket/setSoTimeout(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/io/DataInputStream/readInt(), java/io/DataInputStream/DataInputStream(java.io.InputStream), java/io/DataInputStream/readChar()]
+
+prob: 0,01471
+[com/badlogic/gdx/scenes/scene2d/ui/Table/drawDebugChildren(com.badlogic.gdx.graphics.glutils.ShapeRenderer), com/badlogic/gdx/scenes/scene2d/ui/Table/getWidth(), com/badlogic/gdx/scenes/scene2d/ui/Table/computeTransform(), com/badlogic/gdx/scenes/scene2d/ui/Table/resetTransform(com.badlogic.gdx.graphics.glutils.ShapeRenderer), com/badlogic/gdx/scenes/scene2d/ui/WidgetGroup/drawDebug(com.badlogic.gdx.graphics.glutils.ShapeRenderer), com/badlogic/gdx/scenes/scene2d/ui/Table/applyTransform(com.badlogic.gdx.graphics.glutils.ShapeRenderer]
+
+prob: 0,01471
+[com.badlogic.gdx.Net$HttpResponseListener)]
+
+prob: 0,01471
+[java/lang/StringBuffer/toString(), java/util/Set/iterator(), java/util/Map/keySet(]
+
+prob: 0,01471
+[java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/deleteCharAt(int), java/lang/StringBuffer/StringBuffer(), java/util/Map/get(java.lang.Object), java/lang/StringBuffer/length()]
+
+prob: 0,01471
+[java.lang.String)]
+
+prob: 0,01471
+[com.badlogic.gdx.backends.android.AndroidApplicationConfiguration]
+
+prob: 0,01471
+[com/badlogic/gdx/scenes/scene2d/ui/SelectBox$SelectBoxList/setY(float), com/badlogic/gdx/scenes/scene2d/ui/List/setTouchable(com.badlogic.gdx.scenes.scene2d.Touchable), com/badlogic/gdx/scenes/scene2d/ui/List/getHeight(), com/badlogic/gdx/scenes/scene2d/ui/SelectBox/getWidth(), java/lang/Math/max(float]
+
+prob: 0,01471
+[java/lang/Class/getResourceAsStream(java.lang.String), java/io/File/isDirectory(), java/lang/String/replace(char]
+
+prob: 0,01471
+[com/badlogic/gdx/backends/android/AndroidFileHandle/type(), android/media/SoundPool/load(java.lang.String]
+
+prob: 0,01471
+[java.lang.Object[])]
+
+prob: 0,01471
+[android/media/MediaPlayer/setDataSource(java.io.FileDescriptor]
+
+prob: 0,01471
+[java/io/BufferedReader/close(), java/lang/String/toLowerCase(), java/io/BufferedReader/readLine(), java/lang/String/String(java.lang.String), java/lang/Float/parseFloat(java.lang.String), java/lang/String/split(java.lang.String), java/lang/String/trim(), java/lang/String/equals(java.lang.Object), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader]
+
+prob: 0,01471
+[com/badlogic/gdx/scenes/scene2d/ui/Container/resetTransform(com.badlogic.gdx.graphics.glutils.ShapeRenderer), com/badlogic/gdx/scenes/scene2d/ui/Container/getHeight(), com/badlogic/gdx/scenes/scene2d/ui/Container/clipBegin(float]
+
+prob: 0,01471
+[java.util.Locale]
+
+prob: 0,01471
+[java/util/Locale/getVariant(), java/lang/String/length(), java/util/Locale/Locale(java.lang.String), java/util/List/size(), java/util/Locale/getCountry(), java/util/Locale/getLanguage(), java/util/Locale/Locale(java.lang.String]
+
+prob: 0,01471
+[java/util/ArrayList/ArrayList(int)]
+
+prob: 0,01471
+[java/lang/Integer/intValue(), java/lang/Float/floatValue(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/Long/longValue(), java/util/Set/iterator(]
+
+prob: 0,01471
+[java/util/Map$Entry/getKey()]
+
+prob: 0,01471
+[java/lang/Boolean/booleanValue()]
+
+prob: 0,01471
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence]
+
+prob: 0,01471
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,01471
+[android/content/Context/getString(int), android/widget/EditText/setSingleLine()]
+
+prob: 0,01471
+[android/view/Surface/isValid(), com/badlogic/gdx/backends/android/AndroidLiveWallpaperService$AndroidWallpaperEngine/isVisible(), android/view/SurfaceHolder/getSurface()]
+
+prob: 0,01471
+[android/service/wallpaper/WallpaperService$Engine/onVisibilityChanged(boolean)]
+
+prob: 0,01471
+[com/badlogic/gdx/backends/android/AndroidLiveWallpaperService$AndroidWallpaperEngine/getSurfaceHolder(), java/lang/StringBuilder/toString()]
+
+prob: 0,01471
+[java/nio/ByteOrder/nativeOrder(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/nio/ByteBuffer/order(java.nio.ByteOrder), java/nio/IntBuffer/flip(), java/nio/IntBuffer/put(int), java/nio/IntBuffer/get(int), java/nio/ByteBuffer/allocateDirect(int), java/nio/ByteBuffer/asIntBuffer(), java/nio/IntBuffer/clear(]
+
+prob: 0,01471
+[java/nio/FloatBuffer/position(), java/nio/FloatBuffer/flip(), java/nio/FloatBuffer/limit(int), java/lang/StringBuilder/toString(), java/nio/FloatBuffer/position(int]
+
+prob: 0,01471
+[com/badlogic/gdx/graphics/Texture/getTextureObjectHandle()]
+
+prob: 0,01471
+[java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(java.lang.String), java/lang/Integer/parseInt(java.lang.String]
+
+prob: 0,01471
+[java.io.Reader)]
+
+prob: 0,01471
+[java/io/IOException/IOException(java.lang.String), java/lang/Number/doubleValue(), java/lang/Number/intValue(), java/lang/Number/byteValue(), java/lang/Number/floatValue(), java/lang/Number/shortValue(), java/lang/Object/toString(), java/lang/Character/charValue(), java/lang/Number/longValue(]
+
+prob: 0,01471
+[java/io/DataInputStream/readBoolean(), java/io/PrintStream/println(java.lang.String)]
+
+prob: 0,01471
+[java/lang/Object/equals(java.lang.Object), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/Class/getName(), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/getClass(]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int), java/io/InputStreamReader/read(char[]), java/io/InputStreamReader/InputStreamReader(java.io.InputStream]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Math/max(int]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.String), android/service/wallpaper/WallpaperService$Engine/onCreate(android.view.SurfaceHolder), java/lang/Thread/currentThread(), java/lang/Thread/toString(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.String), android/view/SurfaceHolder$Callback/surfaceCreated(android.view.SurfaceHolder)]
+
+prob: 0,01471
+[com.badlogic.gdx.backends.android.AndroidApplicationConfiguration)]
+
+prob: 0,01471
+[java/io/DataOutputStream/write(byte[]]
+
+prob: 0,01471
+[com.badlogic.gdx.files.FileHandle]
+
+prob: 0,01471
+[com.badlogic.gdx.files.FileHandle)]
+
+prob: 0,01471
+[com.badlogic.gdx.utils.XmlReader$Element]
+
+prob: 0,01471
+[boolean)]
+
+prob: 0,01471
+[java/util/zip/InflaterInputStream/InflaterInputStream(java.io.InputStream), java/nio/ByteBuffer/put(byte[]]
+
+prob: 0,01471
+[java/io/DataInputStream/read(byte[])]
+
+prob: 0,01471
+[java/nio/ByteBuffer/position(int)]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(int), java/lang/Error/Error(java.lang.String), android/view/SurfaceHolder/removeCallback(android.view.SurfaceHolder$Callback), android/service/wallpaper/WallpaperService$Engine/onSurfaceCreated(android.view.SurfaceHolder), java/lang/StringBuilder/append(java.lang.String), com/badlogic/gdx/backends/android/AndroidLiveWallpaperService$AndroidWallpaperEngine/getSurfaceHolder(), android/util/Log/i(java.lang.String]
+
+prob: 0,01471
+[com.badlogic.gdx.graphics.Pixmap)]
+
+prob: 0,01471
+[java/lang/String/substring(int]
+
+prob: 0,01471
+[java/io/File/canWrite(), java/io/File/File(java.io.File]
+
+prob: 0,01471
+[java.lang.String]
+
+prob: 0,01471
+[java/io/File/getName(), java/lang/StringBuilder/append(java.lang.String), java/io/File/exists(), java/io/File/File(java.lang.String), java/io/File/File(java.lang.String]
+
+prob: 0,01471
+[java/io/DataInputStream/readInt(), java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01471
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/deleteCharAt(int), java/lang/Integer/valueOf(int), java/lang/StringBuilder/length(), java/lang/StringBuilder/toString(]
+
+prob: 0,01471
+[android/widget/TextView/setFocusable(boolean), android/widget/FrameLayout/FrameLayout(android.content.Context), android/widget/TextView/setFocusableInTouchMode(boolean), android/widget/TextView/setOnKeyListener(android.view.View$OnKeyListener), android/app/Dialog/Dialog(android.content.Context]
+
+prob: 0,01471
+[com/badlogic/gdx/scenes/scene2d/ui/Window/getRight(), com/badlogic/gdx/scenes/scene2d/ui/Window/getStage(), com/badlogic/gdx/scenes/scene2d/ui/Window/setX(float), com/badlogic/gdx/scenes/scene2d/ui/Window/getTop(), com/badlogic/gdx/scenes/scene2d/ui/Window/getParent(), com/badlogic/gdx/scenes/scene2d/ui/Window/getX(), com/badlogic/gdx/scenes/scene2d/ui/Window/getY(), com/badlogic/gdx/scenes/scene2d/ui/Window/getWidth(), com/badlogic/gdx/scenes/scene2d/ui/Window/setY(float), com/badlogic/gdx/scenes/scene2d/ui/Window/getHeight(]
+
+prob: 0,01471
+[java/util/ArrayList/remove(int), java/lang/Object/wait(), android/opengl/GLSurfaceView$Renderer/onDrawFrame(javax.microedition.khronos.opengles.GL10), java/lang/ref/WeakReference/get(), java/util/ArrayList/isEmpty(), java/lang/Runnable/run(), android/opengl/GLSurfaceView$Renderer/onSurfaceChanged(javax.microedition.khronos.opengles.GL10]
+
+prob: 0,01471
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/util/Log/i(java.lang.String]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(int), android/view/SurfaceHolder$Callback/surfaceDestroyed(android.view.SurfaceHolder), java/lang/Object/hashCode(), com/badlogic/gdx/backends/android/AndroidLiveWallpaperService$AndroidWallpaperEngine/getSurfaceHolder(), android/util/Log/i(java.lang.String]
+
+prob: 0,01471
+[java/io/File/exists()]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01471
+[java/lang/Object/hashCode()]
+

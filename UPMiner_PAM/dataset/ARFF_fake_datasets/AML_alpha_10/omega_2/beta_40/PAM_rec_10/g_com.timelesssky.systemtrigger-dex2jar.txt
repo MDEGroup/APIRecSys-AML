@@ -1,0 +1,15 @@
+java/io/InputStream/close(), java/lang/Boolean/valueOf(boolean), java/lang/reflect/Method/invoke(java.lang.Object  0,12500
+java/lang/Object/toString(), android/widget/TextView/setText(java.lang.CharSequence), com/timelesssky/systemtrigger/MainActivity/getString(int  0,12500
+java/lang/String/split(java.lang.String), java/lang/Runtime/getRuntime(), java/lang/StringBuilder/StringBuilder(), java/lang/Exception/toString(), android/util/Log/i(java.lang.String  0,12500
+java/lang/Process/getErrorStream(), java/lang/Runtime/getRuntime(), java/util/Set/iterator(), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/lang/Process/getInputStream(), java/lang/Runtime/exec(java.lang.String  0,12500
+java/util/Iterator/hasNext(), eu/chainfire/libsuperuser/StreamGobbler/start(), java/util/Map/putAll(java.util.Map), java/util/Map/size(), java/lang/Runtime/exec(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,12500
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/DialogFragment/show(android.app.FragmentManager  0,12500
+java/lang/Process/destroy(), java/io/DataOutputStream/write(byte[), java/lang/String/format(java.lang.String  0,12500
+java/io/DataOutputStream/close(), eu/chainfire/libsuperuser/StreamGobbler/join(), java/lang/String/contains(java.lang.CharSequence), java/lang/Process/waitFor(), java/io/IOException/getMessage()  0,12500
+java/util/ArrayList/ArrayList(), java/io/DataOutputStream/write(byte[), java/lang/String/format(java.lang.String  0,12500
+java/util/List/remove(int), java/util/List/size(), java/util/Collections/synchronizedList(java.util.List)  0,12500
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), com/timelesssky/systemtrigger/MainActivity/getString(int), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), java/lang/StringBuilder/toString()  0,12500
+java.lang.String[  0,12500
+java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String)  0,12500
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()  0,12500
+java/lang/StringBuilder/append(java.lang.String)  0,12500

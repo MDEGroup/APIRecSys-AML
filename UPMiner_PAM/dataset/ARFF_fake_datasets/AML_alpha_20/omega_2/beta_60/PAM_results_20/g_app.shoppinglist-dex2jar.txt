@@ -1,0 +1,261 @@
+prob: 0,18382
+[org.api.fake]
+
+prob: 0,18382
+[org.rand.api]
+
+prob: 0,08824
+[java.util.HashMap]
+
+prob: 0,05147
+[java.lang.String]
+
+prob: 0,04412
+[java.lang.String)]
+
+prob: 0,02941
+[int)]
+
+prob: 0,02206
+[boolean)]
+
+prob: 0,02206
+[org.ksoap2.SoapEnvelope]
+
+prob: 0,02206
+[java.lang.Class)]
+
+prob: 0,02206
+[java.lang.Object]
+
+prob: 0,02206
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01471
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/String/substring(int]
+
+prob: 0,01471
+[int]
+
+prob: 0,01471
+[java/util/ArrayList/ArrayList(), android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,01471
+[android/content/Context/getPackageManager(), android/content/Intent/Intent(java.lang.String]
+
+prob: 0,01471
+[java/lang/String/length(), java/util/Hashtable/get(java.lang.Object), java/lang/Integer/parseInt(java.lang.String]
+
+prob: 0,01471
+[java/lang/String/length(), java/lang/String/substring(int]
+
+prob: 0,01471
+[java/lang/StringBuilder/toString()]
+
+prob: 0,00735
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuffer/append(char), java/lang/String/length(), java/lang/StringBuffer/toString(), java/lang/String/substring(int]
+
+prob: 0,00735
+[android/database/Cursor/getColumnIndex(java.lang.String), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/ref/WeakReference/get(), android/database/Cursor/getColumnName(int), android/content/SharedPreferences$Editor/commit(), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,00735
+[android.util.AttributeSet)]
+
+prob: 0,00735
+[java/lang/Character/toUpperCase(char), java/lang/String/charAt(int), java/lang/StringBuffer/append(char), java/lang/Character/isLowerCase(char), java/lang/Character/isUpperCase(char), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/StringBuffer(]
+
+prob: 0,00735
+[android/widget/PopupWindow/setBackgroundDrawable(android.graphics.drawable.Drawable), android/widget/PopupWindow/setContentView(android.view.View), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/graphics/drawable/BitmapDrawable/BitmapDrawable(), android/widget/PopupWindow/setOutsideTouchable(boolean), android/widget/PopupWindow/setTouchable(boolean), android/widget/PopupWindow/setHeight(int), android/widget/PopupWindow/setFocusable(boolean), android/widget/PopupWindow/setWidth(int]
+
+prob: 0,00735
+[java/net/HttpURLConnection/getHeaderFields(), java/util/List/add(java.lang.Object), java/util/Map/keySet(]
+
+prob: 0,00735
+[java.util.Map]
+
+prob: 0,00735
+[java/util/StringTokenizer/nextToken()]
+
+prob: 0,00735
+[java/util/Hashtable/get(java.lang.Object), java/lang/Boolean/booleanValue(), java/lang/StringBuffer/StringBuffer(]
+
+prob: 0,00735
+[java/util/StringTokenizer/StringTokenizer(java.lang.String)]
+
+prob: 0,00735
+[java/util/StringTokenizer/hasMoreTokens()]
+
+prob: 0,00735
+[java/lang/Long/parseLong(java.lang.String)]
+
+prob: 0,00735
+[java/lang/Float/parseFloat(java.lang.String)]
+
+prob: 0,00735
+[boolean]
+
+prob: 0,00735
+[android/widget/RelativeLayout/setGravity(int), java/lang/StringBuilder/append(java.lang.String), android/content/Intent/putExtras(android.os.Bundle), android/content/Intent/getExtras(), android/content/ComponentName/ComponentName(java.lang.String]
+
+prob: 0,00735
+[android.app.Activity)]
+
+prob: 0,00735
+[java/lang/Object/equals(java.lang.Object), java/lang/Object/wait(long), java/lang/StringBuilder/append(java.lang.Object]
+
+prob: 0,00735
+[android/os/SystemClock/elapsedRealtime()]
+
+prob: 0,00735
+[java/lang/Object/toString(), java/lang/StringBuffer/toString()]
+
+prob: 0,00735
+[android.view.View]
+
+prob: 0,00735
+[java/lang/StringBuffer/append(java.lang.Object)]
+
+prob: 0,00735
+[java/lang/String/equals(java.lang.Object), android/text/TextUtils/isEmpty(java.lang.CharSequence)]
+
+prob: 0,00735
+[java/lang/String/toLowerCase(), java/lang/String/length(), java/lang/String/substring(int]
+
+prob: 0,00735
+[java/io/IOException/IOException(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/String/startsWith(java.lang.String), java/io/ByteArrayOutputStream/ByteArrayOutputStream(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int), java/lang/StringBuilder/toString(), java/lang/String/endsWith(java.lang.String]
+
+prob: 0,00735
+[java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/net/HttpURLConnection/getHeaderField(java.lang.String]
+
+prob: 0,00735
+[java/lang/StringBuilder/toString(), java/lang/String/toLowerCase(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/Exception/toString(]
+
+prob: 0,00735
+[java/lang/Class/newInstance(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/util/Vector/elementAt(int), java/lang/Exception/toString(]
+
+prob: 0,00735
+[java/lang/Class/newInstance(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/util/Vector/elementAt(int), java/lang/Exception/toString(), java/util/Enumeration/hasMoreElements(), java/util/Enumeration/nextElement()]
+
+prob: 0,00735
+[java/util/Vector/size(), java/lang/StringBuffer/length(), java/util/Vector/addElement(java.lang.Object), java/lang/StringBuffer/setLength(int), java/util/Vector/Vector(), java/lang/Math/min(int]
+
+prob: 0,00735
+[java/util/Vector/size(), java/lang/Class/getName(), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuilder/toString(), java/util/Hashtable/keys()]
+
+prob: 0,00735
+[java/util/Vector/size(), java/lang/StringBuffer/StringBuffer(), java/lang/StringBuilder/toString()]
+
+prob: 0,00735
+[java/util/Vector/elementAt(int), java/lang/StringBuffer/toString()]
+
+prob: 0,00735
+[android/view/View/setClickable(boolean), android/view/LayoutInflater/inflate(int]
+
+prob: 0,00735
+[android/view/View/getMeasuredWidth(), android/view/View/getWidth(), android/view/ViewGroup/startAnimation(android.view.animation.Animation), android/widget/PopupWindow/showAtLocation(android.view.View]
+
+prob: 0,00735
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(), org/json/JSONArray/JSONArray(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Set/isEmpty(]
+
+prob: 0,00735
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,00735
+[java/util/Iterator/hasNext(), java/util/Map/get(java.lang.Object), java/util/List/size(), java/util/LinkedList/LinkedList(), java/util/Set/iterator(), java/util/List/get(int), java/util/Iterator/next(), java/util/Map/keySet(), java/util/List/add(java.lang.Object), javax/net/ssl/HttpsURLConnection/getHeaderFields(]
+
+prob: 0,00735
+[java/util/Map/get(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(long)]
+
+prob: 0,00735
+[java/util/Set/iterator(), java/util/Map/isEmpty(), java/util/Map/get(java.lang.Object)]
+
+prob: 0,00735
+[java/util/Iterator/next(), java/lang/StringBuilder/append(java.lang.Object), org/json/JSONArray/put(java.lang.Object)]
+
+prob: 0,00735
+[java/io/IOException/getMessage(), javax/xml/parsers/DocumentBuilderFactory/newDocumentBuilder(), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), org/xml/sax/SAXException/getMessage(), java/lang/StringBuilder/StringBuilder(java.lang.String), org/xml/sax/InputSource/InputSource(), javax/xml/parsers/DocumentBuilderFactory/newInstance(]
+
+prob: 0,00735
+[java/io/StringReader/StringReader(java.lang.String)]
+
+prob: 0,00735
+[javax/xml/parsers/DocumentBuilder/parse(org.xml.sax.InputSource)]
+
+prob: 0,00735
+[org/xml/sax/InputSource/setCharacterStream(java.io.Reader)]
+
+prob: 0,00735
+[javax/xml/parsers/ParserConfigurationException/getMessage()]
+
+prob: 0,00735
+[org/apache/http/util/EntityUtils/toString(org.apache.http.HttpEntity), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), org/apache/http/client/methods/HttpPost/HttpPost(java.lang.String), org/apache/http/impl/client/DefaultHttpClient/execute(org.apache.http.client.methods.HttpUriRequest), org/apache/http/HttpResponse/getEntity(), java/lang/StringBuilder/toString(]
+
+prob: 0,00735
+[android/widget/EditText/getText(), org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient()]
+
+prob: 0,00735
+[android/app/Activity/onCreate(android.os.Bundle), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), app/shoppinglist/HomeActivity/setContentView(int), android/widget/ListView/setAdapter(android.widget.ListAdapter), android/graphics/Typeface/createFromAsset(android.content.res.AssetManager]
+
+prob: 0,00735
+[java/lang/Long/valueOf(long), java/lang/StringBuilder/append(java.lang.String), java/lang/String/format(java.lang.String]
+
+prob: 0,00735
+[android/location/Location/getAccuracy()]
+
+prob: 0,00735
+[java/lang/System/getProperty(java.lang.String]
+
+prob: 0,00735
+[java/lang/String/length(), java/io/OutputStream/write(int), java/io/InputStream/read(), java/lang/RuntimeException/RuntimeException(java.lang.String)]
+
+prob: 0,00735
+[java/net/HttpURLConnection/disconnect(), java/net/URL/openConnection(), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,00735
+[java/net/HttpURLConnection/disconnect(), java/net/URL/openConnection(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/net/HttpURLConnection/setInstanceFollowRedirects(boolean]
+
+prob: 0,00735
+[java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/getResponseCode(), java/net/HttpURLConnection/connect(), java/lang/StringBuilder/append(int)]
+
+prob: 0,00735
+[java/lang/String/toLowerCase(), java/lang/String/substring(int]
+
+prob: 0,00735
+[java/io/IOException/IOException(java.lang.String), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,00735
+[java/util/Vector/size(), java/util/Vector/addElement(java.lang.Object)]
+
+prob: 0,00735
+[java/lang/Class/getName()]
+
+prob: 0,00735
+[java/util/Iterator/hasNext(), java/util/Map/get(java.lang.Object), java/util/List/size(), java/util/LinkedList/LinkedList(), java/util/Set/iterator(), java/util/List/get(int), java/util/Iterator/next()]
+
+prob: 0,00735
+[java/lang/String/charAt(int)]
+
+prob: 0,00735
+[android/database/sqlite/SQLiteDatabase/rawQuery(java.lang.String]
+
+prob: 0,00735
+[java/io/PrintStream/println(java.lang.String)]
+
+prob: 0,00735
+[java/lang/Class/newInstance()]
+
+prob: 0,00735
+[java/lang/StringBuffer/append(java.lang.String)]
+
+prob: 0,00735
+[java/lang/StringBuffer/toString()]
+
+prob: 0,00735
+[java/util/Set/iterator()]
+
+prob: 0,00735
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,00735
+[java/lang/String/length()]
+

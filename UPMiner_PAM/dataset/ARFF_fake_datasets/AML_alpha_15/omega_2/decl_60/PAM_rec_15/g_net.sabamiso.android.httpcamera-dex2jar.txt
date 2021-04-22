@@ -1,0 +1,22 @@
+int)  0,17857
+int  0,10714
+java.lang.String)  0,07143
+java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,07143
+android/app/AlertDialog/setMessage(java.lang.CharSequence), android/app/AlertDialog/show(), android/util/Log/e(java.lang.String  0,03571
+java/lang/Math/min(long  0,03571
+java/util/Map/get(java.lang.Object), java/util/HashMap/HashMap(), java/lang/String/substring(int  0,03571
+java.nio.ByteBuffer  0,03571
+java.util.Map  0,03571
+fi/iki/elonen/NanoHTTPD$Response$Status/getDescription(), java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/lang/Error/Error(java.lang.String), java/util/TimeZone/getTimeZone(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Date/Date(), java/util/Set/iterator(), java/text/SimpleDateFormat/SimpleDateFormat(java.lang.String  0,03571
+java.io.PrintWriter)  0,03571
+java/lang/Integer/intValue(), java/util/concurrent/Semaphore/tryAcquire(long  0,03571
+android/view/Surface/Surface(android.graphics.SurfaceTexture), android/hardware/camera2/CaptureRequest$Builder/addTarget(android.view.Surface), java/lang/StringBuilder/append(int), java/util/Arrays/asList(java.lang.Object[)  0,03571
+android/graphics/Canvas/drawBitmap(android.graphics.Bitmap  0,03571
+org/opencv/android/CameraBridgeViewBase/getWidth(), android/app/AlertDialog/show(), android/util/Log/d(java.lang.String  0,03571
+android/hardware/Camera/setParameters(android.hardware.Camera$Parameters), android/hardware/Camera/setPreviewTexture(android.graphics.SurfaceTexture), android/hardware/Camera/open(), java/io/IOException/getMessage(), android/hardware/Camera/open(int)  0,03571
+android.os.Parcel  0,03571
+org.opencv.android.InstallCallbackInterface)  0,03571
+android.os.IBinder)  0,03571
+java/lang/String/split(java.lang.String), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,03571
+java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/StringBuilder/toString(), java/io/PushbackInputStream/read(byte[  0,03571
+boolean  0,03571

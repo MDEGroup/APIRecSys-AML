@@ -1,0 +1,31 @@
+java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,19231
+java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context  0,07692
+com/google/android/maps/GeoPoint/GeoPoint(int  0,07692
+com/google/android/maps/MapController/animateTo(com.google.android.maps.GeoPoint  0,07692
+com.google.android.maps.MapView  0,07692
+java.util.List)  0,07692
+android/webkit/WebSettings/setJavaScriptEnabled(boolean), android/widget/ImageView/setOnClickListener(android.view.View$OnClickListener), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), android/webkit/WebView/getSettings(), org/bouldercounty/parks/trails/TrailUpdatesWebActivity/getResources(), android/webkit/WebView/loadUrl(java.lang.String), java/lang/StringBuilder/toString(  0,03846
+java/lang/String/equalsIgnoreCase(java.lang.String), android/app/ProgressDialog/dismiss(), com/google/android/maps/MapController/setCenter(com.google.android.maps.GeoPoint), java/lang/StringBuilder/toString(), java/util/List/addAll(java.util.Collection)  0,03846
+android/content/res/Resources/getString(int), android/os/AsyncTask/onPostExecute(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), com/google/android/maps/MapController/setZoom(int), com/google/android/maps/MapView/getController(), com/google/android/maps/MapView/postInvalidate(), android/util/Log/e(java.lang.String  0,03846
+java/util/Map/get(java.lang.Object)  0,03846
+java/lang/String/length(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,03846
+java/util/ArrayList/ArrayList(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/content/res/Resources/openRawResource(int)  0,03846
+java/io/IOException/getMessage(), java/io/FileNotFoundException/getMessage(), java/lang/Exception/toString()  0,03846
+java/lang/Exception/toString(), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,03846
+java/lang/Object/equals(java.lang.Object), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/equals(java.lang.Object)  0,03846
+android.view.View  0,03846
+java.lang.String  0,03846
+org/xml/sax/InputSource/setByteStream(java.io.InputStream), javax/xml/parsers/SAXParserFactory/newSAXParser(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,03846
+java/io/ByteArrayInputStream/ByteArrayInputStream(byte[), java/lang/StringBuilder/StringBuilder(java.lang.String), javax/xml/parsers/SAXParser/getXMLReader()  0,03846
+javax/xml/parsers/SAXParserFactory/newInstance()  0,03846
+org/bouldercounty/parks/trails/aa/execute(java.lang.Object[), com/google/android/maps/MapController/setZoom(int), com/google/android/maps/MapView/getController(), com/google/android/maps/MapView/postInvalidate(), android/util/Log/e(java.lang.String  0,03846
+android/widget/CheckBox/setOnClickListener(android.view.View$OnClickListener), com/google/android/maps/MapView/removeAllViews(), org/bouldercounty/parks/trails/BoulderCountyMap/findViewById(int), android/widget/ImageButton/setImageResource(int), java/util/List/isEmpty()  0,03846
+double)  0,03846
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/location/LocationManager/isProviderEnabled(java.lang.String), android/app/AlertDialog/show(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,03846
+int)  0,03846
+org/bouldercounty/parks/trails/d/findViewById(int), java/util/List/size(), com/google/android/maps/OverlayItem/getPoint(), com/google/android/maps/MapView$LayoutParams/MapView$LayoutParams(int  0,03846
+org/bouldercounty/parks/trails/d/setVisibility(int), com/google/android/maps/MapView/getContext(), com/google/android/maps/MapController/setCenter(com.google.android.maps.GeoPoint), java/util/Iterator/hasNext(), java/util/Iterator/next()  0,03846
+java/util/Iterator/hasNext(), java/util/Iterator/next()  0,03846
+android/os/AsyncTask/onPostExecute(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), com/google/android/maps/MapController/setZoom(int), com/google/android/maps/MapView/getController(), com/google/android/maps/MapView/postInvalidate(), android/util/Log/e(java.lang.String  0,03846
+android/app/ProgressDialog/dismiss(), com/google/android/maps/MapController/setCenter(com.google.android.maps.GeoPoint), java/lang/StringBuilder/toString(), java/util/List/addAll(java.util.Collection)  0,03846
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,03846

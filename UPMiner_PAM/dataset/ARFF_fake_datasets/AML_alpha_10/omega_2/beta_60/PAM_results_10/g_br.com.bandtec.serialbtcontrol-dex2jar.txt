@@ -1,0 +1,45 @@
+prob: 0,16667
+[org.api.fake]
+
+prob: 0,16667
+[org.rand.api]
+
+prob: 0,13333
+[java.lang.String)]
+
+prob: 0,10000
+[int]
+
+prob: 0,10000
+[boolean)]
+
+prob: 0,03333
+[br/com/bandtec/serialbtcontrol/b/j(), android/bluetooth/BluetoothAdapter/cancelDiscovery(), android/bluetooth/BluetoothDevice/getAddress(), android/bluetooth/BluetoothAdapter/getBondedDevices(), java/lang/StringBuilder/StringBuilder(java.lang.String), br/com/bandtec/serialbtcontrol/ui/BgButton/setOnClickListener(android.view.View$OnClickListener), java/util/Set/iterator(), br/com/bandtec/serialbtcontrol/ui/BgTextView/setTextColor(android.content.res.ColorStateList), br/com/bandtec/serialbtcontrol/ui/BgListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), java/lang/String/valueOf(java.lang.Object), br/com/bandtec/serialbtcontrol/activity/ActivityHost/registerReceiver(android.content.BroadcastReceiver]
+
+prob: 0,03333
+[br/com/bandtec/serialbtcontrol/d/j(), android/content/res/Resources/getString(int), br/com/bandtec/serialbtcontrol/d/l(), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,03333
+[android/content/res/Resources/getString(int), android/bluetooth/BluetoothSocket/getOutputStream(), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,03333
+[android/widget/ListView/setVerticalFadingEdgeEnabled(boolean), android/widget/ListView/setFocusable(boolean), android/widget/ListView/setFocusableInTouchMode(boolean), android/widget/ListView/setBackgroundDrawable(android.graphics.drawable.Drawable), android/widget/ListView/setDivider(android.graphics.drawable.Drawable), android/widget/ListView/setCacheColorHint(int), android/widget/ListView/setSelector(android.graphics.drawable.Drawable), android/widget/ListView/setHorizontalFadingEdgeEnabled(boolean), android/widget/ListView/setFadingEdgeLength(int), android/widget/ListView/setDividerHeight(int]
+
+prob: 0,03333
+[android.content.Intent)]
+
+prob: 0,03333
+[android/widget/TextView/setTextAppearance(android.content.Context]
+
+prob: 0,03333
+[android/text/TextPaint/setTextSize(float), android/graphics/Canvas/translate(float]
+
+prob: 0,03333
+[android/text/TextPaint/setTextSize(float), android/graphics/Typeface/createFromAsset(android.content.res.AssetManager]
+
+prob: 0,03333
+[br/com/bandtec/serialbtcontrol/a/b(int), android/app/Application/getPackageName(), android/view/View/setPadding(int]
+
+prob: 0,03333
+[android/view/View/setPadding(int]
+

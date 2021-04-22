@@ -1,0 +1,6 @@
+java/util/Iterator/next()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuffer/append(java.lang.String)
+java/lang/StringBuffer/toString()

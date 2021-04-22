@@ -1,0 +1,78 @@
+prob: 0,06250
+[int)]
+
+prob: 0,06250
+[java/net/InetAddress/getHostAddress(), javax/net/ssl/SSLSocketFactory/createSocket(java.lang.String]
+
+prob: 0,06250
+[java.lang.String]
+
+prob: 0,06250
+[hu/blint/ssldroid/SSLDroidProvisioning/setContentView(int), org/xml/sax/SAXException/printStackTrace(), java/lang/Long/valueOf(long), android/os/Bundle/getLong(java.lang.String), android/widget/Button/setOnClickListener(android.view.View$OnClickListener]
+
+prob: 0,06250
+[org/xml/sax/SAXException/printStackTrace(), java/lang/Long/valueOf(long), java/lang/StringBuilder/append(java.lang.String), org/w3c/dom/Element/getFirstChild(), java/lang/Long/longValue(), java/net/MalformedURLException/printStackTrace(), android/widget/EditText/getText(), android/util/Log/d(java.lang.String]
+
+prob: 0,06250
+[java/io/IOException/printStackTrace(), android/os/Bundle/getSerializable(java.lang.String), hu/blint/ssldroid/SSLDroidProvisioning/findViewById(int), hu/blint/ssldroid/SSLDroidProvisioning/getIntent(), android/app/Activity/onCreate(android.os.Bundle), android/content/Intent/getExtras()]
+
+prob: 0,06250
+[java/lang/String/valueOf(java.lang.Object), java/net/InetAddress/getLocalHost(), java/lang/StringBuilder/append(int), javax/net/ssl/SSLSocket/startHandshake(), java/lang/StringBuilder/StringBuilder(java.lang.String), hu/blint/ssldroid/TcpProxyServerThread/isInterrupted(), java/net/Socket/getOutputStream(), java/net/Socket/close()]
+
+prob: 0,06250
+[org/w3c/dom/Node/getNodeValue(), org/w3c/dom/NodeList/item(int), java/lang/StringBuilder/append(java.lang.String), java/io/PrintStream/println(java.lang.String), org/w3c/dom/Node/getNodeName(), java/lang/StringBuilder/toString(), org/w3c/dom/Node/getNodeType(]
+
+prob: 0,06250
+[org/w3c/dom/NodeList/getLength(), java/lang/StringBuilder/StringBuilder(java.lang.String), org/w3c/dom/Node/getChildNodes()]
+
+prob: 0,06250
+[android/os/Environment/getExternalStorageDirectory(), java/lang/StringBuilder/append(java.lang.String), android/app/AlertDialog/show(), android/app/AlertDialog$Builder/setMessage(int), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,06250
+[java.io.File)]
+
+prob: 0,06250
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,06250
+[java.lang.String)]
+
+prob: 0,06250
+[hu/blint/ssldroid/SSLDroidTunnelDetails/setContentView(int), android/os/Bundle/getSerializable(java.lang.String), android/os/Bundle/getBoolean(java.lang.String]
+
+prob: 0,06250
+[android/content/pm/PackageManager$NameNotFoundException/toString(), java/lang/StringBuilder/append(java.lang.String), android/database/Cursor/deactivate(), android/util/Log/d(java.lang.String]
+
+prob: 0,06250
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/append(int), hu/blint/ssldroid/SSLDroid/getPackageManager()]
+
+prob: 0,06250
+[java/io/BufferedReader/close(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/System/getProperty(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,06250
+[java/lang/Process/getInputStream(), java/lang/StringBuilder/toString(), java/io/IOException/toString(), java/lang/Runtime/exec(java.lang.String[])]
+
+prob: 0,06250
+[hu/blint/ssldroid/SSLDroidReadLogs/findViewById(int), java/lang/Runtime/getRuntime(), android/widget/TextView/setText(java.lang.CharSequence), android/widget/TextView/append(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,06250
+[hu/blint/ssldroid/SSLDroidTunnelDetails/finish(), java/lang/StringBuilder/append(java.lang.String), android/text/Editable/length(), hu/blint/ssldroid/SSLDroidTunnelDetails$SSLDroidTunnelHostnameChecker/execute(java.lang.Object[]), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,06250
+[hu/blint/ssldroid/SSLDroidTunnelDetails/setResult(int), android/database/Cursor/getString(int), java/lang/String/contentEquals(java.lang.CharSequence)]
+
+prob: 0,06250
+[android.content.Intent)]
+
+prob: 0,06250
+[java/io/OutputStream/close(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(int), java/io/InputStream/close(), android/util/Log/d(java.lang.String]
+
+prob: 0,06250
+[java/io/InputStream/read(byte[]), java/io/OutputStream/flush()]
+
+prob: 0,06250
+[java/lang/Thread/interrupted(), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,06250
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+

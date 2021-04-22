@@ -1,0 +1,78 @@
+org.api.fake  0,19277
+org.rand.api  0,19277
+java.lang.String)  0,08434
+int)  0,06024
+java.lang.String  0,04217
+org.acra.sender.HttpSender$Method  0,03614
+android/util/Log/w(java.lang.String  0,03012
+java/lang/StringBuilder/append(java.lang.String)  0,02410
+android.view.ViewGroup  0,01807
+android/content/Intent/putExtra(java.lang.String  0,01807
+java.lang.String[)  0,01807
+java.lang.reflect.Field)  0,01807
+java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,01807
+boolean  0,01205
+java/lang/Integer/intValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getMethod(java.lang.String  0,01205
+java/lang/Class/getFields(), android/util/Log/w(java.lang.String  0,01205
+java/util/Map/put(java.lang.Object  0,01205
+android.os.Bundle)  0,01205
+android/widget/TextView/setTransformationMethod(android.text.method.TransformationMethod), app/easytoken/TokencodeFragment/getActivity(), android/app/AlertDialog$Builder/setPositiveButton(int  0,01205
+java/lang/Class/getMethod(java.lang.String  0,01205
+android.view.View  0,00602
+java/util/ArrayList/ArrayList(), java/io/File/getParent(), android/widget/SimpleAdapter/SimpleAdapter(android.content.Context  0,00602
+android/app/Activity/finish(), android/app/Application/getPackageName(), android/util/Log/i(java.lang.String  0,00602
+android/content/Intent/Intent(android.content.Context  0,00602
+java/lang/String/String(char[  0,00602
+java/io/File/File(java.io.File  0,00602
+android/app/Activity/getPackageManager(), app/easytoken/MarkupFragment/getString(int), java/lang/StringBuilder/append(java.lang.String), android/app/Activity/getPackageName(), app/easytoken/MarkupFragment/getActivity(), android/util/Log/e(java.lang.String  0,00602
+org/apache/http/params/HttpParams/setParameter(java.lang.String  0,00602
+java/security/MessageDigest/reset(), java/lang/Integer/toString(int  0,00602
+android/provider/Settings$Secure/getString(android.content.ContentResolver  0,00602
+java/net/URL/URL(java.lang.String), java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String), org/json/JSONObject/toString(), org/acra/sender/HttpSender$Method/name(), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String  0,00602
+android/net/Uri/toString()  0,00602
+java/net/URL/toString()  0,00602
+java/lang/StringBuilder/append(java.lang.String), java/io/BufferedInputStream/reset(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream  0,00602
+java/net/InetAddress/getHostAddress(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/toString(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(char), java/net/NetworkInterface/getInetAddresses(), java/net/SocketException/toString(), java/util/Enumeration/hasMoreElements(  0,00602
+java/net/InetAddress/isLoopbackAddress()  0,00602
+java/net/NetworkInterface/getNetworkInterfaces()  0,00602
+java/util/Enumeration/nextElement()  0,00602
+android/util/SparseArray/size(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/toString(  0,00602
+java/util/LinkedList/toString()  0,00602
+java/util/ArrayList/ArrayList(java.util.Collection)  0,00602
+java/lang/Thread/start()  0,00602
+java/lang/Thread/Thread(java.lang.Runnable)  0,00602
+java/util/LinkedList/add(java.lang.Object)  0,00602
+android/util/Base64/encodeToString(byte[  0,00602
+android/app/ActionBar$Tab/setTabListener(android.app.ActionBar$TabListener), android/app/ActionBar/setNavigationMode(int), de/blinkt/openvpn/FileSelect/getIntent(), android/app/ActionBar/newTab(), android/content/Intent/getBooleanExtra(java.lang.String  0,00602
+org/acra/ReportField/name(), org/json/JSONObject/accumulate(java.lang.String  0,00602
+app/easytoken/BareActivity/getIntent(), java/lang/Class/newInstance(), app/easytoken/BareActivity/getFragmentManager(), android/content/Intent/getIntExtra(java.lang.String  0,00602
+java/lang/Runtime/getRuntime(), java/lang/StringBuilder/append(java.lang.String), java/lang/Runtime/exec(java.lang.String[), java/util/List/toArray(java.lang.Object[), android/util/Log/e(java.lang.String  0,00602
+java/lang/Integer/toString(int)  0,00602
+java/lang/Class/getMethods(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(java.lang.Object), java/lang/reflect/Method/invoke(java.lang.Object  0,00602
+java/lang/String/equals(java.lang.Object), java/lang/reflect/Method/getName()  0,00602
+java/lang/Class/getFields(), java/lang/reflect/Field/getName(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,00602
+android/view/Display/getHeight(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), android/view/Display/getRefreshRate(), android/view/Display/getDisplayId(), java/lang/StringBuilder/append(java.lang.Object), android/view/Display/getPixelFormat(  0,00602
+java/lang/StringBuilder/append(float)  0,00602
+android/util/DisplayMetrics/DisplayMetrics()  0,00602
+android/view/Display/getWidth()  0,00602
+android/view/Display/getOrientation()  0,00602
+android/view/Display/getMetrics(android.util.DisplayMetrics)  0,00602
+java/lang/Object/toString(), java/net/URLEncoder/encode(java.lang.String  0,00602
+java/lang/Object/toString(), java/lang/StringBuilder/append(int), android/util/SparseArray/keyAt(int), android/util/SparseArray/valueAt(int)  0,00602
+java/lang/Thread/getPriority(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int), java/lang/Thread/getName(  0,00602
+java/lang/Thread/getThreadGroup(), java/lang/ThreadGroup/getName(), java/lang/StringBuilder/append(long), java/lang/Thread/getId()  0,00602
+android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int  0,00602
+java/util/Iterator/hasNext(), java/lang/String/replaceAll(java.lang.String  0,00602
+android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int  0,00602
+android/appwidget/AppWidgetManager/getInstance(android.content.Context), android/app/Notification$Builder/build(), android/appwidget/AppWidgetManager/getAppWidgetIds(android.content.ComponentName), android/widget/RemoteViews/RemoteViews(java.lang.String  0,00602
+android/widget/ProgressBar/setMax(int), java/util/Calendar/add(int  0,00602
+java/lang/StringBuilder/append(java.lang.String), java/util/List/toArray(java.lang.Object[), android/util/Log/e(java.lang.String  0,00602
+java/lang/reflect/Field/getName()  0,00602
+android/app/AlertDialog$Builder/setTitle(int)  0,00602
+java/util/Iterator/hasNext()  0,00602
+java/lang/StringBuilder/toString()  0,00602
+java/lang/StringBuilder/append(int)  0,00602
+java/lang/Integer/intValue(), java/lang/Class/getMethod(java.lang.String  0,00602
+java/lang/Class/getFields()  0,00602
+java/lang/StringBuilder/append(char)  0,00602
+java/lang/StringBuilder/StringBuilder()  0,00602

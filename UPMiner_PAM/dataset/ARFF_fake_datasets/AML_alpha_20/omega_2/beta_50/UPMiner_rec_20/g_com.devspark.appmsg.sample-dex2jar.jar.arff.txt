@@ -1,0 +1,16 @@
+android/graphics/drawable/Drawable/setBounds(int,int,int,int)
+com/actionbarsherlock/internal/widget/PopupWindowCompat/getContentView(
+android/widget/ListAdapter/getView(int,android.view.View,android.view.ViewGroup)
+android/graphics/drawable/Drawable/getPadding(android.graphics.Rect)
+org/xmlpull/v1/XmlSerializer/endTag(java.lang.String,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+android/content/Context/getResources()
+com/actionbarsherlock/widget/SearchView$SearchAutoComplete/setAdapter(android.widget.ListAdapter)
+com/actionbarsherlock/internal/view/menu/ActionMenuView/getParent()
+java/util/List/iterator(
+android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int,int)
+org.api.fake
+android/view/View/getLayoutParams()
+android/content/res/Resources/getDisplayMetrics()
+android/util/Log/w(java.lang.String,java.lang.String)
+org.rand.api

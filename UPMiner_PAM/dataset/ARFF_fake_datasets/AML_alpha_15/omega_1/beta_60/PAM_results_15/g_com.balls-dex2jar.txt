@@ -1,0 +1,162 @@
+prob: 0,20968
+[org.api.fake]
+
+prob: 0,09677
+[java.util.HashMap]
+
+prob: 0,06452
+[java.lang.String]
+
+prob: 0,03226
+[java.lang.String)]
+
+prob: 0,03226
+[android/content/Context/getPackageManager(), android/content/Intent/Intent(java.lang.String]
+
+prob: 0,03226
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/Iterator/next()]
+
+prob: 0,03226
+[android.gesture.Gesture)]
+
+prob: 0,03226
+[com.google.ads.ap)]
+
+prob: 0,03226
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,03226
+[int)]
+
+prob: 0,03226
+[java.util.Map]
+
+prob: 0,03226
+[android.content.Context]
+
+prob: 0,03226
+[java/net/HttpURLConnection/disconnect(), java/net/URL/URL(java.lang.String)]
+
+prob: 0,03226
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01613
+[java/net/URL/openConnection(), java/net/HttpURLConnection/getResponseCode(), java/net/HttpURLConnection/connect(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int), java/net/HttpURLConnection/setInstanceFollowRedirects(boolean]
+
+prob: 0,01613
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/length(), java/lang/Long/longValue(]
+
+prob: 0,01613
+[java/util/LinkedList/iterator(), java/lang/StringBuilder/length(), java/lang/StringBuilder/toString(]
+
+prob: 0,01613
+[java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/String/split(java.lang.String]
+
+prob: 0,01613
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01613
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,01613
+[android/database/Cursor/getColumnIndex(java.lang.String), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/ref/WeakReference/get(), android/database/Cursor/getColumnName(int), android/content/SharedPreferences$Editor/commit(), android/content/ContentResolver/query(android.net.Uri]
+
+prob: 0,01613
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), java/net/HttpURLConnection/addRequestProperty(java.lang.String]
+
+prob: 0,01613
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), android/net/Uri$Builder/encodedQuery(java.lang.String), java/util/Set/iterator(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/util/Map/keySet(]
+
+prob: 0,01613
+[java/lang/System/getProperty(java.lang.String]
+
+prob: 0,01613
+[java/lang/Long/valueOf(long), java/lang/StringBuilder/append(java.lang.String), android/location/Location/getAccuracy(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/location/Location/getLatitude(), android/location/Location/getLongitude(), java/lang/String/format(java.util.Locale]
+
+prob: 0,01613
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), com/google/ads/ag/ordinal(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01613
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), org/json/JSONArray/JSONArray(), java/lang/StringBuilder/append(java.lang.Object), org/json/JSONArray/put(java.lang.Object), java/lang/StringBuilder/toString(), java/util/Set/isEmpty(]
+
+prob: 0,01613
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/util/Map/isEmpty(), java/util/Map/get(java.lang.Object), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01613
+[org/json/JSONObject/JSONObject(), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01613
+[android/webkit/ConsoleMessage$MessageLevel/ordinal(), java/lang/StringBuilder/append(int), android/webkit/ConsoleMessage/lineNumber(]
+
+prob: 0,01613
+[android/webkit/ConsoleMessage/sourceId(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/webkit/ConsoleMessage/message(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), android/webkit/ConsoleMessage/messageLevel()]
+
+prob: 0,01613
+[android/webkit/WebChromeClient/onConsoleMessage(android.webkit.ConsoleMessage)]
+
+prob: 0,01613
+[java/security/MessageDigest/digest(), java/util/UUID/getLeastSignificantBits(), java/math/BigInteger/valueOf(long), java/util/UUID/getMostSignificantBits(), java/lang/System/arraycopy(java.lang.Object]
+
+prob: 0,01613
+[java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String), org/json/JSONObject/JSONObject(java.lang.String), org/json/JSONObject/getInt(java.lang.String), org/json/JSONArray/getJSONObject(int), org/json/JSONArray/length(), org/json/JSONObject/getJSONArray(java.lang.String]
+
+prob: 0,01613
+[java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String), org/json/JSONObject/length(), java/util/HashMap/HashMap(int), org/json/JSONObject/keys(), org/json/JSONObject/optString(java.lang.String]
+
+prob: 0,01613
+[org/json/JSONObject/getString(java.lang.String), java/util/List/add(java.lang.Object), java/lang/Integer/valueOf(int), org/json/JSONObject/has(java.lang.String)]
+
+prob: 0,01613
+[android.content.Context)]
+
+prob: 0,01613
+[java/util/regex/Matcher/group(int), java/lang/String/format(java.util.Locale]
+
+prob: 0,01613
+[java/util/regex/Pattern/compile(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Arrays/asList(java.lang.Object[]), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(long), java/lang/Object/wait(long)]
+
+prob: 0,01613
+[java/lang/Object/equals(java.lang.Object)]
+
+prob: 0,01613
+[java/util/regex/Pattern/matcher(java.lang.CharSequence)]
+
+prob: 0,01613
+[android/os/SystemClock/elapsedRealtime()]
+
+prob: 0,01613
+[android.app.Activity)]
+
+prob: 0,01613
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01613
+[boolean]
+
+prob: 0,01613
+[android/net/Uri$Builder/Uri$Builder()]
+
+prob: 0,01613
+[java/lang/String/trim()]
+
+prob: 0,01613
+[android/net/Uri$Builder/build()]
+
+prob: 0,01613
+[com/balls/BallsActivity/setContentView(android.view.View), android/app/Activity/onCreate(android.os.Bundle), android/widget/RelativeLayout/RelativeLayout(android.content.Context), android/widget/RelativeLayout$LayoutParams/addRule(int), com/google/ads/AdView/setOnClickListener(android.view.View$OnClickListener), java/lang/Thread/start(), android/widget/RelativeLayout/addView(android.view.View]
+
+prob: 0,01613
+[java/lang/StringBuilder/append(long)]
+
+prob: 0,01613
+[java/util/Set/iterator()]
+
+prob: 0,01613
+[java/util/Map/get(java.lang.Object)]
+
+prob: 0,01613
+[android/text/TextUtils/isEmpty(java.lang.CharSequence)]
+
+prob: 0,01613
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+

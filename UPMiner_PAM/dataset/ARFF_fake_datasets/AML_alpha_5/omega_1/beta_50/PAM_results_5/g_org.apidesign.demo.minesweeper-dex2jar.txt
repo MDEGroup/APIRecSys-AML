@@ -1,0 +1,225 @@
+prob: 0,09836
+[java.lang.String]
+
+prob: 0,08197
+[java.io.StringWriter]
+
+prob: 0,04918
+[javax.lang.model.element.Element]
+
+prob: 0,04918
+[java.lang.Object)]
+
+prob: 0,03279
+[javax.annotation.processing.RoundEnvironment)]
+
+prob: 0,03279
+[javax.lang.model.element.AnnotationMirror]
+
+prob: 0,03279
+[java.lang.String)]
+
+prob: 0,03279
+[java.io.Writer]
+
+prob: 0,03279
+[javax.lang.model.element.TypeElement]
+
+prob: 0,03279
+[java/util/Iterator/hasNext()]
+
+prob: 0,01639
+[java/lang/Object/toString(), java/lang/String/length(), java/lang/Class/getName(), java/lang/String/substring(int]
+
+prob: 0,01639
+[java/lang/Object/toString(), java/lang/String/length(), java/lang/Character/charValue(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/charAt(int]
+
+prob: 0,01639
+[java/lang/Object/toString(), java/util/List/isEmpty(), javax/lang/model/element/ExecutableElement/getParameters(), javax/annotation/processing/ProcessingEnvironment/getTypeUtils(), javax/lang/model/element/Name/contentEquals(java.lang.CharSequence), javax/lang/model/element/ExecutableElement/getSimpleName(), java/util/Map/values(), javax/lang/model/element/Element/getKind(), javax/lang/model/element/Element/getSimpleName(), java/util/Collection/contains(java.lang.Object]
+
+prob: 0,01639
+[int]
+
+prob: 0,01639
+[boolean]
+
+prob: 0,01639
+[java/lang/ClassLoader/getParent(), java/util/ServiceLoader/load(java.lang.Class]
+
+prob: 0,01639
+[java/util/ServiceLoader/load(java.lang.Class)]
+
+prob: 0,01639
+[java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), javax/lang/model/type/TypeMirror/getKind(), java/util/List/iterator(), java/util/Iterator/hasNext(), javax/lang/model/element/ExecutableElement/asType(), javax/lang/model/util/Types/asElement(javax.lang.model.type.TypeMirror), javax/lang/model/type/TypeKind/ordinal()]
+
+prob: 0,01639
+[java/util/Iterator/next(), org/objectweb/asm/MethodVisitor/visitCode(), org/objectweb/asm/MethodVisitor/visitAnnotation(java.lang.String]
+
+prob: 0,01639
+[java/util/Iterator/hasNext(), javax/annotation/processing/Filer/createSourceFile(java.lang.CharSequence]
+
+prob: 0,01639
+[java/net/URL/openConnection(), java/io/IOException/IOException(java.lang.String), java/net/URLConnection/getInputStream(), java/lang/StringBuilder/toString(), java/util/logging/Logger/log(java.util.logging.Level]
+
+prob: 0,01639
+[java/net/HttpURLConnection/setReadTimeout(int)]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(int), java/util/Set/toArray(), java/lang/StringBuilder/append(boolean), java/util/Map/put(java.lang.Object]
+
+prob: 0,01639
+[java/net/HttpURLConnection/getResponseCode()]
+
+prob: 0,01639
+[android/content/res/AssetFileDescriptor/getFileDescriptor(), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor]
+
+prob: 0,01639
+[javax.lang.model.element.ExecutableElement]
+
+prob: 0,01639
+[javax/annotation/processing/ProcessingEnvironment/getElementUtils(), java/util/Iterator/hasNext(), java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream]
+
+prob: 0,01639
+[org.netbeans.html.context.spi.Contexts$Builder)]
+
+prob: 0,01639
+[org.netbeans.html.boot.impl.FindResources]
+
+prob: 0,01639
+[java/lang/Class/forName(java.lang.String), java/io/InputStream/read(byte[]]
+
+prob: 0,01639
+[java/lang/Class/getName(), java/lang/StringBuilder/StringBuilder(), java/lang/Boolean/valueOf(boolean), java/lang/String/replace(char]
+
+prob: 0,01639
+[java/io/Reader/read(), java/lang/String/trim(), java/lang/Math/max(int]
+
+prob: 0,01639
+[java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01639
+[java/util/ArrayList/ArrayList(), java/lang/String/trim(), java/lang/Math/max(int]
+
+prob: 0,01639
+[java/lang/Character/toString(char)]
+
+prob: 0,01639
+[java/lang/StringBuilder/StringBuilder(int)]
+
+prob: 0,01639
+[java/io/Writer/append(char)]
+
+prob: 0,01639
+[javax/lang/model/element/Element/getEnclosedElements(), javax/lang/model/type/TypeMirror/getKind(), java/util/List/iterator(), java/util/Iterator/hasNext(), java/util/Iterator/next()]
+
+prob: 0,01639
+[javax/lang/model/element/Element/getEnclosedElements(), javax/lang/model/element/ExecutableElement/getSimpleName(), java/util/Iterator/hasNext(), java/util/Iterator/next(), javax/lang/model/element/Element/getKind(]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Character/isJavaIdentifierPart(char), java/lang/String/indexOf(java.lang.String]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/StringBuilder/insert(int]
+
+prob: 0,01639
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), javax/annotation/processing/ProcessingEnvironment/getTypeUtils(]
+
+prob: 0,01639
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/ServiceLoader/iterator(), java/lang/NullPointerException/NullPointerException(java.lang.String), java/lang/StringBuilder/toString(), java/util/Iterator/next()]
+
+prob: 0,01639
+[boolean[]]
+
+prob: 0,01639
+[net.java.html.json.OnReceive)]
+
+prob: 0,01639
+[javax.lang.model.element.Element)]
+
+prob: 0,01639
+[java.util.Map]
+
+prob: 0,01639
+[javax/lang/model/element/AnnotationMirror/getElementValues(), java/lang/Object/toString(), java/lang/String/equals(java.lang.Object), java/util/List/iterator(), javax/lang/model/element/AnnotationMirror/getAnnotationType(]
+
+prob: 0,01639
+[java/util/Map$Entry/getKey()]
+
+prob: 0,01639
+[java/util/Set/iterator()]
+
+prob: 0,01639
+[javax/lang/model/element/AnnotationValue/toString()]
+
+prob: 0,01639
+[java/util/Map$Entry/getValue()]
+
+prob: 0,01639
+[java/util/Map/entrySet()]
+
+prob: 0,01639
+[javax/lang/model/element/Element/getAnnotationMirrors()]
+
+prob: 0,01639
+[java.net.URI]
+
+prob: 0,01639
+[android/webkit/WebView/WebView(android.content.Context), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Activity/onCreate(android.os.Bundle)]
+
+prob: 0,01639
+[com/dukescript/presenters/Android/getPackageName(), java/util/logging/Logger/log(java.util.logging.Level]
+
+prob: 0,01639
+[java.net.URL)]
+
+prob: 0,01639
+[javax/lang/model/type/ExecutableType/getParameterTypes(), javax/lang/model/type/TypeKind/isPrimitive(), javax/lang/model/type/ArrayType/getComponentType()]
+
+prob: 0,01639
+[java/util/List/add(java.lang.Object)]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01639
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(char)]
+
+prob: 0,01639
+[java/util/List/isEmpty()]
+
+prob: 0,01639
+[javax/lang/model/util/Types/asElement(javax.lang.model.type.TypeMirror)]
+
+prob: 0,01639
+[javax/lang/model/element/ExecutableElement/getParameters()]
+
+prob: 0,01639
+[javax/lang/model/element/Name/contentEquals(java.lang.CharSequence)]
+
+prob: 0,01639
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01639
+[java/util/logging/Logger/log(java.util.logging.Level]
+
+prob: 0,01639
+[java/lang/Class/getName()]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,01639
+[java/lang/StringBuilder/toString()]
+
+prob: 0,01639
+[java/util/List/iterator()]
+
+prob: 0,01639
+[java/util/Iterator/next()]
+

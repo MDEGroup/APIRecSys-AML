@@ -1,0 +1,8 @@
+java/util/Iterator/next()
+android/os/PowerManager$WakeLock/acquire()
+android/hardware/usb/UsbInterface/getInterfaceClass()
+java/net/ServerSocket/close(
+android/hardware/usb/UsbInterface/getInterfaceSubclass(
+java/lang/StringBuilder/append(int)
+java/lang/System/arraycopy(java.lang.Object,int,java.lang.Object,int,int
+android/net/wifi/WifiManager$WifiLock/acquire(

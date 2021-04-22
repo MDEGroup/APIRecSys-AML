@@ -1,0 +1,10 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+com/alarmpro_x/c/getReadableDatabase()
+android/os/SystemClock/elapsedRealtime()
+org.api.fake
+com/alarmpro_x/c/close() java/lang/StringBuilder/toString()
+android/database/Cursor/getInt(int
+android/database/sqlite/SQLiteDatabase/close() com/alarmpro_x/c/close()
+com/alarmpro_x/add_alarm/setContentView(int
+org.rand.api
+android/graphics/Typeface/createFromAsset(android.content.res.AssetManager,java.lang.String)

@@ -1,0 +1,9 @@
+prob: 0,77778
+[long]
+
+prob: 0,11111
+[com/rabenauge/parandroid/h/a(), com/rabenauge/parandroid/e/a(long), com/rabenauge/parandroid/f/a(long), com/rabenauge/parandroid/h/a(long), com/rabenauge/parandroid/j/a(long), com/rabenauge/parandroid/Launcher/finish(), java/lang/Long/longValue(), android/media/MediaPlayer/setVolume(float]
+
+prob: 0,11111
+[javax.microedition.khronos.egl.EGLConfig)]
+

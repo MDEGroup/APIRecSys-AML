@@ -1,0 +1,4 @@
+android/util/Log/d(java.lang.String,java.lang.String
+android/bluetooth/le/AdvertiseSettings$Builder/AdvertiseSettings$Builder(
+android/bluetooth/BluetoothManager/getConnectedDevices(int)
+io/github/webbluetoothcg/bletestperipheral/Peripheral/findViewById(int)

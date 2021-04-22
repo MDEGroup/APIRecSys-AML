@@ -1,0 +1,197 @@
+int  0,07292
+int)  0,05208
+java.io.FileDescriptor  0,04167
+java/lang/StringBuilder/toString()  0,04167
+android/util/Log/w(java.lang.String  0,03125
+java/lang/Integer/toHexString(int)  0,03125
+java/util/Iterator/next()  0,03125
+java/lang/StringBuilder/append(int)  0,03125
+android/util/Log/v(java.lang.String  0,03125
+java/lang/StringBuilder/append(java.lang.String)  0,03125
+android.app.Notification  0,02083
+java.lang.String  0,02083
+android/support/v4/widget/DrawerLayout/getWidth(), android/view/View/getWidth(), android/support/v4/widget/DrawerLayout/invalidate(), android/view/View/getTop(  0,02083
+android.content.Intent)  0,02083
+java/lang/StringBuilder/append(char)  0,02083
+android.os.ParcelFileDescriptor  0,02083
+java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int  0,02083
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), android/view/View/getLayoutParams(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,02083
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,02083
+java/lang/StringBuilder/append(java.lang.String), android/support/v4/view/ViewPager/findFocus()  0,02083
+float  0,02083
+java/lang/Runnable/run(), java/util/ArrayList/size(), java/util/ArrayList/get(int)  0,02083
+android/widget/Scroller/abortAnimation()  0,02083
+android.view.View  0,02083
+android/view/View/getRight(), android/view/View/getBottom()  0,02083
+java/util/ArrayList/ArrayList()  0,02083
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,02083
+java/util/ArrayList/size()  0,02083
+java/net/URLEncoder/encode(java.lang.String  0,01042
+android.support.v4.view.PagerAdapter)  0,01042
+java.lang.ClassLoader)  0,01042
+android/os/Bundle/Bundle(), android/os/Bundle/putParcelableArray(java.lang.String  0,01042
+android/graphics/Canvas/scale(float  0,01042
+android/widget/FrameLayout/setId(int), android/widget/FrameLayout/FrameLayout(android.content.Context), android/support/v4/app/FragmentTabHost/findViewById(int), android/widget/TabWidget/setOrientation(int), android/widget/LinearLayout/addView(android.view.View  0,01042
+org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), org/apache/http/client/methods/HttpPost/HttpPost(java.net.URI), java/net/URISyntaxException/getMessage(), org/apache/http/client/ClientProtocolException/getMessage(), java/lang/StringBuilder/StringBuilder(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/readLine()  0,01042
+org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), java/io/BufferedReader/readLine(  0,01042
+java/net/URI/URI(java.lang.String), java/io/BufferedReader/BufferedReader(java.io.Reader), org/apache/http/HttpResponse/getEntity(  0,01042
+java/util/LinkedHashMap/isEmpty()  0,01042
+android/preference/CheckBoxPreference/setTitle(java.lang.CharSequence)  0,01042
+de/janbo/agendawatchface/plugins/tasks/anydo/SettingsFragment/addPreferencesFromResource(int)  0,01042
+android.view.ViewGroup  0,01042
+android/graphics/Paint/setColor(int), android/widget/TextView/getLeft(), android/support/v4/view/PagerTitleStrip/onDraw(android.graphics.Canvas), android/support/v4/view/PagerTabStrip/getWidth(), android/widget/TextView/getRight(), android/support/v4/view/PagerTabStrip/getHeight(), android/support/v4/view/PagerTabStrip/getPaddingLeft(), android/graphics/Canvas/drawRect(float  0,01042
+android/preference/CheckBoxPreference/setKey(java.lang.String)  0,01042
+android/os/Handler/hasMessages(int), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01042
+android/content/Intent/getFlags(), android/content/Intent/getScheme(), android/content/Context/getContentResolver(), java/util/HashMap/get(java.lang.Object)  0,01042
+de/janbo/agendawatchface/plugins/tasks/rtm/SettingsFragment/getActivity(), de/janbo/agendawatchface/plugins/tasks/rtm/SettingsFragment/findPreference(java.lang.CharSequence), android/content/SharedPreferences/contains(java.lang.String), android/content/IntentFilter/addAction(java.lang.String), android/app/Activity/registerReceiver(android.content.BroadcastReceiver  0,01042
+de/janbo/agendawatchface/plugins/tasks/anydo/SettingsFragment/findPreference(java.lang.CharSequence)  0,01042
+java.io.PrintWriter  0,01042
+java/util/regex/Pattern/compile(java.lang.String), java/lang/Float/parseFloat(java.lang.String), java/lang/String/trim(), java/lang/String/length(), java/lang/String/equals(java.lang.Object), java/lang/String/substring(int  0,01042
+java/util/List/size()  0,01042
+java/lang/StringBuilder/StringBuilder(java.lang.String  0,01042
+java/lang/Object/toString(), java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/util/TreeMap/entrySet(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(  0,01042
+java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,01042
+java.util.List  0,01042
+java.lang.String)  0,01042
+android/database/Cursor/getColumnIndex(java.lang.String), java/util/ArrayList/ArrayList(), android/content/ContentResolver/query(android.net.Uri  0,01042
+android/view/VelocityTracker/clear(), android/view/MotionEvent/getDownTime(), android/view/VelocityTracker/computeCurrentVelocity(int  0,01042
+android.app.Activity  0,01042
+android/app/Dialog/setContentView(android.view.View), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/support/v4/app/DialogFragment/getView(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(  0,01042
+android/app/Dialog/setCancelable(boolean)  0,01042
+android/support/v4/app/DialogFragment/getActivity()  0,01042
+android/os/Bundle/getBundle(java.lang.String)  0,01042
+android/app/Dialog/setOwnerActivity(android.app.Activity)  0,01042
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Set/iterator()  0,01042
+java/io/File/File(java.io.File  0,01042
+android/net/Uri/encode(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/io/File/getPath(), android/net/Uri$Builder/Uri$Builder(), java/util/Map$Entry/getKey(), java/lang/String/length(), android/net/Uri$Builder/build(), android/net/Uri/encode(java.lang.String  0,01042
+java/util/HashMap/entrySet()  0,01042
+android/net/Uri$Builder/authority(java.lang.String)  0,01042
+java/util/Iterator/hasNext(), android/preference/PreferenceFragment/onCreate(android.os.Bundle), android/preference/CheckBoxPreference/setDefaultValue(java.lang.Object), java/lang/StringBuilder/toString()  0,01042
+android/net/Uri$Builder/encodedPath(java.lang.String)  0,01042
+java.io.File)  0,01042
+java.lang.StringBuilder)  0,01042
+android/content/Intent/removeExtra(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String  0,01042
+java/util/ArrayList/isEmpty(), android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String)  0,01042
+boolean)  0,01042
+android/os/Looper/myLooper(), java/util/ArrayList/toArray(java.lang.Object[), java/util/ArrayList/clear(  0,01042
+android/os/Handler/removeCallbacks(java.lang.Runnable)  0,01042
+java.util.ArrayList)  0,01042
+android.support.v4.app.BackStackRecord)  0,01042
+android.print.PrintAttributes  0,01042
+android/support/v4/util/ArrayMap/put(java.lang.Object  0,01042
+java/io/UnsupportedEncodingException/getMessage()  0,01042
+java/security/MessageDigest/digest(byte[)  0,01042
+java/lang/StringBuffer/append(java.lang.String)  0,01042
+java/security/MessageDigest/getInstance(java.lang.String)  0,01042
+java/lang/StringBuffer/StringBuffer()  0,01042
+java/security/NoSuchAlgorithmException/getMessage()  0,01042
+java/lang/StringBuffer/toString(  0,01042
+android.content.Context  0,01042
+android/view/View/isHorizontalScrollBarEnabled()  0,01042
+android/view/View/getId()  0,01042
+java/lang/System/identityHashCode(java.lang.Object)  0,01042
+java/lang/StringBuilder/StringBuilder(int)  0,01042
+android/view/View/isEnabled()  0,01042
+android/content/res/Resources/getResourcePackageName(int)  0,01042
+android/view/View/willNotDraw()  0,01042
+android/view/View/getVisibility()  0,01042
+android/view/View/isFocusable()  0,01042
+android/view/View/isFocused()  0,01042
+android/view/View/getResources()  0,01042
+android/view/View/isClickable()  0,01042
+android/view/View/isPressed()  0,01042
+android/content/res/Resources/getResourceEntryName(int)  0,01042
+android/view/View/isVerticalScrollBarEnabled()  0,01042
+android/view/View/getTop()  0,01042
+android/view/View/getLeft()  0,01042
+android/view/View/isSelected(  0,01042
+android/view/ViewConfiguration/get(android.content.Context)  0,01042
+android/support/v4/view/ViewPager/setFocusable(boolean)  0,01042
+android/support/v4/view/ViewPager/setDescendantFocusability(int)  0,01042
+java/lang/StringBuilder/append(java.lang.String), org/apache/http/HttpEntity/getContent(), org/apache/http/HttpResponse/getEntity(), java/lang/StringBuilder/StringBuilder(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream)  0,01042
+java/lang/StringBuilder/append(java.lang.String), org/apache/http/HttpEntity/getContent(), java/io/InputStream/close(), org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient(), java/lang/StringBuilder/toString()  0,01042
+java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getName(), android/view/View/isLongClickable(), java/lang/Object/getClass(), java/lang/StringBuilder/toString()  0,01042
+java/lang/StringBuilder/append(java.lang.String), java/lang/String/getBytes(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01042
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/toArray(java.lang.Object[), java/lang/StringBuilder/StringBuilder()  0,01042
+android/support/v4/view/ViewPager/setWillNotDraw(boolean)  0,01042
+android/support/v4/view/ViewPager/getContext()  0,01042
+android/content/Context/getResources()  0,01042
+android/content/res/Resources/getDisplayMetrics()  0,01042
+android/widget/Scroller/Scroller(android.content.Context  0,01042
+android/graphics/Canvas/translate(float  0,01042
+android/view/MotionEvent/getEdgeFlags(), android/support/v4/view/ViewPager/getScrollX()  0,01042
+android/view/MotionEvent/getX(), android/view/VelocityTracker/computeCurrentVelocity(int  0,01042
+android/view/MotionEvent/getX(), android/widget/Scroller/getCurrX()  0,01042
+java/util/Iterator/next(), java/util/Map$Entry/getValue()  0,01042
+android/view/MotionEvent/getY()  0,01042
+android/support/v4/view/ViewPager/getScrollX(), android/support/v4/view/ViewPager/scrollTo(int  0,01042
+android/view/ViewParent/requestDisallowInterceptTouchEvent(boolean)  0,01042
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/Bundle/Bundle(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01042
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/LinkedHashMap/entrySet(), java/lang/StringBuilder/StringBuilder(), java/util/LinkedHashMap/remove(java.lang.Object), java/util/Map$Entry/getValue(  0,01042
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/widget/ListView/setEmptyView(android.view.View), android/view/View/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/os/Handler/post(java.lang.Runnable), android/support/v4/app/ListFragment/getView(), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String  0,01042
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/os/Handler/getLooper()  0,01042
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int), android/util/Log/v(java.lang.String  0,01042
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/support/v4/view/ViewPager/scrollTo(int  0,01042
+android/os/SystemClock/uptimeMillis()  0,01042
+android/support/v4/view/ViewPager/getPaddingLeft(), java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,01042
+java/lang/StringBuilder/append(int), android/content/res/Resources/getResourceTypeName(int)  0,01042
+android/support/v4/view/ViewPager/getWindowToken()  0,01042
+android/support/v4/view/ViewPager/hasFocus()  0,01042
+android/support/v4/view/ViewPager/getId()  0,01042
+android/view/SoundEffectConstants/getContantForFocusDirection(int)  0,01042
+android/view/View/requestFocus()  0,01042
+java/lang/Class/getSimpleName()  0,01042
+android/view/ViewParent/getParent()  0,01042
+android/view/FocusFinder/getInstance()  0,01042
+android/preference/PreferenceScreen/addPreference(android.preference.Preference)  0,01042
+android/util/Log/e(java.lang.String  0,01042
+android.view.View)  0,01042
+android/widget/Scroller/getCurrY()  0,01042
+android/support/v4/view/ViewPager/getScrollY()  0,01042
+android/widget/Scroller/computeScrollOffset()  0,01042
+android/widget/Scroller/getFinalX()  0,01042
+android/view/VelocityTracker/recycle()  0,01042
+android/view/VelocityTracker/addMovement(android.view.MotionEvent)  0,01042
+java/lang/Math/abs(int)  0,01042
+android/view/VelocityTracker/obtain()  0,01042
+android/view/MotionEvent/getAction()  0,01042
+java/lang/Math/abs(float)  0,01042
+android/view/MotionEvent/getY(  0,01042
+android/content/Intent/Intent(java.lang.String  0,01042
+de/janbo/agendawatchface/plugins/tasks/anydo/SettingsFragment/getActivity()  0,01042
+android/content/SharedPreferences/getString(java.lang.String  0,01042
+java/lang/StringBuilder/append(java.lang.CharSequence)  0,01042
+android/graphics/Rect/Rect()  0,01042
+java/lang/Integer/numberOfTrailingZeros(int)  0,01042
+java/lang/StringBuilder/append(boolean)  0,01042
+java/lang/StringBuilder/StringBuilder(  0,01042
+android/graphics/drawable/Drawable/setBounds(int  0,01042
+java/util/List/iterator()  0,01042
+android/support/v4/widget/SlidingPaneLayout/getPaddingLeft()  0,01042
+android/view/View/setVisibility(int)  0,01042
+android/support/v4/widget/SlidingPaneLayout/getPaddingTop()  0,01042
+android/support/v4/widget/SlidingPaneLayout/getHeight()  0,01042
+android/support/v4/widget/SlidingPaneLayout/getWidth()  0,01042
+android/support/v4/widget/SlidingPaneLayout/getPaddingRight()  0,01042
+android/support/v4/widget/SlidingPaneLayout/getChildCount()  0,01042
+android/preference/CheckBoxPreference/CheckBoxPreference(android.content.Context)  0,01042
+java/net/URI/URI(java.lang.String), java/io/BufferedReader/BufferedReader(java.io.Reader)  0,01042
+org/apache/http/client/methods/HttpPost/HttpPost(java.net.URI)  0,01042
+org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient()  0,01042
+java/net/URISyntaxException/getMessage()  0,01042
+org/apache/http/client/ClientProtocolException/getMessage()  0,01042
+java/lang/Class/getName()  0,01042
+java/util/Map$Entry/getKey()  0,01042
+java/lang/Object/getClass()  0,01042
+java/lang/String/valueOf(java.lang.Object)  0,01042
+java/util/Set/iterator()  0,01042
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,01042
+java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object)  0,01042
+android/widget/Scroller/getCurrX()  0,01042
+java/lang/String/length()  0,01042
+java/lang/Math/max(int  0,01042
+java/util/Iterator/hasNext()  0,01042
+java/util/ArrayList/size(), java/util/ArrayList/get(int)  0,01042
+java/util/ArrayList/get(int)  0,01042
+java/lang/StringBuilder/append(java.lang.Object)  0,01042
+java/util/ArrayList/add(java.lang.Object)  0,01042

@@ -1,0 +1,18 @@
+org.api.fake  0,20833
+org.rand.api  0,20833
+android/util/Log/v(java.lang.String  0,04167
+java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setTextColor(int), android/app/Activity/onResume(), android/content/SharedPreferences/getInt(java.lang.String  0,04167
+int)  0,04167
+com/grasscove/namethat/CategoriesList/setContentView(int), android/content/res/Resources/getString(int), com/grasscove/namethat/CategoriesList/getContentResolver(), com/grasscove/namethat/CategoriesList/setListAdapter(android.widget.ListAdapter), com/grasscove/namethat/CategoriesList/getListView(), com/grasscove/namethat/CategoriesList/registerForContextMenu(android.view.View  0,04167
+android/widget/PopupWindow/setBackgroundDrawable(android.graphics.drawable.Drawable), android/widget/PopupWindow/setContentView(android.view.View), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/graphics/drawable/BitmapDrawable/BitmapDrawable(), android/widget/PopupWindow/setOutsideTouchable(boolean), android/widget/PopupWindow/setTouchable(boolean), android/widget/PopupWindow/setHeight(int), android/widget/PopupWindow/setFocusable(boolean), android/widget/PopupWindow/setWidth(int  0,04167
+java.lang.String  0,04167
+android/content/res/Resources/getString(int), android/os/CountDownTimer/cancel(), android/app/AlertDialog$Builder/setPositiveButton(int  0,04167
+android/content/res/Resources/getString(int), com/grasscove/namethat/WordsList/getResources(), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(int  0,04167
+android.content.ContentValues  0,04167
+java.lang.String[  0,04167
+android.content.ContentValues)  0,04167
+java/io/OutputStream/close(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/InputStream/close(), java/io/File/mkdirs(), com/grasscove/namethat/HomeActivity/getResources(), java/io/OutputStream/write(byte[), android/content/res/Resources/openRawResource(int), java/lang/StringBuilder/toString(), java/io/FileOutputStream/FileOutputStream(java.lang.String), java/io/File/File(java.lang.String  0,04167
+java/io/IOException/printStackTrace(), java/lang/String/valueOf(java.lang.Object), java/io/InputStream/read(byte[)  0,04167
+com/grasscove/namethat/WordsList/setContentView(int), android/app/ListActivity/onCreate(android.os.Bundle), android/net/Uri/buildUpon(), android/net/Uri$Builder/appendPath(java.lang.String), com/grasscove/namethat/WordsList/getResources(), java/lang/Integer/toString(int), android/net/Uri$Builder/build(), android/content/Intent/getIntExtra(java.lang.String  0,04167
+android/view/View/getMeasuredWidth(), android/view/ViewGroup/startAnimation(android.view.animation.Animation), android/widget/PopupWindow/showAtLocation(android.view.View  0,04167
+android/view/View/getWidth()  0,04167

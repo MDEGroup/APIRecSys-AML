@@ -1,0 +1,19 @@
+java/lang/StringBuilder/append(java.lang.String)  0,27273
+java/lang/Class/getSimpleName(), java/sql/SQLException/printStackTrace(), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,18182
+org/apache/http/HttpEntity/getContent(), android/util/Log/e(java.lang.String  0,09091
+android.view.ViewGroup  0,09091
+java.lang.String)  0,09091
+android/database/sqlite/SQLiteDatabase/close()  0,09091
+kfzkennzeichen/gisbertamm/de/kfz_kennzeichen/persistence/DatabaseHandler/getReadableDatabase()  0,09091
+kfzkennzeichen/gisbertamm/de/kfz_kennzeichen/ResultFragment/getActivity(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/widget/Toast/makeText(android.content.Context  0,09091
+kfzkennzeichen/gisbertamm/de/kfz_kennzeichen/ResultFragment/getActivity(), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/widget/LinearLayout/addView(android.view.View), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,09091
+kfzkennzeichen.gisbertamm.de.kfz_kennzeichen.persistence.SavedEntry)  0,09091
+java/lang/String/valueOf(java.lang.Object)  0,09091
+java/io/OutputStream/close(), java/io/InputStream/read(byte[), java/io/OutputStream/flush(), android/content/res/AssetManager/open(java.lang.String), java/io/FileOutputStream/FileOutputStream(java.lang.String), java/io/InputStream/close(), java/lang/RuntimeException/RuntimeException(java.lang.String  0,09091
+android/content/Intent/setData(android.net.Uri), android/util/Log/d(java.lang.String  0,09091
+java/lang/Class/getSimpleName(), android/database/sqlite/SQLiteDatabase/getVersion(), java/lang/Object/getClass(), java/lang/StringBuilder/append(int), android/util/Log/d(java.lang.String  0,09091
+java/lang/Class/getSimpleName(), android/content/Intent/Intent(java.lang.String), kfzkennzeichen/gisbertamm/de/kfz_kennzeichen/ResultFragment/startActivity(android.content.Intent), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,09091
+android/net/Uri/parse(java.lang.String)  0,09091
+java/lang/Object/getClass()  0,09091
+java/lang/StringBuilder/StringBuilder()  0,09091
+java/lang/Class/getSimpleName()  0,09091

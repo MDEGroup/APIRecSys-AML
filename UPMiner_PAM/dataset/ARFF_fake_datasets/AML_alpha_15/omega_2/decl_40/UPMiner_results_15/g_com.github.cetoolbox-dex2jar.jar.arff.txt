@@ -1,0 +1,6 @@
+android/widget/TabHost/newTabSpec(java.lang.String)
+java/text/DecimalFormat/DecimalFormat(java.lang.String)
+java/io/InputStream/available(
+android/widget/TextView/setGravity(int
+com/github/cetoolbox/fragments/tabs/AboutActivity/setContentView(int)
+com/github/cetoolbox/CEToolboxActivity/setContentView(int

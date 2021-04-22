@@ -1,0 +1,8 @@
+com/chiralcode/colorpicker/ColorPicker/getHeight()
+android/content/Context/getPackageName()
+android/content/Intent/putExtra(java.lang.String,int
+com/chiralcode/colorpicker/MultiColorPicker/getHeight(
+android/util/Log/d(java.lang.String,java.lang.String
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Math/max(double,double
+com/chiralcode/colorpicker/MultiColorPicker/getWidth()

@@ -1,0 +1,12 @@
+java/lang/Math/min(float,float)
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+android/view/ViewGroup/getBottom(
+android/content/Context/getClassLoader()
+org.api.fake
+android/widget/Scroller/computeScrollOffset()
+android/widget/LinearLayout/addView(android.view.View,android.view.ViewGroup$LayoutParams
+java/lang/StringBuilder/StringBuilder()
+android/view/View/measure(int,int
+android/support/v4/view/PagerTitleStrip/getPaddingLeft()
+java/lang/Math/min(int,int
+java/util/ArrayList/ArrayList(

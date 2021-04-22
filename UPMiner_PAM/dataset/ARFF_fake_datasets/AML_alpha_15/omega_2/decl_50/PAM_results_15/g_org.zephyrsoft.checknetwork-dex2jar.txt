@@ -1,0 +1,129 @@
+prob: 0,10526
+[android/util/Log/w(java.lang.String]
+
+prob: 0,05263
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,05263
+[boolean]
+
+prob: 0,05263
+[java.lang.String]
+
+prob: 0,05263
+[java.lang.String)]
+
+prob: 0,05263
+[java/lang/Class/getFields(), android/util/Log/w(java.lang.String]
+
+prob: 0,05263
+[int)]
+
+prob: 0,02632
+[java/util/Iterator/hasNext(), java/util/Map/get(java.lang.Object), java/util/Map/size(), java/util/Map/keySet(), java/lang/StringBuilder/toString(]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), android/content/Context/getPackageName(), java/lang/System/exit(int), android/util/Log/e(java.lang.String]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator(), android/content/SharedPreferences/getAll(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), java/util/TreeMap/TreeMap(), java/util/Iterator/next()]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), java/io/InputStreamReader/InputStreamReader(java.io.InputStream]
+
+prob: 0,02632
+[java/net/URL/URL(java.lang.String), java/lang/String/format(java.lang.String]
+
+prob: 0,02632
+[java/net/HttpURLConnection/disconnect(), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setConnectTimeout(int), java/net/HttpURLConnection/getResponseCode(), android/net/NetworkInfo/isConnected(), java/net/URL/openConnection(), android/net/ConnectivityManager/getActiveNetworkInfo(), android/content/Context/getSystemService(java.lang.String), java/net/HttpURLConnection/connect(]
+
+prob: 0,02632
+[android/net/NetworkInfo/getType()]
+
+prob: 0,02632
+[android/view/Display/getHeight(), android/util/Log/w(java.lang.String]
+
+prob: 0,02632
+[android/util/SparseArray/size(), java/lang/StringBuilder/toString(]
+
+prob: 0,02632
+[java/lang/Object/toString(), java/util/Iterator/hasNext(), java/net/URLEncoder/encode(java.lang.String]
+
+prob: 0,02632
+[java/lang/Object/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), android/util/SparseArray/valueAt(int)]
+
+prob: 0,02632
+[android/util/SparseArray/keyAt(int)]
+
+prob: 0,02632
+[java/util/LinkedList/toString(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/List/toArray(java.lang.Object[])]
+
+prob: 0,02632
+[java/util/LinkedList/add(java.lang.Object)]
+
+prob: 0,02632
+[android/app/Application/getPackageName(), java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/Class/getAnnotation(java.lang.Class]
+
+prob: 0,02632
+[android/app/Application/getApplicationContext(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,02632
+[android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), java/lang/Object/getClass()]
+
+prob: 0,02632
+[java.lang.String[])]
+
+prob: 0,02632
+[java/lang/Integer/intValue(), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,02632
+[java/lang/Runtime/getRuntime(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,02632
+[java/lang/Integer/toString(int), java/util/List/toArray(java.lang.Object[])]
+
+prob: 0,02632
+[java/lang/Runtime/exec(java.lang.String[])]
+
+prob: 0,02632
+[java/lang/Class/getMethods(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(java.lang.Object), java/lang/reflect/Method/invoke(java.lang.Object]
+
+prob: 0,02632
+[java/lang/String/equals(java.lang.Object), java/lang/reflect/Method/getName()]
+
+prob: 0,02632
+[java/lang/Thread/getPriority(), java/lang/StringBuilder/append(java.lang.String), java/lang/Thread/getName(]
+
+prob: 0,02632
+[java/lang/Thread/getThreadGroup(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int)]
+
+prob: 0,02632
+[java/lang/ThreadGroup/getName(), java/lang/StringBuilder/append(long), java/lang/Thread/getId()]
+
+prob: 0,02632
+[java/lang/Class/getFields(), java/lang/reflect/Field/getName(), java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+
+prob: 0,02632
+[java.lang.reflect.Field)]
+
+prob: 0,02632
+[java.util.Map)]
+
+prob: 0,02632
+[org/apache/http/params/HttpParams/setParameter(java.lang.String]
+
+prob: 0,02632
+[org/acra/CrashReportDialog/setTitle(int), android/widget/ScrollView/addView(android.view.View), android/widget/TextView/getPaddingRight(), android/widget/LinearLayout/getPaddingBottom(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), org/acra/CrashReportDialog/getText(int), android/widget/LinearLayout/setOrientation(int), android/content/Intent/getStringExtra(java.lang.String), org/acra/CrashReportDialog/setContentView(android.view.View), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,02632
+[java/io/BufferedInputStream/reset()]
+
+prob: 0,02632
+[java/lang/String/String(char[]]
+
+prob: 0,02632
+[java/io/File/File(java.io.File]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String]
+

@@ -1,0 +1,161 @@
+java.lang.String  0,10989
+java.io.FileDescriptor  0,06593
+java/util/Set/iterator()  0,06593
+android/util/Log/w(java.lang.String  0,05495
+java/lang/StringBuilder/StringBuilder(int)  0,05495
+int  0,04396
+java/util/ArrayList/add(java.lang.Object)  0,04396
+java/util/Iterator/next()  0,04396
+java/util/Map/values()  0,03297
+java/util/Iterator/hasNext(), java/util/Map/get(java.lang.Object), java/util/Map/keySet(  0,03297
+android/util/Log/v(java.lang.String  0,03297
+java/util/ArrayList/iterator(), android/os/Handler/getLooper(), java/util/ArrayList/clear(  0,02198
+java/util/ArrayList/ArrayList(java.util.Collection), java/util/concurrent/atomic/AtomicInteger/get(), android/os/Looper/myLooper()  0,02198
+android.content.ServiceConnection  0,02198
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02198
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,02198
+b.a.a.a.b.a)  0,02198
+java.lang.String)  0,02198
+org/json/JSONObject/optString(java.lang.String  0,02198
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,02198
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(  0,02198
+java/util/concurrent/ExecutorService/submit(java.lang.Runnable), java/util/Map/size()  0,02198
+com.google.android.gms.dynamite.DynamiteModule$b  0,02198
+java/util/concurrent/locks/Lock/lock(), java/lang/StringBuilder/StringBuilder(int), java/util/Queue/add(java.lang.Object)  0,02198
+android/view/ViewTreeObserver/removeOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener)  0,02198
+java/util/Map/containsKey(java.lang.Object)  0,02198
+java/util/concurrent/locks/Lock/unlock()  0,02198
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,02198
+java/lang/StringBuilder/append(java.lang.String)  0,02198
+int)  0,01099
+android/content/Context/getPackageManager(), android/net/Uri$Builder/build(), android/net/Uri/buildUpon(), android/net/Uri/parse(java.lang.String), android/content/Intent/Intent(java.lang.String), android/content/Intent/Intent(java.lang.String  0,01099
+java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getDeclaredField(java.lang.String), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object  0,01099
+java/lang/reflect/Field/get(java.lang.Object), java/lang/reflect/Field/isAccessible(), java/lang/StringBuilder/toString(), android/os/IInterface/asBinder(), java/lang/StringBuilder/append(int), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,01099
+org/json/JSONObject/put(java.lang.String  0,01099
+android/app/Dialog/setCancelable(boolean), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), android/app/Dialog/setContentView(android.view.View), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(  0,01099
+java/lang/String/length(), android/content/Context/createPackageContext(java.lang.String  0,01099
+android.os.Parcel  0,01099
+java/util/ArrayList/iterator(), android/os/Handler/getLooper(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/concurrent/atomic/AtomicInteger/get()  0,01099
+java/util/Map/get(java.lang.Object), java/util/Map/clear(), java/lang/Integer/valueOf(int), java/lang/Integer/intValue(), java/util/Map/put(java.lang.Object  0,01099
+android/view/View/getRight()  0,01099
+android/view/View/isHorizontalScrollBarEnabled()  0,01099
+android/view/View/getId(), java/lang/Class/getName(), android/view/View/getTop(), java/lang/StringBuilder/toString()  0,01099
+java/lang/System/identityHashCode(java.lang.Object)  0,01099
+android/view/View/isEnabled()  0,01099
+java/lang/StringBuilder/append(char)  0,01099
+android/view/View/isLongClickable()  0,01099
+java/lang/Object/getClass()  0,01099
+android/view/View/getBottom()  0,01099
+android/content/res/Resources/getResourcePackageName(int)  0,01099
+android/view/View/willNotDraw()  0,01099
+android/content/res/Resources/getResourceTypeName(int)  0,01099
+android/view/View/getVisibility()  0,01099
+android/view/View/isFocusable()  0,01099
+android/view/View/isFocused()  0,01099
+android/view/View/getResources()  0,01099
+android/view/View/isClickable()  0,01099
+android/view/View/isPressed()  0,01099
+android/content/res/Resources/getResourceEntryName(int)  0,01099
+android/view/View/isVerticalScrollBarEnabled()  0,01099
+android/view/View/getLeft()  0,01099
+android/widget/FrameLayout/addView(android.view.View  0,01099
+java/util/List/size()  0,01099
+java/util/Iterator/next(), java/util/List/add(java.lang.Object), java/util/ArrayList/ArrayList()  0,01099
+java/util/Iterator/next(), java/util/ArrayList/size(), java/util/Iterator/hasNext()  0,01099
+android/text/TextUtils/join(java.lang.CharSequence  0,01099
+b.a.a.a.a.a)  0,01099
+java/lang/reflect/Field/setAccessible(boolean)  0,01099
+java/lang/reflect/Field/isSynthetic()  0,01099
+java/util/concurrent/atomic/AtomicInteger/getAndIncrement(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(int  0,01099
+java/util/concurrent/ThreadFactory/newThread(java.lang.Runnable)  0,01099
+java.lang.CharSequence  0,01099
+b.a.a.a.c.t  0,01099
+java/util/concurrent/locks/Condition/signalAll(), java/util/Iterator/hasNext(), java/util/Set/iterator(), java/util/Map/put(java.lang.Object  0,01099
+android/os/Bundle/setClassLoader(java.lang.ClassLoader)  0,01099
+byte[)  0,01099
+java/lang/String/valueOf(java.lang.Object), java/lang/String/length(), java/lang/String/concat(java.lang.String), java/lang/String/String(java.lang.String), java/lang/StringBuilder/toString()  0,01099
+java/lang/String/valueOf(java.lang.Object), java/lang/String/length(), java/lang/StringBuilder/StringBuilder(int), android/os/Parcel/dataPosition()  0,01099
+java/lang/String/valueOf(java.lang.Object), android/os/Handler/sendMessageDelayed(android.os.Message  0,01099
+java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/Set/iterator()  0,01099
+java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/put(java.lang.Object  0,01099
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/length(), java/util/Map/get(java.lang.Object), java/lang/Integer/toHexString(int), java/util/Map/keySet(  0,01099
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/length(), java/lang/Thread/setName(java.lang.String)  0,01099
+android/os/Bundle/putParcelable(java.lang.String  0,01099
+android/os/Parcel/dataSize(), java/lang/Integer/toHexString(int), java/lang/StringBuilder/append(java.lang.String)  0,01099
+android/app/Activity/startIntentSenderForResult(android.content.IntentSender  0,01099
+android.app.Notification  0,01099
+java/util/Iterator/hasNext(), java/lang/String/length(), java/util/Iterator/next(), java/lang/Integer/valueOf(int  0,01099
+java/util/Iterator/hasNext(), java/util/Iterator/next(), android/os/Handler/removeMessages(int), java/util/ArrayList/contains(java.lang.Object), android/os/Looper/myLooper(  0,01099
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/List/iterator(), java/lang/StringBuilder/append(java.lang.Object)  0,01099
+java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/ArrayList/size()  0,01099
+java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map/entrySet()  0,01099
+java/util/Iterator/hasNext(), android/util/Log/d(java.lang.String  0,01099
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), java/util/Map/size(), java/lang/Integer/valueOf(int), java/util/Iterator/next()  0,01099
+android/graphics/Paint/setColor(int)  0,01099
+android/graphics/Bitmap/getWidth()  0,01099
+android/graphics/Paint/Paint()  0,01099
+android/graphics/Matrix/postRotate(float)  0,01099
+android/graphics/Matrix/Matrix()  0,01099
+android/graphics/Bitmap/createBitmap(android.graphics.Bitmap  0,01099
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), android/util/Log/v(java.lang.String  0,01099
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/view/View/isSelected(  0,01099
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(boolean)  0,01099
+java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int), java/lang/StringBuilder/toString()  0,01099
+boolean)  0,01099
+a.a.a.a.g)  0,01099
+a.a.a.a.B)  0,01099
+java/util/Map/containsKey(java.lang.Object), java/util/concurrent/locks/Lock/unlock()  0,01099
+java/util/HashSet/HashSet(java.util.Collection)  0,01099
+java/util/Set/addAll(java.util.Collection)  0,01099
+java/util/Collections/emptySet()  0,01099
+java/util/ArrayList/isEmpty()  0,01099
+java.lang.StringBuilder)  0,01099
+java.io.PrintWriter  0,01099
+a.a.a.a.g$b  0,01099
+java/lang/Class/newInstance()  0,01099
+android.view.LayoutInflater$Factory2)  0,01099
+java/util/Map/containsKey(java.lang.Object  0,01099
+java/util/Queue/isEmpty()  0,01099
+java/util/Queue/remove()  0,01099
+java/lang/String/length(  0,01099
+java/util/Collection/iterator()  0,01099
+java/util/Set/retainAll(java.util.Collection)  0,01099
+android/view/View/setTransitionName(java.lang.String)  0,01099
+java/util/Map$Entry/getValue()  0,01099
+java/util/ArrayList/removeAll(java.util.Collection)  0,01099
+android/transition/Transition/removeTarget(android.view.View)  0,01099
+java/lang/Object/hashCode()  0,01099
+android/view/View/getViewTreeObserver()  0,01099
+java/util/Map/isEmpty()  0,01099
+java/util/Set/equals(java.lang.Object)  0,01099
+android/os/Bundle/Bundle(android.os.Bundle)  0,01099
+android/app/Notification$Builder/build()  0,01099
+android/os/Bundle/putAll(android.os.Bundle)  0,01099
+android/os/Bundle/remove(java.lang.String)  0,01099
+android/os/Bundle/keySet()  0,01099
+android/os/Bundle/putSparseParcelableArray(java.lang.String  0,01099
+android/transition/Transition/excludeTarget(android.view.View  0,01099
+java/util/Map/entrySet()  0,01099
+java/lang/String/concat(java.lang.String)  0,01099
+java/lang/String/String(java.lang.String)  0,01099
+java/util/Iterator/hasNext(), java/util/Iterator/next(), android/os/Handler/removeMessages(int), java/util/ArrayList/contains(java.lang.Object)  0,01099
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,01099
+java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), android/util/Log/v(java.lang.String  0,01099
+java/util/ArrayList/get(int), java/lang/StringBuilder/toString()  0,01099
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(int  0,01099
+java/lang/Integer/intValue()  0,01099
+java/util/ArrayList/ArrayList()  0,01099
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,01099
+java/lang/Integer/valueOf(int)  0,01099
+android/os/Handler/removeMessages(int)  0,01099
+java/util/ArrayList/contains(java.lang.Object)  0,01099
+java/lang/Integer/toHexString(int)  0,01099
+java/util/Map$Entry/getKey()  0,01099
+java/lang/String/valueOf(java.lang.Object), java/lang/String/length(), java/lang/StringBuilder/StringBuilder(int)  0,01099
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/String/length()  0,01099
+java/util/concurrent/locks/Lock/lock()  0,01099
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,01099
+java/util/ArrayList/size()  0,01099
+java/lang/StringBuilder/StringBuilder()  0,01099
+java/lang/StringBuilder/toString()  0,01099
+java/util/Iterator/hasNext()  0,01099

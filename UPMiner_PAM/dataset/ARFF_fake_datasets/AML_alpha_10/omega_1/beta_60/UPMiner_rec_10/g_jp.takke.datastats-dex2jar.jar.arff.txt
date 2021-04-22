@@ -1,0 +1,12 @@
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])
+android/graphics/drawable/Drawable/setBounds(int,int,int,int)
+android/app/Notification$Builder/getNotification(
+android/content/IntentFilter/IntentFilter(java.lang.String
+java/util/Iterator/hasNext()
+android/content/SharedPreferences$Editor/putInt(java.lang.String,int)
+android/util/Log/e(java.lang.String,java.lang.String,java.lang.Throwable
+android/graphics/Point/set(int,int
+java/lang/Class/isAssignableFrom(java.lang.Class)
+android/view/LayoutInflater/inflate(int,android.view.ViewGroup)
+android/view/SurfaceHolder/unlockCanvasAndPost(android.graphics.Canvas
+java/lang/StringBuilder/append(char

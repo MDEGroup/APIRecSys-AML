@@ -1,0 +1,15 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/io/PrintWriter/print(boolean)
+java/lang/StringBuilder/toString(
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Long/bitCount(long)
+java/util/Map$Entry/getKey()
+android/view/View$MeasureSpec/getMode(int)
+android/view/ViewGroup/removeViewAt(int)
+org.api.fake
+android/view/View/getLayoutParams()
+android/text/TextUtils/isEmpty(java.lang.CharSequence)
+android/content/res/Resources/getDisplayMetrics()
+android/view/View/getRight()
+android/util/Log/v(java.lang.String,java.lang.String)
+java/lang/Math/max(int,int)

@@ -1,0 +1,27 @@
+prob: 0,44444
+[android/util/Log/v(java.lang.String]
+
+prob: 0,11111
+[android/widget/RelativeLayout/getHeight(), android/view/View/invalidate(]
+
+prob: 0,11111
+[java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/ImageView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/view/MotionEvent/getX(), android/view/MotionEvent/getY(), android/widget/RelativeLayout/getWidth(), java/lang/StringBuilder/append(java.lang.Object), android/widget/ImageView/getHeight(), java/lang/StringBuilder/toString(), android/view/MotionEvent/getAction()]
+
+prob: 0,11111
+[android.view.MotionEvent)]
+
+prob: 0,11111
+[android/bluetooth/BluetoothDevice/getAddress(), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,11111
+[java/util/ArrayList/iterator(), android/bluetooth/BluetoothDevice/getAddress(), java/lang/String/valueOf(java.lang.Object), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,11111
+[java/util/ArrayList/ArrayList(), android/widget/ArrayAdapter/setDropDownViewResource(int)]
+
+prob: 0,11111
+[java/io/Reader/close(), android/content/res/Resources/getAssets(), java/io/Reader/read(char[]), android/app/AlertDialog/setMessage(java.lang.CharSequence), android/content/res/AssetManager/open(java.lang.String), android/app/AlertDialog/show(), java/lang/StringBuilder/StringBuilder(), android/app/AlertDialog$Builder/create(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream]
+
+prob: 0,11111
+[java/lang/StringBuilder/toString()]
+

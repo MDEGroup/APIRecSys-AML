@@ -1,0 +1,243 @@
+prob: 0,07692
+[int]
+
+prob: 0,07692
+[java.io.FileDescriptor]
+
+prob: 0,07692
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,06154
+[java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/set(int]
+
+prob: 0,04615
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,04615
+[java.lang.Object[])]
+
+prob: 0,04615
+[java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,04615
+[android/util/Log/v(java.lang.String]
+
+prob: 0,04615
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,03077
+[java.lang.String]
+
+prob: 0,03077
+[int)]
+
+prob: 0,03077
+[float]
+
+prob: 0,03077
+[java/util/Set/iterator()]
+
+prob: 0,03077
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01538
+[com/mig/virtdroid/phpVirtControlXMLRPC/execute(java.lang.Object[]), com/mig/virtdroid/Client/getApplicationContext(), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01538
+[java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int)]
+
+prob: 0,01538
+[android/content/Intent/getScheme(), android/content/Context/getContentResolver()]
+
+prob: 0,01538
+[android.app.Notification]
+
+prob: 0,01538
+[android/app/Activity/onCreate(android.os.Bundle)]
+
+prob: 0,01538
+[java/lang/Object/toString(), java/util/Iterator/hasNext(), java/lang/Integer/parseInt(java.lang.String), java/lang/Boolean/booleanValue(), android/widget/ListView/setAdapter(android.widget.ListAdapter), android/widget/ListView/setVisibility(int)]
+
+prob: 0,01538
+[java.lang.Object)]
+
+prob: 0,01538
+[org/xmlpull/v1/XmlPullParser/nextText(), java/lang/Integer/valueOf(int), java/lang/StringBuffer/append(java.lang.String), org/xmlpull/v1/XmlPullParser/require(int]
+
+prob: 0,01538
+[org/xmlpull/v1/XmlPullParser/getText()]
+
+prob: 0,01538
+[android/text/method/ScrollingMovementMethod/ScrollingMovementMethod()]
+
+prob: 0,01538
+[android.app.Activity]
+
+prob: 0,01538
+[android/app/Dialog/setContentView(android.view.View), android/support/v4/app/DialogFragment/getActivity(), android/os/Bundle/getBundle(java.lang.String), android/app/Dialog/onRestoreInstanceState(android.os.Bundle), android/app/Dialog/setOwnerActivity(android.app.Activity), android/support/v4/app/DialogFragment/getView(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener), android/view/View/getParent(]
+
+prob: 0,01538
+[android/app/Dialog/setCancelable(boolean)]
+
+prob: 0,01538
+[java.lang.StringBuilder)]
+
+prob: 0,01538
+[android/content/Intent/removeExtra(java.lang.String), java/util/ArrayList/isEmpty(), android/content/Intent/getAction(), android/content/Intent/setAction(java.lang.String), java/lang/String/equals(java.lang.Object), android/content/Intent/putParcelableArrayListExtra(java.lang.String]
+
+prob: 0,01538
+[com/mig/virtdroid/Client/setContentView(int)]
+
+prob: 0,01538
+[java/lang/Runnable/run(), java/util/ArrayList/toArray(java.lang.Object[]), java/util/ArrayList/size(), java/util/ArrayList/get(int), android/os/Handler/removeCallbacks(java.lang.Runnable), android/os/Handler/getLooper(), java/util/ArrayList/clear(]
+
+prob: 0,01538
+[android/os/Looper/myLooper(), java/lang/IllegalStateException/IllegalStateException(java.lang.String)]
+
+prob: 0,01538
+[java.util.ArrayList)]
+
+prob: 0,01538
+[android.support.v4.app.BackStackRecord)]
+
+prob: 0,01538
+[android/net/Uri/getQueryParameter(java.lang.String)]
+
+prob: 0,01538
+[android.content.Context]
+
+prob: 0,01538
+[android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context)]
+
+prob: 0,01538
+[com/mig/virtdroid/Client/findViewById(int)]
+
+prob: 0,01538
+[android/widget/TextView/setMovementMethod(android.text.method.MovementMethod)]
+
+prob: 0,01538
+[com/mig/virtdroid/Client/getIntent()]
+
+prob: 0,01538
+[com/mig/virtdroid/Client/getApplicationContext(), android/widget/Toast/show(), android/content/SharedPreferences$Editor/commit(), java/util/ArrayList/ArrayList(), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01538
+[com/mig/virtdroid/Client/registerForContextMenu(android.view.View)]
+
+prob: 0,01538
+[java/util/ArrayList/remove(int), android/view/View/getLayoutParams(), java/lang/Math/max(int]
+
+prob: 0,01538
+[android/view/ViewConfiguration/get(android.content.Context), android/support/v4/view/ViewPager/setFocusable(boolean), android/view/ViewConfiguration/getScaledMinimumFlingVelocity(), android/support/v4/view/ViewPager/setDescendantFocusability(int), android/support/v4/view/ViewPager/setWillNotDraw(boolean), android/support/v4/view/ViewPager/getContext(), android/content/Context/getResources(), android/content/res/Resources/getDisplayMetrics(), android/widget/Scroller/Scroller(android.content.Context]
+
+prob: 0,01538
+[com/mig/virtdroid/Client/getPackageName(), android/content/Intent/Intent(android.content.Context]
+
+prob: 0,01538
+[android/graphics/Canvas/translate(float]
+
+prob: 0,01538
+[android/view/MotionEvent/getEdgeFlags(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/view/VelocityTracker/computeCurrentVelocity(int]
+
+prob: 0,01538
+[android/support/v4/view/ViewPager/getScrollX()]
+
+prob: 0,01538
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/get(int)]
+
+prob: 0,01538
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/support/v4/view/ViewPager/scrollTo(int]
+
+prob: 0,01538
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/io/PrintWriter/PrintWriter(java.io.Writer), java/util/ArrayList/get(int), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String]
+
+prob: 0,01538
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/LinkedHashMap/entrySet(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/LinkedHashMap/remove(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/util/Map$Entry/getKey(), java/lang/Object/getClass(), java/util/Map$Entry/getValue(]
+
+prob: 0,01538
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), android/widget/ListView/setEmptyView(android.view.View), android/os/Handler/post(java.lang.Runnable), android/support/v4/app/ListFragment/getView(), android/widget/TextView/setVisibility(int), java/lang/RuntimeException/RuntimeException(java.lang.String]
+
+prob: 0,01538
+[android/os/SystemClock/uptimeMillis()]
+
+prob: 0,01538
+[android.view.View)]
+
+prob: 0,01538
+[android/widget/Scroller/computeScrollOffset(), android/view/VelocityTracker/addMovement(android.view.MotionEvent), android/view/MotionEvent/getX(), android/widget/Scroller/abortAnimation(), java/lang/Math/abs(int), android/view/VelocityTracker/obtain(), android/widget/Scroller/getFinalX(), android/view/MotionEvent/getAction(), java/lang/Math/abs(float), android/widget/Scroller/getCurrX(), android/view/MotionEvent/getY(]
+
+prob: 0,01538
+[android/view/VelocityTracker/recycle()]
+
+prob: 0,01538
+[java/lang/String/valueOf(java.lang.Object), org/xmlpull/v1/XmlPullParserFactory/newInstance(), java/lang/StringBuilder/append(java.lang.String), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/lang/StringBuilder/toString(), java/io/ByteArrayInputStream/ByteArrayInputStream(byte[]), java/io/BufferedReader/ready(), java/lang/String/length(), java/lang/StringBuilder/StringBuilder(java.lang.String), org/xmlpull/v1/XmlPullParser/setInput(java.io.Reader), java/lang/String/getBytes(java.lang.String), org/xmlpull/v1/XmlPullParserFactory/newPullParser(), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(]
+
+prob: 0,01538
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(int), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.Object), java/util/ArrayList/ArrayList(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(java.lang.String), java/util/HashMap/HashMap(), java/lang/Integer/parseInt(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,01538
+[android.view.View]
+
+prob: 0,01538
+[java.lang.Boolean]
+
+prob: 0,01538
+[android.support.v4.view.PagerAdapter)]
+
+prob: 0,01538
+[java.lang.ClassLoader)]
+
+prob: 0,01538
+[android/os/Bundle/Bundle(), android/os/Bundle/putParcelableArray(java.lang.String]
+
+prob: 0,01538
+[java/util/Iterator/next()]
+
+prob: 0,01538
+[java/lang/Class/getName()]
+
+prob: 0,01538
+[java/util/LinkedHashMap/isEmpty()]
+
+prob: 0,01538
+[java/lang/Thread/Thread(java.lang.Runnable)]
+
+prob: 0,01538
+[android/view/View/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)]
+
+prob: 0,01538
+[android.view.ViewGroup]
+
+prob: 0,01538
+[android/os/Handler/hasMessages(int), android/content/Intent/getFlags(), java/util/ArrayList/add(java.lang.Object), java/util/HashMap/get(java.lang.Object)]
+
+prob: 0,01538
+[com/mig/virtdroid/phpVirtControlXMLRPC/execute(java.lang.Object[]), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01538
+[android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)]
+
+prob: 0,01538
+[android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01538
+[java/lang/Math/max(int]
+
+prob: 0,01538
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,01538
+[android/os/Bundle/Bundle()]
+
+prob: 0,01538
+[java/util/ArrayList/toArray(java.lang.Object[])]
+
+prob: 0,01538
+[android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,01538
+[java/lang/StringBuilder/toString()]
+

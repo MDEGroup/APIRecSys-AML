@@ -1,0 +1,7 @@
+android/util/Log/e(java.lang.String,java.lang.String)
+java/util/Calendar/setTimeInMillis(long)
+android/opengl/GLES20/glBindTexture(int,int
+java/lang/Integer/valueOf(int
+java/lang/StringBuilder/StringBuilder()
+java/nio/ByteOrder/nativeOrder()
+android/opengl/GLES20/glGetShaderInfoLog(int

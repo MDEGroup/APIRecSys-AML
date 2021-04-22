@@ -1,0 +1,12 @@
+android.appwidget.AppWidgetManager  0,18182
+org.api.fake  0,18182
+java/lang/Math/toDegrees(double), android/view/MotionEvent/getY(), android/view/View/onTouchEvent(android.view.MotionEvent), java/lang/Math/sqrt(double), java/lang/Math/min(double  0,18182
+android/view/MotionEvent/getAction()  0,18182
+com/chiralcode/colorpicker/ColorPicker/getHeight(), com/chiralcode/colorpicker/ColorPicker/getWidth(), com/chiralcode/colorpicker/ColorPicker/invalidate(), android/view/MotionEvent/getX()  0,09091
+com/chiralcode/colorpicker/ColorPicker/getHeight(), com/chiralcode/colorpicker/ColorPicker/getWidth(), android/graphics/Paint/setColor(int), android/graphics/RectF/set(float  0,09091
+com/chiralcode/colorpicker/ColorPicker/getHeight(), com/chiralcode/colorpicker/ColorPicker/getWidth(), android/graphics/Paint/setStrokeJoin(android.graphics.Paint$Join), android/graphics/Path/lineTo(float  0,09091
+android/graphics/SweepGradient/setLocalMatrix(android.graphics.Matrix), java/lang/Math/sin(double)  0,09091
+com/chiralcode/colorpicker/MultiColorPicker/getWidth(), com/chiralcode/colorpicker/MultiColorPicker/getHeight()  0,09091
+com/chiralcode/colorpicker/MultiColorPicker/getWidth(), java/lang/Math/sin(double), android/graphics/Paint/setShader(android.graphics.Shader), android/graphics/Canvas/drawPath(android.graphics.Path  0,09091
+com/chiralcode/colorpicker/MultiColorPicker/getWidth(), android/graphics/Paint/setStrokeJoin(android.graphics.Paint$Join), android/graphics/Path/lineTo(float  0,09091
+java.lang.Object)  0,09091

@@ -1,0 +1,141 @@
+com.shatteredpixel.shatteredpixeldungeon.levels.Room)  0,11765
+java.lang.String)  0,09804
+com/shatteredpixel/shatteredpixeldungeon/levels/Room/height()  0,07843
+com/shatteredpixel/shatteredpixeldungeon/levels/Room/width()  0,05882
+java/util/Iterator/hasNext()  0,05882
+java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/size(), java/util/ArrayList/contains(java.lang.Object), java/lang/StringBuilder/toString()  0,03922
+int  0,03922
+java/util/HashSet/contains(java.lang.Object), com/shatteredpixel/shatteredpixeldungeon/levels/Room/height(), java/util/Iterator/next(), com/shatteredpixel/shatteredpixeldungeon/levels/Room/width(), java/util/List/iterator()  0,03922
+java/lang/String/valueOf(java.lang.Object), java/lang/String/substring(int)  0,03922
+com/watabou/noosa/BitmapTextMultiline/hardlight(int)  0,03922
+java/util/HashSet/iterator()  0,03922
+com/watabou/noosa/BitmapText/width()  0,03922
+java/util/ArrayList/add(java.lang.Object)  0,03922
+java/util/ArrayList/size()  0,03922
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,03922
+java/util/Iterator/next(), java/util/HashMap/size(), java/util/Set/toArray(), java/util/List/iterator(), java/util/HashMap/get(java.lang.Object), java/util/HashMap/keySet(  0,01961
+java/util/Iterator/next(), com/shatteredpixel/shatteredpixeldungeon/levels/LastShopLevel/initRooms(), java/util/List/iterator(), java/util/HashMap/size(  0,01961
+android/opengl/GLSurfaceView/setEGLContextClientVersion(int), android/opengl/GLSurfaceView/setOnTouchListener(android.view.View$OnTouchListener), android/view/Display/getMetrics(android.util.DisplayMetrics), android/opengl/GLSurfaceView/setEGLConfigChooser(boolean), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,01961
+com/watabou/noosa/Game/getPackageManager(), com/watabou/noosa/Game/getWindowManager(), android/view/WindowManager/getDefaultDisplay()  0,01961
+com/watabou/noosa/Game/getWindowManager(), android/view/WindowManager/getDefaultDisplay(), android/view/Display/getMetrics(android.util.DisplayMetrics), com/shatteredpixel/shatteredpixeldungeon/Preferences/getBoolean(java.lang.String  0,01961
+com/watabou/noosa/Game/setContentView(android.view.View), com/watabou/noosa/Game/getPackageName()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/AboutScene/add(com.watabou.noosa.Gizmo)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/AboutScene/addToBack(com.watabou.noosa.Gizmo)  0,01961
+java/util/ArrayList/remove(java.lang.Object), java/util/HashMap/keySet(  0,01961
+java/util/ArrayList/ArrayList(java.util.Collection), java/util/HashSet/size(), java/util/HashSet/HashSet(), java/lang/Math/sqrt(double)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/items/artifacts/AlchemistsToolkit$alchemy/level()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/actors/hero/Hero/buff(java.lang.Class)  0,01961
+java/util/LinkedList/iterator()  0,01961
+java/lang/Class/newInstance()  0,01961
+java/util/LinkedList/size()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/ShatteredPixelDungeon/getWindow(), com/watabou/noosa/audio/Sample/enable(boolean)  0,01961
+java/io/OutputStream/close(), java/util/HashSet/iterator(), java/util/Iterator/hasNext(), com/watabou/noosa/Game/openFileOutput(java.lang.String  0,01961
+java/lang/Class/getSimpleName(), com/shatteredpixel/shatteredpixeldungeon/items/artifacts/AlchemistsToolkit/convertName(java.lang.String), java/lang/Object/getClass(  0,01961
+java/lang/Math/ceil(double), java/util/Collections/shuffle(java.util.List  0,01961
+java/lang/Math/ceil(double), java/lang/Object/getClass(), java/util/HashSet/add(java.lang.Object), java/util/HashMap/put(java.lang.Object  0,01961
+com/shatteredpixel/shatteredpixeldungeon/items/armor/MailArmor/identify(), com/shatteredpixel/shatteredpixeldungeon/items/weapon/melee/Glaive/identify(), com/shatteredpixel/shatteredpixeldungeon/items/armor/PlateArmor/identify()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/items/armor/LeatherArmor/identify(), com/shatteredpixel/shatteredpixeldungeon/items/weapon/melee/MeleeWeapon/identify(), com/shatteredpixel/shatteredpixeldungeon/items/weapon/melee/WarHammer/identify(), java/util/ArrayList/size()  0,01961
+java/lang/RuntimeException/RuntimeException(java.lang.String)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/items/armor/ScaleArmor/identify()  0,01961
+java/util/HashSet/iterator(), com/shatteredpixel/shatteredpixeldungeon/levels/Room/intersect(com.watabou.utils.Rect), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/HashMap/size(  0,01961
+com/watabou/utils/SparseArray/get(int), com/watabou/utils/SparseArray/put(int  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/LoadSaveScene/align(float), java/lang/String/equals(java.lang.Object), com/shatteredpixel/shatteredpixeldungeon/ui/Archs/setSize(float  0,01961
+com/watabou/noosa/BitmapText/hardlight(int), com/shatteredpixel/shatteredpixeldungeon/actors/hero/HeroClass/title(), java/io/FileInputStream/FileInputStream(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,01961
+java/io/File/File(java.lang.String)  0,01961
+java/io/FileInputStream/close()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/LoadSaveScene/add(com.watabou.noosa.Gizmo)  0,01961
+java/io/IOException/printStackTrace()  0,01961
+java/io/File/exists()  0,01961
+java/lang/Math/min(float  0,01961
+com/shatteredpixel/shatteredpixeldungeon/actors/hero/Hero/buffs(java.lang.Class), java/util/Arrays/fill(boolean[  0,01961
+java/lang/StringBuilder/append(java.lang.String), com/watabou/noosa/audio/Music/volume(float), com/shatteredpixel/shatteredpixeldungeon/scenes/TitleScene/add(com.watabou.noosa.Gizmo), com/watabou/noosa/BitmapText/height(), com/shatteredpixel/shatteredpixeldungeon/scenes/TitleScene$DashboardItem/width(), com/shatteredpixel/shatteredpixeldungeon/ui/PrefsButton/setPos(float  0,01961
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), com/shatteredpixel/shatteredpixeldungeon/ui/ItemSlot/right(), java/lang/String/valueOf(java.lang.Object), com/watabou/noosa/BitmapText/width(), java/lang/String/length()  0,01961
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(  0,01961
+android/view/MotionEvent/getPointerId(int), java/util/HashMap/put(java.lang.Object  0,01961
+java/util/HashMap/remove(java.lang.Object), android/view/MotionEvent/getPointerCount()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/WelcomeScene/add(com.watabou.noosa.Gizmo), com/shatteredpixel/shatteredpixeldungeon/scenes/WelcomeScene/createMultiline(java.lang.String  0,01961
+com.shatteredpixel.shatteredpixeldungeon.actors.Char)  0,01961
+com/watabou/noosa/BitmapText/width(), com/shatteredpixel/shatteredpixeldungeon/scenes/RankingsScene$Record/setRect(float  0,01961
+com/watabou/noosa/Image/resetColor(), com/shatteredpixel/shatteredpixeldungeon/ui/DangerIndicator/bottom(), com/shatteredpixel/shatteredpixeldungeon/ui/ResumeIndicator/width(), com/watabou/noosa/particles/Emitter/revive(), com/watabou/noosa/ui/Component/update()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/ui/ResumeIndicator/setPos(float  0,01961
+com/shatteredpixel/shatteredpixeldungeon/ui/LootIndicator/setPos(float  0,01961
+java/util/ArrayList/iterator(), java/util/Iterator/next()  0,01961
+java.lang.String[  0,01961
+com/watabou/noosa/audio/Music/volume(float), java/lang/Math/min(int  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/PrisonBossLevel/initRooms()  0,01961
+java/util/Set/iterator(), java/util/HashMap/get(java.lang.Object), java/util/HashMap/keySet(  0,01961
+java/lang/StringBuilder/append(int)  0,01961
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/ArrayList/get(int), java/lang/StringBuilder/toString()  0,01961
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Math/round(float), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/items/weapon/Weapon$Imbue/ordinal()  0,01961
+java/util/List/get(int)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/items/weapon/melee/MeleeWeapon/desc()  0,01961
+java/lang/StringBuilder/toString(), com/shatteredpixel/shatteredpixeldungeon/ui/ItemSlot/setRect(float  0,01961
+com/shatteredpixel/shatteredpixeldungeon/items/weapon/melee/MeleeWeapon/isEquipped(com.shatteredpixel.shatteredpixeldungeon.actors.hero.Hero)  0,01961
+java/util/ArrayList/contains(java.lang.Object  0,01961
+com/shatteredpixel/shatteredpixeldungeon/actors/hero/Hero/isAlive(), com/shatteredpixel/shatteredpixeldungeon/ui/AttackIndicator/setPos(float  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/GameScene/add(com.watabou.noosa.Gizmo)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/actors/hero/HeroClass/ordinal()  0,01961
+com/watabou/noosa/BitmapTextMultiline/width(), com/shatteredpixel/shatteredpixeldungeon/ui/ExitButton/width(), com/watabou/noosa/BitmapTextMultiline/height(), com/shatteredpixel/shatteredpixeldungeon/scenes/AboutScene/align(float), com/watabou/noosa/Image/width(), com/shatteredpixel/shatteredpixeldungeon/ui/Archs/setSize(float  0,01961
+com/watabou/noosa/BitmapTextMultiline/width(), com/shatteredpixel/shatteredpixeldungeon/ui/RedButton/setSize(float  0,01961
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/ArrayList/indexOf(java.lang.Object)  0,01961
+java/util/ArrayList/iterator(  0,01961
+com/watabou/noosa/audio/Sample/play(java.lang.Object), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/ArrayList()  0,01961
+com/watabou/noosa/audio/Sample/play(java.lang.Object), java/util/Iterator/hasNext(), java/util/LinkedList/get(int  0,01961
+java/lang/Integer/valueOf(int)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/PrisonBossLevel/paintGrass()  0,01961
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/HashMap/HashMap()  0,01961
+java/util/Iterator/hasNext(), com/shatteredpixel/shatteredpixeldungeon/ui/BuffIndicator/clear(), java/util/ArrayList/size()  0,01961
+java/util/Iterator/hasNext(), java/util/HashMap/containsKey(java.lang.Object), java/util/HashSet/add(java.lang.Object), java/lang/Math/min(int  0,01961
+java/util/Iterator/hasNext(), java/util/HashMap/containsKey(java.lang.Object), com/shatteredpixel/shatteredpixeldungeon/levels/Room/square(), com/shatteredpixel/shatteredpixeldungeon/levels/Room/intersect(com.watabou.utils.Rect), java/util/Iterator/next()  0,01961
+java/util/ArrayList/remove(int), java/lang/Integer/intValue()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/items/scrolls/ScrollOfMirrorImage/setKnown()  0,01961
+java/util/ArrayList/size(  0,01961
+int)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/BadgesScene/fadeIn()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/BadgesScene/align(float)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/BadgesScene/add(com.watabou.noosa.Gizmo)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/windows/WndCatalogus$ListItem/setRect(float  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/SewerBossLevel/paintGrass()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/SewerBossLevel/paint()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/SewerBossLevel/initRooms()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/SewerBossLevel/paintWater()  0,01961
+java/util/ArrayList/isEmpty()  0,01961
+java/util/ArrayList/toArray(java.lang.Object[)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/items/artifacts/SandalsOfNature/isEquipped(com.shatteredpixel.shatteredpixeldungeon.actors.hero.Hero)  0,01961
+com/watabou/noosa/BitmapTextMultiline/text()  0,01961
+java/util/regex/Matcher/matches()  0,01961
+java/lang/String/startsWith(java.lang.String)  0,01961
+java/util/regex/Pattern/matcher(java.lang.CharSequence)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/ui/GameLog/remove(com.watabou.noosa.Gizmo)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/ui/GameLog/add(com.watabou.noosa.Gizmo)  0,01961
+com/watabou/noosa/BitmapTextMultiline/text(java.lang.String  0,01961
+java/util/List/size()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/LastShopLevel/paintGrass()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/LastShopLevel/paintWater()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/LastShopLevel/paint()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/PrisonBossLevel/paint()  0,01961
+com/watabou/noosa/Image/hardlight(int)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/SurfaceScene/add(com.watabou.noosa.Gizmo)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/SurfaceScene$GrassPatch/brightness(float)  0,01961
+com/shatteredpixel/shatteredpixeldungeon/scenes/SurfaceScene/fadeIn()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/ui/RedButton/setPos(float  0,01961
+android/util/DisplayMetrics/DisplayMetrics()  0,01961
+android/opengl/GLSurfaceView/GLSurfaceView(android.content.Context)  0,01961
+android/opengl/GLSurfaceView/setRenderer(android.opengl.GLSurfaceView$Renderer)  0,01961
+android/app/Activity/onCreate(android.os.Bundle)  0,01961
+java/util/Set/iterator()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/levels/Room/square()  0,01961
+com/shatteredpixel/shatteredpixeldungeon/actors/hero/Hero/isAlive()  0,01961
+java/util/HashMap/size()  0,01961
+java/util/ArrayList/get(int)  0,01961
+java/lang/Integer/intValue()  0,01961
+java/lang/String/length()  0,01961
+java/lang/Math/sqrt(double)  0,01961
+java/util/HashSet/size()  0,01961
+java/util/HashSet/add(java.lang.Object)  0,01961
+com/watabou/noosa/audio/Sample/play(java.lang.Object)  0,01961
+java/util/ArrayList/ArrayList()  0,01961
+java/lang/String/valueOf(java.lang.Object)  0,01961
+java/lang/StringBuilder/append(java.lang.String)  0,01961
+java/util/Iterator/next()  0,01961

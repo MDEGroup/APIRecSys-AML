@@ -1,0 +1,236 @@
+org.api.fake  0,14773
+org.rand.api  0,14773
+java/util/Iterator/hasNext(), java/util/Iterator/next()  0,08523
+long)  0,05682
+int)  0,05682
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()  0,04545
+java/lang/String/valueOf(java.lang.Object)  0,03409
+java.util.Set)  0,02841
+int  0,02841
+java/lang/StringBuilder/StringBuilder()  0,02841
+long  0,02273
+java/lang/StringBuilder/StringBuilder(int)  0,02273
+java/lang/StringBuilder/StringBuilder(java.lang.String)  0,02273
+java/lang/StringBuilder/append(java.lang.String)  0,02273
+java.lang.Long  0,01705
+boolean)  0,01705
+java/lang/StringBuilder/append(int), java/lang/System/identityHashCode(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(java.lang.Object)  0,01705
+java.util.Set  0,01705
+android.os.Parcel  0,01705
+javax.jmdns.impl.JmDNSImpl  0,01705
+java.net.Socket)  0,01705
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Set/iterator()  0,01705
+com.afqa123.shareplay.interfaces.IServerProvider  0,01705
+java/lang/Class/getSimpleName(), java/lang/Object/getClass(  0,01705
+java/util/concurrent/ConcurrentMap/keySet(), java/util/Set/iterator(), java/util/concurrent/ConcurrentMap/get(java.lang.Object)  0,01705
+java/lang/StringBuilder/append(java.lang.Object)  0,01705
+java.lang.String  0,01136
+javax/jmdns/impl/DNSCache/clear(), java/util/Collection/iterator(), java/util/Map/values()  0,01136
+java/lang/Long/valueOf(long)  0,01136
+java/lang/StringBuffer/append(java.lang.Object)  0,01136
+java/lang/StringBuffer/toString()  0,01136
+java/lang/StringBuffer/StringBuffer()  0,01136
+java/lang/StringBuffer/append(java.lang.String  0,01136
+java/lang/Object/toString(), java/lang/StringBuilder/StringBuilder(int), java/util/concurrent/ConcurrentMap/isEmpty()  0,01136
+javax/jmdns/impl/DNSOutgoing/getNumberOfAnswers(), javax/jmdns/impl/DNSOutgoing/getId(), java/util/Iterator/hasNext(), java/util/Iterator/next(), javax/jmdns/impl/DNSOutgoing/getFlags(), javax/jmdns/impl/DNSOutgoing/getNumberOfAdditionals(), javax/jmdns/impl/DNSOutgoing/getNumberOfQuestions()  0,01136
+javax/jmdns/impl/DNSOutgoing/getNumberOfAuthorities()  0,01136
+java/lang/String/length()  0,01136
+java/lang/StringBuilder/append(char)  0,01136
+java/util/List/iterator()  0,01136
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/logging/Logger/log(java.util.logging.Level  0,01136
+android/os/Message/sendToTarget(), java/lang/StringBuilder/append(java.lang.String), com/afqa123/shareplay/common/DBHelper/getWritableDatabase(), java/lang/Integer/valueOf(int), android/content/ContentValues/put(java.lang.String  0,00568
+android/database/Cursor/getColumnIndex(java.lang.String), com/afqa123/shareplay/common/DBHelper/getReadableDatabase(), android/database/Cursor/getLong(int), android/database/Cursor/close(), android/database/Cursor/moveToNext()  0,00568
+com/afqa123/shareplay/common/DBHelper/getReadableDatabase(), android/database/Cursor/getLong(int), android/database/Cursor/close(), android/database/sqlite/SQLiteQueryBuilder/query(android.database.sqlite.SQLiteDatabase  0,00568
+android/database/Cursor/getCount()  0,00568
+android/database/Cursor/moveToFirst()  0,00568
+android/database/sqlite/SQLiteQueryBuilder/SQLiteQueryBuilder(), java/lang/Long/toString()  0,00568
+android/content/Intent/Intent(android.content.Context  0,00568
+android/app/ProgressDialog/setMessage(java.lang.CharSequence), android/app/ProgressDialog/show(), android/app/ProgressDialog/setMax(int), android/app/ProgressDialog/setProgress(int), android/app/ProgressDialog/setCancelable(boolean  0,00568
+android/app/ProgressDialog/setMessage(java.lang.CharSequence), com/afqa123/shareplay/SelectionActivity/setRequestedOrientation(int), android/app/ProgressDialog/setProgressStyle(int), com/afqa123/shareplay/SelectionActivity/isFinishing(), android/app/ProgressDialog/ProgressDialog(android.content.Context), com/afqa123/shareplay/SelectionActivity/getString(int)  0,00568
+android/app/ProgressDialog/show(), com/afqa123/shareplay/SelectionActivity/getRequestedOrientation(  0,00568
+com/afqa123/shareplay/SelectionActivity/setRequestedOrientation(int), android/app/ProgressDialog/setTitle(java.lang.CharSequence), android/app/ProgressDialog/ProgressDialog(android.content.Context), android/app/ProgressDialog/setProgressStyle(int)  0,00568
+android/app/ProgressDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/ProgressDialog/setIndeterminate(boolean), com/afqa123/shareplay/SelectionActivity/getRequestedOrientation()  0,00568
+android/app/ProgressDialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/ProgressDialog/setCancelable(boolean), android/app/ProgressDialog/setIndeterminate(boolean)  0,00568
+java/lang/System/identityHashCode(java.lang.Object), java/lang/String/String(byte[), javax/jmdns/impl/ServiceInfoImpl$ServiceInfoState/toString()  0,00568
+javax/jmdns/impl/ListenerStatus$ServiceListenerStatus/getListener(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/concurrent/ConcurrentMap/remove(java.lang.Object  0,00568
+java/util/concurrent/ConcurrentMap/keySet(  0,00568
+java/util/concurrent/ConcurrentMap/values(), java/util/concurrent/ExecutorService/submit(java.lang.Runnable), java/util/logging/Logger/log(java.util.logging.Level  0,00568
+java/util/concurrent/ConcurrentMap/clear()  0,00568
+android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setNegativeButton(int  0,00568
+java/lang/Exception/getCause(), org/json/JSONObject/put(java.lang.String  0,00568
+android/content/Context/getPackageManager(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int)  0,00568
+java/lang/StringBuilder/setLength(int), java/lang/StringBuilder/length()  0,00568
+javax/jmdns/impl/tasks/Responder/addAnswer(javax.jmdns.impl.DNSOutgoing  0,00568
+java/util/Random/nextInt(int), javax/jmdns/impl/tasks/Responder/getDns(), java/util/Timer/schedule(java.util.TimerTask  0,00568
+javax/jmdns/impl/DNSIncoming/getQuestions(), javax/jmdns/impl/DNSIncoming/isTruncated(), java/util/logging/Logger/finest(java.lang.String), java/lang/StringBuilder/append(int)  0,00568
+java/util/Map/get(java.lang.Object), org/json/JSONObject/put(java.lang.String  0,00568
+java/util/Map/get(java.lang.Object), java/lang/String/equalsIgnoreCase(java.lang.String), java/util/Map/put(java.lang.Object  0,00568
+java/io/IOException/IOException(java.lang.String), java/lang/StringBuilder/append(long)  0,00568
+java/io/IOException/IOException(java.lang.String), java/util/Map/get(java.lang.Object), java/io/ByteArrayOutputStream/write(byte[  0,00568
+java/lang/String/toLowerCase(), java/lang/String/length(), java/lang/String/format(java.lang.String  0,00568
+java/lang/String/toLowerCase(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/String/substring(int  0,00568
+java/lang/String/toLowerCase(), java/util/concurrent/ConcurrentMap/putIfAbsent(java.lang.Object  0,00568
+android/os/Bundle/putString(java.lang.String  0,00568
+com/afqa123/shareplay/SelectionActivity/getString(int), android/app/TabActivity/onStart(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/Long/toString(), java/lang/StringBuilder/StringBuilder()  0,00568
+android/widget/Toast/getXOffset(), java/lang/String/trim()  0,00568
+android/widget/Toast/getYOffset()  0,00568
+android/widget/TextView/getText()  0,00568
+java/util/Date/Date()  0,00568
+java/lang/Exception/Exception(java.lang.String)  0,00568
+android/app/Activity/getString(int)  0,00568
+android/media/MediaPlayer/prepareAsync()  0,00568
+android/media/MediaPlayer/MediaPlayer()  0,00568
+com/afqa123/shareplay/MediaPlayerService/getSharedPreferences(java.lang.String  0,00568
+android/os/Handler/obtainMessage(int), java/io/FileOutputStream/write(byte[  0,00568
+java/net/URL/URL(java.lang.String)  0,00568
+java/net/HttpURLConnection/setRequestMethod(java.lang.String)  0,00568
+java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/append(boolean)  0,00568
+java/lang/StringBuilder/append(java.lang.String), java/util/concurrent/ConcurrentMap/replace(java.lang.Object  0,00568
+java/lang/StringBuilder/append(java.lang.String), java/util/Collection/iterator(), javax/jmdns/impl/JmDNSImpl$ServiceTypeEntry/values(), javax/jmdns/impl/JmDNSImpl$ServiceTypeEntry/isEmpty(), java/lang/StringBuilder/toString(  0,00568
+java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/String/String(byte[), java/util/Map/keySet(  0,00568
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), android/os/Message/sendToTarget(), java/util/List/get(int), java/lang/System/currentTimeMillis()  0,00568
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/Class/getSimpleName(), java/lang/Object/getClass(  0,00568
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder(), java/io/DataInputStream/readShort(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object)  0,00568
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int), java/util/Map/keySet(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object)  0,00568
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/util/concurrent/ConcurrentMap/get(java.lang.Object), java/lang/StringBuilder/toString()  0,00568
+javax.jmdns.impl.DNSRecord  0,00568
+java/lang/Class/getResourceAsStream(java.lang.String)  0,00568
+java/util/Properties/getProperty(java.lang.String)  0,00568
+java/util/Properties/Properties()  0,00568
+java/lang/System/getProperty(java.lang.String)  0,00568
+java/util/Properties/load(java.io.InputStream)  0,00568
+java/util/logging/Logger/fine(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/net/SocketException/getMessage(), java/net/InetAddress/getByName(java.lang.String), java/util/logging/Logger/isLoggable(java.util.logging.Level  0,00568
+java/util/logging/Logger/fine(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/util/concurrent/ConcurrentMap/get(java.lang.Object), java/util/concurrent/ConcurrentMap/remove(java.lang.Object  0,00568
+java/util/logging/Logger/fine(java.lang.String), javax/jmdns/impl/DNSOutgoing/isEmpty(), java/util/Map/values(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/logging/Logger/log(java.util.logging.Level  0,00568
+java/util/logging/Logger/fine(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Set/toArray(java.lang.Object[), java/util/concurrent/ConcurrentMap/get(java.lang.Object)  0,00568
+java/util/ArrayList/ArrayList(java.util.Collection), java/util/logging/Logger/warning(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/logging/Logger/log(java.util.logging.Level  0,00568
+java.net.InetAddress  0,00568
+javax.jmdns.ServiceListener  0,00568
+java/net/MulticastSocket/setTimeToLive(int)  0,00568
+java/net/MulticastSocket/setNetworkInterface(java.net.NetworkInterface)  0,00568
+java/net/MulticastSocket/MulticastSocket(int)  0,00568
+java/lang/Long/toString(), java/lang/StringBuilder/append(java.lang.String), com/afqa123/shareplay/common/DBHelper/getWritableDatabase(), java/lang/Integer/valueOf(int)  0,00568
+java/net/MulticastSocket/joinGroup(java.net.InetAddress)  0,00568
+com/afqa123/shareplay/impl/Client$UpdateThread/isStopped()  0,00568
+java/util/List/size()  0,00568
+java/lang/Long/longValue()  0,00568
+com/afqa123/shareplay/common/Base64$InputStream/close()  0,00568
+java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream)  0,00568
+java/io/File/length()  0,00568
+java/lang/StringBuilder/StringBuilder(), java/lang/System/arraycopy(java.lang.Object  0,00568
+java/io/FileInputStream/FileInputStream(java.io.File)  0,00568
+java/io/File/File(java.lang.String)  0,00568
+javax/jmdns/impl/tasks/resolver/DNSResolverTask/getDns()  0,00568
+javax/jmdns/impl/tasks/resolver/DNSResolverTask/getName()  0,00568
+javax/jmdns/impl/tasks/resolver/DNSResolverTask/cancel(), java/util/logging/Logger/log(java.util.logging.Level  0,00568
+java/util/ArrayList/ArrayList()  0,00568
+javax/jmdns/impl/tasks/state/DNSStateTask/getDns()  0,00568
+javax/jmdns/impl/tasks/state/DNSStateTask/cancel()  0,00568
+javax/jmdns/impl/tasks/state/DNSStateTask/getName()  0,00568
+java/util/ArrayList/ArrayList(int)  0,00568
+org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest)  0,00568
+org/json/JSONObject/toString()  0,00568
+org/apache/http/impl/client/DefaultHttpClient/DefaultHttpClient(), java/util/List/add(java.lang.Object)  0,00568
+org/apache/http/message/BasicNameValuePair/BasicNameValuePair(java.lang.String  0,00568
+javax/jmdns/impl/DNSRecord$Address/sameType(javax.jmdns.impl.DNSRecord)  0,00568
+javax/jmdns/impl/DNSRecord$Address/isUnique()  0,00568
+javax/jmdns/impl/DNSRecord$Address/getRecordType()  0,00568
+android/app/ProgressDialog/show(android.content.Context  0,00568
+java/util/logging/Logger/finer(java.lang.String  0,00568
+javax/jmdns/impl/DNSRecord$Service/getKey()  0,00568
+java/util/HashSet/HashSet(int)  0,00568
+java/io/DataInputStream/readInt(), java/util/List/iterator(), java/lang/String/String(byte[)  0,00568
+java/io/DataInputStream/read(byte[)  0,00568
+java/io/DataInputStream/available()  0,00568
+android/widget/TabHost/setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)  0,00568
+java/io/DataInputStream/skipBytes(int  0,00568
+com.afqa123.shareplay.interfaces.Catalog)  0,00568
+android/app/TabActivity/onCreate(android.os.Bundle)  0,00568
+android/os/Bundle/getInt(java.lang.String)  0,00568
+android/os/Bundle/containsKey(java.lang.String)  0,00568
+android/content/Intent/getExtras()  0,00568
+android/widget/ImageButton/setOnClickListener(android.view.View$OnClickListener)  0,00568
+com/afqa123/shareplay/SelectionActivity/findViewById(int)  0,00568
+com/afqa123/shareplay/SelectionActivity/getIntent()  0,00568
+android/os/Bundle/getLong(java.lang.String)  0,00568
+android/widget/ImageView/setOnClickListener(android.view.View$OnClickListener)  0,00568
+com/afqa123/shareplay/SelectionActivity/setContentView(int)  0,00568
+com/afqa123/shareplay/SelectionActivity/getTabHost()  0,00568
+android/os/Bundle/getString(java.lang.String  0,00568
+java/util/Iterator/hasNext(), javax/jmdns/impl/DNSOutgoing/setId(int), javax/jmdns/impl/tasks/Responder/getDns()  0,00568
+java/util/Iterator/hasNext(), java/io/ByteArrayOutputStream/ByteArrayOutputStream(int), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00568
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/util/Collection/iterator(), java/util/Iterator/next()  0,00568
+java/util/Iterator/hasNext(), java/util/Iterator/next(), javax/jmdns/impl/constants/DNSRecordType/equals(java.lang.Object), java/lang/System/currentTimeMillis(), java/util/Collection/iterator(), java/util/logging/Logger/finer(java.lang.String), java/util/logging/Logger/isLoggable(java.util.logging.Level  0,00568
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/concurrent/ConcurrentMap/size(  0,00568
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(long), android/database/sqlite/SQLiteDatabase/query(java.lang.String  0,00568
+java/lang/StringBuilder/append(int), android/os/Handler/obtainMessage(int), java/lang/StringBuilder/append(long), android/os/Handler/obtainMessage(int  0,00568
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/logging/Logger/log(java.util.logging.Level  0,00568
+javax/jmdns/impl/DNSIncoming/isQuery(), java/lang/StringBuilder/append(java.lang.Object)  0,00568
+java/net/DatagramPacket/getPort(), java/lang/Integer/toHexString(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString()  0,00568
+java/net/DatagramPacket/getLength()  0,00568
+javax/jmdns/impl/DNSIncoming/getId()  0,00568
+java/net/InetAddress/getHostAddress(), android/widget/Toast/makeText(android.content.Context  0,00568
+javax/jmdns/impl/DNSIncoming/getNumberOfQuestions()  0,00568
+javax/jmdns/impl/DNSIncoming/getNumberOfAnswers()  0,00568
+javax/jmdns/impl/DNSIncoming/getNumberOfAuthorities()  0,00568
+javax/jmdns/impl/DNSIncoming/getFlags()  0,00568
+java/net/DatagramPacket/getAddress()  0,00568
+javax/jmdns/impl/DNSIncoming/getNumberOfAdditionals(  0,00568
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/logging/Logger/finer(java.lang.String), java/lang/StringBuilder/append(java.lang.String)  0,00568
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/toString(), java/io/PrintStream/println(java.lang.String  0,00568
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Class/toString()  0,00568
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Set/add(java.lang.Object  0,00568
+java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/StringBuilder/append(char), java/util/Map/isEmpty()  0,00568
+java/util/logging/Logger/finest(java.lang.String), java/net/MulticastSocket/receive(java.net.DatagramPacket), java/util/logging/Logger/log(java.util.logging.Level  0,00568
+java/util/logging/Logger/finest(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/logging/Logger/throwing(java.lang.String  0,00568
+java/util/logging/Logger/warning(java.lang.String), java/util/Set/contains(java.lang.Object)  0,00568
+java/util/logging/Logger/warning(java.lang.String), java/util/logging/Logger/isLoggable(java.util.logging.Level  0,00568
+java/net/NetworkInterface/getNetworkInterfaces()  0,00568
+java/net/NetworkInterface/getInetAddresses()  0,00568
+java/util/Set/toArray(java.lang.Object[), java/lang/StringBuilder/append(java.lang.Object)  0,00568
+java/util/HashSet/HashSet()  0,00568
+java/util/Set/size()  0,00568
+java/util/Enumeration/hasMoreElements()  0,00568
+java/util/Enumeration/nextElement()  0,00568
+java/util/Set/add(java.lang.Object)  0,00568
+java/util/concurrent/ConcurrentMap/keySet(), java/lang/Thread/getName()  0,00568
+java/lang/String/substring(int)  0,00568
+java/io/BufferedReader/readLine()  0,00568
+org/apache/http/ProtocolVersion/ProtocolVersion(java.lang.String  0,00568
+javax/jmdns/impl/ListenerStatus$ServiceTypeListenerStatus/getListener(  0,00568
+javax/jmdns/impl/DNSOutgoing$MessageOutputStream/toByteArray()  0,00568
+java/util/Map/clear()  0,00568
+java/util/List/iterator(  0,00568
+java/lang/StringBuffer/append(int)  0,00568
+android/app/Activity/getSharedPreferences(java.lang.String  0,00568
+android/database/sqlite/SQLiteDatabase/update(java.lang.String  0,00568
+com/afqa123/shareplay/SelectionActivity/isFinishing()  0,00568
+javax/jmdns/impl/ListenerStatus$ServiceListenerStatus/getListener(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(java.lang.String)  0,00568
+javax/jmdns/impl/JmDNSImpl$ServiceTypeEntry/isEmpty()  0,00568
+java/lang/StringBuilder/toString(  0,00568
+java/net/InetAddress/getByName(java.lang.String)  0,00568
+java/lang/String/trim()  0,00568
+java/lang/String/equals(java.lang.Object)  0,00568
+java/io/DataInputStream/readInt()  0,00568
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()  0,00568
+java/net/DatagramPacket/getPort()  0,00568
+java/lang/Integer/toHexString(int)  0,00568
+java/net/InetAddress/getHostAddress()  0,00568
+java/util/Map/put(java.lang.Object  0,00568
+javax/jmdns/impl/ListenerStatus$ServiceListenerStatus/getListener()  0,00568
+java/util/concurrent/ConcurrentMap/remove(java.lang.Object  0,00568
+com/afqa123/shareplay/SelectionActivity/getString(int)  0,00568
+java/util/logging/Logger/finer(java.lang.String)  0,00568
+java/util/List/add(java.lang.Object)  0,00568
+java/util/concurrent/ConcurrentMap/isEmpty()  0,00568
+java/lang/System/currentTimeMillis()  0,00568
+java/util/logging/Logger/finest(java.lang.String)  0,00568
+java/util/logging/Logger/warning(java.lang.String)  0,00568
+java/util/Map/get(java.lang.Object)  0,00568
+java/util/concurrent/ConcurrentMap/keySet()  0,00568
+java/util/concurrent/ConcurrentMap/get(java.lang.Object)  0,00568
+java/util/Set/iterator()  0,00568
+java/lang/StringBuilder/append(int)  0,00568
+java/lang/StringBuilder/toString()  0,00568
+java/util/Iterator/next()  0,00568
+java/util/Iterator/hasNext()  0,00568

@@ -1,0 +1,12 @@
+android/widget/ProgressBar/setLayoutParams(android.view.ViewGroup$LayoutParams
+java/net/HttpURLConnection/setDoInput(boolean
+org.api.fake
+java/lang/Exception/getMessage(
+android/app/AlertDialog$Builder/setPositiveButton(int,android.content.DialogInterface$OnClickListener)
+android/bluetooth/BluetoothAdapter/isEnabled()
+android/util/Log/d(java.lang.String,java.lang.String
+org/json/JSONObject/getInt(java.lang.String
+android/net/Uri/getScheme()
+java/lang/StringBuilder/StringBuilder()
+org.rand.api
+android/net/Uri/getHost()

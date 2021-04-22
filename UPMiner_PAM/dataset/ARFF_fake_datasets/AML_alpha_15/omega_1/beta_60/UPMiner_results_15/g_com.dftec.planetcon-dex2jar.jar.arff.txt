@@ -1,0 +1,7 @@
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)
+org.api.fake
+android/content/res/Resources/getString(int)
+android/graphics/Paint/setColor(int)
+java/lang/StringBuilder/append(java.lang.String)
+android/view/MotionEvent/getPointerCount()
+android/widget/LinearLayout/setLayoutParams(android.view.ViewGroup$LayoutParams)

@@ -1,0 +1,10 @@
+android/app/Notification$Builder/setWhen(long
+android/media/AudioManager/getRingerMode()
+com/alarmpro_x/c/getReadableDatabase()
+org.api.fake
+android/os/Vibrator/vibrate(long)
+android/content/Intent/putExtra(java.lang.String,long)
+java/lang/StringBuilder/toString(
+com/alarmpro_x/alarm_list/getApplicationContext(
+com/alarmpro_x/add_alarm/setContentView(int
+org.rand.api

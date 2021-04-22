@@ -1,0 +1,14 @@
+java.lang.String)  0,15385
+java/lang/StringBuilder/append(java.lang.String)  0,15385
+java.util.List  0,07692
+android/content/Context/getClassLoader(), java/lang/StringBuilder/append(int), android/util/Log/i(java.lang.String  0,07692
+java/io/RandomAccessFile/skipBytes(int), java/io/RandomAccessFile/readInt(), java/lang/Integer/reverseBytes(int), java/lang/StringBuilder/append(long), java/io/RandomAccessFile/length(), java/lang/StringBuilder/StringBuilder(), java/io/RandomAccessFile/seek(long), java/lang/StringBuilder/toString(), java/util/zip/ZipException/ZipException(java.lang.String  0,07692
+java.util.List)  0,07692
+java.io.File)  0,07692
+java.io.File  0,07692
+java.util.zip.ZipEntry  0,07692
+android.content.pm.ApplicationInfo  0,07692
+java.lang.String  0,07692
+android/util/Log/w(java.lang.String  0,07692
+java/util/regex/Matcher/group(int), android/util/Log/i(java.lang.String  0,07692
+java/util/regex/Pattern/compile(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/util/regex/Matcher/matches()  0,07692

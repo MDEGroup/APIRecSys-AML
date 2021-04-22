@@ -1,0 +1,207 @@
+prob: 0,14706
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,08824
+[java/io/File/getAbsolutePath()]
+
+prob: 0,08824
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,05882
+[boolean)]
+
+prob: 0,05882
+[java/io/OutputStreamWriter/write(java.lang.String)]
+
+prob: 0,05882
+[com.stericson.RootShell.execution.Command)]
+
+prob: 0,05882
+[java.lang.String)]
+
+prob: 0,05882
+[android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,05882
+[java.util.List)]
+
+prob: 0,05882
+[java/util/Iterator/next()]
+
+prob: 0,05882
+[java/lang/String/contains(java.lang.CharSequence)]
+
+prob: 0,05882
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,05882
+[java/lang/StringBuilder/toString()]
+
+prob: 0,02941
+[android.os.Parcel]
+
+prob: 0,02941
+[java/lang/reflect/Field/get(java.lang.Object), java/lang/Object/getClass(), java/lang/Integer/intValue(), java/lang/StringBuilder/toString(), java/io/OutputStreamWriter/flush(]
+
+prob: 0,02941
+[java/lang/System/getenv(java.lang.String)]
+
+prob: 0,02941
+[java/lang/String/contains(java.lang.CharSequence]
+
+prob: 0,02941
+[java/util/regex/Matcher/group(int), java/util/regex/Matcher/find(), java/util/regex/Pattern/matcher(java.lang.CharSequence), com/stericson/RootShell/containers/RootClass$READ_STATE/ordinal(), java/io/FileReader/FileReader(java.io.File), java/io/PrintStream/println(java.lang.String), java/lang/String/indexOf(java.lang.String), java/io/BufferedReader/BufferedReader(java.io.Reader), java/io/BufferedReader/readLine(), java/io/FileNotFoundException/printStackTrace(]
+
+prob: 0,02941
+[java/util/regex/Pattern/compile(java.lang.String), java/io/IOException/printStackTrace(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()]
+
+prob: 0,02941
+[java/lang/Class/getDeclaredField(java.lang.String)]
+
+prob: 0,02941
+[com/gsamlabs/bbm/rootcompanion/MainActivity/setContentView(int), android/view/View/setVisibility(int), android/widget/CheckBox/setVisibility(int), android/widget/CheckBox/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener), android/content/ComponentName/ComponentName(android.content.Context]
+
+prob: 0,02941
+[java/io/BufferedReader/ready()]
+
+prob: 0,02941
+[java/security/MessageDigest/digest(), java/io/IOException/toString(), java/security/DigestInputStream/DigestInputStream(java.io.InputStream]
+
+prob: 0,02941
+[java.lang.String]
+
+prob: 0,02941
+[android/os/Bundle/putString(java.lang.String]
+
+prob: 0,02941
+[android/os/Handler/sendMessage(android.os.Message)]
+
+prob: 0,02941
+[java/lang/String/valueOf(java.lang.Object), java/io/File/isDirectory(), java/io/InputStream/read(byte[]), java/io/FileOutputStream/close(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/content/Context/openFileOutput(java.lang.String]
+
+prob: 0,02941
+[java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), com/gsamlabs/bbm/rootcompanion/MainActivity/getString(int), android/app/AlertDialog$Builder/show(), android/app/AlertDialog$Builder/setNeutralButton(int]
+
+prob: 0,02941
+[java/lang/reflect/Field/setAccessible(boolean)]
+
+prob: 0,02941
+[java/lang/StringBuilder/append(java.lang.String), android/os/Handler/obtainMessage(), android/os/Bundle/Bundle(), android/os/Message/setData(android.os.Bundle), android/os/Bundle/putInt(java.lang.String]
+
+prob: 0,02941
+[java/lang/StringBuilder/append(java.lang.String), java/io/File/File(java.lang.String), java/lang/String/toCharArray()]
+
+prob: 0,02941
+[java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), java/lang/StringBuilder/append(boolean), java/lang/Boolean/valueOf(boolean), java/lang/String/isEmpty(), java/lang/String/substring(int]
+
+prob: 0,02941
+[android/content/res/AssetManager/open(java.lang.String)]
+
+prob: 0,02941
+[android/content/Context/getFilesDir()]
+
+prob: 0,02941
+[boolean]
+
+prob: 0,02941
+[java/lang/Thread/sleep(long), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/setLength(int), java/io/IOException/getMessage(), java/util/Arrays/copyOf(byte[]]
+
+prob: 0,02941
+[java/lang/Class/forName(java.lang.String), java/lang/Class/getDeclaredMethod(java.lang.String]
+
+prob: 0,02941
+[java/io/BufferedReader/close(), java/io/IOException/printStackTrace(), java/lang/Process/waitFor(), java/lang/Process/getInputStream(), java/lang/Process/destroy(), java/lang/Runtime/exec(java.lang.String]
+
+prob: 0,02941
+[java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/List/size(), java/util/Iterator/next(), java/lang/StringBuilder/toString(), java/lang/Integer/toString(int), java/lang/String/length(]
+
+prob: 0,02941
+[java/util/Iterator/hasNext(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/lang/String/contains(java.lang.CharSequence), java/util/List/iterator()]
+
+prob: 0,02941
+[java/util/Iterator/hasNext(), java/lang/Exception/Exception(), java/lang/StringBuilder/toString(]
+
+prob: 0,02941
+[java/lang/Runtime/getRuntime()]
+
+prob: 0,02941
+[java/lang/Exception/printStackTrace()]
+
+prob: 0,02941
+[java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), java/util/List/size(), java/lang/StringBuilder/StringBuilder(), java/util/List/get(int), java/lang/StringBuilder/toString(), java/lang/String/equals(java.lang.Object)]
+
+prob: 0,02941
+[java/util/ArrayList/ArrayList(), java/lang/String/split(java.lang.String), java/io/LineNumberReader/readLine(), java/io/File/File(java.lang.String), java/io/LineNumberReader/LineNumberReader(java.io.Reader), java/lang/Exception/Exception(), java/io/FileReader/close(]
+
+prob: 0,02941
+[java/util/ArrayList/ArrayList(), java/util/ArrayList/add(java.lang.Object), java/io/LineNumberReader/readLine(), java/io/LineNumberReader/close(), java/io/FileReader/FileReader(java.lang.String), java/io/File/File(java.lang.String]
+
+prob: 0,02941
+[java/lang/String/split(java.lang.String), java/lang/Object/wait(long), java/lang/String/substring(int]
+
+prob: 0,02941
+[java/lang/String/split(java.lang.String), java/lang/Exception/printStackTrace(]
+
+prob: 0,02941
+[java/lang/String/split(java.lang.String), java/io/FileReader/close()]
+
+prob: 0,02941
+[java/lang/String/equals(java.lang.Object), java/util/List/iterator()]
+
+prob: 0,02941
+[java/util/ArrayList/iterator(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/equals(java.lang.Object), java/lang/String/startsWith(java.lang.String)]
+
+prob: 0,02941
+[java/util/Set/toArray(), java/io/File/getAbsolutePath()]
+
+prob: 0,02941
+[java/lang/Math/ceil(double), java/lang/String/charAt(int), java/lang/StringBuffer/append(char), java/lang/String/length(), java/lang/Character/isDigit(char), java/lang/Double/doubleValue(), java/lang/StringBuffer/toString(), java/lang/Double/valueOf(java.lang.String), java/lang/StringBuffer/StringBuffer(]
+
+prob: 0,02941
+[java/lang/String/substring(int)]
+
+prob: 0,02941
+[java/lang/StringBuilder/append(int), java/util/List/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/InterruptedException/getMessage(), java/lang/StringBuilder/append(java.lang.String), java/io/IOException/getMessage(), java/lang/Object/wait(), java/lang/StringBuilder/toString(), java/io/OutputStreamWriter/flush(]
+
+prob: 0,02941
+[java/lang/String/valueOf(char)]
+
+prob: 0,02941
+[java/io/File/getName(), java/lang/String/split(java.lang.String), java/io/IOException/IOException(java.lang.String)]
+
+prob: 0,02941
+[java/io/File/exists()]
+
+prob: 0,02941
+[java/lang/Integer/parseInt(java.lang.String)]
+
+prob: 0,02941
+[java/io/File/listFiles()]
+
+prob: 0,02941
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,02941
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,02941
+[java/io/LineNumberReader/close()]
+
+prob: 0,02941
+[java/io/FileReader/FileReader(java.lang.String)]
+
+prob: 0,02941
+[java/io/LineNumberReader/LineNumberReader(java.io.Reader)]
+
+prob: 0,02941
+[java/util/List/get(int)]
+
+prob: 0,02941
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,02941
+[java/io/IOException/getMessage()]
+
+prob: 0,02941
+[java/util/List/size()]
+

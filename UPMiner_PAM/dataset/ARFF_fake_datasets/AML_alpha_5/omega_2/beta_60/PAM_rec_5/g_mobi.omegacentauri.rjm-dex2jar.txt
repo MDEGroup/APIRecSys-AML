@@ -1,0 +1,12 @@
+int  0,22222
+android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,11111
+java/util/ArrayList/ArrayList(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), android/util/Log/e(java.lang.String  0,11111
+java/util/Iterator/hasNext(), java/io/InputStream/read(byte[)  0,11111
+android/graphics/Bitmap/getWidth(), android/graphics/Matrix/Matrix(), java/lang/Thread/Thread(java.lang.Runnable), android/content/SharedPreferences$Editor/commit(), android/graphics/Bitmap/createBitmap(android.graphics.Bitmap  0,11111
+java/lang/String/valueOf(java.lang.Object), android/os/Environment/getExternalStorageDirectory(), java/lang/StringBuilder/append(java.lang.String), android/content/Intent/setDataAndType(android.net.Uri  0,11111
+android/util/Log/v(java.lang.String  0,11111
+mobi/omegacentauri/rjm/SendToMCPE/getIntent(), android/app/Activity/onCreate(android.os.Bundle), java/lang/String/equals(java.lang.Object), android/content/Intent/getExtras(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), mobi/omegacentauri/rjm/SendToMCPE/setContentView(int), mobi/omegacentauri/rjm/SendToMCPE/getContentResolver(), android/content/Intent/getAction(), mobi/omegacentauri/rjm/SendToMCPE/finish(  0,11111
+android/content/Context/startActivity(android.content.Intent)  0,11111
+mobi/omegacentauri/rjm/MainActivity$InstallerTask/publishProgress(java.lang.Object[), java/util/zip/ZipEntry/getName(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/io/File/File(java.lang.String), java/lang/Boolean/valueOf(boolean), java/io/File/mkdirs(), java/util/zip/ZipInputStream/close(), java/io/File/getPath(), android/content/SharedPreferences/getInt(java.lang.String  0,11111
+java/util/zip/ZipInputStream/ZipInputStream(java.io.InputStream), java/util/zip/ZipEntry/isDirectory(), android/content/res/AssetManager/open(java.lang.String)  0,11111
+java/lang/String/valueOf(java.lang.Object), android/os/Environment/getExternalStorageDirectory(), java/lang/StringBuilder/append(java.lang.String)  0,11111

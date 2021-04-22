@@ -1,0 +1,36 @@
+prob: 0,21429
+[org.api.fake]
+
+prob: 0,17857
+[android/widget/RemoteViews/setTextViewText(int]
+
+prob: 0,17857
+[android.view.MotionEvent)]
+
+prob: 0,14286
+[android/util/Log/v(java.lang.String]
+
+prob: 0,07143
+[android.view.View]
+
+prob: 0,03571
+[java/io/OutputStream/close(), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences$Editor/commit(), java/lang/Long/longValue(), java/io/File/File(java.lang.String]
+
+prob: 0,03571
+[java/lang/String/valueOf(java.lang.Object), android/util/Log/e(java.lang.String]
+
+prob: 0,03571
+[java/lang/String/valueOf(java.lang.Object), android/os/Environment/getExternalStorageDirectory(), android/os/Bundle/getBoolean(java.lang.String), android/os/Bundle/getInt(java.lang.String]
+
+prob: 0,03571
+[java/io/File/isDirectory(), java/lang/StringBuilder/append(java.lang.String), java/util/zip/ZipEntry/isDirectory(), java/util/zip/ZipInputStream/closeEntry(), java/io/File/File(java.lang.String)]
+
+prob: 0,03571
+[android/widget/TextView/setOnTouchListener(android.view.View$OnTouchListener), android/app/Activity/onCreate(android.os.Bundle), com/cuacfm/istoegalego/org/IstoeGalegoScreen/setContentView(int), android/widget/TextView/setTextColor(int), android/widget/GridView/setAdapter(android.widget.ListAdapter), com/cuacfm/istoegalego/org/IstoeGalegoScreen/findViewById(int), com/cuacfm/istoegalego/org/IstoeGalegoScreen/getAssets(]
+
+prob: 0,03571
+[java.lang.String)]
+
+prob: 0,03571
+[android/content/Intent/Intent(android.content.Context]
+

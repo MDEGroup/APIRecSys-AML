@@ -1,0 +1,11 @@
+org/apache/http/conn/scheme/SchemeRegistry/register(org.apache.http.conn.scheme.Scheme
+org.api.fake
+android/graphics/Matrix/reset()
+java/util/List/clear(
+java/util/ArrayList/get(int
+android/database/Cursor/getInt(int
+android/view/Display/getHeight()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/io/ByteArrayOutputStream/toString(
+java/util/ArrayList/ArrayList()

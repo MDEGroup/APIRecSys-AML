@@ -1,0 +1,64 @@
+java.lang.String)  0,11392
+java.lang.String  0,11392
+org.api.fake  0,10127
+java.util.HashMap  0,08861
+android/content/Intent/putExtra(java.lang.String  0,03797
+android.appwidget.AppWidgetManager  0,02532
+com.google.ads.m)  0,02532
+android/content/Context/getPackageManager(), android/content/Intent/Intent(java.lang.String  0,02532
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,02532
+java/util/Iterator/hasNext(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object)  0,02532
+int)  0,02532
+android.content.Context  0,02532
+android.view.View  0,02532
+com.google.ads.internal.d)  0,02532
+java/net/HttpURLConnection/disconnect(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/net/HttpURLConnection/setInstanceFollowRedirects(boolean  0,01266
+java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/getResponseCode(), java/net/HttpURLConnection/connect()  0,01266
+android.gesture.Gesture)  0,01266
+java/util/LinkedList/iterator(), java/lang/StringBuilder/length(), java/lang/Long/longValue(  0,01266
+java/util/LinkedList/iterator(), java/lang/StringBuilder/length(), com/google/ads/g$a/ordinal(  0,01266
+android/content/res/Resources/getString(int), android/widget/TextView/getText(), android/widget/TextView/setText(java.lang.CharSequence), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,01266
+java/lang/String/valueOf(java.lang.Object), android/content/pm/PackageManager$NameNotFoundException/printStackTrace(), java/lang/StringBuilder/append(java.lang.Object)  0,01266
+java/lang/StringBuilder/StringBuilder(), org/json/JSONArray/JSONArray(), java/lang/StringBuilder/append(java.lang.Object), org/json/JSONArray/put(java.lang.Object)  0,01266
+android/webkit/ConsoleMessage$MessageLevel/ordinal(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/webkit/ConsoleMessage/messageLevel(), android/webkit/ConsoleMessage/lineNumber(  0,01266
+android/webkit/ConsoleMessage/sourceId(), android/webkit/ConsoleMessage/message(), android/webkit/WebChromeClient/onConsoleMessage(android.webkit.ConsoleMessage)  0,01266
+java/util/ArrayList/size(), java/util/Collections/sort(java.util.List), java/util/ArrayList/indexOf(java.lang.Object), java/util/ArrayList/get(int), java/util/ArrayList/iterator(), android/widget/ExpandableListView/setAdapter(android.widget.ExpandableListAdapter), android/widget/SimpleExpandableListAdapter/SimpleExpandableListAdapter(android.content.Context  0,01266
+android.content.Context)  0,01266
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/String/startsWith(java.lang.String  0,01266
+java/lang/StringBuilder/append(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), java/lang/StringBuilder/StringBuilder(), com/google/ads/AdActivity/getApplicationContext(  0,01266
+java/lang/StringBuilder/append(int), java/util/Iterator/next()  0,01266
+android/database/Cursor/getColumnIndex(java.lang.String), android/database/Cursor/getColumnName(int), android/content/SharedPreferences$Editor/commit(), android/content/ContentResolver/query(android.net.Uri  0,01266
+java/lang/System/getProperty(java.lang.String  0,01266
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Set/iterator(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/util/Set/isEmpty(  0,01266
+java/lang/StringBuilder/append(java.lang.Object), java/util/Map/isEmpty(), org/json/JSONObject/put(java.lang.String  0,01266
+org/w3c/dom/NodeList/getLength(), org/w3c/dom/Document/getElementsByTagName(java.lang.String), org/w3c/dom/Node/getFirstChild(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/ArrayList(), org/w3c/dom/NamedNodeMap/getNamedItem(java.lang.String  0,01266
+java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext()  0,01266
+org/w3c/dom/NodeList/item(int), org/w3c/dom/Node/getAttributes(), org/w3c/dom/Node/getNodeValue()  0,01266
+android/widget/ListView/setAdapter(android.widget.ListAdapter), com/digitalsoft/TodaysProverb/EditPackage/findViewById(int), android/app/Activity/onCreate(android.os.Bundle), com/digitalsoft/TodaysProverb/EditPackage/registerForContextMenu(android.view.View), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/content/Intent/getExtras(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,01266
+java/util/ArrayList/ArrayList(java.util.Collection), android/widget/ArrayAdapter/createFromResource(android.content.Context  0,01266
+com/digitalsoft/TodaysProverb/EditaText/setContentView(int), android/content/Intent/getExtras(), android/app/Activity/onCreate(android.os.Bundle), android/widget/Button/setOnClickListener(android.view.View$OnClickListener  0,01266
+com/digitalsoft/TodaysProverb/EditaText/findViewById(int), android/widget/EditText/setText(java.lang.CharSequence), java/lang/Integer/valueOf(int), android/app/Activity/getIntent(), android/os/Bundle/getString(java.lang.String), android/os/Bundle/getInt(java.lang.String)  0,01266
+java.util.HashMap)  0,01266
+com.google.ads.c  0,01266
+java/util/List/contains(java.lang.Object), java/lang/StringBuilder/toString(), java/util/Arrays/asList(java.lang.Object[), java/util/Map/get(java.lang.Object), java/lang/StringBuilder/append(long), java/lang/Object/wait(long)  0,01266
+java/lang/Object/equals(java.lang.Object)  0,01266
+android/os/SystemClock/elapsedRealtime()  0,01266
+java/lang/StringBuilder/append(long), java/util/Iterator/next()  0,01266
+android.app.Activity)  0,01266
+java/security/MessageDigest/digest(), java/util/UUID/getLeastSignificantBits(), java/util/UUID/getMostSignificantBits(), java/lang/RuntimeException/RuntimeException(java.lang.String), java/lang/System/arraycopy(java.lang.Object  0,01266
+android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(), java/util/Map/keySet(  0,01266
+android/net/Uri$Builder/encodedQuery(java.lang.String), java/util/Iterator/next()  0,01266
+android/net/Uri$Builder/Uri$Builder()  0,01266
+java/lang/String/trim()  0,01266
+android/net/Uri$Builder/build()  0,01266
+java/lang/Integer/intValue(), java/lang/StringBuilder/toString(), com/google/ads/internal/AdWebView/setWebViewClient(android.webkit.WebViewClient), java/lang/String/equals(java.lang.Object), android/widget/RelativeLayout/RelativeLayout(android.content.Context), com/google/ads/AdActivity/getIntent()  0,01266
+android/content/Intent/getBundleExtra(java.lang.String), java/util/HashMap/get(java.lang.Object)  0,01266
+java/lang/Class/getFields(), java/util/Map/put(java.lang.Object  0,01266
+android/widget/ImageButton/setImageResource(int), android/widget/FrameLayout/addView(android.view.View  0,01266
+boolean  0,01266
+java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String), org/json/JSONObject/length(), java/util/HashMap/HashMap(int), org/json/JSONObject/keys(), org/json/JSONObject/optString(java.lang.String  0,01266
+org/json/JSONObject/JSONObject(java.lang.String), org/json/JSONObject/getString(java.lang.String), java/util/List/add(java.lang.Object), java/lang/Integer/valueOf(int), org/json/JSONObject/has(java.lang.String), org/json/JSONObject/getInt(java.lang.String), org/json/JSONArray/getJSONObject(int), org/json/JSONArray/length(), org/json/JSONObject/getJSONArray(java.lang.String  0,01266
+java/lang/StringBuilder/append(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), java/lang/StringBuilder/StringBuilder()  0,01266
+java/util/Map/put(java.lang.Object  0,01266
+java/util/ArrayList/ArrayList(int), org/json/JSONObject/optJSONObject(java.lang.String)  0,01266
+java/lang/StringBuilder/append(int)  0,01266

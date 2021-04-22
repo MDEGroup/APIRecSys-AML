@@ -1,0 +1,9 @@
+java/lang/StringBuilder/append(java.lang.Object)
+org.api.fake
+android/graphics/Canvas/restoreToCount(int)
+android/view/View/getVisibility()
+android/view/View/getLayoutParams()
+android/support/v4/view/ViewPager/getChildCount()
+java/util/ArrayList/size()
+java/lang/StringBuilder/append(java.lang.String)
+android/view/MotionEvent/getEdgeFlags()

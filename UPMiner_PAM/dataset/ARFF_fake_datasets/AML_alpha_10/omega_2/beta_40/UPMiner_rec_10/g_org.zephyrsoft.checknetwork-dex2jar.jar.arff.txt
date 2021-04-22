@@ -1,0 +1,8 @@
+java/net/HttpURLConnection/disconnect()
+android/database/Cursor/close()
+java/util/Iterator/hasNext()
+java/net/HttpURLConnection/connect(
+java/lang/StringBuilder/toString(
+org/apache/http/conn/scheme/Scheme/Scheme(java.lang.String,org.apache.http.conn.scheme.SocketFactory,int
+android/content/ContentValues/put(java.lang.String,java.lang.String
+org/apache/http/params/HttpParams/setParameter(java.lang.String,java.lang.Object)

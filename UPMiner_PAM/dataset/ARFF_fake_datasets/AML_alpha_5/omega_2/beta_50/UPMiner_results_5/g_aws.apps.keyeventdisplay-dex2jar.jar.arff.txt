@@ -1,0 +1,6 @@
+java/lang/StringBuilder/append(java.lang.String)
+android/view/KeyEvent/getRepeatCount()
+aws/apps/keyeventdisplay/monitors/LogCatMonitor/execute(java.lang.String[])
+org.api.fake
+java/lang/StringBuilder/toString(
+org.rand.api

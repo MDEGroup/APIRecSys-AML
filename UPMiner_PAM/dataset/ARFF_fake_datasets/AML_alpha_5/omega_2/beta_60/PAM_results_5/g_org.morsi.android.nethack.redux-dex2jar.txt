@@ -1,0 +1,36 @@
+prob: 0,18182
+[android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,09091
+[java/lang/String/length(), java/util/Iterator/next(), java/lang/Class/getName(), java/lang/StringBuilder/toString(), android/widget/LinearLayout/removeAllViews(), java/util/ArrayList/iterator(), java/lang/StringBuilder/StringBuilder(), android/util/Log/d(java.lang.String]
+
+prob: 0,09091
+[java/util/Iterator/hasNext()]
+
+prob: 0,09091
+[org.morsi.android.nethack.redux.util.NString)]
+
+prob: 0,09091
+[android/webkit/WebView/setWebViewClient(android.webkit.WebViewClient), org/morsi/android/nethack/redux/EncyclopediaPage/getIntent(), android/widget/TextView/setText(java.lang.CharSequence), android/app/Activity/onCreate(android.os.Bundle), java/lang/String/toString(), android/content/Intent/getExtras(), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/webkit/WebView/getContext(), android/webkit/WebView/loadDataWithBaseURL(java.lang.String]
+
+prob: 0,09091
+[org/morsi/android/nethack/redux/TutorialPopup/setContentView(int), android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable), android/content/res/Resources/getIdentifier(java.lang.String]
+
+prob: 0,09091
+[java.lang.String)]
+
+prob: 0,09091
+[org.morsi.android.nethack.redux.util.QuickStat)]
+
+prob: 0,09091
+[android/content/res/Resources/getColor(int), android/widget/TextView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/LinearLayout/getContext(), android/widget/TableRow/setLayoutParams(android.view.ViewGroup$LayoutParams), java/lang/Double/doubleValue(), android/widget/TextView/setPadding(int]
+
+prob: 0,09091
+[java/util/ArrayList/iterator(), java/util/LinkedHashMap/get(java.lang.Object), java/util/Iterator/next(), java/util/ArrayList/add(java.lang.Object), java/util/Set/iterator(), java/util/LinkedHashMap/LinkedHashMap(), java/util/Map/put(java.lang.Object]
+
+prob: 0,09091
+[android/content/res/XmlResourceParser/getAttributeValue(java.lang.String]
+
+prob: 0,09091
+[java/lang/StringBuilder/StringBuilder()]
+

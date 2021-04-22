@@ -1,0 +1,10 @@
+android/app/AlertDialog$Builder/setIcon(int)
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/net/HttpURLConnection/disconnect()
+org.api.fake
+java/lang/System/arraycopy(java.lang.Object,int,java.lang.Object,int,int
+com/chrisheald/flexauth/FlexAuth/getSharedPreferences(java.lang.String,int)
+java/security/InvalidKeyException/InvalidKeyException()
+java/math/BigInteger/BigInteger(byte[]
+org.rand.api
+com/chrisheald/flexauth/TokenAdapter/clear()

@@ -1,0 +1,12 @@
+android/app/Notification$Builder/setWhen(long
+java/text/NumberFormat/getNumberInstance(
+android/view/ContextMenu/setHeaderTitle(int)
+android/net/wifi/WifiInfo/getSupplicantState(
+java/text/NumberFormat/format(long)
+java/net/InetAddress/isLinkLocalAddress(
+android/widget/Button/setEnabled(boolean
+java/net/InetAddress/getHostAddress()
+android/net/wifi/WifiManager/getWifiState()
+java/util/List/get(int
+android/app/Notification$Builder/setTicker(java.lang.CharSequence,android.widget.RemoteViews)
+net/orleaf/android/wifistate/core/WifiStateStatusActivity/registerForContextMenu(android.view.View)

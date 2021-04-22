@@ -1,0 +1,246 @@
+prob: 0,19672
+[java.lang.String)]
+
+prob: 0,18033
+[java.lang.String]
+
+prob: 0,04918
+[int)]
+
+prob: 0,03279
+[android/util/DisplayMetrics/DisplayMetrics(), android/view/WindowManager/getDefaultDisplay()]
+
+prob: 0,03279
+[android/graphics/Rect/offset(int]
+
+prob: 0,03279
+[int]
+
+prob: 0,03279
+[java.lang.ClassLoader]
+
+prob: 0,03279
+[java/lang/StringBuilder/append(int), android/util/Log/e(java.lang.String]
+
+prob: 0,03279
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,01639
+[org/qtproject/qt5/android/bindings/QtActivity/getResources(), java/lang/StringBuilder/append(java.lang.String), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/view/Display/getMetrics(android.util.DisplayMetrics), android/app/Activity/getWindowManager(]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Exception/toString(), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(java.lang.String), java/io/IOException/getMessage(), android/os/Process/myPid(), android/net/LocalSocket/getOutputStream(), android/net/LocalSocket/getInputStream(), java/lang/InterruptedException/getMessage(), java/lang/Thread/sleep(long), java/io/IOException/printStackTrace()]
+
+prob: 0,01639
+[android/app/Activity/getWindow(), android/graphics/Rect/width(), android/view/Window/getDecorView(), android/view/View/getWindowVisibleDisplayFrame(android.graphics.Rect)]
+
+prob: 0,01639
+[android/webkit/WebView/WebView(android.content.Context), android/webkit/WebSettings/setBuiltInZoomControls(boolean), android/webkit/WebSettings/setPluginState(android.webkit.WebSettings$PluginState), java/lang/Object/getClass(), java/lang/reflect/Method/invoke(java.lang.Object]
+
+prob: 0,01639
+[android/view/Window/getDecorView(), java/lang/Exception/printStackTrace()]
+
+prob: 0,01639
+[java/util/ArrayList/iterator(), java/lang/StringBuilder/append(java.lang.String), java/lang/System/load(java.lang.String), java/io/File/File(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,01639
+[java/util/ArrayList/iterator(), java/util/HashMap/containsKey(java.lang.Object), java/lang/StackTraceElement/getClassName(), java/lang/Thread/currentThread(), java/lang/String/equals(java.lang.Object), java/lang/reflect/Method/getParameterTypes(), java/lang/StackTraceElement/getMethodName(), java/lang/Thread/getStackTrace(), java/util/HashMap/get(java.lang.Object), java/util/Iterator/next(]
+
+prob: 0,01639
+[java/util/ArrayList/iterator(), java/lang/reflect/Field/get(java.lang.Object), java/util/Iterator/hasNext(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01639
+[java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/io/File/exists()]
+
+prob: 0,01639
+[java.lang.Object)]
+
+prob: 0,01639
+[android/widget/ScrollView/addView(android.view.View), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,01639
+[android.os.Bundle)]
+
+prob: 0,01639
+[android/graphics/drawable/GradientDrawable/getConstantState(), java/lang/reflect/Field/getFloat(java.lang.Object), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01639
+[java/lang/Class/getDeclaredField(java.lang.String), android/app/Activity/getWindow(), org/qtproject/qt5/android/QtLayout/requestLayout(]
+
+prob: 0,01639
+[java/lang/Class/getDeclaredField(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01639
+[java/lang/String/valueOf(char), java/lang/reflect/Field/get(java.lang.Object), java/lang/reflect/Field/getFloat(java.lang.Object), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01639
+[java.util.ArrayList]
+
+prob: 0,01639
+[android/content/ContextWrapper/getResources(), android/app/AlertDialog/setButton(java.lang.CharSequence]
+
+prob: 0,01639
+[android/content/ContextWrapper/getResources(), java/io/File/createNewFile(), android/content/ContextWrapper/getApplicationInfo(), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), android/content/pm/PackageManager/getPackageInfo(java.lang.String]
+
+prob: 0,01639
+[long)]
+
+prob: 0,01639
+[dalvik/system/DexClassLoader/DexClassLoader(java.lang.String]
+
+prob: 0,01639
+[java/lang/System/getProperty(java.lang.String]
+
+prob: 0,01639
+[java/lang/String/split(java.lang.String)]
+
+prob: 0,01639
+[java/io/DataOutputStream/close()]
+
+prob: 0,01639
+[android/content/ContextWrapper/getPackageName()]
+
+prob: 0,01639
+[java/lang/Exception/printStackTrace(), android/view/KeyEvent/getKeyCode(), java/lang/reflect/Method/invoke(java.lang.Object]
+
+prob: 0,01639
+[android/os/Bundle/containsKey(java.lang.String), java/io/DataOutputStream/writeLong(long)]
+
+prob: 0,01639
+[java/io/File/mkdirs()]
+
+prob: 0,01639
+[java/io/FileOutputStream/FileOutputStream(java.io.File)]
+
+prob: 0,01639
+[android/content/ContextWrapper/getPackageManager()]
+
+prob: 0,01639
+[java/util/ArrayList/ArrayList(), javax/net/ssl/TrustManagerFactory/getTrustManagers(), java/util/ArrayList/toArray(java.lang.Object[]), javax/net/ssl/TrustManagerFactory/init(java.security.KeyStore), java/util/ArrayList/add(java.lang.Object), javax/net/ssl/TrustManagerFactory/getDefaultAlgorithm(), javax/net/ssl/TrustManagerFactory/getInstance(java.lang.String), java/security/cert/X509Certificate/getEncoded(), javax/net/ssl/X509TrustManager/getAcceptedIssuers(), java/util/ArrayList/size(), android/util/Log/e(java.lang.String]
+
+prob: 0,01639
+[android/os/Bundle/getInt(java.lang.String)]
+
+prob: 0,01639
+[android/app/Activity/getComponentName()]
+
+prob: 0,01639
+[android/app/Activity/registerForContextMenu(android.view.View)]
+
+prob: 0,01639
+[android/app/Activity/getPackageManager()]
+
+prob: 0,01639
+[org/qtproject/qt5/android/QtLayout/getViewTreeObserver()]
+
+prob: 0,01639
+[android/view/ViewTreeObserver/addOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener)]
+
+prob: 0,01639
+[android/content/res/Resources/getDrawable(int)]
+
+prob: 0,01639
+[android/view/Display/getRotation()]
+
+prob: 0,01639
+[android/app/Activity/getSystemService(java.lang.String)]
+
+prob: 0,01639
+[android/content/res/Resources/getDimensionPixelSize(int)]
+
+prob: 0,01639
+[android/app/Activity/getResources()]
+
+prob: 0,01639
+[android.view.View]
+
+prob: 0,01639
+[java/lang/Runtime/exec(java.lang.String]
+
+prob: 0,01639
+[java/util/HashMap/remove(java.lang.Object)]
+
+prob: 0,01639
+[org/qtproject/qt5/android/QtLayout/removeView(android.view.View)]
+
+prob: 0,01639
+[boolean]
+
+prob: 0,01639
+[android/view/KeyEvent/getRepeatCount()]
+
+prob: 0,01639
+[java/lang/String/charAt(int)]
+
+prob: 0,01639
+[java/lang/String/length()]
+
+prob: 0,01639
+[android/view/KeyEvent/getCharacters()]
+
+prob: 0,01639
+[android/view/KeyEvent/getMetaState()]
+
+prob: 0,01639
+[org/qtproject/qt5/android/QtLayout/getLocationOnScreen(int[])]
+
+prob: 0,01639
+[android/view/Window/addFlags(int)]
+
+prob: 0,01639
+[android/view/View/setSystemUiVisibility(int)]
+
+prob: 0,01639
+[java/lang/reflect/Field/getInt(java.lang.Object)]
+
+prob: 0,01639
+[android/view/Window/clearFlags(int)]
+
+prob: 0,01639
+[android/net/LocalServerSocket/accept()]
+
+prob: 0,01639
+[java/io/DataOutputStream/writeBytes(java.lang.String)]
+
+prob: 0,01639
+[android/graphics/Rect/Rect()]
+
+prob: 0,01639
+[android/view/Display/getMetrics(android.util.DisplayMetrics), android/app/Activity/getWindowManager(]
+
+prob: 0,01639
+[java/io/File/exists()]
+
+prob: 0,01639
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,01639
+[java/io/File/File(java.lang.String)]
+
+prob: 0,01639
+[java/io/DataOutputStream/DataOutputStream(java.io.OutputStream)]
+
+prob: 0,01639
+[java/lang/StringBuilder/toString()]
+
+prob: 0,01639
+[android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,01639
+[java/util/Iterator/hasNext()]
+
+prob: 0,01639
+[java/lang/Exception/printStackTrace()]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01639
+[java/lang/StringBuilder/append(java.lang.String)]
+

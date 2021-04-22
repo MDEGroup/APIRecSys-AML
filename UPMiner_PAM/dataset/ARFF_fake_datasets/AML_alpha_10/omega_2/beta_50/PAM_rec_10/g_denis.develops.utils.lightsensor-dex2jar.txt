@@ -1,0 +1,17 @@
+java/lang/StringBuilder/append(java.lang.String), android/hardware/Camera$Parameters/set(java.lang.String  0,07692
+java/lang/StringBuilder/append(java.lang.String), denis/develops/utils/lightsensor/MainActivity/getContentResolver(), android/provider/Settings$System/putInt(android.content.ContentResolver  0,07692
+android/content/Context/getPackageManager(), android/content/IntentFilter/addAction(java.lang.String), android/content/Context/registerReceiver(android.content.BroadcastReceiver  0,07692
+java/lang/Math/round(double), java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String  0,07692
+android/widget/ProgressBar/setProgress(int), java/lang/Long/toString(long), java/lang/Long/longValue(), java/util/Date/Date(), android/view/TextureView/setAlpha(float), java/util/Date/getTime()  0,07692
+java/lang/Long/valueOf(long), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/String/format(java.lang.String  0,07692
+android/view/TextureView/isAvailable(), android/widget/ProgressBar/setProgress(int), denis/develops/utils/lightsensor/MainActivity/findViewById(int), android/widget/ProgressBar/setMax(int), android/content/SharedPreferences/getLong(java.lang.String  0,07692
+android/hardware/Camera/startPreview(), android/hardware/Camera/setPreviewTexture(android.graphics.SurfaceTexture), android/view/TextureView/getLayoutParams(), android/hardware/Camera/setDisplayOrientation(int), android/view/TextureView/setLayoutParams(android.view.ViewGroup$LayoutParams), denis/develops/utils/lightsensor/MainActivity/getResources(), android/util/Log/e(java.lang.String  0,07692
+android/content/Intent/setData(android.net.Uri), java/lang/StringBuilder/append(java.lang.String), denis/develops/utils/lightsensor/MainActivity/requestPermissions(java.lang.String[  0,07692
+android/widget/Switch/setChecked(boolean), android/widget/SeekBar/setMax(int), android/widget/Switch/setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener), denis/develops/utils/lightsensor/SettingsActivity/setContentView(int), java/lang/Math/max(int  0,07692
+java/lang/Integer/toString(int), denis/develops/utils/lightsensor/SettingsActivity/getString(int), java/lang/Float/toString(float)  0,07692
+android.content.Intent)  0,07692
+double  0,07692
+android/provider/Settings$System/canWrite(android.content.Context)  0,07692
+java/util/regex/Pattern/compile(java.lang.String), java/util/regex/Matcher/matches(), java/lang/String/length(), java/lang/String/equals(java.lang.Object), java/lang/String/startsWith(java.lang.String), java/util/regex/Pattern/matcher(java.lang.CharSequence), android/hardware/Camera$Parameters/get(java.lang.String), java/lang/String/substring(int), java/lang/Integer/parseInt(java.lang.String  0,07692
+java/lang/String/split(java.lang.String), java/lang/String/toLowerCase()  0,07692
+java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/String/format(java.lang.String  0,07692

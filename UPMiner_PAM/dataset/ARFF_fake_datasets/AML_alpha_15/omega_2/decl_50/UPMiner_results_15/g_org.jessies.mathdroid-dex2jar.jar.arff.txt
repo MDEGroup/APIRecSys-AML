@@ -1,0 +1,4 @@
+java/lang/Runtime/availableProcessors(
+java/lang/Exception/printStackTrace()
+java/util/List/get(int
+junit/framework/TestResult/TestResult()

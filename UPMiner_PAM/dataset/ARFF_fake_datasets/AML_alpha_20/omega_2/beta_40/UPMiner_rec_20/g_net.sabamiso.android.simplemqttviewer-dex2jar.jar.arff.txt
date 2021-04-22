@@ -1,0 +1,8 @@
+java/security/Provider/getName(
+android/view/View/findViewById(int)
+android/widget/CheckBox/setChecked(boolean
+java/lang/String/startsWith(java.lang.String)
+javax/net/ssl/KeyManagerFactory/getInstance(java.lang.String)
+java/lang/StringBuffer/StringBuffer(
+java/util/Vector/elements(
+java/lang/String/length()

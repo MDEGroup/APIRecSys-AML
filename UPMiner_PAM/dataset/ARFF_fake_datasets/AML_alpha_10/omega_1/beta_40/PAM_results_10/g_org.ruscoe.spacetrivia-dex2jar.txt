@@ -1,0 +1,39 @@
+prob: 0,20000
+[java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(int)]
+
+prob: 0,20000
+[android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,10000
+[java/util/Map/get(java.lang.Object), java/lang/StringBuilder/toString(), org/ruscoe/spacetrivia/SummaryActivity/startActivity(android.content.Intent), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,10000
+[android/widget/TextView/getText(), org/ruscoe/spacetrivia/SummaryActivity/getString(int), android/content/Intent/setType(java.lang.String), java/lang/Integer/valueOf(int), java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,10000
+[java/util/ArrayList/ArrayList(), java/lang/String/split(java.lang.String), java/lang/String/length(), java/io/IOException/getMessage(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), android/content/res/Resources/openRawResource(int), android/content/Context/getResources(), android/util/Log/e(java.lang.String]
+
+prob: 0,10000
+[org/ruscoe/spacetrivia/QuestionActivity/setVolumeControlStream(int), org/ruscoe/spacetrivia/QuestionActivity/setContentView(int), android/content/Intent/getIntExtra(java.lang.String]
+
+prob: 0,10000
+[android/widget/ScrollView/scrollTo(int]
+
+prob: 0,10000
+[int)]
+
+prob: 0,10000
+[org/ruscoe/spacetrivia/ScoresActivity/setContentView(int), java/util/Map/get(java.lang.Object), java/lang/StringBuilder/toString(), android/widget/ListView/setAdapter(android.widget.ListAdapter), java/util/Map/put(java.lang.Object]
+
+prob: 0,10000
+[org/ruscoe/spacetrivia/ScoresActivity/setVolumeControlStream(int)]
+
+prob: 0,10000
+[java/lang/StringBuilder/append(java.lang.String), android/database/sqlite/SQLiteDatabase/close(), org/ruscoe/spacetrivia/dao/ScoreData/getWritableDatabase(), android/content/ContentValues/put(java.lang.String]
+
+prob: 0,10000
+[android/widget/LinearLayout/removeAllViews(), java/lang/Integer/intValue(), java/util/Iterator/hasNext(), android/widget/LinearLayout/addView(android.view.View]
+
+prob: 0,10000
+[java/lang/Integer/valueOf(int)]
+

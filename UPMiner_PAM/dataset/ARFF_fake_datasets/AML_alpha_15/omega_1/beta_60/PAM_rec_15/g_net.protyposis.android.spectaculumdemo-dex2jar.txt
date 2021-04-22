@@ -1,0 +1,119 @@
+int  0,10377
+java.lang.String)  0,04717
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,03774
+boolean)  0,02830
+java/util/Map/put(java.lang.Object  0,02830
+long  0,02830
+int)  0,02830
+java/lang/StringBuilder/append(int)  0,02830
+java/lang/StringBuilder/append(long)  0,02830
+java.util.Map)  0,01887
+boolean  0,01887
+byte[  0,01887
+java.lang.String[  0,01887
+java/lang/StringBuilder/append(java.lang.String), java/lang/Math/max(long  0,01887
+long)  0,01887
+java.io.InputStream)  0,01887
+com.google.android.exoplayer.text.ttml.TtmlStyle)  0,01887
+com.google.android.exoplayer.text.webvtt.WebvttCue$Builder)  0,01887
+java/lang/StringBuilder/toString()  0,01887
+java/lang/StringBuilder/append(java.lang.String)  0,01887
+android/media/MediaCodec/getInputBuffers(), java/lang/StringBuilder/append(java.lang.String), android/os/SystemClock/elapsedRealtime(), android/media/MediaCodec/start(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(  0,00943
+net/protyposis/android/spectaculum/CameraView/getContext(), java/io/IOException/printStackTrace(), android/hardware/Camera/setPreviewTexture(android.graphics.SurfaceTexture), net/protyposis/android/spectaculum/CameraView/getInputHolder(), android/hardware/Camera/setDisplayOrientation(int), android/hardware/Camera$CameraInfo/Camera$CameraInfo(), android/hardware/Camera/open(int), android/view/WindowManager/getDefaultDisplay(), android/view/Display/getRotation(), android/hardware/Camera/getCameraInfo(int  0,00943
+java.util.Map  0,00943
+java/io/File/File(java.io.File  0,00943
+java/io/IOException/printStackTrace(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader), java/lang/StringBuilder/append(char), java/io/BufferedReader/readLine(), android/content/Context/getAssets(  0,00943
+com/crashlytics/android/answers/SessionAnalyticsFilesManager/deleteSentFiles(java.util.List), java/lang/StringBuilder/append(java.lang.String), java/lang/String/format(java.util.Locale  0,00943
+java/net/InetSocketAddress/InetSocketAddress(java.net.InetAddress  0,00943
+android.view.View  0,00943
+com.google.android.exoplayer.MediaCodecUtil$MediaCodecListCompat)  0,00943
+android/content/Context/getPackageManager(), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,00943
+android/content/Context/getPackageManager(), android/content/pm/PackageManager/getApplicationInfo(java.lang.String  0,00943
+android/content/pm/PackageManager/getApplicationLabel(android.content.pm.ApplicationInfo), android/content/Context/getPackageName(), io/fabric/sdk/android/Onboarding/getContext(), io/fabric/sdk/android/Onboarding/getIdManager(), android/content/Context/getApplicationInfo()  0,00943
+java/util/Stack/add(java.lang.Object), java/util/Stack/pop(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(  0,00943
+java/util/Stack/isEmpty()  0,00943
+java/util/Stack/peek()  0,00943
+android/content/res/AssetManager/open(java.lang.String)  0,00943
+java/lang/RuntimeException/RuntimeException(java.lang.String)  0,00943
+java/lang/Thread/sleep(long), java/lang/Thread/currentThread(), java/lang/Thread/interrupt(), java/lang/Math/min(int  0,00943
+java/net/HttpURLConnection/disconnect(), java/net/HttpURLConnection/getResponseCode(), java/net/HttpURLConnection/getHeaderField(java.lang.String), android/net/Uri/toString(), java/net/NoRouteToHostException/NoRouteToHostException(java.lang.String), java/net/URL/URL(java.lang.String  0,00943
+java/lang/Class/forName(java.lang.String), android/content/Context/getPackageManager(), java/lang/Class/getMethod(java.lang.String  0,00943
+android/media/MediaCodec/release()  0,00943
+android/media/MediaCodec/stop()  0,00943
+android/app/ActivityManager/getMemoryInfo(android.app.ActivityManager$MemoryInfo), android/app/Activity/onResume(), net/protyposis/android/spectaculumdemo/SpectaculumDemoBaseActivity/getSystemService(java.lang.String), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(long), android/util/Log/d(java.lang.String  0,00943
+android/app/ActivityManager$MemoryInfo/ActivityManager$MemoryInfo(), java/lang/StringBuilder/append(java.lang.String), net/protyposis/android/spectaculum/SpectaculumView/onResume(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,00943
+io.fabric.sdk.android.Kit)  0,00943
+java/io/File/exists(), java/io/File/renameTo(java.io.File  0,00943
+java/io/FileOutputStream/close()  0,00943
+java/lang/Long/parseLong(java.lang.String  0,00943
+io.fabric.sdk.android.services.settings.AppRequestData)  0,00943
+net/protyposis/android/spectaculum/ImageView/setOnFrameCapturedCallback(net.protyposis.android.spectaculum.SpectaculumView$OnFrameCapturedCallback), net/protyposis/android/spectaculumdemo/ImageViewActivity/setContentView(int), net/protyposis/android/spectaculumdemo/ImageViewActivity/startActivityForResult(android.content.Intent  0,00943
+java.util.Date  0,00943
+android/os/Environment/getDataDirectory()  0,00943
+android/os/StatFs/getBlockSize()  0,00943
+com/crashlytics/android/core/CrashlyticsCore/getContext()  0,00943
+java/lang/Runtime/availableProcessors()  0,00943
+java/lang/Runtime/getRuntime()  0,00943
+android/net/Uri/getScheme(), net/protyposis/android/spectaculumdemo/MainActivity/getString(int), java/lang/String/equals(java.lang.Object), android/content/ContentResolver/openInputStream(android.net.Uri), android/content/SharedPreferences/edit(), net/protyposis/android/spectaculumdemo/MainActivity/getContentResolver(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), net/protyposis/android/spectaculumdemo/MainActivity/getApplicationContext(), android/content/SharedPreferences$Editor/commit(), android/widget/TextView/setText(java.lang.CharSequence), android/widget/Button/setEnabled(boolean), java/io/InputStream/close(), android/content/SharedPreferences$Editor/putString(java.lang.String  0,00943
+java/lang/StringBuilder/append(java.lang.String), android/os/StatFs/getBlockCount(), android/os/StatFs/StatFs(java.lang.String), java/io/File/getPath(  0,00943
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/regex/Matcher/group(int), java/lang/String/startsWith(java.lang.String  0,00943
+net/protyposis/android/spectaculumdemo/MainActivity/setContentView(int), android/os/Bundle/getParcelable(java.lang.String), android/app/Activity/onCreate(android.os.Bundle), java/lang/String/equals(java.lang.Object), android/net/Uri/parse(java.lang.String), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), net/protyposis/android/spectaculumdemo/MainActivity/findViewById(int), android/content/SharedPreferences/getString(java.lang.String  0,00943
+com.google.android.exoplayer.hls.HlsTrackSelector$Output)  0,00943
+java/security/cert/CertificateException/CertificateException(java.lang.Throwable), java/security/cert/X509Certificate/getPublicKey(), java/util/Iterator/hasNext(), java/util/Arrays/equals(byte[  0,00943
+java/lang/NoSuchFieldException/printStackTrace(), java/lang/String/length(), java/lang/IllegalAccessException/printStackTrace(), java/lang/Class/getField(java.lang.String), java/lang/Object/toString(), java/lang/reflect/Field/get(java.lang.Object  0,00943
+java.util.zip.ZipFile)  0,00943
+android/app/AlertDialog$Builder/setNegativeButton(int  0,00943
+android/widget/TextView/setFocusable(boolean), android/content/res/Resources/getDisplayMetrics(), android/widget/TextView/setTextAppearance(android.content.Context  0,00943
+android/text/TextPaint/setStrokeWidth(float), android/graphics/Canvas/translate(float  0,00943
+net/protyposis/android/mediaplayer/MediaCodecVideoDecoder/dismissFrame(net.protyposis.android.mediaplayer.MediaCodecDecoder$FrameInfo), java/lang/StringBuilder/append(long), net/protyposis/android/mediaplayer/MediaPlayer$EventHandler/obtainMessage(int  0,00943
+android/media/MediaFormat/setByteBuffer(java.lang.String  0,00943
+java/util/Iterator/hasNext(), java/util/Map$Entry/getValue(), java/util/Map/entrySet(), java/util/Collections/unmodifiableMap(java.util.Map), java/util/HashMap/HashMap(  0,00943
+java/util/Iterator/hasNext(), io/fabric/sdk/android/Onboarding/initialize(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/Iterator/next(), java/util/Collections/sort(java.util.List), io/fabric/sdk/android/Onboarding/injectParameters(android.content.Context  0,00943
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), com/crashlytics/android/answers/SessionAnalyticsFilesSender/getHttpRequest(), java/lang/StringBuilder/toString(), java/io/File/getName(), java/util/Iterator/next()  0,00943
+java/util/Iterator/hasNext(), java/util/Iterator/next(), java/lang/StringBuilder/append(long), java/lang/StringBuilder/StringBuilder(), java/util/List/isEmpty(), java/util/List/iterator()  0,00943
+android/os/Message/sendToTarget(), android/util/Log/e(java.lang.String  0,00943
+java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String), java/util/logging/Logger/log(java.util.logging.Level  0,00943
+com/google/android/exoplayer/MediaCodecTrackRenderer/getState(), android/media/MediaCodec/getOutputBuffers(), android/media/MediaCodec/createByCodecName(java.lang.String)  0,00943
+java/io/IOException/IOException(java.lang.String), java/net/URI/URI(java.lang.String  0,00943
+java/io/IOException/IOException(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/io/RandomAccessFile/readFully(byte[  0,00943
+java/lang/StringBuilder/append(int), java/io/RandomAccessFile/length(), java/io/RandomAccessFile/seek(long)  0,00943
+java/io/RandomAccessFile/close(), java/io/File/File(java.lang.String), java/io/IOException/IOException(java.lang.String), java/io/RandomAccessFile/seek(long), java/io/File/renameTo(java.io.File), java/io/RandomAccessFile/write(byte[  0,00943
+java/io/File/File(java.lang.String), java/io/FileOutputStream/flush()  0,00943
+java/io/RandomAccessFile/setLength(long), java/io/File/getPath(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,00943
+android/util/SparseArray/size(), android/util/SparseArray/get(int), android/util/SparseArray/put(int  0,00943
+android/media/MediaCodec/getOutputBuffers(), android/media/MediaCodec/getOutputFormat(), java/lang/StringBuilder/append(java.lang.String)  0,00943
+java/util/regex/Pattern/matcher(java.lang.CharSequence), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/util/regex/Matcher/find()  0,00943
+java/util/regex/Matcher/group(int), java/util/GregorianCalendar/GregorianCalendar(java.util.TimeZone), android/text/TextUtils/isEmpty(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.String), java/util/Calendar/set(int  0,00943
+java/util/regex/Matcher/group(int), java/lang/String/charAt(int), java/lang/String/length(), java/lang/StringBuilder/StringBuilder(int), java/util/regex/Matcher/end(), java/lang/Integer/parseInt(java.lang.String  0,00943
+java/util/regex/Matcher/group(int), java/lang/StringBuilder/append(java.lang.String), java/util/Set/contains(java.lang.Object), java/lang/StringBuilder/StringBuilder()  0,00943
+java/lang/Long/parseLong(java.lang.String)  0,00943
+com.google.android.exoplayer.text.ttml.TtmlParser$FrameAndTickRate)  0,00943
+java/util/regex/Matcher/matches(), java/util/regex/Pattern/matcher(java.lang.CharSequence), android/util/Log/w(java.lang.String  0,00943
+net.protyposis.android.spectaculum.effects.Effect  0,00943
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/replace(java.lang.CharSequence  0,00943
+java/util/ArrayList/ArrayList(), android/os/SystemClock/elapsedRealtime(), android/media/MediaCodec/getInputBuffers(), android/util/Log/e(java.lang.String  0,00943
+java/util/ArrayList/ArrayList(), java/nio/ByteBuffer/get(byte[), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/media/MediaFormat/getLong(java.lang.String), java/lang/String/equals(java.lang.Object), java/util/ArrayList/add(java.lang.Object), android/media/MediaFormat/containsKey(java.lang.String), java/nio/ByteBuffer/limit(), android/media/MediaFormat/getString(java.lang.String), java/lang/StringBuilder/toString(  0,00943
+java/util/ArrayList/ArrayList(), java/util/ArrayList/add(java.lang.Object), java/util/Iterator/hasNext(), java/lang/String/format(java.util.Locale  0,00943
+java/nio/ByteBuffer/flip()  0,00943
+android/media/MediaFormat/getByteBuffer(java.lang.String)  0,00943
+android/media/MediaPlayer/prepareAsync(), android/media/MediaPlayer/setOnErrorListener(android.media.MediaPlayer$OnErrorListener), android/media/MediaPlayer/setSurface(android.view.Surface), net/protyposis/android/spectaculum/VideoView/getContext(), android/media/MediaPlayer/setDataSource(android.content.Context  0,00943
+java/lang/System/nanoTime()  0,00943
+java/util/List/isEmpty(), android/util/Log/e(java.lang.String  0,00943
+java/io/File/getName(), java/util/regex/Matcher/matches(), java/lang/Math/min(int  0,00943
+java/io/File/getName(), java/util/List/size(), java/util/Iterator/next(), java/util/List/iterator(), java/util/TreeSet/add(java.lang.Object), java/util/TreeSet/TreeSet(java.util.Comparator)  0,00943
+java/util/List/size(), com/crashlytics/android/answers/SessionAnalyticsFilesSender/getUrl(), java/lang/StringBuilder/StringBuilder(  0,00943
+java/lang/Integer/valueOf(int)  0,00943
+com/google/android/exoplayer/text/SubtitleLayout/getTop(), java/util/List/size(), com/google/android/exoplayer/text/SubtitleLayout/getPaddingBottom(), com/google/android/exoplayer/text/SubtitleLayout/getRight(), com/google/android/exoplayer/text/SubtitleLayout/getPaddingRight(), com/google/android/exoplayer/text/SubtitleLayout/getBottom(  0,00943
+com/google/android/exoplayer/text/SubtitleLayout/getPaddingLeft(), com/google/android/exoplayer/text/SubtitleLayout/getPaddingTop(), com/google/android/exoplayer/text/SubtitleLayout/getLeft(), java/util/List/get(int)  0,00943
+java/util/List/get(int), java/lang/StringBuilder/append(java.lang.Object), android/media/MediaCodec/dequeueOutputBuffer(android.media.MediaCodec$BufferInfo  0,00943
+com.google.android.exoplayer.util.ParsableByteArray  0,00943
+java/util/Map$Entry/getKey(), java/util/Set/iterator(), java/util/Collection/iterator(), java/util/Iterator/next()  0,00943
+java/lang/StringBuilder/append(java.lang.Object)  0,00943
+java/lang/Class/getSimpleName(), java/lang/StringBuilder/append(java.lang.String)  0,00943
+java/io/IOException/IOException(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,00943
+android/util/Log/w(java.lang.String  0,00943
+java/util/List/iterator()  0,00943
+java/util/List/size()  0,00943
+java/util/regex/Matcher/group(int)  0,00943
+java/util/Iterator/next()  0,00943
+java/lang/StringBuilder/StringBuilder()  0,00943

@@ -1,0 +1,11 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+org.api.fake
+android/graphics/Canvas/restoreToCount(int)
+android/view/View/getVisibility()
+android/view/View/getLayoutParams()
+java/lang/StringBuilder/toString(
+android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context)
+android/graphics/Paint/setColor(int)
+java/util/ArrayList/size()
+java/lang/StringBuilder/append(java.lang.String)
+android/view/MotionEvent/getEdgeFlags()

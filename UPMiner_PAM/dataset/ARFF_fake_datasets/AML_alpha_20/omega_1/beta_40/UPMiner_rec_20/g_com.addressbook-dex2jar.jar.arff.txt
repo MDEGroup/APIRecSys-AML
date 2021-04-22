@@ -1,0 +1,11 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+org.api.fake
+java/util/Iterator/hasNext()
+java/util/List/size()
+java/lang/StringBuilder/toString() java/lang/Exception/getMessage(
+java/lang/StringBuilder/toString()
+java/io/File/File(java.lang.String
+android/content/pm/PackageManager/getLaunchIntentForPackage(java.lang.String
+android/content/Context/getPackageManager()
+java/util/List/size() java/util/List/iterator()
+android/os/Bundle/getParcelableArrayList(java.lang.String

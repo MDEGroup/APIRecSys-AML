@@ -1,0 +1,12 @@
+java/lang/Exception/printStackTrace(), android/util/Log/e(java.lang.String  0,09091
+java/lang/Integer/intValue(), java/util/Iterator/hasNext(), java/util/StringTokenizer/StringTokenizer(java.lang.String  0,09091
+org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest), com/tvblob/fandango/argo/JabsorbRPCClient/getConnectionTimeout(), com/tvblob/fandango/argo/JabsorbRPCClient/getSoTimeout(), org/apache/http/params/BasicHttpParams/BasicHttpParams(), org/apache/http/client/methods/HttpPost/setParams(org.apache.http.params.HttpParams), org/apache/http/params/HttpConnectionParams/setSoTimeout(org.apache.http.params.HttpParams  0,09091
+org/json/JSONObject/get(java.lang.String), org/apache/http/params/BasicHttpParams/BasicHttpParams(), org/apache/http/client/methods/HttpPost/setParams(org.apache.http.params.HttpParams), android/util/Log/d(java.lang.String  0,09091
+java/lang/String/trim(), org/apache/http/util/EntityUtils/toString(org.apache.http.HttpEntity), org/alexd/jsonrpc/JSONRPCHttpClient/getConnectionTimeout(), org/alexd/jsonrpc/JSONRPCHttpClient/getSoTimeout(), java/lang/StringBuilder/append(long)  0,09091
+org/w3c/dom/NodeList/getLength(), java/io/PrintStream/println(java.lang.String), org/w3c/dom/Element/getElementsByTagName(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), org/w3c/dom/NodeList/item(int), java/lang/StringBuilder/append(java.lang.Object), org/w3c/dom/Document/getDocumentElement(), java/lang/StringBuilder/toString(), org/w3c/dom/Node/getTextContent(  0,09091
+java.lang.String)  0,09091
+java/util/Map/put(java.lang.Object  0,09091
+java/net/HttpURLConnection/disconnect(), org/xml/sax/SAXException/printStackTrace(), java/net/URL/openConnection(), javax/xml/parsers/DocumentBuilder/parse(java.io.InputStream), java/net/URL/URL(java.lang.String), java/io/InputStream/close(), javax/xml/parsers/DocumentBuilderFactory/newDocumentBuilder(), javax/xml/parsers/DocumentBuilderFactory/newInstance(), java/net/HttpURLConnection/getInputStream(), javax/xml/parsers/ParserConfigurationException/printStackTrace(  0,09091
+android.os.Handler)  0,09091
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), com/tvblob/fandango/myblobbox/Configure/getString(int), android/app/AlertDialog$Builder/setMessage(java.lang.CharSequence), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setNeutralButton(java.lang.CharSequence  0,09091
+java.lang.String  0,09091

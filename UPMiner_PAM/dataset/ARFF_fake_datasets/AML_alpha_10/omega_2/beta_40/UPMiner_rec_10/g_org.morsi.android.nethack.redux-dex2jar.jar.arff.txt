@@ -1,0 +1,6 @@
+java/lang/String/contains(java.lang.CharSequence
+java/util/Map/get(java.lang.Object
+android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int,int,float)
+android/widget/TextView/setOnClickListener(android.view.View$OnClickListener
+java/util/regex/Pattern/compile(java.lang.String,int)
+java/lang/String/length()

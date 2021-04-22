@@ -1,0 +1,168 @@
+int)  0,05738
+java.lang.String  0,05738
+java.io.FileDescriptor  0,04918
+java/util/Iterator/hasNext()  0,04918
+int  0,04098
+java.lang.String)  0,03279
+android.os.Parcel  0,03279
+java/lang/StringBuilder/StringBuilder(int)  0,03279
+java/util/Iterator/hasNext(), java/util/Iterator/next()  0,03279
+android.view.View  0,02459
+java/util/concurrent/locks/Condition/signalAll(), java/util/concurrent/locks/Lock/lock(), java/util/Collection/iterator(), java/util/Map/put(java.lang.Object  0,01639
+boolean)  0,01639
+android.content.ServiceConnection  0,01639
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/StringBuilder(), java/util/ArrayList/set(int  0,01639
+java/util/ArrayList/ArrayList(), java/util/Map/keySet(  0,01639
+java/io/IOException/getMessage()  0,01639
+com.google.android.gms.common.api.internal.LifecycleCallback)  0,01639
+java/util/Iterator/hasNext(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/Map/entrySet()  0,01639
+android/view/MotionEvent/getY(int), android/view/View/getLeft()  0,01639
+android/view/MotionEvent/getPointerCount(), android/view/MotionEvent/getX(), android/view/MotionEvent/getX(int), android/view/MotionEvent/getPointerId(int), android/view/View/getTop()  0,01639
+android/view/VelocityTracker/addMovement(android.view.MotionEvent)  0,01639
+android/view/MotionEvent/getY()  0,01639
+android/view/MotionEvent/getActionIndex()  0,01639
+android/util/Log/v(java.lang.String  0,01639
+android/util/Log/w(java.lang.String  0,01639
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)  0,01639
+java/util/Map/containsKey(java.lang.Object)  0,01639
+java/lang/StringBuilder/append(int)  0,01639
+java/util/Set/iterator()  0,01639
+java/lang/StringBuilder/toString()  0,01639
+java/lang/String/length(), java/lang/Integer/toHexString(int), java/lang/String/concat(java.lang.String), java/lang/String/String(java.lang.String), java/lang/StringBuilder/toString(), android/os/Parcel/dataPosition(), java/lang/StringBuilder/append(java.lang.String  0,00820
+java/util/Iterator/next(), java/util/Map$Entry/getKey(), android/support/v4/b/a/put(java.lang.Object  0,00820
+android/view/MotionEvent/getActionMasked(), android/view/VelocityTracker/obtain(  0,00820
+android/view/VelocityTracker/obtain(), android/view/MotionEvent/findPointerIndex(int), android/view/MotionEvent/getActionMasked(  0,00820
+android/widget/LinearLayout/addView(android.view.View), android/widget/Button/setId(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/FrameLayout$LayoutParams/FrameLayout$LayoutParams(int  0,00820
+java/util/Set/iterator(), java/util/List/add(java.lang.Object), java/util/List/isEmpty(), java/util/Map/get(java.lang.Object)  0,00820
+android.os.IInterface)  0,00820
+android.view.LayoutInflater$Factory2)  0,00820
+com.google.android.gms.common.api.internal.aj  0,00820
+java/lang/reflect/Field/setAccessible(boolean), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)  0,00820
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(char), java/lang/StringBuilder/append(float), java/lang/StringBuilder/append(boolean), java/lang/StringBuilder/append(long  0,00820
+java/util/Queue/isEmpty(), java/util/concurrent/locks/Lock/lock(), java/lang/StringBuilder/toString(), java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/util/concurrent/locks/Lock/unlock(), java/lang/StringBuilder/append(java.lang.String), java/util/Queue/add(java.lang.Object), java/lang/String/length(  0,00820
+java/util/Queue/remove()  0,00820
+java/util/Map$Entry/getKey(), android/os/Bundle/putBundle(java.lang.String  0,00820
+java/util/Stack/size(), java/lang/Thread/start(), java/lang/Thread/Thread(java.lang.Runnable)  0,00820
+java/util/Stack/size(), android/app/AlertDialog$Builder/setPositiveButton(int  0,00820
+de/j4velin/mapsmeasure/ElevationView/setVisibility(int), java/lang/Exception/printStackTrace(), java/lang/Math/max(float  0,00820
+de/j4velin/mapsmeasure/Map/f(), android/view/View/setOnLongClickListener(android.view.View$OnLongClickListener), android/widget/ListView/setDivider(android.graphics.drawable.Drawable), android/widget/FrameLayout$LayoutParams/setMargins(int  0,00820
+android/os/Bundle/getBoolean(java.lang.String), java/lang/Exception/printStackTrace(), java/util/List/iterator(), android/os/Bundle/getDouble(java.lang.String), android/os/Bundle/getFloat(java.lang.String), android/os/Bundle/getSerializable(java.lang.String  0,00820
+android/support/v4/app/i/onRestoreInstanceState(android.os.Bundle)  0,00820
+android/support/v4/b/a/a(int)  0,00820
+java/util/ArrayList/ArrayList(int), java/util/ArrayList/add(java.lang.Object), android/os/Handler/removeMessages(int  0,00820
+java/util/ArrayList/add(java.lang.Object), java/lang/StringBuilder/append(java.lang.Object), android/util/SparseArray/valueAt(int)  0,00820
+android.support.v4.app.o)  0,00820
+android.support.v4.app.c)  0,00820
+com.google.android.gms.dynamite.DynamiteModule$b  0,00820
+java/lang/Class/newInstance(), java/lang/String/length(), android/content/Context/createPackageContext(java.lang.String  0,00820
+boolean  0,00820
+java.util.ArrayList  0,00820
+java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/reflect/Field/get(java.lang.Object), java/lang/Class/getDeclaredField(java.lang.String), java/lang/reflect/Field/getType(), java/lang/reflect/Field/set(java.lang.Object  0,00820
+java/lang/Class/isAssignableFrom(java.lang.Class), java/lang/Class/getInterfaces(), java/util/Map/put(java.lang.Object  0,00820
+java/util/ArrayList/ArrayList(java.util.Collection), android/os/Handler/removeMessages(int), java/util/ArrayList/get(int), java/util/concurrent/atomic/AtomicInteger/get(), android/os/Looper/myLooper(), android/os/Handler/getLooper(), java/util/ArrayList/clear()  0,00820
+java/util/ArrayList/ArrayList(java.util.Collection), java/util/ArrayList/clear(  0,00820
+android/net/Uri/encode(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), android/net/Uri/encode(java.lang.String  0,00820
+java/lang/reflect/Field/get(java.lang.Object), java/lang/StringBuilder/append(int), java/lang/reflect/Field/isAccessible(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,00820
+java/util/HashMap/entrySet(), android/net/Uri$Builder/build()  0,00820
+android/net/Uri$Builder/authority(java.lang.String)  0,00820
+java/io/File/getPath()  0,00820
+android/net/Uri$Builder/Uri$Builder()  0,00820
+android/net/Uri$Builder/encodedPath(java.lang.String)  0,00820
+java/io/File/File(java.io.File  0,00820
+java.io.File)  0,00820
+float  0,00820
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setPositiveButton(int  0,00820
+de/j4velin/mapsmeasure/ElevationView/getPaddingRight(), de/j4velin/mapsmeasure/ElevationView/getWidth(), android/graphics/Canvas/drawText(java.lang.String  0,00820
+java/util/Map/putAll(java.util.Map)  0,00820
+java/lang/Boolean/booleanValue()  0,00820
+java/util/ArrayList/isEmpty(), java/util/Map/size(), java/util/Map/containsKey(java.lang.Object), java/util/Map/get(java.lang.Object)  0,00820
+java/util/concurrent/ExecutorService/submit(java.lang.Runnable), java/util/ArrayList/add(java.lang.Object), java/util/Iterator/next()  0,00820
+org/json/JSONObject/optString(java.lang.String  0,00820
+java.util.List)  0,00820
+java.util.Stack)  0,00820
+de.j4velin.mapsmeasure.Map)  0,00820
+java/net/URL/openConnection(), java/util/WeakHashMap/get(java.lang.Object), java/lang/Float/valueOf(float), java/util/WeakHashMap/containsKey(java.lang.Object), java/lang/String/substring(int  0,00820
+android.support.v4.app.ab$a)  0,00820
+com/google/android/gms/common/api/GoogleApiActivity/getIntent(), java/lang/Integer/intValue(), android/os/Bundle/get(java.lang.String), android/content/Intent/getExtras(), android/app/PendingIntent/getIntentSender(), com/google/android/gms/common/api/GoogleApiActivity/finish(), com/google/android/gms/common/api/GoogleApiActivity/startIntentSenderForResult(android.content.IntentSender  0,00820
+java/lang/StringBuilder/append(java.lang.CharSequence), java/lang/Object/toString(), java/lang/StringBuilder/toString(), java/lang/Integer/numberOfTrailingZeros(int), java/lang/StringBuilder/StringBuilder(  0,00820
+android/os/SystemClock/elapsedRealtime(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,00820
+android.os.IBinder)  0,00820
+java/lang/Integer/intValue(), java/util/Map/values(), java/lang/String/valueOf(java.lang.Object), java/util/Iterator/next()  0,00820
+java/util/Queue/remove(java.lang.Object), java/util/Iterator/next(), java/util/Queue/iterator()  0,00820
+android/os/Bundle/Bundle(android.os.Bundle), java/util/Iterator/hasNext(), android/app/Notification$Builder/build(), android/os/Bundle/putAll(android.os.Bundle), android/os/Bundle/remove(java.lang.String), android/os/Bundle/keySet(), android/os/Bundle/putSparseParcelableArray(java.lang.String  0,00820
+java/util/concurrent/atomic/AtomicInteger/getAndIncrement(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), java/lang/String/length(), java/util/concurrent/ThreadFactory/newThread(java.lang.Runnable), java/lang/Thread/setName(java.lang.String)  0,00820
+android.support.v4.app.h  0,00820
+java.io.PrintWriter  0,00820
+android.arch.lifecycle.ReflectiveGenericLifecycleObserver$b  0,00820
+android/util/SparseArray/size(), java/util/ArrayList/ArrayList(int), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), android/util/Log/v(java.lang.String  0,00820
+android/util/SparseArray/size(), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/util/Log/d(java.lang.String  0,00820
+java/lang/String/valueOf(java.lang.Object), java/util/Map/values(), java/util/Set/equals(java.lang.Object), java/util/Map/put(java.lang.Object  0,00820
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/StringBuilder(int), android/content/ComponentName/ComponentName(java.lang.String  0,00820
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length(), android/util/Log/e(java.lang.String  0,00820
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/util/Log/wtf(java.lang.String  0,00820
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int  0,00820
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/ArrayList/ArrayList(), android/text/TextUtils/join(java.lang.CharSequence  0,00820
+java/lang/StringBuilder/append(java.lang.String), java/util/Collection/iterator(  0,00820
+java/lang/StringBuilder/append(java.lang.String), java/lang/Float/floatValue(), java/util/Stack/isEmpty(), android/os/Handler/Handler(), java/text/NumberFormat/format(double), java/lang/StringBuilder/toString()  0,00820
+java/lang/StringBuilder/append(java.lang.String), de/j4velin/mapsmeasure/Map/getSharedPreferences(java.lang.String  0,00820
+java/lang/StringBuilder/append(java.lang.String), de/j4velin/mapsmeasure/Map/getString(int  0,00820
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), android/graphics/Rect/Rect(), java/lang/StringBuilder/append(boolean)  0,00820
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/toString(), android/util/Log/w(java.lang.String  0,00820
+com.google.android.gms.common.api.f  0,00820
+java/util/ArrayList/size(), java/util/ArrayList/contains(java.lang.Object  0,00820
+java/util/ArrayList/size(), java/util/Queue/size(), java/util/List/remove(java.lang.Object), java/util/Iterator/hasNext()  0,00820
+java/util/ArrayList/size(), java/util/ArrayList/get(int), java/util/ArrayList/contains(java.lang.Object), java/util/concurrent/atomic/AtomicInteger/get(), android/os/Looper/myLooper(), android/os/Handler/getLooper()  0,00820
+java/util/ArrayList/size(), java/util/ArrayList/get(int), java/util/Iterator/hasNext(), java/util/Iterator/next()  0,00820
+java/util/Map/get(java.lang.Object), java/util/Set/iterator(), java/util/Map/containsKey(java.lang.Object), java/util/Set/addAll(java.util.Collection), java/util/Collections/emptySet(), java/util/Map/keySet(), java/util/HashSet/HashSet(java.util.Collection  0,00820
+java/util/Map/get(java.lang.Object), java/util/ArrayList/add(java.lang.Object), java/util/Set/iterator(), java/util/Map/clear(), java/lang/Integer/valueOf(int), java/util/Set/add(java.lang.Object), java/util/Map/put(java.lang.Object  0,00820
+android/app/AlertDialog$Builder/setTitle(int), java/lang/StringBuilder/append(java.lang.String), android/os/Environment/getExternalStorageState(), android/widget/Toast/show(), android/app/AlertDialog/show(), java/lang/String/equals(java.lang.Object), java/lang/StringBuilder/StringBuilder(), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/setAdapter(android.widget.ListAdapter  0,00820
+android/app/AlertDialog$Builder/setTitle(int), java/lang/StringBuilder/append(java.lang.String), android/app/Activity/getLayoutInflater(), java/lang/StringBuilder/StringBuilder(), android/app/AlertDialog$Builder/setPositiveButton(int  0,00820
+android/view/View/findViewById(int)  0,00820
+android/widget/TextView/setText(java.lang.CharSequence)  0,00820
+java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.String), java/lang/String/length()  0,00820
+java/io/File/getAbsolutePath()  0,00820
+android/app/AlertDialog$Builder/setView(android.view.View)  0,00820
+android/app/Activity/getExternalFilesDir(java.lang.String)  0,00820
+java.lang.StringBuilder)  0,00820
+android/content/Intent/createChooser(android.content.Intent  0,00820
+android/os/Bundle/Bundle()  0,00820
+java/util/WeakHashMap/put(java.lang.Object  0,00820
+android/app/Dialog/setContentView(android.view.View)  0,00820
+android/app/Dialog/setCancelable(boolean)  0,00820
+android/os/Bundle/getBundle(java.lang.String)  0,00820
+android/app/Dialog/onRestoreInstanceState(android.os.Bundle)  0,00820
+android/app/Dialog/setOwnerActivity(android.app.Activity)  0,00820
+android/support/v4/app/g/j()  0,00820
+android/support/v4/app/g/p()  0,00820
+android/app/Dialog/setOnCancelListener(android.content.DialogInterface$OnCancelListener)  0,00820
+android/app/Dialog/setOnDismissListener(android.content.DialogInterface$OnDismissListener)  0,00820
+android/view/View/getParent(  0,00820
+android/os/Bundle/putString(java.lang.String  0,00820
+android/widget/OverScroller/getCurrY()  0,00820
+android/widget/OverScroller/abortAnimation()  0,00820
+android/view/ViewGroup/post(java.lang.Runnable)  0,00820
+android/widget/OverScroller/computeScrollOffset()  0,00820
+android/widget/OverScroller/getFinalX()  0,00820
+android/widget/OverScroller/getFinalY()  0,00820
+android/widget/OverScroller/getCurrX()  0,00820
+android/view/View/getLeft(  0,00820
+java/lang/String/length(), java/lang/StringBuilder/StringBuilder(int), java/lang/StringBuilder/toString()  0,00820
+java/lang/Integer/valueOf(int)  0,00820
+android/os/Handler/removeMessages(int)  0,00820
+java/lang/StringBuilder/append(char)  0,00820
+java/util/Set/add(java.lang.Object)  0,00820
+java/util/List/add(java.lang.Object)  0,00820
+android/os/Environment/getExternalStorageState()  0,00820
+android/widget/Toast/show()  0,00820
+android/app/AlertDialog/show()  0,00820
+java/lang/String/equals(java.lang.Object)  0,00820
+java/util/Map/size()  0,00820
+java/util/Map$Entry/getKey()  0,00820
+android/view/View/getTop()  0,00820
+java/util/ArrayList/get(int)  0,00820
+java/util/ArrayList/size()  0,00820
+java/util/Map/put(java.lang.Object  0,00820
+java/lang/String/length()  0,00820
+java/lang/String/valueOf(java.lang.Object)  0,00820
+java/lang/StringBuilder/StringBuilder()  0,00820
+java/lang/StringBuilder/append(java.lang.String)  0,00820

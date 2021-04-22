@@ -1,0 +1,9 @@
+android/app/Notification/setLatestEventInfo(android.content.Context,java.lang.CharSequence,java.lang.CharSequence,android.app.PendingIntent
+java/io/BufferedOutputStream/close(
+org.api.fake
+android/widget/RemoteViews/setTextViewText(int,java.lang.CharSequence)
+android/widget/RemoteViews/setImageViewResource(int,int
+android/content/Context/getApplicationContext(
+android/widget/TextView/setText(java.lang.CharSequence
+android/util/Log/v(java.lang.String,java.lang.String)
+android/graphics/Typeface/createFromAsset(android.content.res.AssetManager,java.lang.String)

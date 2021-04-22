@@ -1,0 +1,168 @@
+java/util/Iterator/next()  0,12500
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,12500
+float  0,05000
+java.util.Map)  0,03750
+java/util/List/iterator()  0,03750
+java/util/ArrayList/ArrayList(), java/lang/Float/valueOf(float), java/lang/Float/floatValue(), java/util/List/add(java.lang.Object), java/util/List/iterator()  0,02500
+int  0,02500
+tripleplay/ui/Style$TextEffectStyle/is(java.lang.Object), tripleplay/ui/layout/AxisLayout$Vertical/gap(int), tripleplay/ui/layout/AxisLayout$Vertical/offStretch(  0,02500
+int)  0,02500
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), java/util/Map/put(java.lang.Object  0,02500
+java/lang/StringBuilder/append(java.lang.String), java/lang/Class/getName(), java/lang/String/substring(int), java/lang/String/lastIndexOf(java.lang.String), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/getClass(  0,02500
+java/lang/Math/min(double  0,02500
+java/nio/ByteBuffer/capacity()  0,02500
+java/nio/ByteBuffer/position(), java/nio/ByteBuffer/put(byte[  0,02500
+java/nio/ByteBuffer/flip()  0,02500
+java/lang/StringBuilder/StringBuilder()  0,02500
+java.lang.Object  0,01250
+pythagoras/f/AbstractArc/height(), pythagoras/f/AbstractArc/arcType(), java/lang/Math/max(float  0,01250
+float)  0,01250
+java/util/HashMap/HashMap(), java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)  0,01250
+playn.core.TextLayout  0,01250
+playn/core/GroupLayer/transform(), playn/core/GroupLayer/originX(), playn/core/Touch$Event$Impl/x(), playn/core/Touch$Event$Impl/y(), java/lang/Integer/valueOf(int), java/util/Map/put(java.lang.Object  0,01250
+tripleplay/ui/Group/setConstraint(tripleplay.ui.Layout$Constraint), java/util/List/get(int)  0,01250
+java.lang.Object[)  0,01250
+java/lang/Long/parseLong(java.lang.String), java/lang/Double/parseDouble(java.lang.String), java/lang/Double/valueOf(double), java/lang/Long/valueOf(long), java/lang/String/charAt(int), java/lang/String/substring(int  0,01250
+java/lang/String/length(), java/lang/Integer/valueOf(int), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/math/BigInteger/BigInteger(java.lang.String)  0,01250
+char[  0,01250
+java/util/Iterator/remove(), java/util/ArrayList/ArrayList(), java/util/ArrayList/ArrayList(java.util.Collection), java/util/Map/values(), java/util/Iterator/hasNext(), java/util/Iterator/next(), java/util/Collections/sort(java.util.List  0,01250
+java/util/ArrayList/ArrayList(), java/lang/AssertionError/AssertionError(java.lang.Object), java/lang/Float/floatValue(), java/util/List/add(java.lang.Object), java/util/List/get(int  0,01250
+java/util/ArrayList/ArrayList(java.util.Collection), java/util/List/isEmpty(), java/util/List/size(), java/util/List/clear(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/util/List/get(int  0,01250
+java/util/ArrayList/ArrayList(java.util.Collection), java/util/List/get(int), java/util/Collection/iterator(), java/util/Iterator/hasNext(  0,01250
+playn.core.TextFormat  0,01250
+java/nio/ByteBuffer/compact(), java/util/List/isEmpty(), java/lang/AssertionError/AssertionError(), javax/net/ssl/SSLEngineResult/getHandshakeStatus(), java/util/Iterator/remove(), java/util/concurrent/Future/isDone(  0,01250
+java/lang/Integer/intValue()  0,01250
+android/view/Window/setFlags(int  0,01250
+android/media/MediaPlayer/setOnPreparedListener(android.media.MediaPlayer$OnPreparedListener), android/content/res/AssetFileDescriptor/getStartOffset(), java/lang/StringBuilder/StringBuilder(), android/content/res/AssetFileDescriptor/close(), playn/android/AndroidPlatform/log(), android/content/res/AssetFileDescriptor/getFileDescriptor(), android/media/MediaPlayer/prepareAsync(), android/media/MediaPlayer/setOnErrorListener(android.media.MediaPlayer$OnErrorListener), android/media/MediaPlayer/setDataSource(java.io.FileDescriptor  0,01250
+playn.core.Assets  0,01250
+java/io/FileInputStream/read(byte[)  0,01250
+java/io/File/File(java.io.File  0,01250
+java/util/HashSet/HashSet(java.util.Collection  0,01250
+org.java_websocket.WebSocket  0,01250
+org/java_websocket/server/WebSocketServer$WebSocketWorker/interrupt()  0,01250
+java/nio/channels/ServerSocketChannel/configureBlocking(boolean), java/nio/channels/SelectionKey/isValid(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/util/List/add(java.lang.Object)  0,01250
+playn/core/GroupLayer/interactive()  0,01250
+java/lang/Integer/compareTo(java.lang.Integer), java/util/List/get(int)  0,01250
+java/nio/ByteBuffer/rewind(), java/nio/ByteBuffer/limit(), java/nio/ByteBuffer/mark(), java/nio/ByteBuffer/position(int  0,01250
+java/util/Arrays/toString(byte[), java/nio/ByteBuffer/limit(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/StringBuilder()  0,01250
+java/lang/StringBuilder/append(int), java/util/List/size(), java/util/Map/values(), java/util/Iterator/next(), java/lang/StringBuilder/toString()  0,01250
+java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Object/hashCode()  0,01250
+java/lang/StringBuilder/append(int), java/lang/Object/getClass(), java/lang/String/lastIndexOf(java.lang.String), java/lang/StringBuilder/toString(  0,01250
+android/media/SoundPool/autoResume(), java/util/Set/clear(), java/util/Set/size()  0,01250
+java/util/HashSet/HashSet(java.util.Collection)  0,01250
+playn.core.Events$Flags)  0,01250
+java/io/BufferedReader/close(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(int), java/io/InputStream/close(), java/io/InputStreamReader/InputStreamReader(java.io.InputStream), java/io/BufferedReader/BufferedReader(java.io.Reader), java/lang/String/valueOf(char[  0,01250
+java/lang/Class/getName(), java/nio/channels/ServerSocketChannel/register(java.nio.channels.Selector  0,01250
+playn.android.AndroidAssets$BitmapOptions)  0,01250
+playn.core.AbstractAssets$ImageReceiver)  0,01250
+java/lang/Long/Long(long), java/lang/StringBuilder/insert(int  0,01250
+java.lang.Object)  0,01250
+java/lang/Float/intValue()  0,01250
+java/util/List/addAll(java.util.Collection)  0,01250
+org.java_websocket.WebSocket$Role  0,01250
+java/nio/ByteBuffer/duplicate()  0,01250
+java/util/Collections/emptyList()  0,01250
+java/lang/RuntimeException/RuntimeException(java.lang.String)  0,01250
+java/nio/ByteBuffer/put(byte[)  0,01250
+java/lang/AssertionError/AssertionError(int)  0,01250
+java/util/Random/nextInt()  0,01250
+java/nio/ByteBuffer/putInt(int)  0,01250
+java/lang/AssertionError/AssertionError(  0,01250
+react/AbstractValue/get(), java/lang/StringBuilder/StringBuilder()  0,01250
+java/util/Map/get(java.lang.Object)  0,01250
+java/lang/StringBuilder/append(float)  0,01250
+java/nio/ByteBuffer/allocate(int), playn/android/AndroidGLContext/createTexture(boolean  0,01250
+java/nio/ByteBuffer/allocate(int), java/nio/ByteBuffer/limit(int), java/nio/ByteBuffer/flip(), java/nio/ByteBuffer/remaining()  0,01250
+java/nio/ByteBuffer/allocate(int), java/util/Arrays/equals(byte[  0,01250
+java/nio/ByteBuffer/allocate(int), java/util/LinkedList/LinkedList(), java/nio/ByteBuffer/remaining(), java/nio/ByteBuffer/rewind(), java/util/List/add(java.lang.Object), java/nio/ByteBuffer/limit()  0,01250
+java/nio/ByteBuffer/allocate(int), java/nio/ByteBuffer/put(byte), java/nio/ByteBuffer/get(byte[), java/lang/StringBuilder/append(int), java/nio/ByteBuffer/array()  0,01250
+java/nio/ByteBuffer/allocate(int), java/nio/ByteBuffer/put(byte), java/nio/ByteBuffer/get(int), java/nio/ByteBuffer/remaining()  0,01250
+java/nio/ByteBuffer/allocate(int), java/nio/ByteBuffer/putShort(short), java/lang/StringBuilder/append(int), java/nio/ByteBuffer/reset(), java/nio/ByteBuffer/remaining(), java/lang/StringBuilder/toString()  0,01250
+java/nio/ByteBuffer/allocate(int), java/net/InetSocketAddress/InetSocketAddress(java.lang.String  0,01250
+java/nio/ByteBuffer/mark(), java/nio/ByteBuffer/position(int), java/nio/ByteBuffer/getShort(  0,01250
+java/nio/ByteBuffer/mark(), java/nio/ByteBuffer/position(int), java/nio/ByteBuffer/wrap(byte[)  0,01250
+java/nio/ByteBuffer/remaining(), java/nio/ByteBuffer/array(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int), java/lang/String/String(byte[  0,01250
+java/nio/ByteBuffer/getInt()  0,01250
+tripleplay/ui/Root/add(tripleplay.ui.Element[), java/lang/StringBuilder/toString(), tripleplay/ui/Label/addStyles(tripleplay.ui.Styles), java/lang/StringBuilder/append(int), java/lang/Integer/valueOf(int)  0,01250
+tripleplay/ui/Style$TextEffectStyle/is(java.lang.Object), java/lang/Math/floor(double), tripleplay/ui/layout/AxisLayout$Vertical/gap(int)  0,01250
+tripleplay/ui/Root/addStyles(tripleplay.ui.Style$Binding[), tripleplay/ui/Shim/setConstraint(tripleplay.ui.Layout$Constraint), tripleplay/ui/Group/add(tripleplay.ui.Element[)  0,01250
+tripleplay/ui/Label/setStyles(tripleplay.ui.Styles), tripleplay/ui/Scroller/setConstraint(tripleplay.ui.Layout$Constraint), tripleplay/ui/Root/addStyles(tripleplay.ui.Style$Binding[), java/util/List/isEmpty(), java/lang/Integer/valueOf(int)  0,01250
+java/io/IOException/IOException(java.lang.String), java/lang/System/arraycopy(java.lang.Object  0,01250
+java/io/IOException/IOException(java.lang.String), javax/net/ssl/SSLEngine/getSession(), java/nio/channels/SocketChannel/read(java.nio.ByteBuffer), java/nio/channels/SocketChannel/write(java.nio.ByteBuffer), java/util/Iterator/hasNext(), java/nio/ByteBuffer/flip()  0,01250
+java/lang/String/valueOf(double)  0,01250
+tripleplay/ui/layout/AxisLayout$Vertical/offStretch()  0,01250
+java/lang/String/valueOf(int  0,01250
+java/lang/Math/min(float  0,01250
+java/lang/Thread/start()  0,01250
+java/net/InetSocketAddress/getPort()  0,01250
+java/net/URI/getHost()  0,01250
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(boolean), java/nio/ByteBuffer/array(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(int), java/lang/String/String(byte[  0,01250
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), org/java_websocket/handshake/ClientHandshakeBuilder/hasFieldValue(java.lang.String), java/util/Random/nextBytes(byte[), org/java_websocket/handshake/ClientHandshakeBuilder/put(java.lang.String  0,01250
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), tripleplay/ui/Root/add(tripleplay.ui.Element[), tripleplay/ui/Root/addStyles(tripleplay.ui.Style$Binding[), tripleplay/ui/Label/setStyles(tripleplay.ui.Styles), tripleplay/ui/Group/add(tripleplay.ui.Element[), java/lang/Integer/valueOf(int), java/lang/StringBuilder/toString()  0,01250
+java/lang/Exception/getMessage()  0,01250
+java/net/InetSocketAddress/getHostName()  0,01250
+java/nio/channels/SocketChannel/isOpen()  0,01250
+java/util/Iterator/hasNext(), java/util/Set/iterator(), java/util/List/add(java.lang.Object), java/util/Map/put(java.lang.Object  0,01250
+java/util/Iterator/hasNext(), java/util/Set/isEmpty(), java/util/Set/size(), java/lang/Boolean/valueOf(boolean), java/util/Set/iterator(), java/lang/Integer/valueOf(int), java/util/List/get(int  0,01250
+java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), react/RMap/checkMutate(), java/util/Set/iterator(), java/util/Map/clear(), java/util/Map$Entry/getValue(), java/util/Map/entrySet()  0,01250
+java/util/Iterator/hasNext(), java/util/concurrent/atomic/AtomicBoolean/compareAndSet(boolean  0,01250
+java/util/Iterator/hasNext(), java/lang/Integer/equals(java.lang.Object), java/util/List/size(), java/util/List/addAll(java.util.Collection  0,01250
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), java/util/Set/isEmpty(), java/util/Set/iterator(), java/lang/StringBuilder/append(java.lang.String  0,01250
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), java/lang/Class/getName(), java/lang/StringBuilder/toString(), java/lang/Throwable/getMessage(), java/util/List/size(), java/lang/Object/getClass(  0,01250
+java/util/Iterator/hasNext(), java/lang/StringBuilder/append(int), java/lang/StringBuilder/toString(), android/media/SoundPool/autoPause(  0,01250
+java/util/Iterator/hasNext(), java/lang/Runnable/run(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/util/List/iterator()  0,01250
+java/util/Iterator/hasNext(), org/java_websocket/handshake/HandshakeImpl1Client/put(java.lang.String  0,01250
+java.lang.String  0,01250
+java/lang/RuntimeException/getMessage(), java/nio/ByteBuffer/put(java.nio.ByteBuffer), java/nio/ByteBuffer/remaining(), java/nio/ByteBuffer/limit(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString()  0,01250
+org/java_websocket/exceptions/InvalidDataException/getMessage(), java/nio/ByteBuffer/reset(), java/util/Iterator/next(), java/util/List/iterator()  0,01250
+java/lang/AssertionError/AssertionError(), java/nio/ByteBuffer/allocate(int), java/util/Iterator/hasNext(), java/nio/ByteBuffer/limit(int  0,01250
+java/nio/ByteBuffer/flip(), java/nio/ByteBuffer/put(java.nio.ByteBuffer), java/nio/ByteBuffer/get()  0,01250
+org/java_websocket/util/Base64$InputStream/close()  0,01250
+java/util/concurrent/BlockingQueue/add(java.lang.Object)  0,01250
+java/io/PrintStream/println(java.lang.String)  0,01250
+pythagoras/d/AbstractArc/height()  0,01250
+pythagoras/d/AbstractArc/angleStart()  0,01250
+java/lang/Math/toRadians(double)  0,01250
+java/lang/Math/sin(double)  0,01250
+pythagoras/d/AbstractArc/x()  0,01250
+pythagoras/d/AbstractArc/y()  0,01250
+pythagoras/d/AbstractArc/angleExtent()  0,01250
+java/lang/Math/cos(double)  0,01250
+pythagoras/d/AbstractArc/width(  0,01250
+double)  0,01250
+java.lang.String)  0,01250
+org/apache/http/params/HttpConnectionParams/setStaleCheckingEnabled(org.apache.http.params.HttpParams  0,01250
+java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream)  0,01250
+org/apache/http/HttpResponse/getStatusLine()  0,01250
+org/apache/http/client/HttpClient/execute(org.apache.http.client.methods.HttpUriRequest)  0,01250
+org/apache/http/util/EntityUtils/getContentCharSet(org.apache.http.HttpEntity)  0,01250
+org/apache/http/client/methods/HttpPost/setEntity(org.apache.http.HttpEntity)  0,01250
+org/apache/http/params/BasicHttpParams/BasicHttpParams()  0,01250
+org/apache/http/entity/StringEntity/StringEntity(java.lang.String  0,01250
+playn/core/Keyboard$TextType/ordinal()  0,01250
+android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,01250
+java/lang/StringBuilder/length()  0,01250
+java/io/File/length()  0,01250
+java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)  0,01250
+java/lang/Object/hashCode()  0,01250
+java/nio/ByteBuffer/position(), java/lang/StringBuilder/append(int)  0,01250
+java/lang/Float/valueOf(float)  0,01250
+java/util/Set/isEmpty()  0,01250
+java/util/Set/size()  0,01250
+java/lang/String/substring(int)  0,01250
+java/nio/ByteBuffer/reset()  0,01250
+tripleplay/ui/Root/add(tripleplay.ui.Element[)  0,01250
+tripleplay/ui/Label/setStyles(tripleplay.ui.Styles)  0,01250
+tripleplay/ui/Group/add(tripleplay.ui.Element[)  0,01250
+java/nio/ByteBuffer/put(java.nio.ByteBuffer)  0,01250
+java/lang/String/String(byte[  0,01250
+java/util/List/isEmpty()  0,01250
+java/nio/ByteBuffer/mark()  0,01250
+java/nio/ByteBuffer/array()  0,01250
+java/util/List/size()  0,01250
+java/util/Set/iterator()  0,01250
+java/util/Map/put(java.lang.Object  0,01250
+java/lang/Class/getName()  0,01250
+java/nio/ByteBuffer/limit()  0,01250
+java/lang/StringBuilder/append(java.lang.Object)  0,01250
+java/lang/StringBuilder/toString()  0,01250

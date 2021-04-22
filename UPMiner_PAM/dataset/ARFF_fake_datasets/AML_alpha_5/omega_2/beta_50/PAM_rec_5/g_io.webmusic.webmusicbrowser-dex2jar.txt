@@ -1,0 +1,48 @@
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString()  0,11765
+java/lang/NumberFormatException/NumberFormatException(java.lang.String)  0,08824
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/String/String(char[  0,08824
+java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/append(double)  0,08824
+java/lang/StringBuilder/append(int), java/lang/Double/parseDouble(java.lang.String)  0,05882
+java.util.Map)  0,02941
+java/lang/Class/forName(java.lang.String), java/lang/reflect/Field/getName(), java/lang/reflect/Field/setAccessible(boolean), android/support/v7/widget/PopupMenu/PopupMenu(android.content.Context  0,02941
+java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/Class/getDeclaredMethod(java.lang.String  0,02941
+com.google.gson.reflect.TypeToken)  0,02941
+java/lang/ThreadLocal/remove(), java/util/Map/put(java.lang.Object  0,02941
+android.view.ViewGroup  0,02941
+android.view.View  0,02941
+com.google.gson.reflect.TypeToken  0,02941
+java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/reflect/Array/newInstance(java.lang.Class  0,02941
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/reflect/ParameterizedType/getRawType()  0,02941
+java.lang.Class  0,02941
+java.lang.reflect.Type)  0,02941
+com.illposed.osc.OSCMessage  0,02941
+java/lang/Double/toString(double), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String), java/lang/StringBuilder/toString(  0,02941
+java/io/Writer/append(java.lang.CharSequence)  0,02941
+com.google.gson.JsonElement)  0,02941
+java.lang.reflect.ParameterizedType  0,02941
+java/lang/Double/valueOf(double), com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,02941
+com/illposed/osc/OSCPortIn/close(), android/webkit/WebSettings/setLoadsImagesAutomatically(boolean), android/webkit/WebView/getSettings(), android/widget/AutoCompleteTextView/getText(), android/widget/AutoCompleteTextView/setText(java.lang.CharSequence), com/illposed/osc/OSCPortOut/close(), android/webkit/WebView/loadUrl(java.lang.String), java/lang/Object/toString(), android/webkit/WebView/setScrollBarStyle(int), java/lang/String/isEmpty(  0,02941
+android/webkit/WebView/setWebContentsDebuggingEnabled(boolean), android/support/v7/app/AppCompatActivity/onCreate(android.os.Bundle), android/content/SharedPreferences/getStringSet(java.lang.String  0,02941
+android/support/v7/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,02941
+java/lang/Long/valueOf(long), java/util/List/size(), java/lang/Long/longValue(), java/util/List/add(java.lang.Object), java/util/concurrent/atomic/AtomicLongArray/AtomicLongArray(int), java/util/concurrent/atomic/AtomicLongArray/set(int  0,02941
+java.lang.reflect.Type  0,02941
+java/lang/IllegalStateException/IllegalStateException(java.lang.String), com/google/gson/internal/bind/JsonTreeReader/isLenient(  0,02941
+java.lang.String  0,02941
+android/support/design/widget/TabLayout/setupWithViewPager(android.support.v4.view.ViewPager), android/support/v7/app/AppCompatActivity/onCreate(android.os.Bundle), io/webmusic/webmusicbrowser/SettingsActivity/setSupportActionBar(android.support.v7.widget.Toolbar), android/content/Intent/getStringArrayListExtra(java.lang.String), android/content/Intent/getBooleanExtra(java.lang.String  0,02941
+java/lang/String/valueOf(java.lang.Object), java/lang/String/valueOf(boolean), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,02941
+java/util/Arrays/asList(java.lang.Object[), java/lang/Integer/valueOf(int), java/lang/Exception/printStackTrace(), org/json/JSONObject/getString(java.lang.String), java/lang/StackTraceElement/getMethodName(), org/json/JSONArray/length(), org/json/JSONObject/getJSONArray(java.lang.String  0,02941
+org/json/JSONObject/JSONObject(java.lang.String), org/json/JSONArray/getString(int), java/lang/Integer/parseInt(java.lang.String)  0,02941
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/util/Iterator/hasNext(), java/util/Collection/iterator(  0,02941
+java/lang/StringBuilder/append(int), java/lang/Double/parseDouble(java.lang.String), java/lang/Double/isNaN(double), java/lang/Double/isInfinite(double), java/lang/StringBuilder/append(double)  0,02941
+java/lang/Double/isNaN(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,02941
+java/lang/Long/parseLong(java.lang.String)  0,02941
+boolean  0,02941
+java.text.ParsePosition)  0,02941
+com/google/android/gms/wearable/NodeApi$GetConnectedNodesResult/getNodes(), java/util/Iterator/hasNext(), com/google/android/gms/wearable/Node/getId(), com/google/android/gms/wearable/NodeApi/getConnectedNodes(com.google.android.gms.common.api.GoogleApiClient), android/content/Intent/getStringExtra(java.lang.String), com/google/android/gms/common/api/PendingResult/await(), com/google/android/gms/wearable/MessageApi/sendMessage(com.google.android.gms.common.api.GoogleApiClient  0,02941
+java/lang/Double/isInfinite(double), java/lang/StringBuilder/append(java.lang.Object), java/lang/Number/doubleValue()  0,02941
+boolean)  0,02941
+java/util/Iterator/next(), java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String), java/lang/StringBuilder/append(java.lang.Object), java/lang/Object/getClass()  0,02941
+com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String  0,02941
+java/lang/Integer/parseInt(java.lang.String)  0,02941
+java/lang/StringBuilder/append(java.lang.Object)  0,02941
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder()  0,02941

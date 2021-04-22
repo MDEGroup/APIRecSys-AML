@@ -1,0 +1,7 @@
+android.content.res.Resources  0,41667
+int)  0,16667
+org.xmlpull.v1.XmlPullParser  0,08333
+android/graphics/PathMeasure/getPosTan(float  0,08333
+java.lang.String)  0,08333
+int  0,08333
+android.animation.ObjectAnimator  0,08333

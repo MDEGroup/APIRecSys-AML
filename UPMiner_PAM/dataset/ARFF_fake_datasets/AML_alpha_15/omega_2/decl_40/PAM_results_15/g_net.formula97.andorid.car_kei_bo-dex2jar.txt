@@ -1,0 +1,93 @@
+prob: 0,21053
+[int]
+
+prob: 0,15789
+[int)]
+
+prob: 0,10526
+[android.view.View]
+
+prob: 0,05263
+[java.lang.String)]
+
+prob: 0,05263
+[android/text/format/Time/getCurrentTimezone(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,05263
+[java/util/Calendar/setTimeInMillis(long), java/util/Calendar/set(int]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,02632
+[java/lang/StringBuilder/append(java.lang.String), android/content/Intent/getIntExtra(java.lang.String]
+
+prob: 0,02632
+[android/widget/ListView/setAdapter(android.widget.ListAdapter), java/lang/String/valueOf(java.lang.Object), android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/SimpleCursorAdapter/SimpleCursorAdapter(android.content.Context]
+
+prob: 0,02632
+[android/view/Display/getWidth(), java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02632
+[android/view/Display/getWidth(), net/formula97/andorid/car_kei_bo/DbManager/getReadableDatabase(), android/view/WindowManager/getDefaultDisplay(]
+
+prob: 0,02632
+[android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/database/Cursor/getColumnCount()]
+
+prob: 0,02632
+[net/formula97/andorid/car_kei_bo/DbManager/close(), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/getText(), android/widget/TextView/setText(java.lang.CharSequence), android/widget/CheckBox/isChecked(), net/formula97/andorid/car_kei_bo/DbManager/getWritableDatabase(), java/lang/String/valueOf(long), android/widget/Spinner/getSelectedItem(), android/widget/CheckBox/setChecked(boolean), android/util/Log/w(java.lang.String]
+
+prob: 0,02632
+[android/text/SpannableStringBuilder/toString()]
+
+prob: 0,02632
+[net/formula97/andorid/car_kei_bo/CarList/registerForContextMenu(android.view.View), java/lang/StringBuilder/append(java.lang.String), android/widget/TextView/setText(java.lang.CharSequence), android/database/Cursor/getCount(), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,02632
+[net/formula97/andorid/car_kei_bo/DbManager/getReadableDatabase(), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), android/widget/ListView/setAdapter(android.widget.ListAdapter), net/formula97/andorid/car_kei_bo/CarList/getApplicationContext(), android/database/Cursor/getColumnName(int)]
+
+prob: 0,02632
+[java/lang/String/split(java.lang.String), java/lang/StringBuilder/StringBuilder(java.lang.String), java/lang/Integer/parseInt(java.lang.String), java/util/Calendar/set(int]
+
+prob: 0,02632
+[double[][]]
+
+prob: 0,02632
+[android/app/Activity/onContextItemSelected(android.view.MenuItem), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,02632
+[java/lang/Math/floor(double), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), java/lang/StringBuilder/StringBuilder(java.lang.String), android/util/Log/d(java.lang.String]
+
+prob: 0,02632
+[java/lang/String/valueOf(double)]
+
+prob: 0,02632
+[android/widget/EditText/getText(), android/app/DatePickerDialog/DatePickerDialog(android.content.Context]
+
+prob: 0,02632
+[android.database.Cursor)]
+
+prob: 0,02632
+[double]
+
+prob: 0,02632
+[android/widget/Spinner/setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), android/widget/Button/setText(int), android/widget/Button/setWidth(int)]
+
+prob: 0,02632
+[net/formula97/andorid/car_kei_bo/FuelMileageAdd/getWindowManager(), android/app/Activity/onResume()]
+
+prob: 0,02632
+[java.lang.String]
+
+prob: 0,02632
+[android/database/Cursor/getString(int), android/database/Cursor/moveToFirst(), android/database/sqlite/SQLiteDatabase/query(java.lang.String]
+
+prob: 0,02632
+[net/formula97/andorid/car_kei_bo/MileageList/getResources(), android/app/Activity/onCreate(android.os.Bundle), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence]
+
+prob: 0,02632
+[java/lang/Object/toString(), android/app/AlertDialog$Builder/setTitle(int)]
+
+prob: 0,02632
+[android/app/Activity/onResume()]
+

@@ -1,0 +1,9 @@
+android/widget/ToggleButton/setBackgroundDrawable(android.graphics.drawable.Drawable), android/widget/Toast/show(), android/content/SharedPreferences$Editor/apply(), android/content/SharedPreferences$Editor/putBoolean(java.lang.String  0,28571
+java/lang/Integer/intValue(), java/lang/Thread/sleep(long), tw/voidchen/SCU_WiFiAuth/AuthIntentService/getSharedPreferences(java.lang.String  0,14286
+java.lang.String  0,14286
+java/lang/Object/toString()  0,14286
+android/widget/ToggleButton/setChecked(boolean), android/widget/ToggleButton/setBackgroundDrawable(android.graphics.drawable.Drawable), android/content/SharedPreferences/contains(java.lang.String), android/content/SharedPreferences/getString(java.lang.String  0,14286
+java/net/HttpURLConnection/setInstanceFollowRedirects(boolean), java/net/HttpURLConnection/connect(), java/util/regex/Pattern/matcher(java.lang.CharSequence), java/net/HttpURLConnection/disconnect(), java/util/regex/Matcher/group(int), java/net/HttpURLConnection/setUseCaches(boolean), java/util/regex/Pattern/compile(java.lang.String), java/net/URL/openConnection(), java/net/HttpURLConnection/setFollowRedirects(boolean), java/net/HttpURLConnection/getResponseCode(), java/util/regex/Matcher/find(), java/lang/Integer/valueOf(int  0,14286
+java/lang/Integer/equals(java.lang.Object), java/net/URL/URL(java.lang.String), java/net/HttpURLConnection/setConnectTimeout(int), java/net/HttpURLConnection/setRequestMethod(java.lang.String), java/net/HttpURLConnection/getHeaderField(java.lang.String), java/net/HttpURLConnection/getInputStream()  0,14286
+tw/voidchen/SCU_WiFiAuth/AuthIntentService/getSharedPreferences(java.lang.String  0,14286
+android/content/SharedPreferences/contains(java.lang.String)  0,14286

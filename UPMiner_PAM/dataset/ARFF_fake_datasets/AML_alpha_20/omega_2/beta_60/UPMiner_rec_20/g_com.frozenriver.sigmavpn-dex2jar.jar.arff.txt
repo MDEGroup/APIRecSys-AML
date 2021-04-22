@@ -1,0 +1,10 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+com/frozenriver/sigmavpn/SigmaVPNService/stopSelf()
+org.api.fake
+com/frozenriver/sigmavpn/SigmaVPNClient/setContentView(int
+android/app/Dialog/setTitle(java.lang.CharSequence)
+android/app/ActionBar$Tab/setTabListener(android.app.ActionBar$TabListener)
+android/content/Intent/putExtra(java.lang.String,java.lang.String)
+android/widget/TextView/setOnEditorActionListener(android.widget.TextView$OnEditorActionListener
+java/lang/Integer/parseInt(java.lang.String
+org.rand.api

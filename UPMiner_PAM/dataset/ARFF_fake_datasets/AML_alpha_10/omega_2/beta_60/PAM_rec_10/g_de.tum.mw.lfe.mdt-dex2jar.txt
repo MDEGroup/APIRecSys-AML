@@ -1,0 +1,32 @@
+java/lang/StringBuilder/StringBuilder(), java/util/Calendar/getInstance(java.util.TimeZone)  0,07407
+java/io/BufferedInputStream/read(byte[  0,07407
+java.util.Map  0,07407
+android.view.MotionEvent)  0,03704
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), de/tum/mw/lfe/mdt/Mdt/getPackageName(), android/util/Log/e(java.lang.String  0,03704
+java/lang/StringBuilder/append(java.lang.String), java/lang/Thread/start(), java/lang/Thread/Thread(java.lang.Runnable), java/lang/StringBuilder/StringBuilder(), java/util/List/add(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/Thread/setName(java.lang.String), java/lang/StringBuilder/append(long  0,03704
+android/view/Window/setFlags(int  0,03704
+java/net/InetAddress/getHostAddress(), java/lang/StringBuilder/append(java.lang.String), java/net/InetAddress/isLoopbackAddress(), java/lang/String/toString(), android/util/Log/e(java.lang.String  0,03704
+java/net/NetworkInterface/getNetworkInterfaces()  0,03704
+java/io/File/canWrite(), java/lang/StringBuilder/append(java.lang.String), java/text/SimpleDateFormat/format(java.util.Date), java/io/File/File(java.lang.String  0,03704
+de/tum/mw/lfe/mdt/Mdt/finish(), java/lang/Long/toString(long), java/util/TimeZone/getTimeZone(java.lang.String), java/io/File/File(java.lang.String), java/text/SimpleDateFormat/SimpleDateFormat(java.lang.String), java/lang/Exception/Exception(), java/io/File/createNewFile()  0,03704
+long  0,03704
+java/util/ArrayList/ArrayList(), java/lang/StringBuilder/append(java.lang.String), android/app/AlertDialog/cancel(), java/lang/Boolean/valueOf(boolean), java/util/Calendar/getTimeInMillis(), java/lang/Boolean/booleanValue(), android/os/Handler/postDelayed(java.lang.Runnable  0,03704
+android/widget/TextView/setMovementMethod(android.text.method.MovementMethod), android/text/SpannableString/SpannableString(java.lang.CharSequence), android/app/AlertDialog$Builder/setPositiveButton(int  0,03704
+java.io.File)  0,03704
+boolean)  0,03704
+java/util/Map/get(java.lang.Object), java/util/HashMap/HashMap(), java/lang/String/substring(int  0,03704
+char[)  0,03704
+java.lang.String)  0,03704
+javax.net.ssl.KeyManager[)  0,03704
+android/media/AudioRecord/AudioRecord(int  0,03704
+android/os/Vibrator/vibrate(long), java/lang/Boolean/valueOf(boolean), java/util/Calendar/getTimeInMillis(), java/lang/Boolean/booleanValue(), android/widget/Button/postDelayed(java.lang.Runnable  0,03704
+java/lang/Thread/setDaemon(boolean)  0,03704
+java.lang.String  0,03704
+fi.iki.elonen.NanoHTTPD$Method  0,03704
+java/util/Iterator/hasNext(), java/lang/Error/Error(java.lang.String), java/io/PrintWriter/PrintWriter(java.io.Writer  0,03704
+android/widget/RadioButton/setChecked(boolean), java/lang/Boolean/booleanValue(), android/widget/CheckBox/setChecked(boolean  0,03704
+de/tum/mw/lfe/mdt/Mdt/findViewById(int), android/widget/SeekBar/setMax(int), android/widget/SeekBar/setSecondaryProgress(int), android/widget/TextView/setText(java.lang.CharSequence), android/widget/Button/setText(java.lang.CharSequence), android/widget/Button/setEnabled(boolean), android/widget/Button/setVisibility(int), android/widget/TextView/setVisibility(int), android/widget/ScrollView/setVisibility(int)  0,03704
+java/util/List/remove(int), android/util/Log/e(java.lang.String  0,03704
+java/util/List/size()  0,03704
+java/lang/Thread/isInterrupted(), java/lang/StringBuilder/append(java.lang.String), java/lang/Thread/start(), java/lang/Thread/Thread(java.lang.Runnable), android/util/Log/e(java.lang.String  0,03704
+java/lang/Thread/sleep(long), java/lang/Thread/currentThread()  0,03704

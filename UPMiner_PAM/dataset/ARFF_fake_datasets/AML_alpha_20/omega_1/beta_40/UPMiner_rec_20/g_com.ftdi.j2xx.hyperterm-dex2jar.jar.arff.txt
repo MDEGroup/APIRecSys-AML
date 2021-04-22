@@ -1,0 +1,5 @@
+java/util/ArrayList/size()
+java/util/ArrayList/add(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org.api.fake
+java/lang/StringBuilder/append(int)

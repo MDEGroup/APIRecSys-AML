@@ -1,0 +1,12 @@
+java/util/Map/remove(java.lang.Object
+android/webkit/WebView/getContext(
+android/net/Uri/getPath()
+java/net/HttpURLConnection/disconnect()
+org.api.fake
+java/util/Iterator/hasNext()
+org/json/JSONObject/JSONObject(
+android/database/Cursor/getColumnIndex(java.lang.String)
+android/database/Cursor/getInt(int
+android/content/Context/getPackageManager()
+java/lang/System/getProperty(java.lang.String,java.lang.String)
+org.rand.api

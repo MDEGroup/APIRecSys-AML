@@ -1,0 +1,53 @@
+java.lang.String)  0,06667
+android.graphics.Paint)  0,06667
+java/lang/StringBuilder/toString(), java/lang/StringBuilder/StringBuilder()  0,04444
+android/widget/EditText/setKeyListener(android.text.method.KeyListener), android/widget/CheckBox/setGravity(int), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,04444
+com.google.android.maps.MapView  0,04444
+java/io/BufferedReader/readLine(), java/lang/String/startsWith(java.lang.String), java/lang/String/split(java.lang.String), android/location/Location/setAccuracy(float  0,02222
+android.view.View  0,02222
+android/widget/RelativeLayout/addView(android.view.View), com/bfv/BlueFlyVario/setContentView(int), com/bfv/view/VarioSurfaceView/getHolder(), com/bfv/BlueFlyVario/requestWindowFeature(int), com/bfv/view/VarioSurfaceView/setZOrderOnTop(boolean), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), com/bfv/BlueFlyVario/findViewById(int), android/content/pm/PackageManager/getPackageInfo(java.lang.String  0,02222
+android.content.Intent)  0,02222
+java/io/File/getName(), java/io/File/canRead(), com/bfv/FileChooserListActivity/setResult(int), android/widget/TextView/setText(java.lang.CharSequence), android/app/Activity/onCreate(android.os.Bundle), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,02222
+java/lang/StringBuilder/append(java.lang.String), java/io/PrintWriter/close(), java/io/PrintWriter/println(java.lang.String), android/text/format/Time/Time(), android/text/format/Time/set(long), android/text/format/Time/format(java.lang.String), java/lang/System/currentTimeMillis(  0,02222
+java/lang/StringBuilder/append(java.lang.String), android/app/AlertDialog$Builder/setCancelable(boolean), android/app/AlertDialog/show(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,02222
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(long), android/location/Location/getBearing(), android/location/Location/getLongitude(), java/text/DecimalFormat/format(double), java/lang/StringBuilder/append(float), android/location/Location/getAccuracy(), android/location/Location/getSpeed(), java/lang/StringBuilder/StringBuilder(), android/location/Location/getAltitude(), android/location/Location/getLatitude(), java/lang/StringBuilder/toString(), android/location/Location/getTime(  0,02222
+java/lang/StringBuilder/append(java.lang.String), java/lang/Double/isNaN(double), java/util/ArrayList/size(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/append(double), java/util/ArrayList/get(int), java/lang/String/String(), java/lang/StringBuilder/toString(  0,02222
+java/lang/StringBuilder/append(java.lang.String), android/bluetooth/BluetoothDevice/createRfcommSocketToServiceRecord(java.util.UUID), java/lang/StringBuilder/toString(), java/lang/NoSuchMethodException/getLocalizedMessage()  0,02222
+android/location/Location/setLatitude(double), java/lang/Double/parseDouble(java.lang.String)  0,02222
+android/location/Location/getSpeed(), android/location/Location/distanceBetween(double  0,02222
+java/lang/StringBuilder/StringBuilder(), java/lang/reflect/InvocationTargetException/getLocalizedMessage(), java/lang/Integer/valueOf(int), java/lang/Integer/intValue(), android/content/SharedPreferences/getString(java.lang.String  0,02222
+java/lang/Thread/sleep(long), android/location/Location/setBearing(float), java/lang/Long/parseLong(java.lang.String), java/lang/Float/parseFloat(java.lang.String), android/location/Location/setTime(long), android/location/Location/setAltitude(double)  0,02222
+java/lang/Thread/sleep(long), android/graphics/Canvas/drawColor(int  0,02222
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), android/app/AlertDialog$Builder/setNegativeButton(java.lang.CharSequence  0,02222
+com/bfv/ParamatizedComponentListActivity/findViewById(int), android/widget/TextView/setText(java.lang.CharSequence)  0,02222
+android/widget/ListView/setAdapter(android.widget.ListAdapter), android/widget/TextView/getText(), android/app/Activity/onCreate(android.os.Bundle), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,02222
+android/widget/ListView/setAdapter(android.widget.ListAdapter), com/bfv/DeviceListActivity/requestWindowFeature(int), android/bluetooth/BluetoothDevice/getAddress(), java/util/Iterator/hasNext()  0,02222
+boolean)  0,02222
+java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/size(), android/graphics/RectF/RectF(float  0,02222
+android.content.Context)  0,02222
+android.view.MotionEvent)  0,02222
+java/util/ArrayList/ArrayList(), android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/util/ArrayList/size(), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,02222
+org/xmlpull/v1/XmlPullParser/getAttributeName(int), java/lang/String/startsWith(java.lang.String), java/lang/String/split(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/io/IOException/toString(), org/xmlpull/v1/XmlPullParserException/toString(), org/xmlpull/v1/XmlPullParser/setInput(java.io.InputStream  0,02222
+android/graphics/RectF/RectF(android.graphics.Rect), java/lang/StringBuilder/toString(), java/util/ArrayList/ArrayList(), org/xmlpull/v1/XmlPullParserFactory/newInstance()  0,02222
+org/xmlpull/v1/XmlPullParser/getAttributeValue(int)  0,02222
+android.graphics.Canvas  0,02222
+android/content/Context/getPackageManager(), android/content/SharedPreferences/getLong(java.lang.String  0,02222
+android/preference/Preference/getKey(), android/content/Intent/Intent(android.content.Context  0,02222
+android.bluetooth.BluetoothDevice)  0,02222
+android/os/Bundle/putString(java.lang.String  0,02222
+android/location/LocationManager/isProviderEnabled(java.lang.String), android/app/AlertDialog/show(), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,02222
+java/text/DecimalFormatSymbols/getInstance(java.util.Locale), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/widget/Toast/makeText(android.content.Context  0,02222
+android/widget/EditText/setSingleLine()  0,02222
+com/bfv/hardware/HardwareListActivity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,02222
+android/view/View/setVisibility(int), com/bfv/hardware/HardwareListActivity/findViewById(int)  0,02222
+java.text.DecimalFormat  0,02222
+android/graphics/Canvas/drawRect(android.graphics.RectF  0,02222
+java/lang/IllegalAccessException/getLocalizedMessage()  0,02222
+android/os/ParcelUuid/toString(), java/util/UUID/compareTo(java.util.UUID), android/os/ParcelUuid/getUuid(), android/util/Log/i(java.lang.String  0,02222
+com/bfv/view/ColorPickerDialog/setCancelable(boolean), java/lang/StringBuilder/append(java.lang.String), android/app/Dialog/onCreate(android.os.Bundle), android/widget/ImageView/setBackgroundColor(int), android/graphics/Color/alpha(int), android/graphics/Color/blue(int), android/widget/EditText/setText(java.lang.CharSequence), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), com/bfv/view/ColorPickerDialog/setContentView(int), android/graphics/Color/green(int), android/widget/SeekBar/setOnSeekBarChangeListener(android.widget.SeekBar$OnSeekBarChangeListener), android/widget/SeekBar/setProgress(int), android/widget/EditText/addTextChangedListener(android.text.TextWatcher), android/graphics/Color/argb(int  0,02222
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/widget/Toast/makeText(android.content.Context  0,02222
+android/app/AlertDialog$Builder/setItems(java.lang.CharSequence[  0,02222
+java/lang/Integer/intValue(), android/content/SharedPreferences/getString(java.lang.String  0,02222
+android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence)  0,02222
+android/app/AlertDialog/show()  0,02222
+java/lang/StringBuilder/append(int)  0,02222

@@ -1,0 +1,252 @@
+prob: 0,12048
+[int)]
+
+prob: 0,10843
+[int]
+
+prob: 0,03614
+[android/util/Log/w(java.lang.String]
+
+prob: 0,03614
+[java/lang/String/String(char[]]
+
+prob: 0,03614
+[java/lang/StringBuilder/StringBuilder()]
+
+prob: 0,02410
+[boolean)]
+
+prob: 0,02410
+[android/graphics/drawable/Drawable/setBounds(int]
+
+prob: 0,01205
+[java.util.Map)]
+
+prob: 0,01205
+[java/lang/Integer/valueOf(int), java/util/Set/iterator(]
+
+prob: 0,01205
+[android/graphics/Rect/height(), android/widget/Toast/makeText(android.content.Context]
+
+prob: 0,01205
+[android/widget/PopupWindow/setTouchInterceptor(android.view.View$OnTouchListener), android/support/v7/internal/widget/ListPopupWindow$DropDownListView/setSelection(int), android/widget/PopupWindow/update(android.view.View]
+
+prob: 0,01205
+[android/content/res/Resources/getDisplayMetrics(), android/support/v7/internal/widget/ListPopupWindow$DropDownListView/setSelector(android.graphics.drawable.Drawable), android/support/v7/internal/widget/ListPopupWindow$DropDownListView/setFocusable(boolean), java/lang/StringBuilder/append(java.lang.String), android/graphics/Rect/setEmpty(), android/support/v7/internal/widget/ListPopupWindow$DropDownListView/setAdapter(android.widget.ListAdapter), android/util/Log/e(java.lang.String]
+
+prob: 0,01205
+[android/content/res/Resources/getDisplayMetrics(), android/support/v7/internal/widget/ActionBarContainer/addView(android.view.View), android/content/res/Resources/getBoolean(int), android/support/v7/internal/widget/ActionBarView/addView(android.view.View), android/support/v7/internal/view/menu/ActionMenuView/getLayoutParams(), android/content/Context/getResources(), android/support/v7/internal/widget/ActionBarView/getResources(]
+
+prob: 0,01205
+[java/lang/StringBuilder/append(int), java/lang/StringBuilder/append(long), java/util/List/get(int), java/lang/System/currentTimeMillis(), java/util/List/size(]
+
+prob: 0,01205
+[java/util/LinkedHashMap/entrySet(), java/util/Map$Entry/getValue(), java/util/Map$Entry/setValue(java.lang.Object), java/util/LinkedList/add(java.lang.Object)]
+
+prob: 0,01205
+[java/lang/Long/valueOf(long), java/util/List/size(), java/lang/Long/longValue(), java/util/List/add(java.lang.Object), java/util/concurrent/atomic/AtomicLongArray/AtomicLongArray(int), java/util/concurrent/atomic/AtomicLongArray/set(int]
+
+prob: 0,01205
+[java/lang/Class/getSimpleName(), java/lang/String/format(java.lang.String]
+
+prob: 0,01205
+[android/text/TextUtils/isEmpty(java.lang.CharSequence), android/view/View/setVisibility(int), android/support/v7/internal/widget/ActionBarView/getContext(), android/view/LayoutInflater/inflate(int]
+
+prob: 0,01205
+[android/support/v7/internal/view/menu/ActionMenuView/requestLayout()]
+
+prob: 0,01205
+[android/support/v7/internal/view/menu/ActionMenuView/getParent()]
+
+prob: 0,01205
+[android/support/v7/internal/widget/ActionBarView/addView(android.view.View), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,01205
+[android/support/v7/internal/widget/ActionBarView$HomeView/setVisibility(int), android/view/View/setVisibility(int), android/support/v7/internal/widget/ActionBarView/addView(android.view.View), android/support/v7/internal/widget/ActionBarView/invalidate(), android/support/v7/internal/widget/ActionBarView/requestLayout(), android/content/Context/getResources(]
+
+prob: 0,01205
+[android/widget/LinearLayout/setEnabled(boolean), android/support/v7/internal/widget/ActionBarView$HomeView/isEnabled(), android/support/v7/internal/widget/ActionBarView$HomeView/setContentDescription(java.lang.CharSequence), android/support/v7/internal/widget/ActionBarView/removeView(android.view.View), android/content/res/Resources/getText(int)]
+
+prob: 0,01205
+[java/lang/IllegalStateException/IllegalStateException(java.lang.String), java/lang/StringBuilder/append(java.lang.String), java/lang/NumberFormatException/NumberFormatException(java.lang.String), java/lang/StringBuilder/append(double), java/lang/StringBuilder/toString(), com/google/gson/internal/bind/JsonTreeReader/isLenient(]
+
+prob: 0,01205
+[android/view/animation/AlphaAnimation/setDuration(long), android/view/animation/AlphaAnimation/AlphaAnimation(float]
+
+prob: 0,01205
+[android/graphics/drawable/AnimationDrawable/setLevel(int), android/graphics/drawable/AnimationDrawable/addFrame(android.graphics.drawable.Drawable]
+
+prob: 0,01205
+[java/lang/StringBuilder/append(java.lang.String), java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String), java/lang/StringBuilder/toString()]
+
+prob: 0,01205
+[java/lang/StringBuilder/append(java.lang.String), android/util/Log/i(java.lang.String]
+
+prob: 0,01205
+[android/support/v7/internal/widget/ProgressBarICS/getPaddingTop(), android/graphics/Canvas/translate(float]
+
+prob: 0,01205
+[android/net/Uri/getPathSegments(), android/text/TextUtils/isEmpty(java.lang.CharSequence), android/content/res/Resources/getIdentifier(java.lang.String]
+
+prob: 0,01205
+[android/content/Context/getPackageManager()]
+
+prob: 0,01205
+[java.lang.String]
+
+prob: 0,01205
+[android/content/ComponentName/flattenToShortString(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/append(int), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName]
+
+prob: 0,01205
+[android/text/style/TextAppearanceSpan/TextAppearanceSpan(java.lang.String]
+
+prob: 0,01205
+[android.content.Context]
+
+prob: 0,01205
+[android/app/AlertDialog/getWindow(), android/view/Window/getAttributes(), android/app/AlertDialog$Builder/setCustomTitle(android.view.View), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/setAdapter(android.widget.ListAdapter]
+
+prob: 0,01205
+[android/support/v7/internal/widget/ActionBarContextView/getContext(), android/text/TextUtils/isEmpty(java.lang.CharSequence), android/widget/LinearLayout/getParent(), android/widget/TextView/setTextAppearance(android.content.Context]
+
+prob: 0,01205
+[android/support/v7/internal/widget/ActionBarContainer/addView(android.view.View]
+
+prob: 0,01205
+[java/lang/Double/isInfinite(double), java/lang/Number/doubleValue()]
+
+prob: 0,01205
+[android/support/v7/internal/widget/SpinnerICS$DropdownPopup/setInputMethodMode(int), android/support/v7/internal/widget/SpinnerICS/getSelectedItemPosition(), android/support/v7/internal/widget/SpinnerICS$DropdownPopup/setSelection(int), android/graphics/drawable/Drawable/getPadding(android.graphics.Rect), java/lang/Math/max(int]
+
+prob: 0,01205
+[java.text.ParsePosition)]
+
+prob: 0,01205
+[android/view/Display/getWidth(), org/zoumbox/tarot/TarotActivity/onCreate(android.os.Bundle), android/content/Intent/getSerializableExtra(java.lang.String), android/widget/ListView/setOnItemClickListener(android.widget.AdapterView$OnItemClickListener), org/zoumbox/tarot/PartyBoard/findViewById(int), org/zoumbox/tarot/PartyBoard/getIntent(), org/zoumbox/tarot/PartyBoard/setContentView(int), org/zoumbox/tarot/PartyBoard/getWindowManager(), android/view/WindowManager/getDefaultDisplay(), java/lang/Math/round(float]
+
+prob: 0,01205
+[org/zoumbox/tarot/AddParty/findViewById(int), java/util/List/size(), android/widget/EditText/setInputType(int), android/widget/EditText/setEnabled(boolean), java/util/List/get(int]
+
+prob: 0,01205
+[org/zoumbox/tarot/AddParty/getIntent(), org/zoumbox/tarot/TarotActivity/onCreate(android.os.Bundle), android/widget/EditText/setText(java.lang.CharSequence), org/zoumbox/tarot/AddParty/setContentView(int), android/widget/Button/setOnClickListener(android.view.View$OnClickListener)]
+
+prob: 0,01205
+[android/content/Intent/Intent(java.lang.String]
+
+prob: 0,01205
+[android/content/res/Resources/getString(int), java/lang/Integer/valueOf(int), android/view/MenuItem/getItemId(), java/io/IOException/getMessage()]
+
+prob: 0,01205
+[android/content/Intent/Intent(android.content.Context]
+
+prob: 0,01205
+[com.google.gson.reflect.TypeToken)]
+
+prob: 0,01205
+[java/lang/ThreadLocal/remove(), java/util/Map/put(java.lang.Object]
+
+prob: 0,01205
+[java/io/IOException/printStackTrace(), java/lang/String/format(java.lang.String]
+
+prob: 0,01205
+[android/text/SpannableString/length(), java/lang/String/format(java.lang.String]
+
+prob: 0,01205
+[android.graphics.drawable.Drawable)]
+
+prob: 0,01205
+[android/support/v7/internal/widget/SpinnerICS/hasFocus(), android/view/View/getLayoutParams(), android/view/ViewGroup/getChildMeasureSpec(int]
+
+prob: 0,01205
+[java/util/Set/isEmpty(), org/zoumbox/tarot/TarotActivity/onCreate(android.os.Bundle)]
+
+prob: 0,01205
+[org/zoumbox/tarot/PartyStatistics/setContentView(int), java/lang/StringBuilder/toString(), java/util/Iterator/hasNext(), java/lang/Double/valueOf(double), java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/lang/String/format(java.lang.String]
+
+prob: 0,01205
+[java/util/List/iterator(), org/zoumbox/tarot/PartyStatistics/findViewById(int)]
+
+prob: 0,01205
+[java/util/Iterator/hasNext(), java/lang/String/trim(), java/util/LinkedHashMap/put(java.lang.Object]
+
+prob: 0,01205
+[org/zoumbox/tarot/PartiesList/removeBoard(int), org/zoumbox/tarot/PartiesList/clearBoards(), android/view/MenuItem/getMenuInfo(), org/zoumbox/tarot/PartiesList/showToast(java.lang.String), org/zoumbox/tarot/PartiesList/getResources()]
+
+prob: 0,01205
+[com.google.gson.reflect.TypeToken]
+
+prob: 0,01205
+[android.support.v7.internal.view.menu.MenuItemImpl)]
+
+prob: 0,01205
+[android/view/View/getRight(), android/graphics/drawable/Drawable/setBounds(int]
+
+prob: 0,01205
+[android/widget/TableRow/removeAllViews(), java/lang/Double/valueOf(double), org/zoumbox/tarot/AddDeal/findViewById(int), org/zoumbox/tarot/AddDeal/getIntent(), android/content/Intent/getSerializableExtra(java.lang.String), java/lang/String/replace(char]
+
+prob: 0,01205
+[android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,01205
+[java/lang/reflect/GenericArrayType/getGenericComponentType(), java/lang/StringBuilder/toString(), java/lang/reflect/ParameterizedType/getRawType(), java/lang/StringBuilder/append(java.lang.String), java/lang/reflect/Array/newInstance(java.lang.Class]
+
+prob: 0,01205
+[java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)]
+
+prob: 0,01205
+[java.lang.Class]
+
+prob: 0,01205
+[java.lang.reflect.Type)]
+
+prob: 0,01205
+[java/lang/Class/forName(java.lang.String), java/lang/Integer/intValue(), java/lang/Class/getDeclaredMethod(java.lang.String]
+
+prob: 0,01205
+[java/lang/Integer/intValue(), java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Iterator/next(), java/util/Set/iterator(), java/util/Map$Entry/getValue(), java/util/Set/clear(), java/util/Map/entrySet(), java/util/Set/add(java.lang.Object]
+
+prob: 0,01205
+[java/util/Iterator/next(), java/util/Iterator/hasNext(), java/lang/ref/WeakReference/get(), java/util/ArrayList/size(), java/util/concurrent/CopyOnWriteArrayList/iterator(]
+
+prob: 0,01205
+[com.google.gson.JsonElement)]
+
+prob: 0,01205
+[java/util/ArrayList/clear(), java/util/ArrayList/add(java.lang.Object), java/util/ArrayList/addAll(java.util.Collection), java/util/concurrent/CopyOnWriteArrayList/remove(java.lang.Object), java/util/ArrayList/get(int)]
+
+prob: 0,01205
+[com/google/gson/internal/bind/JsonTreeWriter/isLenient(), java/lang/Double/isNaN(double), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(java.lang.Object), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String), java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String]
+
+prob: 0,01205
+[android/support/v7/internal/widget/ScrollingTabContainerView$TabView/getContext(), android/widget/ImageView/setVisibility(int), android/widget/TextView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/TextView/setText(java.lang.CharSequence), android/support/v7/internal/widget/ScrollingTabContainerView$TabView/addView(android.view.View]
+
+prob: 0,01205
+[android/widget/ImageView/setLayoutParams(android.view.ViewGroup$LayoutParams), android/widget/ImageView/ImageView(android.content.Context), android/view/ViewGroup/removeView(android.view.View), android/widget/TextView/setEllipsize(android.text.TextUtils$TruncateAt), android/support/v7/internal/widget/ScrollingTabContainerView$TabView/removeView(android.view.View), android/widget/TextView/setVisibility(int), android/widget/ImageView/setContentDescription(java.lang.CharSequence), android/view/View/getParent(), android/widget/ImageView/setImageDrawable(android.graphics.drawable.Drawable)]
+
+prob: 0,01205
+[android/support/v7/internal/widget/ActionBarView/getContext()]
+
+prob: 0,01205
+[java/lang/Double/isNaN(double)]
+
+prob: 0,01205
+[java/lang/Double/isInfinite(double)]
+
+prob: 0,01205
+[java/lang/StringBuilder/append(java.lang.Object)]
+
+prob: 0,01205
+[java/util/Map/get(java.lang.Object), java/lang/String/format(java.lang.String]
+
+prob: 0,01205
+[java/lang/Integer/intValue(), java/util/Iterator/hasNext(), java/util/Map$Entry/getKey(), java/util/Iterator/next()]
+
+prob: 0,01205
+[android/view/ViewGroup/removeView(android.view.View)]
+
+prob: 0,01205
+[android/content/Intent/getSerializableExtra(java.lang.String)]
+
+prob: 0,01205
+[java/lang/StringBuilder/append(java.lang.String)]
+

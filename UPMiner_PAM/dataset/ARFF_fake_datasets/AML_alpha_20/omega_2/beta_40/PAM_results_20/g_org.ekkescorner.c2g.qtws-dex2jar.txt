@@ -1,0 +1,189 @@
+prob: 0,18462
+[java.lang.String)]
+
+prob: 0,15385
+[java.lang.String]
+
+prob: 0,04615
+[int)]
+
+prob: 0,04615
+[int]
+
+prob: 0,03077
+[android/app/Activity/getPackageManager(), java/lang/StringBuilder/append(java.lang.String), java/lang/System/load(java.lang.String), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName]
+
+prob: 0,03077
+[android/graphics/Rect/offset(int]
+
+prob: 0,03077
+[java.lang.ClassLoader]
+
+prob: 0,01538
+[android/content/res/TypedArray/getDrawable(int), android/widget/PopupWindow/setClippingEnabled(boolean), android/view/View/getViewTreeObserver(), android/widget/PopupWindow/PopupWindow(android.content.Context]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(java.lang.String), java/lang/Exception/toString()]
+
+prob: 0,01538
+[javax/net/ssl/TrustManagerFactory/init(java.security.KeyStore)]
+
+prob: 0,01538
+[javax/net/ssl/TrustManagerFactory/getDefaultAlgorithm()]
+
+prob: 0,01538
+[java/security/cert/X509Certificate/getEncoded()]
+
+prob: 0,01538
+[android/content/ClipData/getItemAt(int), java/util/ArrayList/toArray(java.lang.Object[]), java/util/ArrayList/add(java.lang.Object), android/content/ClipData$Item/getUri(), android/content/ClipboardManager/getPrimaryClip(), android/net/Uri/toString(]
+
+prob: 0,01538
+[android/content/ClipData/getItemCount(), java/util/ArrayList/size(), android/content/ClipboardManager/hasPrimaryClip()]
+
+prob: 0,01538
+[android/widget/ScrollView/addView(android.view.View), android/widget/LinearLayout$LayoutParams/LinearLayout$LayoutParams(int]
+
+prob: 0,01538
+[java/util/ArrayList/iterator(), java/lang/Runnable/run(), java/lang/Object/wait(), java/util/ArrayList/clear(), java/lang/InterruptedException/printStackTrace(), java/util/ArrayList/ArrayList(java.util.Collection]
+
+prob: 0,01538
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/lang/StringBuilder/append(java.lang.String), java/util/Iterator/next(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/toString(), java/io/File/exists(), android/util/Log/i(java.lang.String]
+
+prob: 0,01538
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/lang/StackTraceElement/getClassName(), java/lang/Thread/currentThread(), java/lang/String/equals(java.lang.Object), java/lang/reflect/Method/getParameterTypes(), java/lang/StackTraceElement/getMethodName(), java/lang/Thread/getStackTrace(), java/util/HashMap/get(java.lang.Object), java/util/Iterator/next(]
+
+prob: 0,01538
+[java/util/ArrayList/iterator(), java/lang/reflect/Field/get(java.lang.Object), java/util/Iterator/hasNext(), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01538
+[java/util/Iterator/hasNext(), java/util/ArrayList/size()]
+
+prob: 0,01538
+[java/lang/System/load(java.lang.String), java/io/File/File(java.lang.String)]
+
+prob: 0,01538
+[org/qtproject/qt5/android/QtLayout/getLocationOnScreen(int[]), android/graphics/Rect/Rect(), android/app/Activity/getWindow(), android/view/Display/getMetrics(android.util.DisplayMetrics), android/view/WindowManager/getDefaultDisplay(), android/app/Activity/getWindowManager(]
+
+prob: 0,01538
+[android/graphics/Rect/width(), android/util/DisplayMetrics/DisplayMetrics(), android/view/Window/getDecorView(), android/view/View/getWindowVisibleDisplayFrame(android.graphics.Rect)]
+
+prob: 0,01538
+[android/util/DisplayMetrics/DisplayMetrics(), java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuilder/StringBuilder(), android/view/Display/getMetrics(android.util.DisplayMetrics), android/view/WindowManager/getDefaultDisplay(), android/app/Activity/getWindowManager(]
+
+prob: 0,01538
+[java/util/HashMap/containsKey(java.lang.Object)]
+
+prob: 0,01538
+[android/graphics/drawable/Drawable/getIntrinsicWidth()]
+
+prob: 0,01538
+[java.lang.Object)]
+
+prob: 0,01538
+[android.os.Bundle)]
+
+prob: 0,01538
+[android/widget/PopupWindow/setContentView(android.view.View), android/widget/PopupWindow/setClippingEnabled(boolean), android/view/View/getViewTreeObserver(), android/widget/PopupWindow/PopupWindow(android.content.Context]
+
+prob: 0,01538
+[android/graphics/drawable/GradientDrawable/getConstantState(), java/lang/reflect/Field/getFloat(java.lang.Object), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01538
+[java/lang/Class/getDeclaredField(java.lang.String), org/json/JSONObject/put(java.lang.String]
+
+prob: 0,01538
+[java/lang/String/valueOf(char), java/lang/reflect/Field/get(java.lang.Object), java/lang/reflect/Field/getFloat(java.lang.Object), java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01538
+[java.util.ArrayList]
+
+prob: 0,01538
+[java/lang/Class/forName(java.lang.String), java/lang/StringBuilder/append(java.lang.String), android/content/pm/PackageManager/getActivityInfo(android.content.ComponentName]
+
+prob: 0,01538
+[android/content/ContextWrapper/getResources(), android/app/AlertDialog/setButton(java.lang.CharSequence]
+
+prob: 0,01538
+[long)]
+
+prob: 0,01538
+[dalvik/system/DexClassLoader/DexClassLoader(java.lang.String]
+
+prob: 0,01538
+[java/util/ArrayList/ArrayList(), javax/net/ssl/TrustManagerFactory/getTrustManagers(), javax/net/ssl/TrustManagerFactory/getInstance(java.lang.String), javax/net/ssl/X509TrustManager/getAcceptedIssuers(), java/util/ArrayList/size(), android/util/Log/e(java.lang.String]
+
+prob: 0,01538
+[java/util/ArrayList/ArrayList(), java/io/File/exists(), android/content/Intent/getStringExtra(java.lang.String), java/lang/String/String(), android/content/ContextWrapper/getResources(), android/os/Bundle/putString(java.lang.String]
+
+prob: 0,01538
+[java/io/File/isDirectory()]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(int), android/app/Activity/getResources(), java/lang/StringBuilder/toString()]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(int), java/util/HashMap/remove(java.lang.Object), org/qtproject/qt5/android/QtLayout/removeView(android.view.View), android/util/Log/e(java.lang.String]
+
+prob: 0,01538
+[java/lang/Class/getCanonicalName()]
+
+prob: 0,01538
+[android/os/Bundle/getInt(java.lang.String)]
+
+prob: 0,01538
+[android/content/res/Resources/getString(int), android/content/res/Resources/getDisplayMetrics(), org/qtproject/qt5/android/bindings/QtActivity/getResources()]
+
+prob: 0,01538
+[android/app/Activity/getComponentName(), android/app/Activity/getPackageManager(), android/content/res/Resources/getDrawable(int), android/app/Activity/getSystemService(java.lang.String)]
+
+prob: 0,01538
+[android/app/Activity/registerForContextMenu(android.view.View), android/view/ViewTreeObserver/addOnPreDrawListener(android.view.ViewTreeObserver$OnPreDrawListener), java/lang/StringBuilder/StringBuilder(), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,01538
+[android/content/res/Resources/getDimensionPixelSize(int)]
+
+prob: 0,01538
+[android.view.View]
+
+prob: 0,01538
+[android/app/Activity/getAssets(), java/lang/StringBuilder/append(java.lang.String), android/content/res/AssetManager/open(java.lang.String), java/lang/String/String(byte[]]
+
+prob: 0,01538
+[boolean]
+
+prob: 0,01538
+[android/view/KeyEvent/getRepeatCount(), java/lang/String/charAt(int), java/lang/String/length(), java/lang/Exception/printStackTrace(), android/view/KeyEvent/getCharacters(), android/view/KeyEvent/getMetaState(), android/view/KeyEvent/getKeyCode(), java/lang/reflect/Method/invoke(java.lang.Object]
+
+prob: 0,01538
+[android/view/Window/addFlags(int), android/view/Window/getDecorView(), android/app/Activity/getWindow(), org/qtproject/qt5/android/QtLayout/requestLayout(]
+
+prob: 0,01538
+[android/view/View/setSystemUiVisibility(int), java/lang/Class/getDeclaredField(java.lang.String), java/lang/Exception/printStackTrace()]
+
+prob: 0,01538
+[java/lang/reflect/Field/getInt(java.lang.Object), android/view/Window/clearFlags(int)]
+
+prob: 0,01538
+[java/util/ArrayList/toArray(java.lang.Object[])]
+
+prob: 0,01538
+[java/util/ArrayList/add(java.lang.Object)]
+
+prob: 0,01538
+[java/lang/StringBuilder/StringBuilder(), android/view/ViewGroup$LayoutParams/ViewGroup$LayoutParams(int]
+
+prob: 0,01538
+[java/util/Iterator/next()]
+
+prob: 0,01538
+[java/lang/Class/getMethod(java.lang.String]
+
+prob: 0,01538
+[java/util/ArrayList/ArrayList()]
+
+prob: 0,01538
+[java/lang/StringBuilder/append(int)]
+
+prob: 0,01538
+[java/util/Iterator/hasNext()]
+

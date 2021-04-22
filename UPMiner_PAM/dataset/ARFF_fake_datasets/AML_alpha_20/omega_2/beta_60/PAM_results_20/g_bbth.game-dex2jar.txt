@@ -1,0 +1,99 @@
+prob: 0,16418
+[org.api.fake]
+
+prob: 0,16418
+[org.rand.api]
+
+prob: 0,08955
+[float)]
+
+prob: 0,07463
+[bbth.game.ai.AIController]
+
+prob: 0,04478
+[bbth.engine.util.Point]
+
+prob: 0,04478
+[java.util.Map)]
+
+prob: 0,04478
+[bbth.engine.ai.FlockRulesCalculator]
+
+prob: 0,04478
+[android.graphics.Canvas]
+
+prob: 0,02985
+[android/util/FloatMath/cos(float), android/graphics/Canvas/rotate(float), android/graphics/Canvas/translate(float]
+
+prob: 0,02985
+[java/util/ArrayList/ArrayList(), java/util/HashSet/add(java.lang.Object), java/util/Iterator/next()]
+
+prob: 0,02985
+[java/lang/Math/min(float]
+
+prob: 0,02985
+[android/graphics/Paint/setColor(int), android/graphics/Canvas/drawLine(float]
+
+prob: 0,01493
+[bbth/engine/core/GameActivity/getString(int), android/content/res/XmlResourceParser/getName(), android/graphics/BitmapFactory/decodeResource(android.content.res.Resources]
+
+prob: 0,01493
+[android/bluetooth/BluetoothServerSocket/accept(int), bbth/engine/core/GameActivity/startActivityForResult(android.content.Intent]
+
+prob: 0,01493
+[android/content/res/XmlResourceParser/getAttributeValue(java.lang.String]
+
+prob: 0,01493
+[bbth/game/ServerSelectScreen/addSubview(bbth.engine.ui.UIView), java/util/List/size(), android/bluetooth/BluetoothDevice/getName(), bbth/engine/ui/UIButton/setPosition(float]
+
+prob: 0,01493
+[java/lang/Integer/intValue(), java/util/List/size(), java/util/List/clear(), java/util/List/get(int), java/util/List/iterator(]
+
+prob: 0,01493
+[java/util/Iterator/hasNext(), bbth/game/ServerSelectScreen/layoutSubviews(boolean), bbth/game/ServerSelectScreen/removeSubview(bbth.engine.ui.UIView), java/util/Iterator/next()]
+
+prob: 0,01493
+[java/util/ArrayList/size(), java/util/ArrayList/set(int]
+
+prob: 0,01493
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext(), java/util/ArrayList/add(java.lang.Object), java/util/HashSet/HashSet(), java/util/ArrayList/get(int), java/util/ArrayList/remove(int), java/util/HashSet/contains(java.lang.Object), java/util/Collections/sort(java.util.List]
+
+prob: 0,01493
+[android/graphics/Paint/setAntiAlias(boolean), android/graphics/Paint/setColor(int), android/graphics/Canvas/drawLine(float]
+
+prob: 0,01493
+[java/util/Iterator/remove(), java/util/Iterator/hasNext(), java/util/ArrayList/size(), java/util/HashSet/HashSet(), java/util/ArrayList/get(int]
+
+prob: 0,01493
+[java/util/ArrayList/ArrayList(), android/graphics/Paint/measureText(java.lang.String), java/lang/String/length(), java/lang/StringBuilder/StringBuilder(java.lang.String), java/util/ArrayList/clear(), java/lang/StringBuilder/toString(), java/lang/String/split(java.lang.String), java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), java/lang/String/trim(), java/lang/String/equals(java.lang.Object), java/util/ArrayList/add(java.lang.Object]
+
+prob: 0,01493
+[java/util/HashSet/iterator(), java/util/HashMap/clear()]
+
+prob: 0,01493
+[boolean)]
+
+prob: 0,01493
+[bbth/engine/core/GameActivity/getString(int]
+
+prob: 0,01493
+[bbth/game/units/Unit/getX(), bbth/game/Team/isEnemy(bbth.game.Team), bbth/game/units/UberUnit/getX(), bbth/game/units/UberUnit/getY(), java/lang/Math/max(float]
+
+prob: 0,01493
+[bbth/game/units/Unit/getX(), bbth/game/units/Unit/getY()]
+
+prob: 0,01493
+[java/io/ByteArrayOutputStream/writeTo(java.io.OutputStream), android/content/SharedPreferences$Editor/commit(), java/io/ByteArrayOutputStream/reset(), android/content/SharedPreferences/edit(), java/io/DataOutputStream/DataOutputStream(java.io.OutputStream), java/io/ByteArrayOutputStream/ByteArrayOutputStream(), android/bluetooth/BluetoothSocket/getRemoteDevice(), android/bluetooth/BluetoothDevice/getAddress(), java/io/IOException/printStackTrace(), android/bluetooth/BluetoothSocket/getOutputStream(), java/lang/Thread/start(), java/lang/Thread/interrupted(), java/lang/Thread/interrupt(), java/io/OutputStream/flush(), android/content/SharedPreferences$Editor/putString(java.lang.String]
+
+prob: 0,01493
+[android/bluetooth/BluetoothSocket/close()]
+
+prob: 0,01493
+[java/util/ArrayList/iterator(), java/util/Iterator/hasNext()]
+
+prob: 0,01493
+[android/graphics/Canvas/rotate(float), android/graphics/Canvas/translate(float]
+
+prob: 0,01493
+[android/graphics/Canvas/translate(float]
+

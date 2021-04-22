@@ -1,0 +1,5 @@
+android/view/View/getMeasuredWidth()
+android/widget/TextView/setTextColor(int)
+com/grasscove/namethat/CategoriesList/setContentView(int)
+java/lang/StringBuilder/append(java.lang.String)
+org.api.fake

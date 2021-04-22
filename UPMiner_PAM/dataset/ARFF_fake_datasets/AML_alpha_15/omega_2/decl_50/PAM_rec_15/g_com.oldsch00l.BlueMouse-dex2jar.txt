@@ -1,0 +1,17 @@
+android/widget/TextView/setText(java.lang.CharSequence), java/lang/StringBuffer/toString(), android/location/Location/getLongitude(), java/lang/StringBuffer/append(java.lang.String), android/location/Location/getLatitude(), java/lang/StringBuffer/StringBuffer(  0,07143
+java/lang/Thread/sleep(long), android/bluetooth/BluetoothSocket/close(), java/lang/StringBuilder/append(int), android/bluetooth/BluetoothServerSocket/accept(), android/util/Log/d(java.lang.String  0,07143
+java/lang/StringBuilder/append(int), android/os/Bundle/getInt(java.lang.String  0,07143
+java/lang/StringBuilder/append(int), android/widget/Toast/makeText(android.content.Context  0,07143
+android/location/Location/getSpeed(), java/text/SimpleDateFormat/format(java.util.Date), android/location/Location/getBearing(), java/util/Date/Date(  0,07143
+java/lang/Integer/toHexString(int), android/location/Location/getLongitude(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuilder/append(char), java/text/DecimalFormat/format(double), java/lang/StringBuilder/toString(), java/lang/StringBuilder/append(java.lang.String)  0,07143
+android/os/Bundle/putString(java.lang.String  0,07143
+android.bluetooth.BluetoothDevice)  0,07143
+int  0,07143
+java/util/ArrayList/ArrayList(), android/os/Bundle/putStringArrayList(java.lang.String  0,07143
+android/app/NotificationManager/cancel(int), android/util/Log/d(java.lang.String  0,07143
+java/util/Iterator/next(), android/location/LocationManager/removeNmeaListener(android.location.GpsStatus$NmeaListener), java/util/TimerTask/cancel(), java/util/List/iterator(), java/util/List/remove(java.lang.Object), java/util/Iterator/hasNext()  0,07143
+java/lang/String/valueOf(java.lang.Object), java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/getString(java.lang.String  0,07143
+android/util/Log/v(java.lang.String  0,07143
+android/widget/ListView/setAdapter(android.widget.ListAdapter), com/oldsch00l/BlueMouse/BlueMouse/findViewById(int), android/widget/Toast/makeText(android.content.Context  0,07143
+android/content/Intent/Intent(android.content.Context  0,07143
+android/location/Location/getLatitude()  0,07143

@@ -1,0 +1,9 @@
+java/lang/Integer/intValue()
+org.api.fake
+android/widget/ListView/getFirstVisiblePosition(
+android/widget/EditText/setText(java.lang.CharSequence
+java/util/HashMap/put(java.lang.Object,java.lang.Object)
+android/view/View/performClick()
+android/widget/EditText/setSelection(int)
+org.rand.api
+java/util/ArrayList/ArrayList()

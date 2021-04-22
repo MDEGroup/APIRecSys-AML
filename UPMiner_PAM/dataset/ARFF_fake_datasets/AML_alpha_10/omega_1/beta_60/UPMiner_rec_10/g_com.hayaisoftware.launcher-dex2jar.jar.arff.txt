@@ -1,0 +1,10 @@
+android/database/sqlite/SQLiteStatement/bindString(int,java.lang.String)
+java/util/AbstractMap/get(java.lang.Object)
+android/widget/ImageView/setTag(java.lang.Object
+android/view/View/setVisibility(int)
+android/content/pm/ActivityInfo/getIconResource()
+android/graphics/Bitmap/createScaledBitmap(android.graphics.Bitmap,int,int,boolean
+android/database/Cursor/moveToFirst(
+android/database/sqlite/SQLiteDatabase/close(
+android/content/Context/getSharedPreferences(java.lang.String,int)
+java/lang/String/trim(

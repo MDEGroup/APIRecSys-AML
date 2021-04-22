@@ -1,0 +1,3 @@
+android/widget/CheckBox/setChecked(boolean
+android/widget/TextView/setText(java.lang.CharSequence)
+org.api.fake

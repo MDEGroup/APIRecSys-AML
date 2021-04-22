@@ -1,0 +1,108 @@
+prob: 0,20000
+[java.lang.String]
+
+prob: 0,07500
+[android/util/Log/w(java.lang.String]
+
+prob: 0,05000
+[java.lang.Object)]
+
+prob: 0,05000
+[android.view.View]
+
+prob: 0,05000
+[android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setNegativeButton(int]
+
+prob: 0,05000
+[android/preference/ListPreference/setEnabled(boolean), android/preference/ListPreference/setSummary(java.lang.CharSequence), android/preference/ListPreference/setValueIndex(int), android/preference/ListPreference/findIndexOfValue(java.lang.String), sk/boinc/androboinc/ManageClientActivity/findPreference(java.lang.CharSequence]
+
+prob: 0,05000
+[android/preference/Preference/setEnabled(boolean), android/preference/ListPreference/getEntries(), android/preference/ListPreference/setSummary(int), android/preference/Preference/setSummary(int)]
+
+prob: 0,05000
+[java/lang/Integer/toString(int)]
+
+prob: 0,05000
+[java/lang/StringBuilder/append(java.lang.String)]
+
+prob: 0,02500
+[android/app/AlertDialog$Builder/setView(android.view.View), android/view/LayoutInflater/from(android.content.Context), android/app/AlertDialog$Builder/create(), android/app/AlertDialog$Builder/AlertDialog$Builder(android.content.Context), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,02500
+[sk/boinc/androboinc/AppPreferencesActivity/getString(int), java/lang/StringBuilder/setLength(int), java/lang/String/format(java.lang.String]
+
+prob: 0,02500
+[sk/boinc/androboinc/BoincManagerActivity/getTabHost(), android/content/SharedPreferences$Editor/commit(), android/app/TabActivity/onStop(), sk/boinc/androboinc/BoincManagerActivity/isFinishing(), android/preference/PreferenceManager/getDefaultSharedPreferences(android.content.Context), android/content/SharedPreferences$Editor/putString(java.lang.String]
+
+prob: 0,02500
+[android/app/AlertDialog$Builder/setTitle(java.lang.CharSequence), java/lang/StringBuilder/StringBuilder(java.lang.String), android/view/LayoutInflater/from(android.content.Context), java/lang/String/valueOf(java.lang.Object), android/app/AlertDialog$Builder/setPositiveButton(int]
+
+prob: 0,02500
+[android/view/View/findViewById(int), android/app/AlertDialog$Builder/setOnCancelListener(android.content.DialogInterface$OnCancelListener), android/app/AlertDialog$Builder/setIcon(int), android/app/AlertDialog$Builder/setTitle(int)]
+
+prob: 0,02500
+[android/widget/TabHost/newTabSpec(java.lang.String), android/content/SharedPreferences/getString(java.lang.String]
+
+prob: 0,02500
+[android/text/Editable/length(), android/text/Editable/toString(), java/lang/Long/longValue(), android/widget/EditText/getText(), android/content/Intent/putExtra(java.lang.String]
+
+prob: 0,02500
+[int)]
+
+prob: 0,02500
+[java.util.Vector)]
+
+prob: 0,02500
+[java/util/Map/put(java.lang.Object]
+
+prob: 0,02500
+[boolean)]
+
+prob: 0,02500
+[java.lang.String)]
+
+prob: 0,02500
+[android.content.Context]
+
+prob: 0,02500
+[sk/boinc/androboinc/BoincManagerApplication/getPackageManager(), sk/boinc/androboinc/BoincManagerApplication/getPackageName(), java/lang/StringBuilder/StringBuilder(int), android/util/Log/e(java.lang.String]
+
+prob: 0,02500
+[sk/boinc/androboinc/BoincManagerApplication/getResources(), java/lang/StringBuilder/StringBuilder(int), java/lang/StringBuilder/setLength(int), java/io/InputStreamReader/InputStreamReader(java.io.InputStream]
+
+prob: 0,02500
+[java/io/IOException/printStackTrace(), android/content/res/Resources/openRawResource(int), java/lang/StringBuilder/toString(), java/io/Reader/read(char[]), java/lang/StringBuilder/append(int), java/lang/StringBuilder/ensureCapacity(int)]
+
+prob: 0,02500
+[android/text/util/Linkify/addLinks(android.widget.TextView]
+
+prob: 0,02500
+[android.app.Dialog)]
+
+prob: 0,02500
+[java/util/ArrayList/ArrayList(java.util.Collection), android/content/Intent/getParcelableExtra(java.lang.String), java/util/Arrays/asList(java.lang.Object[]), android/widget/EditText/getFilters(), java/util/List/size(), sk/boinc/androboinc/EditHostActivity/setContentView(int), android/app/Activity/onCreate(android.os.Bundle), android/widget/EditText/addTextChangedListener(android.text.TextWatcher), java/util/List/add(java.lang.Object), android/widget/Button/setOnClickListener(android.view.View$OnClickListener), sk/boinc/androboinc/EditHostActivity/findViewById(int]
+
+prob: 0,02500
+[java/util/List/toArray(java.lang.Object[]), android/widget/EditText/setText(java.lang.CharSequence), android/widget/EditText/setFilters(android.text.InputFilter[]), java/lang/Long/valueOf(long), java/lang/Integer/toString(int)]
+
+prob: 0,02500
+[sk/boinc/androboinc/EditHostActivity/getIntent()]
+
+prob: 0,02500
+[java/lang/String/valueOf(java.lang.Object), sk/boinc/androboinc/AppPreferencesActivity/findPreference(java.lang.CharSequence), android/preference/ListPreference/setSummary(java.lang.CharSequence), java/lang/StringBuilder/append(java.lang.Object), sk/boinc/androboinc/AppPreferencesActivity/getSharedPreferences(java.lang.String]
+
+prob: 0,02500
+[android.content.Intent)]
+
+prob: 0,02500
+[java/lang/StringBuilder/append(java.lang.String), android/content/SharedPreferences/registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener), java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,02500
+[java/lang/StringBuilder/append(java.lang.String), sk/boinc/androboinc/BoincManagerApplication/getString(int), android/widget/TextView/setText(java.lang.CharSequence), sk/boinc/androboinc/BoincManagerApplication/getString(int]
+
+prob: 0,02500
+[java/lang/StringBuilder/StringBuilder(java.lang.String)]
+
+prob: 0,02500
+[android/app/AlertDialog$Builder/setTitle(int), android/app/AlertDialog$Builder/setNegativeButton(int]
+

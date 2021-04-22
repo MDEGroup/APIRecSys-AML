@@ -1,0 +1,17 @@
+java/io/PrintWriter/print(boolean)
+java/util/ArrayList/remove(int)
+java/lang/StringBuilder/toString()
+android/support/v4/view/ViewPager/getScrollX(
+java/lang/Class/getClassLoader(
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(java.lang.Object
+java/util/ArrayList/ArrayList(
+java/lang/Math/min(float,float)
+android/graphics/Canvas/rotate(float)
+org.api.fake
+android/view/View/getLayoutParams()
+java/util/ArrayList/size()
+java/util/ArrayList/add(java.lang.Object)
+android/os/Bundle/putInt(java.lang.String,int
+android/util/Log/v(java.lang.String,java.lang.String)
+org.rand.api

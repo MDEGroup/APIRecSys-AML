@@ -1,0 +1,28 @@
+int  0,15789
+android/widget/Button/setOnClickListener(android.view.View$OnClickListener)  0,10526
+java/lang/StringBuilder/append(java.lang.String), com/monead/games/android/sequence/Sequence/setContentView(int)  0,10526
+android/app/Dialog/show(), android/app/Dialog/Dialog(android.content.Context), android/os/Handler/Handler(), com/monead/games/android/sequence/Sequence/getResources(), android/content/res/Resources/getIdentifier(java.lang.String  0,05263
+android.app.Dialog  0,05263
+android/util/Log/w(java.lang.String  0,05263
+android/widget/ArrayAdapter/setDropDownViewResource(int), java/lang/StringBuilder/append(int), android/widget/ArrayAdapter/ArrayAdapter(android.content.Context  0,05263
+java/util/Locale/getLanguage()  0,05263
+java/util/Locale/getDefault()  0,05263
+java/util/Iterator/hasNext(), java/lang/String/replaceAll(java.lang.String  0,05263
+boolean  0,05263
+java/util/ArrayList/ArrayList(), java/util/Iterator/hasNext(), java/lang/StringBuilder/toString(), java/util/Collections/sort(java.util.List  0,05263
+java/util/Set/iterator()  0,05263
+java/util/List/add(java.lang.Object)  0,05263
+java/util/Map/put(java.lang.Object  0,05263
+android/content/res/Resources/getString(int), java/lang/StringBuilder/append(int), android/widget/TextView/setText(java.lang.CharSequence), com/monead/games/android/sequence/Sequence/findViewById(int), java/lang/StringBuilder/toString(), com/monead/games/android/sequence/Sequence/getResources(  0,05263
+android/content/res/Resources/getString(int), com/monead/games/android/sequence/Sequence/getSharedPreferences(java.lang.String  0,05263
+android/content/res/Resources/getString(int), android/content/pm/PackageManager/getApplicationLabel(android.content.pm.ApplicationInfo), java/lang/CharSequence/toString(), android/util/Log/e(java.lang.String  0,05263
+android/content/res/Resources/getString(int), java/lang/StringBuilder/append(java.lang.String), android/app/AlertDialog$Builder/setPositiveButton(java.lang.CharSequence  0,05263
+java/lang/StringBuilder/append(java.lang.String), java/lang/StringBuffer/toString(), java/lang/StringBuilder/StringBuilder(), java/lang/StringBuffer/append(int), java/lang/StringBuffer/append(long), java/lang/StringBuffer/append(char), java/lang/StringBuilder/append(int), java/lang/String/length(), java/lang/StringBuffer/append(java.lang.String), java/lang/StringBuffer/StringBuffer(), java/lang/StringBuilder/toString(  0,05263
+java/lang/StringBuilder/append(java.lang.String), com/monead/games/android/sequence/Sequence/setContentView(int), java/lang/StringBuilder/StringBuilder(), android/webkit/WebView/loadUrl(java.lang.String), java/lang/StringBuilder/toString(  0,05263
+java/lang/StringBuilder/append(java.lang.String), java/util/Map/get(java.lang.Object), java/util/Iterator/next(), java/util/Map/keySet(), java/lang/StringBuilder/StringBuilder()  0,05263
+java/lang/StringBuilder/append(java.lang.String), android/util/Log/e(java.lang.String  0,05263
+com/monead/games/android/sequence/Sequence/getSharedPreferences(java.lang.String  0,05263
+com/monead/games/android/sequence/Sequence/findViewById(int)  0,05263
+com/monead/games/android/sequence/Sequence/getResources()  0,05263
+java/lang/StringBuilder/StringBuilder()  0,05263
+android/content/res/Resources/getString(int)  0,05263
