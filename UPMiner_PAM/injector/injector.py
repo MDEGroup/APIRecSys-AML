@@ -1,6 +1,7 @@
 from arff import ArffEncoder, ArffDecoder
 
 import os
+import click
 
 def generate_fake_content(declaration,api_fake):
     temp_list=[]
@@ -31,7 +32,12 @@ def inject_PAM(arff_obj, half_decl,api, api2):
 
     return list_fake
 
-
+@click.command()
+@click.option('--root', prompt = 'Path dataset')
+@click.option('--dest', prompt = 'Destination path ')
+@click.option('--beta', prompt = 'Beta is the ratio of methods in a project getting fake APIs')
+@click.option('--fake_api', prompt = 'The name of the first fake api')
+@click.option('--fake_api2', prompt = 'The name of the second fake api')
 def main_arff(root, dest, beta, fake_api, fake_api2 ):
     for f in os.listdir(root):
         file = open(root+f,'r', encoding='utf-8', errors='ignore')
@@ -87,6 +93,5 @@ def main_hit(path_results, fake_1, fake_2):
 
     print(two_fake/len(list_project))
 
-
-main_arff(root='/path_dataset',dest='/your_dest_path', beta=40,fake_api='one.fake.api',fake_api2='another.fake.api')
-main_hit(path_results='/path_to_recommended_items', fake_1='one.fake.api', fake_2='another.fake.api')
+if __name__ == '__main__':
+    main_arff()
