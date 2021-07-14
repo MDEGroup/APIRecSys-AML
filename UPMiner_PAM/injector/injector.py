@@ -35,32 +35,34 @@ def inject_PAM(arff_obj, half_decl,api, api2):
 @click.command()
 @click.option('--root', prompt = 'Path dataset')
 @click.option('--dest', prompt = 'Destination path ')
-@click.option('--beta', prompt = 'Beta is the ratio of methods in a project getting fake APIs')
+@click.option('--beta', prompt = 'Beta is the ratio of methods in a project getting fake APIs', type=int)
 @click.option('--fake_api', prompt = 'The name of the first fake api')
 @click.option('--fake_api2', prompt = 'The name of the second fake api')
 def main_arff(root, dest, beta, fake_api, fake_api2 ):
     for f in os.listdir(root):
-        file = open(root+f,'r', encoding='utf-8', errors='ignore')
+        try:
+            file = open(root+f,'r', encoding='utf-8', errors='ignore')
 
-        decoder = ArffDecoder()
+            decoder = ArffDecoder()
 
-        arff_obj= decoder.decode(file)
-        half_decl = int((len(arff_obj['data'])*beta)/100)
+            arff_obj= decoder.decode(file)
+            half_decl = int((len(arff_obj['data'])*beta)/100)
 
-        list_fake = inject_PAM(arff_obj, half_decl,fake_api, fake_api2)
+            list_fake = inject_PAM(arff_obj, half_decl,fake_api, fake_api2)
 
-        obj ={'attributes': [
-                         (u'fqCaller', u'STRING'),
-                         (u'fqCalls', u'STRING'),
-                         ],
-         'data':    list_fake + arff_obj['data'],
-         'relation': u'fake'}
-        encoder = ArffEncoder()
-        content = encoder.encode(obj=obj)
+            obj ={'attributes': [
+                             (u'fqCaller', u'STRING'),
+                             (u'fqCalls', u'STRING'),
+                             ],
+             'data':    list_fake + arff_obj['data'],
+             'relation': u'fake'}
+            encoder = ArffEncoder()
+            content = encoder.encode(obj=obj)
 
-        with open(dest+f,'w',encoding='utf-8',errors='ignore') as res:
-            res.write(str(content))
-
+            with open(os.path.join(dest,f),'w',encoding='utf-8',errors='ignore') as res:
+                res.write(str(content))
+        except Exception as e:
+            print(f)
 
 def hit_ratio(file, num_rec, fake_1, fake_2):
     with open(file, 'r', encoding='utf-8', errors='ignore') as arff:
@@ -95,3 +97,4 @@ def main_hit(path_results, fake_1, fake_2):
 
 if __name__ == '__main__':
     main_arff()
+

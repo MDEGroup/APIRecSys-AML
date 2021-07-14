@@ -6,18 +6,17 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import java.util.TreeMap;
-
-
-import com.google.common.collect.Sets;
 
 
 public class FakeProjectCreator {	
@@ -44,12 +43,15 @@ public class FakeProjectCreator {
 	
 	/*insert fake APIs to a set of projects*/
 	
-	public void insertFakeAPIs(double alpha, double gamma, int num) {	
+	public void insertFakeAPIs(double alpha, double gamma, int num, String output) throws IOException {	
 		
 		DataReader reader = new DataReader();		
 		
-		Map<Integer,String> testingProjects = new HashMap<Integer,String>();				
-		testingProjects = reader.readProjectList(this.srcDir + "List.txt",this.testingStartPos,this.testingEndPos);
+		Map<Integer,String> testingProjects = new HashMap<Integer,String>();
+		Path copied = Paths.get(output, "List.csv");
+		Path originalPath = Paths.get(this.srcDir, "List.csv");
+	    Files.copy(originalPath, copied, StandardCopyOption.REPLACE_EXISTING);
+		testingProjects = reader.readProjectList(this.srcDir + "List.csv",this.testingStartPos,this.testingEndPos);
 				
 		
 		Set<Integer> keyTestingProjects = testingProjects.keySet();		
@@ -73,7 +75,7 @@ public class FakeProjectCreator {
 			String testingPro = testingProjects.get(key);			
 			String filename = testingPro;				
 			System.out.println(filename);
-			insertFakeAPI2Project(this.srcDir, filename, fakeAPI, gamma, num);		
+			insertFakeAPI2Project(this.srcDir, filename, fakeAPI, gamma, num, output);		
 		}		
 				
 		return;
@@ -88,7 +90,7 @@ public class FakeProjectCreator {
 	/*first step: insert to all declarations*/
 	/*the ratio of declarations that get injected with the fake API*/
 	
-	public void insertFakeAPI2Project(String path, String filename, String fakeAPI, double ratio, int num) {
+	public void insertFakeAPI2Project(String path, String filename, String fakeAPI, double ratio, int num, String output) {
 		
 		String line = null;
 		
@@ -143,7 +145,7 @@ public class FakeProjectCreator {
 						
 			
 			/*save to file*/
-			BufferedWriter writer = new BufferedWriter(new FileWriter(path + filename));
+			BufferedWriter writer = new BufferedWriter(new FileWriter(output + filename));
 						
 			keySet = map.keySet();
 						

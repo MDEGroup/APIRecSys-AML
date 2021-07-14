@@ -1,82 +1,109 @@
 package ase2021.aml.apirecsys;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.Properties;
 
+import org.apache.commons.cli.CommandLine;
+import org.apache.commons.cli.CommandLineParser;
+import org.apache.commons.cli.GnuParser;
+import org.apache.commons.cli.HelpFormatter;
+import org.apache.commons.cli.Option;
+import org.apache.commons.cli.Options;
 
 public class Runner {
-	
-	private String srcDir;	
-	private String subFolder;
+
 	private int numOfProjects;
-	private int numOfNeighbours;
 	private int numOfFolds;
-	private int conf;	
-	private int numOfItems;
-	
-	public Runner(){
-		loadConfigurations();
+
+	public Runner(String src) {
+
 		DataReader reader = new DataReader();
-		String inputFile = "List.txt";		
-		numOfProjects = reader.getNumberOfProjects(this.srcDir + inputFile);
+		String inputFile = "List.csv";
+		numOfProjects = reader.getNumberOfProjects(src + inputFile);
 		numOfFolds = 10;
 	}
-	
-	
-	public void loadConfigurations(){		
-		Properties prop = new Properties();				
-		try {
-			prop.load(new FileInputStream("evaluation.properties"));		
-			this.srcDir=prop.getProperty("sourceDirectory");
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}	
-		return;
-	}
-			
-	
-	public void run(){		
-		System.out.println("Generating fake projects!");	
-		
-		double alpha = 0.05;
-		double gamma = 0.6;
-		
-		int num = 1;				
-		populateFakeProjects(alpha,gamma,num);
-		
-	}
-		
-		
-	public void populateFakeProjects(double alpha, double gamma, int num) {	
-		
-		System.out.println("Number of projects: " + Integer.toString(numOfProjects));
-		
-		numOfNeighbours = 4;
-		numOfFolds = 10;		
-		
-		int step = (int)numOfProjects/numOfFolds;			
-								
-		for(int i=0;i<numOfFolds;i++) {		
-			int testingStartPos = 1+i*step;
-			int testingEndPos =   (i+1)*step;
-			
-			int k=i+1;	
-						
-			FakeProjectCreator creator = new FakeProjectCreator(this.srcDir,testingStartPos,testingEndPos);
-			creator.insertFakeAPIs(alpha,gamma,num);			
-		}		
-	}
-		
 
-		
-	public static void main(String[] args) {	
-		Runner runner = new Runner();			
-		runner.run();				    		    
-		return;
-	}	
-	
+
+
+
+
+	public void populateFakeProjects(double alpha, double gamma, int num, String src, String output) throws IOException {
+
+		System.out.println("Number of projects: " + Integer.toString(numOfProjects));
+
+		numOfFolds = 10;
+
+		int step = (int) numOfProjects / numOfFolds;
+
+		for (int i = 0; i < numOfFolds; i++) {
+			int testingStartPos = 1 + i * step;
+			int testingEndPos = (i + 1) * step;
+			FakeProjectCreator creator = new FakeProjectCreator(src, testingStartPos, testingEndPos);
+			creator.insertFakeAPIs(alpha, gamma, num, output);
+		}
+	}
+
+	public static void main(String[] args) {
+		Option alpha_option = new Option("alpha", true, "The alpha value. It is an double value.");
+		Option beta_option = new Option("beta", true, "The beta value. It is an double value.");
+		Option omega_option = new Option("omega", true, "The omega value. It is an integer value.");
+		Option src_option = new Option("src", true, "The soruce folder. It is an exisiting path.");
+		Option out_option = new Option("out", true, "The output folder. It is an existing path.");
+		final CommandLineParser parser = new GnuParser();
+		HelpFormatter formatter = new HelpFormatter();
+		Options options = new Options();
+		options.addOption(alpha_option);
+		options.addOption(beta_option);
+		options.addOption(omega_option);
+		options.addOption(src_option);
+		options.addOption(out_option);
+		try {
+			final CommandLine line = parser.parse(options, args);
+			double alfa = 0;
+			double beta = 0;
+			int omega = 0;
+			String src = "";
+			String out = "";
+			if (line.hasOption(alpha_option.getOpt())) {
+				alfa = Double.parseDouble(line.getOptionValue(alpha_option.getOpt()));
+			} else {
+				formatter.printHelp("Runner", options);
+				throw new Exception();
+			}
+
+			if (line.hasOption(beta_option.getOpt())) {
+				beta = Double.parseDouble(line.getOptionValue(beta_option.getOpt()));
+			} else {
+				formatter.printHelp("Runner", options);
+				throw new Exception();
+			}
+			
+			if (line.hasOption(omega_option.getOpt())) {
+				omega = Integer.parseInt(line.getOptionValue(omega_option.getOpt()));
+			} else {
+				formatter.printHelp("Runner", options);
+				throw new Exception();
+			}
+			if (line.hasOption(src_option.getOpt())) {
+				src = line.getOptionValue(src_option.getOpt());
+			} else {
+				formatter.printHelp("Runner", options);
+				throw new Exception();
+			}
+			
+			if (line.hasOption(out_option.getOpt())) {
+				out = line.getOptionValue(out_option.getOpt());
+			} else {
+				formatter.printHelp("Runner", options);
+				throw new Exception();
+			}
+			
+			Runner runner = new Runner(src);			
+    		runner.populateFakeProjects(alfa, beta, omega, src, out);		
+    		
+		} catch (Exception e) {
+			formatter.printHelp("Runner", options);
+		}
+
+	}
+
 }

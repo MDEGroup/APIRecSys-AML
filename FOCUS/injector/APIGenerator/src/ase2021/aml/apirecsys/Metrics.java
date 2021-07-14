@@ -41,8 +41,8 @@ public class Metrics {
 		DataReader reader = new DataReader();
 		
 		Map<Integer,String> testingProjects = new HashMap<Integer,String>();
-		if(all)testingProjects = reader.readProjectList(this.srcDir + "List.txt");
-		else testingProjects = reader.readProjectList(this.srcDir + "List.txt",this.testingStartPos,this.testingEndPos);
+		if(all)testingProjects = reader.readProjectList(this.srcDir + "List.csv");
+		else testingProjects = reader.readProjectList(this.srcDir + "List.csv",this.testingStartPos,this.testingEndPos);
 		Set<Integer> keyTestingProjects = testingProjects.keySet();
 		
 		/*Select top libraries*/				
