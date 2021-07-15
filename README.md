@@ -4,45 +4,196 @@ author:
 - Massimiliano Di Penta
 bibliography:
 - references.bib
-**README: How to experiment the artifacts**
+title: "[**README: How to experiment the artifacts**]{.sans-serif}"
 ---
 
-ABSTRACT
+::: {.center}
+ABSTRACT\
 
-This document provides exhaustive instructions to get the datasets, to
-obtain, install, and execute the tools for replicating the experiments
-described in the paper entitled *"A Reproduction of Adversarial Attacks
-to API Recommender Systems: Time to Wake Up and Smell the Coffee?"*
-accepted in the Technical Track of ASE 2021.
+This document provides instructions on how to get the datasets, to
+obtain, install, as well as to execute the tools for replicating the
+experiments described in our paper entitled *"Adversarial Attacks to API
+Recommender Systems: Time to Wake Up and Smell the Coffee?"* accepted in
+the Technical Track of the 36th IEEE/ACM International Conference on
+Automated Software Engineering (ASE 2021).
 :::
 
 # Introduction
 
-API recommender systems have gained momentum in recent years as they
+API recommender systems have gained traction in recent years as they
 became more successful at suggesting API calls or code snippets. While
 these systems have proven to be effective in terms of prediction
 accuracy, there has been less attention for what concerns such
 recommenders' resilience against adversarial attempts. In the accepted
-paper [@ASE2021], we present an empirical investigation of adversarial
-machine learning techniques and their possible influence on recommender
-systems.
-
+paper [@ASE2021], we conducted an empirical evaluation on three API
+recommender systems to see if they are prone to malicious training data.
 The evaluation performed on three state-of-the-art API recommender
 systems, i.e., UP-Miner [@Wang2013Mining],
 PAM [@Fowkes:2016:PPA:2950290.2950319], and FOCUS [@FOCUS2019] reveals a
-worrying outcome: all of them are not immune to malicious data. To
-evaluate the resilience of UP-Miner, PAM, and FOCUS, we use a dataset
-containing Android apps' source code. We focused on Android apps because
-they entail a typical scenario in which an infection can cause unwanted
-consequences such as data leaks. The artifacts include the adversarial
-API injectors, i.e., FOCUS and UP-Miner/PAM injectors and two datasets.
-The former contains the API metadata extracted from 2,850 android
-applications (it has been considered to evaluate the resilience of
-FOCUS). Because UP- Miner and PAM suffer from scalability issues,the
-latter considers a subset of 500 apps randomly extracted from the first
-one.
+worrying outcome: all of them are not immune to malicious data. The
+results obtained suggest that even with a small amount of artificial
+training data, clients are always provided with the fake/malicious APIs.
+Altogether, we see that API recommender systems are likely to be
+exploited, and in this way they inadvertently become a *trojan horse*,
+causing havoc to software systems.
 
-# System Requirements
+To pave the way for further explanations, in this section we give a
+short introduction on the way the approach works. Let us imagine a
+scenario in which one increases the popularity of malicious APIs by
+planting them to OSS projects, as many as possible.
+Fig. [1](#fig:PushAttacks){reference-type="ref"
+reference="fig:PushAttacks"} illustrates the process in which attackers
+may exploit to plant malicious data. First, well-maintained repositories
+are forked from GitHub, e.g., those that have good indicators in terms
+of stars, forks, or watchers. Afterwards, the projects are injected with
+fake APIs, and then uploaded again to GitHub. Attackers may create fake
+accounts to star, fork, and watch malicious repositories to increase
+their credibility/visibility, thus exposing them better to search
+engines.[^1]
+
+::: {.tcolorbox}
+**NOTE**: We consider an API malicious if it causes fatal errors, no
+matter where it comes from, i.e., either a legitimate or a fake library.
+An example of malicious APIs is available in this link:
+<https://bit.ly/31R760l>.
+:::
+
+![Manipulating GitHub
+repositories.](figs/PushAttacks.pdf){#fig:PushAttacks
+width="0.80\\linewidth"}
+
+To simplify the evaluation, in the scope of our work [@ASE2021], we
+inject APIs at the metadata level, i.e., after the data that has been
+parsed to a processable format. This is for experimental purposes only,
+since in reality we need to seed data directly to projects and upload
+them to GitHub as shown in
+Fig. [1](#fig:PushAttacks){reference-type="ref"
+reference="fig:PushAttacks"}. This is outside the focus of our paper,
+and we leave it for future work.
+
+The artifacts include *(i)* two API injectors, one for FOCUS and the
+other one for both UP-Miner and PAM; and *(ii)* two Android datasets. In
+the following sections, we describe the systems and datasets used in the
+evaluation. Moreover, we also give more details on the steps needed to
+inject fake APIs at the metadata levels, and to conduct the experiments.
+
+# Injecting fake APIs {#sec:Confs}
+
+To boost up the popularity of an API pattern, the fake/malicious APIs
+can be seeded into a significant number of declarations, for each
+training project. There are the following parameters to consider, when
+it comes to populating artificial projects with fake APIs.
+
+-   $\alpha$ is the ratio of projects injected with fake APIs.
+
+-   $\beta$ is the ratio of methods in a project getting fake APIs.
+
+-   $\Omega$ is the number of fake APIs injected to each declaration.
+
+We opted for the following sets of parameters:
+$\alpha$=$\{5\%,\-10\%,15\%,20\%\}$, $\beta$=$\{40\%,50\%,60\%\}$,
+$\Omega$=$\{1,2\}$. The rationale behind the selection of these values
+is as follows. Concerning $\alpha$, though having popular APIs is
+commonplace, it is difficult to rack up projects with malicious APIs,
+thus $\alpha$ is set to the following thresholds
+$\alpha$=$\{5\%,\-10\%,15\%,20\%\}$. In contrast, within a project,
+attackers have more freedom to embed APIs to declarations, therefore
+$\beta$ is varied from 40%, 50%, to 60%. Finally, the number of fake
+APIs should be kept low to make attacks more feasible,
+i.e.,$\Omega$=$\{1,2\}$. We study how the calibration of the parameters
+affects the final efficiency, aiming to anticipate the extent to which
+the attacks are successful in the field.
+
+# Systems and datasets
+
+In Section [3.1](#sec:RecSys){reference-type="ref"
+reference="sec:RecSys"} we briefly introduce the systems considered in
+the evaluation, namely UP-Miner [@Wang2013Mining],
+PAM [@Fowkes:2016:PPA:2950290.2950319], and
+FOCUS [@Nguyen:2019:FRS:3339505.3339636]. Meanwhile in
+Section [3.2](#sec:Dataset){reference-type="ref"
+reference="sec:Dataset"}, we present the dataset exploited for the
+experiments. The software and hardware configurations for the testing
+platform are specified in
+Section [3.3](#sec:Platform){reference-type="ref"
+reference="sec:Platform"}.
+
+## Considered recommender systems {#sec:RecSys}
+
+::: {.table*}
+  **System**                                          **Working mechanism**                                                                                                                                                                                                                                                                                     **Potential risks**
+  --------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  UP-Miner[@Wang2013Mining]                           UP-Miner works on the basis of clustering, is dependent on the similarity among API sequences. It computing. In other words, UP-Miner computes similarity at the sequence level, i.e., APIs that are usually found together using BIDE. Finally, it clusters to group frequent sequences into patterns.   Similar to MAPO, as UP-Miner depends on BIDE, an attacker can inject malicious code in the training in projects disguised as similar to trick UP-Miner. In this way, it may recommend to developers harmful snippets.
+  PAM [@Fowkes:2016:PPA:2950290.2950319]              PAM defines a distribution over all possible API patterns in client code, based on a set of patterns. It uses a generative model to infer the most probable patterns. The system generates candidates by relying on the highest support first rule.                                                       The system recommends API calls that commonly appear in different code snippets. Thus, push and nuke attacks could modify the final ranking obtained by the tool, i.e., operating on terms' occurrences to favor or defame a certain API pattern.
+  FOCUS[@Nguyen:2019:FRS:3339505.3339636; @9359479]   FOCUS suggests APIs by encoding projects in a tensor and using a collaborative-filtering technique to deliver the list of APIs. Eventually, it mines APIs and snippets from similar projects with a graph representation.                                                                                 Due to the internal design, the system is susceptible to poisoning attacks, i.e., an adversary can create fake similar projects containing toxic APIs and pose them as legitimate to deceiving FOCUS into recommending these calls/snippets.
+
+[\[tab:summary\]]{#tab:summary label="tab:summary"}
+:::
+
+In the evaluation, we examined the resilience of
+UP-Miner [@Wang2013Mining], PAM [@Fowkes:2016:PPA:2950290.2950319], and
+FOCUS [@Nguyen:2019:FRS:3339505.3339636] on a dataset containing Android
+apps' source code. We selected these tools due to the following reasons.
+*First*, UP-Miner is a well-established recommender system, which has
+shown to outperform MAPO [@Zhong2009MAPO], one of the first systems for
+suggesting APIs. PAM has been proven to be more effective compared to
+MAPO and UP-Miner [@Fowkes:2016:PPA:2950290.2950319]. Meanwhile, FOCUS
+is the most recent approach and it obtains the best prediction
+performance if compared to both UP-Miner and PAM [@9359479]. *Second*,
+the considered systems are also representative in terms of working
+mechanism. UP-Miner works based on clustering, while PAM mines API
+patterns that commonly appear in different snippets, and finally FOCUS
+exploits a collaborative-filtering technique, i.e., also based on a
+similarity algorithm, to retrieve APIs from similar projects. *Third*,
+the three tools have evaluation replication package available. Such the
+implementations enable us to run the experiments according to our needs.
+Table [\[tab:summary\]](#tab:summary){reference-type="ref"
+reference="tab:summary"} gives more information on the three tools
+considered in our evaluation.
+
+## Datasets {#sec:Dataset}
+
+We made use of a dataset which was curated through our recent
+work [@9359479], and the collection process is summarized as shown in
+Fig. [2](#fig:DataExtraction){reference-type="ref"
+reference="fig:DataExtraction"}. First, we searched for open source
+projects using the *AndroidTimeMachine* platform [@8595172], which
+retrieves apps and their source code from Google Play[^2] and GitHub.
+Second, APK files are fetched from the Apkpure platform,[^3] using a
+Python script. Third, the *dex2jar* tool [@dex2jar] is used to convert
+the APK files into the JAR format. The JAR files were then fed as input
+for Rascal [@Basten2015M3] to convert them into the M$^3$
+format [@Basten2015M3]. We obtained a set of 2,600 apps with full source
+code. For more detail about how the collection was done, the readers are
+kindly referred to the replication package of our recent work[^4]. The
+M$_3$ models are stored in folder.
+
+![The data extraction
+process.](figs/DataExtraction.pdf){#fig:DataExtraction
+width="0.68\\columnwidth"}
+
+We then inserted fake APIs to random projects and declarations,
+attempting to simulate real-world scenarios where APIs are dispersed
+across several declarations. Finally, the resulting data is parsed in
+two formats, i.e., ARFF files to be fed to UP-Miner and PAM, and a
+special file format for providing input to FOCUS.
+
+UP-Miner and PAM suffer from scalability issues, i.e., they cannot work
+on large datasets [@9359479]. Thus for evaluating them, we could
+consider a subset consisting of 500 apps. For FOCUS, the whole 2,600
+apps are used since the system is capable of handling well a large
+amount of data.
+
+::: {.tcolorbox}
+**NOTE**: This section introduces the data extraction process, for the
+sake of reproducibility. However, we completely parsed the metadata
+needed as input for the three recommender systems at your disposal. The
+tasks described in this section require a long computation time as well
+as knowledge about Rascal, and we strongly suggest using the metadata as
+it is.
+:::
+
+## Testing platform {#sec:Platform}
 
 Table [\[tab:Requirements\]](#tab:Requirements){reference-type="ref"
 reference="tab:Requirements"} specifies the hardware and software
@@ -51,13 +202,12 @@ for the execution of the artifacts.
 
 ::: {.table*}
   **Name**           **Requirements**
-  ------------------ --------------------------------------------------------------------------------------------------------------
+  ------------------ -----------------------
   RAM                $\geq$ 8GB
   Operating System   A modern Linux system
   Java JRE           $\geq$ Java 8
-  Apache Maven       $\geq$ Maven 3.0[ $\blacktriangleright$*Check if maven is needed*$\blacktriangleleft$ ]{style="color: gray"}
+  Apache Maven       $\geq$ Maven 3.0
   Python             $\geq$ 3.7
-  Rascal             $\geq$ 10.0
   Git                $\geq$ 2.0
 
 [\[tab:Requirements\]]{#tab:Requirements label="tab:Requirements"}
@@ -66,129 +216,33 @@ for the execution of the artifacts.
 We developed and tested the tools involved in the experiments on
 different Linux systems, although it should work without any issue on
 any operating system. In the instructions, we assume a Linux system and
-basic command line skills. The use of Rascal is optional.\
+basic command line skills.\
 In our case, the testing platform is a PC with Linux $4.20.3$, Intel
 Core i7-6700HQ CPU @ 2.60GHz and 16GB of RAM.
 
-# The validation process[ $\blacktriangleright$*check the section title*$\blacktriangleleft$ ]{style="color: orange"}
-
-This section gives a summary on the experiments applied in the paper. In
-Section [3.1](#sec:dataset){reference-type="ref"
-reference="sec:dataset"}, we briefly introduce the process we followed
-to extract the datasets involved in the experiments. Afterwards, in
-Section [3.2](#sec:Confs){reference-type="ref" reference="sec:Confs"} we
-recall the experimental configurations.
-
-## Data extraction {#sec:dataset}
-
-The tool and the process described in the following have been already
-developed and used in our recent work [@9359479]. Since all three
-approaches accepts as input data extracted by Rascal, which in turn
-requires a specific format, we devised our own method to acquire an
-Android dataset eligible for the evaluation. The extraction process
-needs to comply with some certain requirements, and it is illustrated in
-Fig. [1](#fig:DataExtraction){reference-type="ref"
-reference="fig:DataExtraction"}. First, we exploited the
-*AndroidTimeMachine* platform [@8595172] to crawl open source projects.
-The platform fetches apps from the Google Play store[^1] and associates
-them with the open source counterparts hosted in GitHub. The crawling
-process resulted in a set of 7,968 open source Android apps.
-
-[ $\blacktriangleright$*check this*$\blacktriangleleft$
-]{style="color: orange"}Most of the apps (82%) in the dataset are
-written in Java; 4% in Kotlin; 4% in JavaScript, 2% in C++, and 1% in
-C\#. The remaining 7% belong to other languages. As Rascal can parse
-certain programming languages, from the initial dataset we filtered out
-irrelevant projects to select only the Java and Kotlin ones, which
-account for the majority of the apps.
-
-Afterwards, we retrieved the corresponding compiled APK files by
-querying the Apkpure platform[^2] using some tailored Python
-scripts [@8543433]. The process culminated in the final corpus
-consisting of 2,600 APK binary files (mined from Apkpure) together with
-additional metadata (mined from Google Play), including authors,
-categories, star rating, price, and the number of downloads.
-
-By carefully inspecting the data, we realized that most of the apps are
-highly rated and they have a high number of downloads. We decompiled the
-APKs into the JAR format by means of the **dex2jar** tool [@dex2jar].
-The JAR files were then fed as input for Rascal (see
-Section [5.1](#sec:arffExtractor){reference-type="ref"
-reference="sec:arffExtractor"}) to convert them into the M$^3$ format
-and ARFF, which can eventually be consumed by FOCUS, UP-Miner and PAM
-(see Section ). Because UP-Miner and PAM suffer from scalability issues,
-we considered a subset of 500 apps randomly extracted from the first one
-to experiment UP-Miner and PAM.
-
-![The data extraction
-process.](figs/DataExtraction.pdf){#fig:DataExtraction
-width="0.88\\columnwidth"}
-
-[\[fig:DataExtraction\]]{#fig:DataExtraction label="fig:DataExtraction"}
-
-## Configurations {#sec:Confs}
-
-::: {.table*}
-  **Conf.**   **$\Omega$**   **$\alpha$**   **$\beta$**   **Description**
-  ----------- -------------- -------------- ------------- ---------------------------------------------------------------------
-  C1.1.1      1              0.5            0.4           We inject one fake API into 40% of methods belonging to 5% project
-  C1.2.1      1              10.0           0.4           We inject one fake API into 40% of methods belonging to 10% project
-  C1.3.1      1              15.0           0.4           We inject one fake API into 40% of methods belonging to 15% project
-  C1.4.1      1              20.0           0.4           We inject one fake API into 40% of methods belonging to 20% project
-  C1.1.2      1              0.5            0.5           We inject one fake API into 50% of methods belonging to 5% project
-  C1.2.2      1              10.0           0.5           We inject one fake API into 50% of methods belonging to 10% project
-  C1.3.2      1              15.0           0.5           We inject one fake API into 50% of methods belonging to 15% project
-  C1.4.2      1              20.0           0.5           We inject one fake API into 50% of methods belonging to 20% project
-  C1.1.3      1              0.5            0.6           We inject one fake API into 60% of methods belonging to 5% project
-  C1.2.3      1              10.0           0.6           We inject one fake API into 60% of methods belonging to 10% project
-  C1.3.3      1              15.0           0.6           We inject one fake API into 60% of methods belonging to 15% project
-  C1.4.1      1              20.0           0.6           We inject one fake API into 60% of methods belonging to 20% project
-  C2.1.1      2              0.5            0.4           We inject two fake API into 40% of methods belonging to 5% project
-  C2.2.1      2              10.0           0.4           We inject two fake API into 40% of methods belonging to 10% project
-  C2.3.1      2              15.0           0.4           We inject two fake API into 40% of methods belonging to 15% project
-  C2.4.1      2              20.0           0.4           We inject two fake API into 40% of methods belonging to 20% project
-  C2.1.2      2              0.5            0.5           We inject two fake API into 50% of methods belonging to 5% project
-  C2.2.2      2              10.0           0.5           We inject two fake API into 50% of methods belonging to 10% project
-  C2.3.2      2              15.0           0.5           We inject two fake API into 50% of methods belonging to 15% project
-  C2.4.2      2              20.0           0.5           We inject two fake API into 50% of methods belonging to 20% project
-  C2.1.3      2              0.5            0.6           We inject two fake API into 60% of methods belonging to 5% project
-  C2.2.3      2              10.0           0.6           We inject two fake API into 60% of methods belonging to 10% project
-  C2.3.3      2              15.0           0.6           We inject two fake API into 60% of methods belonging to 15% project
-  C2.3.3      2              20.0           0.6           We inject two fake API into 60% of methods belonging to 20% project
-:::
-
-The three parameters $\Omega$, $\alpha$, and $\beta$ are used to
-populate artificial projects:
-
--   $\alpha$ is the ratio of projects injected with fake APIs.
-
--   $\beta$ is the ratio of methods in a project getting fake APIs.
-
--   $\Omega$ is the number of fake APIs injected to each declaration.
-
-In particular, we consider the configurations as given in
-Table [\[tab:Confs\]](#tab:Confs){reference-type="ref"
-reference="tab:Confs"}.
-
-# Download the artifacts
+# Obtaining the artifacts
 
 On a Linux system, open a terminal and execute the following command to
 download all artifacts from a single GitHub repository:
 
     [backgroundcolor = \color{lightgray},language=,captionpos=t]
-     $ git clone https://github.com/MDEGroup/APIRecSys-AML.git
+     $ git clone https://github.com/MDEGroup/APIRecSys-AML.git APIRecSys-AML
 
-This will create a new directory and we call it in the scope of this
-presentation. An example of such a folder in Linux is . The root
-directory has the following structure:
+This will create a new directory named , and we call it the root
+directory in the scope of this document. For the sake of clarity, we do
+not write the full path for the directory. In practice, an example of a
+full path in Linux is . The root directory has the following structure:
 
 -   The directory contains the implementation of the injector and the
     dataset consisting of 2,600 artifacts:
 
-    -   : the Java implementation of the FOCUS injector.
+    -   : the Java implementation of the injector that provides input
+        for FOCUS.
 
     -   : a set of 2,600 M$_3$ models extracted by Rascal and ready to
-        be used with FOCUS;
+        be used with FOCUS.
+
+    -   : this folder contains the source implementation of FOCUS.
 
 -   The directory contains the ARFF injector and the sub-datasets of 500
     android apps that we used to evaluate PAM and FOCUS:
@@ -199,203 +253,123 @@ directory has the following structure:
     -   contains the datasets generated by varying the inject parameter
         on the initial dataset of 500 android apps.
 
--   The FOCUS metadata parsed for a dataset consisting of 2,600 Android
-    apps is stored in the folder. We acknowledge the original data
-    collected from the AndroidTimeMachine platform [@8595172].
+-   The FOCUS metadata coming from 2,600 Android apps is stored in the
+    folder. The canonical name of the app can be extracted from the
+    filename g\_$<$canonical-name$>$-dex2jar.jar.txt. We acknowledge the
+    original data collected from the AndroidTimeMachine
+    platform [@8595172].
 
--   The UP-Miner and PAM metadata parsed for a dataset consisting of 500
-    Android apps is stored in the folder. We acknowledge the original
-    data collected from the AndroidTimeMachine platform [@8595172].
+-   The UP-Miner and PAM metadata coming from 500 Android apps is stored
+    in the folder. The canonical name of the app can be extracted from
+    the file name g\_$<$canonical-name$>$-dex2jar.jar.txt.
 
-More information about the artifacts can be found in .
+-   is an Excel file to report the paper collection used to perform the
+    literature analysis. We investigate whether there is already any
+    effort devoted to studying and dealing with threats to RSSE
+    originating from malicious data. For further details, we refer the
+    interested readers to Section III.A and Section IV.A of the accepted
+    paper [@ASE2021].
 
-# Execute the experiments
+# Executing the experiments with FOCUS
 
-This section describes how to run FOCUS,PAM, and UP-Miner on the
-datasets using the configurations to reproduce the results presented in
-the paper.
+This section describes how to run FOCUS on the dataset using the
+configurations to reproduce the results presented in the paper.
 
-## Running Rascal to extract the metadata {#sec:arffExtractor}
+## Injecting fake APIs {#injecting-fake-apis}
 
-The tool and the process described in the following have been already
-developed and used in our recent work [@9359479].
-
-This section describes how to run the `Parsing` phase as illustrated in
-Figure [1](#fig:DataExtraction){reference-type="ref"
-reference="fig:DataExtraction"} using Rascal to generate metadata.
-
-::: {.tcolorbox}
-**NOTE**: For the sake of reproducibility, we report all the related
-activities to generate metadata using Rascal. However, we completely
-parsed the metadata needed as input for both FOCUS, UPMiner and PAM at
-your disposal. The tasks described in this section require a long
-computation time as well as knowledge about Rascal, and we strongly
-suggest using the metadata as it is. Therefore, it is advisable not to
-perform the executions presented in
-Section [5.1](#sec:arffExtractor){reference-type="ref"
-reference="sec:arffExtractor"}.
-:::
-
-The JAR libraries involved in this experiment can be found at . A
-snapshot of the related GitHub repositories is available online.[^3]
-
-Follow the instructions available at to install and configure the Rascal
-environment. Afterwards, go to the Rascal Console and import the main
-module:
-
-``` {#lst:importRascal .java backgroundcolor="\\color{lightgray}" label="lst:importRascal" language="Java" captionpos="t" escapechar="|"}
-import focus::corpus::ExtractMetadata;
-```
-
-Since the $MV_L$ and $MV_S$ datasets have been extracted from byte code,
-whereas the $SH_L$ and $SH_S$ datasets are mined directly from source
-code, the module provides two different ways to parse the datasets. To
-extract metadata from source code, is invoked using the following Rascal
-command. By default, it will read the GitHub repositories metadata
-stored in and output the results in the
-`FocusRascal/data/m3/ java-projects/` directory.[^4]
-
-``` {#lst:unzip .java backgroundcolor="\\color{lightgray}" label="lst:unzip" language="Java" captionpos="t"}
-processGithubRepos();
-```
-
-The other function, `processJARs(loc directory)` is used to create the
-M3 models from the JAR files contained in the specified directory. By
-default, it outputs the results in `FocusRascal/data/m3/jar-projects/`.
-The following command, for instance, parses all the JARs joined in this
-artifact submission (replacing with ):
-
-``` {#lst:sourceM3Rascal .java backgroundcolor="\\color{lightgray}" label="lst:sourceM3Rascal" language="Java" captionpos="t" escapechar="|"}
-processJARs(|file:///path/to/FOCUS/dataset/jars|);
-```
-
-For your convenience, we provide a Python script named to convert the
-input data used by FOCUS to be fed to PAM/UP-Miner. Run the following
-commands:[^5]
+We have a dedicated tool located in to inject fake APIs following the
+description in Section [2](#sec:Confs){reference-type="ref"
+reference="sec:Confs"}. Please run the following command to perform the
+injection.
 
 ``` {backgroundcolor="\\color{lightgray}" captionpos="t"}
-$ cd <experiment_root>/tools/PAM
-    $ python3 parsingARFF.py <experiment_root>/dataset/SH_S/ <experiment_root>/dataset/PAM/SH_S/
+mvn compile exec:java -Dexec.mainClass="it.univaq.disim.seagroup.FOCUS.Runner"   -Dexec.args="-alpha 0.5 -beta 0.4 -omega 2 -src APIRecSys-AML/initial_focus_dataset/ -out APIRecSys-AML/FOCUS/Evaluation/"
 ```
 
-[ $\blacktriangleright$*Here, How to run the python script to extract
-the PAM/UP-Miner metadata.*$\blacktriangleleft$ ]{style="color: cyan"}
-
-## Inject fake APIs on Focus datasets
-
-[ $\blacktriangleright$*Fill it*$\blacktriangleleft$
-]{style="color: gray"}
-
-## Inject fake APIs on PAM/UP-Miner datasets
-
-Since both PAM and UP-Miner rely on ARFF file format to perform the
-recommendations, we develop a Python script that injects APIs function
-call to the initial project file using *liac-arff*, a tailored library
-to open and manipulate ARFF[^6]. The `main_arff` function opens the
-project file and injects one or two fake APIs for a certain number of
-method declarations according to the configurations shown in Table
-[\[tab:Confs\]](#tab:Confs){reference-type="ref" reference="tab:Confs"}.
-For instance, you can inject two fake APIs into 40% of ARFF project
-files as follows:
-
-``` {backgroundcolor="\\color{lightgray}" captionpos="t"}
-$ cd <experiment_root>/UPMiner_PAM/injector/
-    $ pip install liac-arff
-    $ pipi install click
-    $ python3 injector.py --root=../../ASE2021-Appendix/initial_dataset --dest=./dest/ --beta=40 --fake_api=org.fake1 --fake_api2=org.fake2
-```
-
-Even though such kind of attacks is simple, we shown in the paper that
-can compromise the quality of the recommendations. By looking at the
-parameters defined in Section [3.2](#sec:Confs){reference-type="ref"
-reference="sec:Confs"} we used `–fake_api` and `–fake_api2` as $\Omega$
-values. The $\beta$ value is specified as command line parameter.
-Finally $\alpha$ \...
+Once you run this command, the APIs will be injected to the original
+projects and all the data will be copied to the folder.
 
 ## Running FOCUS {#sec:run_focus}
 
-Three parameters must be fed to FOCUS: the dataset (as shown
-Table [\[tab:Confs\]](#tab:Confs){reference-type="ref"
-reference="tab:Confs"}), the configuration (as shown in
-Table [\[tab:Confs\]](#tab:Confs){reference-type="ref"
-reference="tab:Confs"}), and the cross-validation method (10-fold or
-leave-one-out). These parameters can be specified in the file . The
-default file runs 10-fold cross-validation on the $SH_S$ dataset using
-configuration `C1.1`, and it is written as follows:
-
-    [backgroundcolor = \color{lightgray},language=,captionpos=t]
-     # Dataset directory (SH_L, SH_S, MV_L, MV_S)
-     sourceDirectory=../../dataset/SH_S/
-        
-     # Configuration (C1.1, C1.2, C2.1, C2.2)
-     configuration=C1.1
-        
-     # Validation type (ten-fold, leave-one-out)
-     validation=ten-fold
-
-To run FOCUS using the file, navigate to the directory containing the
-FOCUS's implementation and execute it through Maven as given below:
+To run FOCUS, please navigate to the containing the stand alone FOCUS
+implementation and execute it through the following Maven command:
 
 ``` {backgroundcolor="\\color{lightgray}" captionpos="t"}
-$ cd <experiment_root>/tools/Focus
- $ mvn compile exec:java -Dexec.mainClass=org.focus.Runner
+$ cd APIRecSys-AML/FOCUS/tool/FOCUS
+ $ mvn compile exec:java -Dexec.mainClass="it.univaq.disim.seagroup.FOCUS.Runner"   -Dexec.args="-src <injected_dataset>"
 ```
 
-You need to replace with your actual root directory.
+where is the path of the dataset injected by fake APIs.
 
-The final results of the evaluation including success rate, precision,
-and recall for different cut-off values $N=\{1,5,10,15,20\}$ are printed
+The final results of the evaluation including hit ratios is printed
 directly in the console. Intermediate results are stored in the
-evaluation folder of the corresponding dataset's directory. For
-instance, the results for the $SH_L$ dataset will be saved in . In this
-folder, there are ten sub-folders, i.e.,, ,\..., . Each of them stores
-the evaluation results of one fold using the following folders:
+evaluation folder of the corresponding dataset's directory.
 
--   : the folder stores the recommended real code snippets.
+# Executing the experiments with UP-Miner and PAM
 
--   : it contains all the invocations extracted as ground-truth data.
+Similar to the experiments with FOCUS, we test UP-Miner and PAM with
+manipulated data. Section [6.1](#sec:InjectorPAM){reference-type="ref"
+reference="sec:InjectorPAM"} describes how to run the API injector, and
+Section [6.2](#sec:run_upminer_pam){reference-type="ref"
+reference="sec:run_upminer_pam"} gives the instructions to run both
+tools.
 
--   : the list of recommended invocations for each project is stored in
-    this folder.
+## Injecting fake APIs {#sec:InjectorPAM}
 
--   : the folder contains the similarity scores for each project.
+Since both PAM and UP-Miner rely on ARFF file format to perform the
+recommendations, we develop a Python script that injects API calls to
+the initial project file using *liac-arff*, a tailored library to open
+and manipulate ARFF[^5]. The `main_arff` function opens the project file
+and injects one or two fake APIs for a certain number of method
+declarations according to the configurations defined in
+Section [2](#sec:Confs){reference-type="ref" reference="sec:Confs"}. For
+instance, you can inject two fake APIs into 40% of methods belonging to
+5% of projects, i.e.,$\Omega$=2, $\beta$=40, and $\alpha$=5 by running
+the following command:
 
--   : the folder stores the invocations used as query.
+``` {backgroundcolor="\\color{lightgray}" captionpos="t"}
+$ cd APIRecSys-AML/UPMiner_PAM/injector/
+    $ pip install liac-arff
+    $ pip install click
+    $ python3 injector.py --root=../../initial_upminer_pam_dataset/ --dest=./dest --beta=40 --alpha=5 --fake_api=org.fake1 --fake_api2=org.fake2
+```
 
-## Running PAM and UP-Miner
+Though such kind of attacks is simple, they can compromise the quality
+of the final recommendations as shown in the paper [@ASE2021].
 
-To evaluate the impact of adversarial attacks, we runned PAM and
-UP-Miner by following the guide provided at
+## Running PAM and UP-Miner {#sec:run_upminer_pam}
+
+To evaluate the impact of adversarial attacks, we run PAM and UP-Miner
+as described in the original supporting GitHub repository
 <https://github.com/mast-group/api-mining>.
 
-Then execute PAM on the given input data as follows:
+Please execute the following command to clone and run PAM and UP-Miner
+on the injected input data:
 
 ``` {backgroundcolor="\\color{lightgray}" captionpos="t" escapechar="|"}
-$ git clone git@github.com:mast-group/api-mining.git <repo_root>
-    $ cd <PAM_root>
+$ git clone git@github.com:mast-group/api-mining.git APIRecSys-AML/UPMiner_PAM/
+    $ cd APIRecSys-AML/UPMiner_PAM/
     $ mvn package
-    $ for f in <experiment_root>/<injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar apimining.pam.main.PAM -f $f; done
-    $ for f in <experiment_root>/<injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar pimining.upminer.UPMiner -f $f; done
+    $ for f in <injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar apimining.pam.main.PAM -f $f; done
+    $ for f in <injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar pimining.upminer.UPMiner -f $f; done
 ```
 
-where is the directory where you have cloned the repository and is the
-path of the dataset injected by fake APIs. In our case, we set they to .
-and respectively.
+where is the path of the dataset injected by fake APIs.
 
 # Troubleshooting {#troubleshooting .unnumbered}
 
 If you encounter any problem during the evaluation, please do not
-hesitate to contact us through one of the email addresses given above.
+hesitate to contact us through one of the following emails:
+<phuong.nguyen@univaq.it>, <juri.dirocco@univaq.it>,
+<claudio.disipio@graduate.univaq.it>.
 
-[^1]: <https://play.google.com/>
+[^1]: Such a manipulation has been recently revealed
+    <https://zd.net/3bg3CK9>.
 
-[^2]: <https://apkpure.com/>
+[^2]: <https://play.google.com/>
 
-[^3]: <https://drive.google.com/open?id=1hQkh85XY4c0sh788G9g8B0yi5stJxSwc>
+[^3]: <https://apkpure.com/>
 
-[^4]: More information can be found at
+[^4]: <https://mdegroup.github.io/FOCUS-Appendix/>
 
-[^5]: The execution of the commands necessitates python3 which is
-    available at <https://www.python.org/download/releases/3.0/>
-
-[^6]: <https://pythonhosted.org/liac-arff/>
+[^5]: <https://pythonhosted.org/liac-arff/>
