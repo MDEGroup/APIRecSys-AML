@@ -280,7 +280,7 @@ To run FOCUS, please navigate to the containing the stand alone FOCUS
 implementation and execute it through the following Maven command:
 
 ``` 
-$ cd APIRecSys-AML/FOCUS/tool/FOCUS
+$ cd APIRecSys-AML/FOCUS/ASE2021-FOCUS/
 $ mvn compile exec:java -Dexec.mainClass="it.univaq.disim.seagroup.FOCUS.Runner"   -Dexec.args="-src <injected_dataset>"
 ```
 
