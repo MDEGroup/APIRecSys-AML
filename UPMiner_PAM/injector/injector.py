@@ -1,6 +1,6 @@
 from arff import ArffEncoder, ArffDecoder
 
-import os
+import os, shutil
 import click
 
 def generate_fake_content(declaration,api_fake):
@@ -36,33 +36,45 @@ def inject_PAM(arff_obj, half_decl,api, api2):
 @click.option('--root', prompt = 'Path dataset')
 @click.option('--dest', prompt = 'Destination path ')
 @click.option('--beta', prompt = 'Beta is the ratio of methods in a project getting fake APIs', type=int)
+@click.option('--alpha', prompt='Alpha is the ration of injected projects',type=int)
 @click.option('--fake_api', prompt = 'The name of the first fake api')
 @click.option('--fake_api2', prompt = 'The name of the second fake api')
-def main_arff(root, dest, beta, fake_api, fake_api2 ):
+def main_arff(root, dest, beta, alpha, fake_api, fake_api2 ):
+    tot = len(os.listdir(root))
+    inj = int((tot*alpha)/100)
+
+    count= 0
+
     for f in os.listdir(root):
         try:
-            file = open(root+f,'r', encoding='utf-8', errors='ignore')
 
-            decoder = ArffDecoder()
+            if count <= inj:
+                file = open(root+f,'r', encoding='utf-8', errors='ignore')
 
-            arff_obj= decoder.decode(file)
-            half_decl = int((len(arff_obj['data'])*beta)/100)
+                decoder = ArffDecoder()
 
-            list_fake = inject_PAM(arff_obj, half_decl,fake_api, fake_api2)
+                arff_obj= decoder.decode(file)
+                half_decl = int((len(arff_obj['data'])*beta)/100)
 
-            obj ={'attributes': [
-                             (u'fqCaller', u'STRING'),
-                             (u'fqCalls', u'STRING'),
-                             ],
-             'data':    list_fake + arff_obj['data'],
-             'relation': u'fake'}
-            encoder = ArffEncoder()
-            content = encoder.encode(obj=obj)
+                list_fake = inject_PAM(arff_obj, half_decl,fake_api, fake_api2)
 
-            with open(os.path.join(dest,f),'w',encoding='utf-8',errors='ignore') as res:
-                res.write(str(content))
+                obj ={'attributes': [
+                                 (u'fqCaller', u'STRING'),
+                                 (u'fqCalls', u'STRING'),
+                                 ],
+                 'data':    list_fake + arff_obj['data'],
+                 'relation': u'fake'}
+                encoder = ArffEncoder()
+                content = encoder.encode(obj=obj)
+
+                with open(os.path.join(dest,f),'w',encoding='utf-8',errors='ignore') as res:
+                    res.write(str(content))
+
+            else:
+               shutil.copy(os.path.join(root,f), os.path.join(dest,f))
         except Exception as e:
             print(f)
+        count+=1
 
 def hit_ratio(file, num_rec, fake_1, fake_2):
     with open(file, 'r', encoding='utf-8', errors='ignore') as arff:
@@ -97,4 +109,3 @@ def main_hit(path_results, fake_1, fake_2):
 
 if __name__ == '__main__':
     main_arff()
-
