@@ -268,7 +268,7 @@ description in Section [2]. Please run the following command to perform the
 injection.
 
 ``` 
-$ mvn compile exec:java -Dexec.mainClass="it.univaq.disim.seagroup.FOCUS.Runner"   -Dexec.args="-alpha 0.5 -beta 0.4 -omega 2 -src APIRecSys-AML/initial_focus_dataset/ -out APIRecSys-AML/FOCUS/Evaluation/"
+$ mvn compile exec:java -Dexec.mainClass="ase2021.aml.apirecsys.Runner"   -Dexec.args="-alpha 0.4 -beta 1 -omega 1 -src ../../../initial_focus_dataset/"
 ```
 
 Once you run this command, the APIs will be injected to the original
