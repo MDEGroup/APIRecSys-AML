@@ -1,6 +1,9 @@
 package ase2021.aml.apirecsys;
 
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
@@ -22,15 +25,12 @@ public class Runner {
 		numOfFolds = 10;
 	}
 
-
-
-
-
-	public void populateFakeProjects(double alpha, double gamma, int num, String src, String output) throws IOException {
-
+	public void populateFakeProjects(double alpha, double gamma, int num, String src, String output)
+			throws IOException {
+		numOfFolds = 10;
+		geretateFolders(output, numOfFolds);
 		System.out.println("Number of projects: " + Integer.toString(numOfProjects));
 
-		numOfFolds = 10;
 
 		int step = (int) numOfProjects / numOfFolds;
 
@@ -40,6 +40,39 @@ public class Runner {
 			FakeProjectCreator creator = new FakeProjectCreator(src, testingStartPos, testingEndPos);
 			creator.insertFakeAPIs(alpha, gamma, num, output);
 		}
+	}
+
+	private void geretateFolders(String output, int numOfFold) {
+		for (int i = 0; i < numOfFold; i++) {
+			Path roundFolder = Paths.get(output, "Round" + i);
+			try {
+			if (!Files.exists(roundFolder))
+					Files.createDirectories(roundFolder);
+			Path tmpTruth = Paths.get(roundFolder.toString(), "GroundTruth");
+			if (!Files.exists(tmpTruth))
+				Files.createDirectories(tmpTruth);
+			
+			tmpTruth = Paths.get(roundFolder.toString(), "PrecisionRecall");
+			if (!Files.exists(tmpTruth))
+				Files.createDirectories(tmpTruth);
+			
+			tmpTruth = Paths.get(roundFolder.toString(), "Recommendations");
+			if (!Files.exists(tmpTruth))
+				Files.createDirectories(tmpTruth);
+			
+			tmpTruth = Paths.get(roundFolder.toString(), "Similarities");
+			if (!Files.exists(tmpTruth))
+				Files.createDirectories(tmpTruth);
+			
+			tmpTruth = Paths.get(roundFolder.toString(), "TestingInvocations");
+			if (!Files.exists(tmpTruth))
+				Files.createDirectories(tmpTruth);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+
 	}
 
 	public static void main(String[] args) {
@@ -76,7 +109,7 @@ public class Runner {
 				formatter.printHelp("Runner", options);
 				throw new Exception();
 			}
-			
+
 			if (line.hasOption(omega_option.getOpt())) {
 				omega = Integer.parseInt(line.getOptionValue(omega_option.getOpt()));
 			} else {
@@ -89,17 +122,17 @@ public class Runner {
 				formatter.printHelp("Runner", options);
 				throw new Exception();
 			}
-			
+
 			if (line.hasOption(out_option.getOpt())) {
 				out = line.getOptionValue(out_option.getOpt());
 			} else {
 				formatter.printHelp("Runner", options);
 				throw new Exception();
 			}
-			
-			Runner runner = new Runner(src);			
-    		runner.populateFakeProjects(alfa, beta, omega, src, out);		
-    		
+
+			Runner runner = new Runner(src);
+			runner.populateFakeProjects(alfa, beta, omega, src, out);
+
 		} catch (Exception e) {
 			formatter.printHelp("Runner", options);
 		}
