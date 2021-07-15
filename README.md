@@ -59,16 +59,14 @@ An example of malicious APIs is available in this link:
 
 
 ![Manipulating GitHub
-repositories.](./supporting_materials.fld/PushAttacks.png){#fig:PushAttacks
-width="0.80\\linewidth"}
+repositories.](./supporting_materials.fld/PushAttacks.png)
 
 To simplify the evaluation, in the scope of our work [@ASE2021], we
 inject APIs at the metadata level, i.e., after the data that has been
 parsed to a processable format. This is for experimental purposes only,
 since in reality we need to seed data directly to projects and upload
 them to GitHub as shown in
-Fig. [1](#fig:PushAttacks){reference-type="ref"
-reference="fig:PushAttacks"}. This is outside the focus of our paper,
+Fig. [1]. This is outside the focus of our paper,
 and we leave it for future work.
 
 The artifacts include *(i)* two API injectors, one for FOCUS and the
