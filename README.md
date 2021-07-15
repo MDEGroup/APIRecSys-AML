@@ -104,8 +104,7 @@ the attacks are successful in the field.
 
 # Systems and datasets
 
-In Section [3.1](#sec:RecSys){reference-type="ref"
-reference="sec:RecSys"} we briefly introduce the systems considered in
+In Section [3.1] we briefly introduce the systems considered in
 the evaluation, namely UP-Miner [@Wang2013Mining],
 PAM [@Fowkes:2016:PPA:2950290.2950319], and
 FOCUS [@Nguyen:2019:FRS:3339505.3339636]. Meanwhile in
@@ -113,10 +112,9 @@ Section [3.2](#sec:Dataset){reference-type="ref"
 reference="sec:Dataset"}, we present the dataset exploited for the
 experiments. The software and hardware configurations for the testing
 platform are specified in
-Section [3.3](#sec:Platform){reference-type="ref"
-reference="sec:Platform"}.
+Section [3.3].
 
-## Considered recommender systems {#sec:RecSys}
+## Considered recommender systems
 
 | System                                    | Working mechanism                                                                                                                                                                                                                                                                       | Potential risks                                                                                                                                                                                                                        |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -145,7 +143,7 @@ Table [\[tab:summary\]](#tab:summary){reference-type="ref"
 reference="tab:summary"} gives more information on the three tools
 considered in our evaluation.
 
-## Datasets {#sec:Dataset}
+## Datasets 
 
 We made use of a dataset which was curated through our recent
 work [@9359479], and the collection process is summarized as shown in
@@ -185,7 +183,7 @@ as knowledge about Rascal, and we strongly suggest using the metadata as
 it is.
 
 
-## Testing platform {#sec:Platform}
+## Testing platform 
 
 Table [\[tab:Requirements\]](#tab:Requirements){reference-type="ref"
 reference="tab:Requirements"} specifies the hardware and software
@@ -266,8 +264,7 @@ configurations to reproduce the results presented in the paper.
 ## Injecting fake APIs {#injecting-fake-apis}
 
 We have a dedicated tool located in to inject fake APIs following the
-description in Section [2](#sec:Confs){reference-type="ref"
-reference="sec:Confs"}. Please run the following command to perform the
+description in Section [2]. Please run the following command to perform the
 injection.
 
 ``` 
@@ -277,7 +274,7 @@ mvn compile exec:java -Dexec.mainClass="it.univaq.disim.seagroup.FOCUS.Runner"  
 Once you run this command, the APIs will be injected to the original
 projects and all the data will be copied to the folder.
 
-## Running FOCUS {#sec:run_focus}
+## Running FOCUS 
 
 To run FOCUS, please navigate to the containing the stand alone FOCUS
 implementation and execute it through the following Maven command:
@@ -296,13 +293,12 @@ evaluation folder of the corresponding dataset's directory.
 # Executing the experiments with UP-Miner and PAM
 
 Similar to the experiments with FOCUS, we test UP-Miner and PAM with
-manipulated data. Section [6.1](#sec:InjectorPAM){reference-type="ref"
-reference="sec:InjectorPAM"} describes how to run the API injector, and
-Section [6.2](#sec:run_upminer_pam){reference-type="ref"
+manipulated data. Section [6.1] describes how to run the API injector, and
+Section [6.2] {reference-type="ref"
 reference="sec:run_upminer_pam"} gives the instructions to run both
 tools.
 
-## Injecting fake APIs {#sec:InjectorPAM}
+## Injecting fake APIs 
 
 Since both PAM and UP-Miner rely on ARFF file format to perform the
 recommendations, we develop a Python script that injects API calls to
@@ -310,7 +306,7 @@ the initial project file using *liac-arff*, a tailored library to open
 and manipulate ARFF[^5]. The `main_arff` function opens the project file
 and injects one or two fake APIs for a certain number of method
 declarations according to the configurations defined in
-Section [2](#sec:Confs){reference-type="ref" reference="sec:Confs"}. For
+Section [2]. For
 instance, you can inject two fake APIs into 40% of methods belonging to
 5% of projects, i.e.,$\Omega$=2, $\beta$=40, and $\alpha$=5 by running
 the following command:
@@ -325,7 +321,7 @@ $ python3 injector.py --root=../../initial_upminer_pam_dataset/ --dest=./dest --
 Though such kind of attacks is simple, they can compromise the quality
 of the final recommendations as shown in the paper [@ASE2021].
 
-## Running PAM and UP-Miner {#sec:run_upminer_pam}
+## Running PAM and UP-Miner 
 
 To evaluate the impact of adversarial attacks, we run PAM and UP-Miner
 as described in the original supporting GitHub repository
