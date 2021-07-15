@@ -75,7 +75,7 @@ the following sections, we describe the systems and datasets used in the
 evaluation. Moreover, we also give more details on the steps needed to
 inject fake APIs at the metadata levels, and to conduct the experiments.
 
-# Injecting fake APIs {#sec:Confs}
+# Injecting fake APIs 
 
 To boost up the popularity of an API pattern, the fake/malicious APIs
 can be seeded into a significant number of declarations, for each
@@ -118,15 +118,11 @@ reference="sec:Platform"}.
 
 ## Considered recommender systems {#sec:RecSys}
 
-::: {.table*}
-  **System**                                          **Working mechanism**                                                                                                                                                                                                                                                                                     **Potential risks**
-  --------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  UP-Miner[@Wang2013Mining]                           UP-Miner works on the basis of clustering, is dependent on the similarity among API sequences. It computing. In other words, UP-Miner computes similarity at the sequence level, i.e., APIs that are usually found together using BIDE. Finally, it clusters to group frequent sequences into patterns.   Similar to MAPO, as UP-Miner depends on BIDE, an attacker can inject malicious code in the training in projects disguised as similar to trick UP-Miner. In this way, it may recommend to developers harmful snippets.
-  PAM [@Fowkes:2016:PPA:2950290.2950319]              PAM defines a distribution over all possible API patterns in client code, based on a set of patterns. It uses a generative model to infer the most probable patterns. The system generates candidates by relying on the highest support first rule.                                                       The system recommends API calls that commonly appear in different code snippets. Thus, push and nuke attacks could modify the final ranking obtained by the tool, i.e., operating on terms' occurrences to favor or defame a certain API pattern.
-  FOCUS[@Nguyen:2019:FRS:3339505.3339636; @9359479]   FOCUS suggests APIs by encoding projects in a tensor and using a collaborative-filtering technique to deliver the list of APIs. Eventually, it mines APIs and snippets from similar projects with a graph representation.                                                                                 Due to the internal design, the system is susceptible to poisoning attacks, i.e., an adversary can create fake similar projects containing toxic APIs and pose them as legitimate to deceiving FOCUS into recommending these calls/snippets.
-
-[\[tab:summary\]]{#tab:summary label="tab:summary"}
-:::
+| System                                    | Working mechanism                                                                                                                                                                                                                                                                       | Potential risks                                                                                                                                                                                                                        |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| UP-Mine                        | \UM works on the basis of clustering, is dependent on the similarity among API sequences. It computing. In other words, UP-Miner computes similarity at the sequence level, \ie APIs that are usually found together using BIDE. Finally, it clusters to group frequent sequences into patterns. | Similar to MAPO, as \UM depends on BIDE, an attacker can inject malicious code in the training in projects disguised as similar to trick \UM. In this way, it may recommend to developers harmful snippets.                                     |
+| PAM          | PAM defines a distribution over all possible API patterns in client code, based on a set of patterns. It uses a generative model to infer the most probable patterns. The system generates candidates by relying on the highest support first rule.                                              | The system recommends API calls that commonly appear in different code snippets. Thus, push and nuke attacks could modify the final ranking obtained by the tool, \ie operating on terms' occurrences to favor or defame a certain API pattern. |
+| FOCUS  | \FC suggests APIs by encoding projects in a tensor and using a collaborative-filtering technique to deliver the list of APIs. Eventually, it mines APIs and snippets from similar projects with a graph representation.                                                                          | Due to the internal design, the system is susceptible to poisoning attacks, \ie an adversary can create fake similar projects containing toxic APIs and pose them as legitimate to deceiving \FC into recommending these calls/snippets.   
 
 In the evaluation, we examined the resilience of
 UP-Miner [@Wang2013Mining], PAM [@Fowkes:2016:PPA:2950290.2950319], and
@@ -153,8 +149,7 @@ considered in our evaluation.
 
 We made use of a dataset which was curated through our recent
 work [@9359479], and the collection process is summarized as shown in
-Fig. [2](#fig:DataExtraction){reference-type="ref"
-reference="fig:DataExtraction"}. First, we searched for open source
+Fig. [2]. First, we searched for open source
 projects using the *AndroidTimeMachine* platform [@8595172], which
 retrieves apps and their source code from Google Play[^2] and GitHub.
 Second, APK files are fetched from the Apkpure platform,[^3] using a
@@ -167,8 +162,7 @@ kindly referred to the replication package of our recent work[^4]. The
 M$_3$ models are stored in folder.
 
 ![The data extraction
-process.](figs/DataExtraction.pdf){#fig:DataExtraction
-width="0.68\\columnwidth"}
+process.](supporting_materials.fld/DataExtraction.png)
 
 We then inserted fake APIs to random projects and declarations,
 attempting to simulate real-world scenarios where APIs are dispersed
@@ -182,14 +176,14 @@ consider a subset consisting of 500 apps. For FOCUS, the whole 2,600
 apps are used since the system is capable of handling well a large
 amount of data.
 
-::: {.tcolorbox}
+
 **NOTE**: This section introduces the data extraction process, for the
 sake of reproducibility. However, we completely parsed the metadata
 needed as input for the three recommender systems at your disposal. The
 tasks described in this section require a long computation time as well
 as knowledge about Rascal, and we strongly suggest using the metadata as
 it is.
-:::
+
 
 ## Testing platform {#sec:Platform}
 
@@ -198,18 +192,14 @@ reference="tab:Requirements"} specifies the hardware and software
 requirements that a testing system needs to meet in order to be eligible
 for the execution of the artifacts.
 
-::: {.table*}
-  **Name**           **Requirements**
-  ------------------ -----------------------
-  RAM                $\geq$ 8GB
-  Operating System   A modern Linux system
-  Java JRE           $\geq$ Java 8
-  Apache Maven       $\geq$ Maven 3.0
-  Python             $\geq$ 3.7
-  Git                $\geq$ 2.0
-
-[\[tab:Requirements\]]{#tab:Requirements label="tab:Requirements"}
-:::
+| Name    | Requirements                |
+|------------------|---------------------------------------|
+| RAM              | $\geq$ 8GB                            |
+| Operating System | A modern Linux system\footnotemark[1] |
+| Java JRE         | $\geq$ Java 8                         |
+| Apache Maven     | $\geq$ Maven 3.0                      |
+| Python           | $\geq$ 3.7                            |
+| Git              | $\geq$ 2.0                            |
 
 We developed and tested the tools involved in the experiments on
 different Linux systems, although it should work without any issue on
@@ -280,7 +270,7 @@ description in Section [2](#sec:Confs){reference-type="ref"
 reference="sec:Confs"}. Please run the following command to perform the
 injection.
 
-``` {backgroundcolor="\\color{lightgray}" captionpos="t"}
+``` 
 mvn compile exec:java -Dexec.mainClass="it.univaq.disim.seagroup.FOCUS.Runner"   -Dexec.args="-alpha 0.5 -beta 0.4 -omega 2 -src APIRecSys-AML/initial_focus_dataset/ -out APIRecSys-AML/FOCUS/Evaluation/"
 ```
 
@@ -292,9 +282,9 @@ projects and all the data will be copied to the folder.
 To run FOCUS, please navigate to the containing the stand alone FOCUS
 implementation and execute it through the following Maven command:
 
-``` {backgroundcolor="\\color{lightgray}" captionpos="t"}
+``` 
 $ cd APIRecSys-AML/FOCUS/tool/FOCUS
- $ mvn compile exec:java -Dexec.mainClass="it.univaq.disim.seagroup.FOCUS.Runner"   -Dexec.args="-src <injected_dataset>"
+$ mvn compile exec:java -Dexec.mainClass="it.univaq.disim.seagroup.FOCUS.Runner"   -Dexec.args="-src <injected_dataset>"
 ```
 
 where is the path of the dataset injected by fake APIs.
@@ -325,11 +315,11 @@ instance, you can inject two fake APIs into 40% of methods belonging to
 5% of projects, i.e.,$\Omega$=2, $\beta$=40, and $\alpha$=5 by running
 the following command:
 
-``` {backgroundcolor="\\color{lightgray}" captionpos="t"}
+``` 
 $ cd APIRecSys-AML/UPMiner_PAM/injector/
-    $ pip install liac-arff
-    $ pip install click
-    $ python3 injector.py --root=../../initial_upminer_pam_dataset/ --dest=./dest --beta=40 --alpha=5 --fake_api=org.fake1 --fake_api2=org.fake2
+$ pip install liac-arff
+$ pip install click
+$ python3 injector.py --root=../../initial_upminer_pam_dataset/ --dest=./dest --beta=40 --alpha=5 --fake_api=org.fake1 --fake_api2=org.fake2
 ```
 
 Though such kind of attacks is simple, they can compromise the quality
@@ -346,10 +336,10 @@ on the injected input data:
 
 ``` {backgroundcolor="\\color{lightgray}" captionpos="t" escapechar="|"}
 $ git clone git@github.com:mast-group/api-mining.git APIRecSys-AML/UPMiner_PAM/
-    $ cd APIRecSys-AML/UPMiner_PAM/
-    $ mvn package
-    $ for f in <injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar apimining.pam.main.PAM -f $f; done
-    $ for f in <injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar pimining.upminer.UPMiner -f $f; done
+$ cd APIRecSys-AML/UPMiner_PAM/
+$ mvn package
+$ for f in <injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar apimining.pam.main.PAM -f $f; done
+$ for f in <injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar pimining.upminer.UPMiner -f $f; done
 ```
 
 where is the path of the dataset injected by fake APIs.
