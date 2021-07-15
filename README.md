@@ -7,8 +7,8 @@ bibliography:
 title: "[**README: How to experiment the artifacts**]{.sans-serif}"
 ---
 
-::: {.center}
-ABSTRACT\
+
+# Abstract
 
 This document provides instructions on how to get the datasets, to
 obtain, install, as well as to execute the tools for replicating the
@@ -51,12 +51,12 @@ accounts to star, fork, and watch malicious repositories to increase
 their credibility/visibility, thus exposing them better to search
 engines.[^1]
 
-::: {.tcolorbox}
+
 **NOTE**: We consider an API malicious if it causes fatal errors, no
 matter where it comes from, i.e., either a legitimate or a fake library.
 An example of malicious APIs is available in this link:
 <https://bit.ly/31R760l>.
-:::
+
 
 ![Manipulating GitHub
 repositories.](figs/PushAttacks.pdf){#fig:PushAttacks
