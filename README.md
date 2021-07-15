@@ -59,7 +59,7 @@ An example of malicious APIs is available in this link:
 
 
 ![Manipulating GitHub
-repositories.](figs/PushAttacks.pdf){#fig:PushAttacks
+repositories.](./supporting_materials.fld/PushAttacks.png){#fig:PushAttacks
 width="0.80\\linewidth"}
 
 To simplify the evaluation, in the scope of our work [@ASE2021], we
