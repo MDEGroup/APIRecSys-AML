@@ -1,5 +1,8 @@
 package ase2021.aml.apirecsys;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -20,9 +23,34 @@ public class Runner {
 	public Runner(String src) {
 
 		DataReader reader = new DataReader();
+
 		String inputFile = "List.csv";
-		numOfProjects = reader.getNumberOfProjects(src + inputFile);
+		Path listPaths = Paths.get(src, inputFile);
+		
+		numOfProjects = reader.getNumberOfProjects(listPaths.toString());
 		numOfFolds = 10;
+	}
+
+	private void createListFile(String src) {
+		File dir = new File(src);
+		File[] directoryListing = dir.listFiles();
+		if (directoryListing != null) {
+			try(BufferedWriter writer = new BufferedWriter(new FileWriter(Paths.get(src, "List.csv").toFile()))) {
+				for (File child : directoryListing) {
+					if(!child.getName().equals("List.csv") && !child.getName().startsWith("Round"))
+						writer.write(child.getName() + "\n");
+				}
+			}
+			catch(Exception e) {
+				
+			}
+		} else {
+			// Handle the case where dir is not really a directory.
+			// Checking dir.isDirectory() above would not be sufficient
+			// to avoid race conditions with another process that deletes
+			// directories.
+		}
+
 	}
 
 	public void populateFakeProjects(double alpha, double gamma, int num, String src, String output)
@@ -30,7 +58,6 @@ public class Runner {
 		numOfFolds = 10;
 		geretateFolders(output, numOfFolds);
 		System.out.println("Number of projects: " + Integer.toString(numOfProjects));
-
 
 		int step = (int) numOfProjects / numOfFolds;
 
@@ -40,33 +67,34 @@ public class Runner {
 			FakeProjectCreator creator = new FakeProjectCreator(src, testingStartPos, testingEndPos);
 			creator.insertFakeAPIs(alpha, gamma, num, output);
 		}
+		createListFile(output);
 	}
 
 	private void geretateFolders(String output, int numOfFold) {
 		for (int i = 0; i < numOfFold; i++) {
 			Path roundFolder = Paths.get(output, "Round" + i);
 			try {
-			if (!Files.exists(roundFolder))
+				if (!Files.exists(roundFolder))
 					Files.createDirectories(roundFolder);
-			Path tmpTruth = Paths.get(roundFolder.toString(), "GroundTruth");
-			if (!Files.exists(tmpTruth))
-				Files.createDirectories(tmpTruth);
-			
-			tmpTruth = Paths.get(roundFolder.toString(), "PrecisionRecall");
-			if (!Files.exists(tmpTruth))
-				Files.createDirectories(tmpTruth);
-			
-			tmpTruth = Paths.get(roundFolder.toString(), "Recommendations");
-			if (!Files.exists(tmpTruth))
-				Files.createDirectories(tmpTruth);
-			
-			tmpTruth = Paths.get(roundFolder.toString(), "Similarities");
-			if (!Files.exists(tmpTruth))
-				Files.createDirectories(tmpTruth);
-			
-			tmpTruth = Paths.get(roundFolder.toString(), "TestingInvocations");
-			if (!Files.exists(tmpTruth))
-				Files.createDirectories(tmpTruth);
+				Path tmpTruth = Paths.get(roundFolder.toString(), "GroundTruth");
+				if (!Files.exists(tmpTruth))
+					Files.createDirectories(tmpTruth);
+
+				tmpTruth = Paths.get(roundFolder.toString(), "PrecisionRecall");
+				if (!Files.exists(tmpTruth))
+					Files.createDirectories(tmpTruth);
+
+				tmpTruth = Paths.get(roundFolder.toString(), "Recommendations");
+				if (!Files.exists(tmpTruth))
+					Files.createDirectories(tmpTruth);
+
+				tmpTruth = Paths.get(roundFolder.toString(), "Similarities");
+				if (!Files.exists(tmpTruth))
+					Files.createDirectories(tmpTruth);
+
+				tmpTruth = Paths.get(roundFolder.toString(), "TestingInvocations");
+				if (!Files.exists(tmpTruth))
+					Files.createDirectories(tmpTruth);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -80,7 +108,6 @@ public class Runner {
 		Option beta_option = new Option("beta", true, "The beta value. It is an double value.");
 		Option omega_option = new Option("omega", true, "The omega value. It is an integer value.");
 		Option src_option = new Option("src", true, "The soruce folder. It is an exisiting path.");
-		Option out_option = new Option("out", true, "The output folder. It is an existing path.");
 		final CommandLineParser parser = new GnuParser();
 		HelpFormatter formatter = new HelpFormatter();
 		Options options = new Options();
@@ -88,14 +115,13 @@ public class Runner {
 		options.addOption(beta_option);
 		options.addOption(omega_option);
 		options.addOption(src_option);
-		options.addOption(out_option);
 		try {
 			final CommandLine line = parser.parse(options, args);
 			double alfa = 0;
 			double beta = 0;
 			int omega = 0;
+			String out;
 			String src = "";
-			String out = "";
 			if (line.hasOption(alpha_option.getOpt())) {
 				alfa = Double.parseDouble(line.getOptionValue(alpha_option.getOpt()));
 			} else {
@@ -118,17 +144,13 @@ public class Runner {
 			}
 			if (line.hasOption(src_option.getOpt())) {
 				src = line.getOptionValue(src_option.getOpt());
+				out = src;
 			} else {
 				formatter.printHelp("Runner", options);
 				throw new Exception();
 			}
 
-			if (line.hasOption(out_option.getOpt())) {
-				out = line.getOptionValue(out_option.getOpt());
-			} else {
-				formatter.printHelp("Runner", options);
-				throw new Exception();
-			}
+
 
 			Runner runner = new Runner(src);
 			runner.populateFakeProjects(alfa, beta, omega, src, out);
