@@ -70,11 +70,11 @@ can be seeded into a significant number of declarations, for each
 training project. There are the following parameters to consider, when
 it comes to populating artificial projects with fake APIs.
 
--   $\alpha$ is the ratio of projects injected with fake APIs.
+-   \alpha is the ratio of projects injected with fake APIs.
 
--   $\beta$ is the ratio of methods in a project getting fake APIs.
+-   \beta is the ratio of methods in a project getting fake APIs.
 
--   $\Omega$ is the number of fake APIs injected to each declaration.
+-   \Omega is the number of fake APIs injected to each declaration.
 
 We opted for the following sets of parameters:
 \alpha={5%,10%,15%,20%}, \beta={40%,50%,60%},
@@ -106,9 +106,9 @@ Section [3.3].
 
 | System                                    | Working mechanism                                                                                                                                                                                                                                                                       | Potential risks                                                                                                                                                                                                                        |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| UP-Mine                        | \UM works on the basis of clustering, is dependent on the similarity among API sequences. It computing. In other words, UP-Miner computes similarity at the sequence level, \ie APIs that are usually found together using BIDE. Finally, it clusters to group frequent sequences into patterns. | Similar to MAPO, as \UM depends on BIDE, an attacker can inject malicious code in the training in projects disguised as similar to trick \UM. In this way, it may recommend to developers harmful snippets.                                     |
+| UP-Mine                        | UP-Miner works on the basis of clustering, is dependent on the similarity among API sequences. It computing. In other words, UP-Miner computes similarity at the sequence level, \ie APIs that are usually found together using BIDE. Finally, it clusters to group frequent sequences into patterns. | Similar to MAPO, as UP-Miner depends on BIDE, an attacker can inject malicious code in the training in projects disguised as similar to trick \UM. In this way, it may recommend to developers harmful snippets.                                     |
 | PAM          | PAM defines a distribution over all possible API patterns in client code, based on a set of patterns. It uses a generative model to infer the most probable patterns. The system generates candidates by relying on the highest support first rule.                                              | The system recommends API calls that commonly appear in different code snippets. Thus, push and nuke attacks could modify the final ranking obtained by the tool, \ie operating on terms' occurrences to favor or defame a certain API pattern. |
-| FOCUS  | \FC suggests APIs by encoding projects in a tensor and using a collaborative-filtering technique to deliver the list of APIs. Eventually, it mines APIs and snippets from similar projects with a graph representation.                                                                          | Due to the internal design, the system is susceptible to poisoning attacks, \ie an adversary can create fake similar projects containing toxic APIs and pose them as legitimate to deceiving \FC into recommending these calls/snippets.   
+| FOCUS  | FOCUS suggests APIs by encoding projects in a tensor and using a collaborative-filtering technique to deliver the list of APIs. Eventually, it mines APIs and snippets from similar projects with a graph representation.                                                                          | Due to the internal design, the system is susceptible to poisoning attacks, \ie an adversary can create fake similar projects containing toxic APIs and pose them as legitimate to deceiving FOCUS into recommending these calls/snippets.   
 
 In the evaluation, we examined the resilience of
 UP-Miner, PAM, and
@@ -202,7 +202,6 @@ download all artifacts from a single GitHub repository:
 $ git clone https://github.com/MDEGroup/APIRecSys-AML.git APIRecSys-AML
 ```
     
-
 This will create a new directory named , and we call it the root
 directory in the scope of this document. For the sake of clarity, we do
 not write the full path for the directory. In practice, an example of a
@@ -250,7 +249,7 @@ full path in Linux is . The root directory has the following structure:
 This section describes how to run FOCUS on the dataset using the
 configurations to reproduce the results presented in the paper.
 
-## Injecting fake APIs {#injecting-fake-apis}
+## Injecting fake APIs
 
 We have a dedicated tool located in to inject fake APIs following the
 description in Section [2]. Please run the following command to perform the
