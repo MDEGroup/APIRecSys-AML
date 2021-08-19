@@ -349,7 +349,7 @@ $ for f in <injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.j
 $ for f in <injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar pimining.upminer.UPMiner -f $f; done
 ```
 
-where is the path of the dataset injected by fake APIs.
+where `<injected_dataset>` is the path where the dataset being injected by fake APIs is stored.
 
 # How to cite
 If you find our work useful for your research, please cite the papers using the following BibTex entries:
