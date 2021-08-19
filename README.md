@@ -79,12 +79,12 @@ it comes to populating artificial projects with fake APIs.
 We opted for the following sets of parameters:
 \alpha={5%,10%,15%,20%}, \beta={40%,50%,60%},
 \Omega={1,2}. The rationale behind the selection of these values
-is as follows. Concerning $\alpha$, though having popular APIs is
+is as follows. Concerning \alpha, though having popular APIs is
 commonplace, it is difficult to rack up projects with malicious APIs,
 thus \alpha is set to the following thresholds
 \alpha={5%,10%,15%,20%}. In contrast, within a project,
 attackers have more freedom to embed APIs to declarations, therefore
-$\beta$ is varied from 40%, 50%, to 60%. Finally, the number of fake
+\beta is varied from 40%, 50%, to 60%. Finally, the number of fake
 APIs should be kept low to make attacks more feasible,
 i.e., \Omega={1,2}. We study how the calibration of the parameters
 affects the final efficiency, aiming to anticipate the extent to which
