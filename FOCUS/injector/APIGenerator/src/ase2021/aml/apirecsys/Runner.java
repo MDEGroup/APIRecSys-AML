@@ -72,7 +72,7 @@ public class Runner {
 
 	private void geretateFolders(String output, int numOfFold) {
 		for (int i = 0; i < numOfFold; i++) {
-			Path roundFolder = Paths.get(output, "Round" + i);
+			Path roundFolder = Paths.get(output, "Round" + (i+1));
 			try {
 				if (!Files.exists(roundFolder))
 					Files.createDirectories(roundFolder);
