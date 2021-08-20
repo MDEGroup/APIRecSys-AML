@@ -244,7 +244,7 @@ The root directory has the following structure:
         be used with FOCUS.
 
     -   [ASE2021-FOCUS](./FOCUS/ASE2021-FOCUS): this folder contains the source implementation of FOCUS.
-       -   SH_S: the folder contains a smaller dataset ready for FOCUS. It consists of 200 Java projects.    
+        -   [SH_S](./FOCUS/ASE2021-FOCUS/SH_S): the folder contains a smaller dataset ready for FOCUS. It consists of 200 Java projects.    
 
 -   The directory [UPMiner_PAM](./UPMiner_PAM) contains the ARFF injector and the sub-datasets of 500
     android apps that we used to evaluate PAM and FOCUS:
