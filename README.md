@@ -172,7 +172,7 @@ for the execution of the artifacts.
 | Name    | Requirements                |
 |------------------|---------------------------------------|
 | RAM              | > 8GB                            |
-| Operating System | A modern Linux system\footnotemark |
+| Operating System | A modern Linux system |
 | Java JRE         | > Java 8                         |
 | Apache Maven     | > Maven 3.0                      |
 | Python           | > 3.7                            |
@@ -279,8 +279,7 @@ configurations to reproduce the results presented in the paper.
 
 ## Injecting fake APIs
 
-We have a dedicated tool located in to inject fake APIs following the
-description in Section [2]. Please run the following command to perform the
+We have a dedicated tool located in to inject fake APIs. Please run the following command to perform the
 injection.
 
 ``` 
