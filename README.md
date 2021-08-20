@@ -17,9 +17,7 @@ recommenders' resilience against adversarial attempts. In the accepted
 paper, we conducted an empirical evaluation on three API
 recommender systems to see if they are prone to malicious training data.
 The evaluation performed on three state-of-the-art API recommender
-systems, i.e., UP-Miner,
-PAM, and FOCUS reveals a
-worrying outcome: all of them are not immune to malicious data. The
+systems, i.e., UP-Miner, PAM, and FOCUS reveals a worrying outcome: all of them are not immune to malicious data. The
 results obtained suggest that even with a small amount of artificial
 training data, clients are always provided with the fake/malicious APIs.
 Altogether, we see that API recommender systems are likely to be
@@ -37,7 +35,7 @@ of stars, forks, or watchers. Afterwards, the projects are injected with
 fake APIs, and then uploaded again to GitHub. Attackers may create fake
 accounts to star, fork, and watch malicious repositories to increase
 their credibility/visibility, thus exposing them better to search
-engines.
+engines (Such a manipulation has been recently revealed <https://zd.net/3bg3CK9>).
 
 
 **NOTE**: We consider an API malicious if it causes fatal errors, no
@@ -53,9 +51,7 @@ To simplify the evaluation, in the scope of our work, we
 inject APIs at the metadata level, i.e., after the data that has been
 parsed to a processable format. This is for experimental purposes only,
 since in reality we need to seed data directly to projects and upload
-them to GitHub as shown in
-Fig. [1]. This is outside the focus of our paper,
-and we leave it for future work.
+them to GitHub as shown in the figure above. However, in our evaluation we refrained from doing this to carefully follow ethical boundaries, as well as to avoid adversely impacting real-world systems, and infringing their terms of use.
 
 The artifacts include *(i)* two API injectors, one for FOCUS and the
 other one for both UP-Miner and PAM; and *(ii)* two Android datasets. In
@@ -126,18 +122,16 @@ considered in our evaluation.
 ## Datasets 
 
 We made use of a dataset which was curated through our recent
-work, and the collection process is summarized as shown in
-Fig. [2]. First, we searched for open source
+work, and the collection process is summarized as shown in the figure below. First, we searched for open source
 projects using the *AndroidTimeMachine* platform, which
 retrieves apps and their source code from Google Play and GitHub.
 Second, APK files are fetched from the Apkpure platform, using a
-Python script. Third, the *dex2jar* tool [@dex2jar] is used to convert
+Python script. Third, the *dex2jar* tool is used to convert
 the APK files into the JAR format. The JAR files were then fed as input
 for Rascal to convert them into the M^3
 format. We obtained a set of 2,600 apps with full source
 code. For more detail about how the collection was done, the readers are
-kindly referred to the replication package of our recent work. The
-M$_3$ models are stored in folder.
+kindly referred to the replication package of our recent work in the following [link](https://mdegroup.github.io/FOCUS-Appendix/).
 
 ![The data extraction
 process.](supporting_materials.fld/DataExtraction.png)
@@ -298,8 +292,7 @@ implementation and execute it through the following Maven command:
 $ cd APIRecSys-AML/FOCUS/ASE2021-FOCUS/
 $ mvn compile exec:java -Dexec.mainClass="it.univaq.disim.seagroup.FOCUS.Runner"   -Dexec.args="-src <injected_dataset>"
 ```
-
-where is the path of the dataset injected by fake APIs.
+where `<injected_dataset>` is the path where the dataset being injected by fake APIs is stored.
 
 The final results of the evaluation including hit ratios is printed
 directly in the console. Intermediate results are stored in the
@@ -378,6 +371,3 @@ If you encounter any problem during the evaluation, please do not
 hesitate to contact us through one of the following emails:
 <phuong.nguyen@univaq.it>, <juri.dirocco@univaq.it>,
 <claudio.disipio@graduate.univaq.it>.
-
-[^1]: Such a manipulation has been recently revealed
-    <https://zd.net/3bg3CK9>.
