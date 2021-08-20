@@ -1,0 +1,1 @@
+pl/com/sages/hadoop/hive/HiveServer2JdbcClient/executeQuery(java.lang.String)#java/sql/SQLException/SQLException(java.lang.String)

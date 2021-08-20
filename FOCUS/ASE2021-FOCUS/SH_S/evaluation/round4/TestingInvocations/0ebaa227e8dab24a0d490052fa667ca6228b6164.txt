@@ -1,0 +1,4 @@
+ca/ulaval/graal/pagerank/parseurl/mapreduce/ParseUrlMapperTest/givenAUrlWithOneLinkWillEmitOnce()#ca/ulaval/ift/graal/pagerank/parseurl/mapreduce/ParseUrlMapper/map(org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)
+ca/ulaval/graal/pagerank/parseurl/mapreduce/ParseUrlMapperTest/givenAUrlWithOneLinkWillEmitOnce()#org/mockito/Mockito/verify(T)
+ca/ulaval/graal/pagerank/parseurl/mapreduce/ParseUrlMapperTest/givenAUrlWithOneLinkWillEmitOnce()#org/apache/hadoop/io/Text/Text(java.lang.String)
+ca/ulaval/graal/pagerank/parseurl/mapreduce/ParseUrlMapperTest/givenAUrlWithOneLinkWillEmitOnce()#org/apache/hadoop/mapreduce/TaskInputOutputContext/write(KEYOUT,VALUEOUT)

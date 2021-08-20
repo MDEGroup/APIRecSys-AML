@@ -1,0 +1,3 @@
+com/novthir/security/service/impl/OrganizationServiceImpl/makeTree(java.util.List)#java/util/List/add(E)
+com/novthir/security/service/impl/OrganizationServiceImpl/makeTree(java.util.List)#com/novthir/security/entity/Organization/setChildren(java.util.List)
+com/novthir/security/service/impl/OrganizationServiceImpl/makeTree(java.util.List)#com/novthir/security/service/impl/OrganizationServiceImpl/makeChildren(java.util.List,java.util.List)

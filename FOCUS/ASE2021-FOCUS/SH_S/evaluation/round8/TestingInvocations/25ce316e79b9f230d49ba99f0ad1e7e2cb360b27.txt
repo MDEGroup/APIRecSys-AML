@@ -1,0 +1,4 @@
+org/apache/kafka/connect/socket/Manager/getStackTrace(java.lang.Throwable)#java/lang/StringBuilder/append(java.lang.String)
+org/apache/kafka/connect/socket/Manager/getStackTrace(java.lang.Throwable)#java/lang/StackTraceElement/toString()
+org/apache/kafka/connect/socket/Manager/getStackTrace(java.lang.Throwable)#java/lang/Throwable/getStackTrace()
+org/apache/kafka/connect/socket/Manager/getStackTrace(java.lang.Throwable)#java/lang/StringBuilder/StringBuilder()

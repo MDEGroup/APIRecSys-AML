@@ -1,0 +1,4 @@
+com/exercise/socialconnection/repository/GraphPersonRepository/findAll()#com/exercise/socialconnection/data/graph/Graph/vertices()
+com/exercise/socialconnection/repository/GraphPersonRepository/findAll()#java/util/stream/StreamSupport/stream(java.util.Spliterator,boolean)
+com/exercise/socialconnection/repository/GraphPersonRepository/findAll()#java/util/stream/Stream/collect(java.util.stream.Collector)
+com/exercise/socialconnection/repository/GraphPersonRepository/findAll()#java/util/stream/Collectors/toList()

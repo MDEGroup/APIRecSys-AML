@@ -1,0 +1,1 @@
+org/ng12306/web/system/service/account/AccountServiceTest/deleteUser()#org/mockito/Mockito/verify(T)

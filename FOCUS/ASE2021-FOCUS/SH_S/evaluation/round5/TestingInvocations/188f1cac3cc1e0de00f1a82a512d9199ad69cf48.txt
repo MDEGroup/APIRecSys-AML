@@ -1,0 +1,4 @@
+org/commoncrawl/examples/mapreduce/TagCounterMap/TagCounterMapper/map(org.apache.hadoop.io.Text,org.archive.io.ArchiveReader,org.apache.hadoop.mapreduce.Mapper.Context)#java/util/regex/Matcher/group(int)
+org/commoncrawl/examples/mapreduce/TagCounterMap/TagCounterMapper/map(org.apache.hadoop.io.Text,org.archive.io.ArchiveReader,org.apache.hadoop.mapreduce.Mapper.Context)#java/util/regex/Pattern/compile(java.lang.String)
+org/commoncrawl/examples/mapreduce/TagCounterMap/TagCounterMapper/map(org.apache.hadoop.io.Text,org.archive.io.ArchiveReader,org.apache.hadoop.mapreduce.Mapper.Context)#java/lang/String/toLowerCase()
+org/commoncrawl/examples/mapreduce/TagCounterMap/TagCounterMapper/map(org.apache.hadoop.io.Text,org.archive.io.ArchiveReader,org.apache.hadoop.mapreduce.Mapper.Context)#org/apache/log4j/Category/error(java.lang.Object,java.lang.Throwable)

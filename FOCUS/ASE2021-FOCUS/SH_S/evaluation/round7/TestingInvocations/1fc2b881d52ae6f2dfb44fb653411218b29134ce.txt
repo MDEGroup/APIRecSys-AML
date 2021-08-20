@@ -1,0 +1,4 @@
+jclustering/Utils/expand(ij.ImagePlus,int)#ij/ImagePlus/getTitle()
+jclustering/Utils/expand(ij.ImagePlus,int)#ij/ImageStack/setVoxel(int,int,int,double)
+jclustering/Utils/expand(ij.ImagePlus,int)#ij/ImagePlus/setDimensions(int,int,int)
+jclustering/Utils/expand(ij.ImagePlus,int)#ij/ImagePlus/setOpenAsHyperStack(boolean)

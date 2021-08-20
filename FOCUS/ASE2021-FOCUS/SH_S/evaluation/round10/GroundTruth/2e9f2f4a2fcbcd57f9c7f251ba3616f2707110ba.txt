@@ -1,0 +1,4 @@
+DAO/ProjetosDAO/hasPublicacao(int)#database/Conn/Conn()
+DAO/ProjetosDAO/hasPublicacao(int)#java/sql/ResultSet/getInt(java.lang.String)
+DAO/ProjetosDAO/hasPublicacao(int)#java/io/PrintStream/println(java.lang.String)
+DAO/ProjetosDAO/hasPublicacao(int)#java/sql/Statement/executeQuery(java.lang.String)

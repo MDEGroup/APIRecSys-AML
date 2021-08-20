@@ -1,0 +1,3 @@
+helpers/TemporaryFilesMaker/getFile(java.lang.String,java.lang.String)#java/lang/Class/getClassLoader()
+helpers/TemporaryFilesMaker/getFile(java.lang.String,java.lang.String)#java/io/File/createTempFile(java.lang.String,java.lang.String)
+helpers/TemporaryFilesMaker/getFile(java.lang.String,java.lang.String)#java/io/FileOutputStream/FileOutputStream(java.io.File)

@@ -1,0 +1,4 @@
+rss/dao/CustomerDAO/delete(int)#java/lang/Throwable/printStackTrace()
+rss/dao/CustomerDAO/delete(int)#rrs/utils/DBUtils/startConnection()
+rss/dao/CustomerDAO/delete(int)#java/io/PrintStream/println(java.lang.String)
+rss/dao/CustomerDAO/delete(int)#java/lang/Throwable/getMessage()

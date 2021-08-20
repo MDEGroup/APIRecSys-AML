@@ -1,0 +1,1 @@
+org/jboss/seam/examples/booking/model/Booking/getDescription()#org/jboss/seam/examples/booking/model/Booking/getCheckoutDate()

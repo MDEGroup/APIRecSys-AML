@@ -1,0 +1,3 @@
+org/zkybase/web/controller/region/RegionCrudController/getDetailsAsJit(java.lang.Long)#org/zkybase/web/view/JitNode/setName(java.lang.String)
+org/zkybase/web/controller/region/RegionCrudController/getDetailsAsJit(java.lang.Long)#org/zkybase/service/CIService/findOne(java.lang.Long)
+org/zkybase/web/controller/region/RegionCrudController/getDetailsAsJit(java.lang.Long)#java/util/HashSet/HashSet()

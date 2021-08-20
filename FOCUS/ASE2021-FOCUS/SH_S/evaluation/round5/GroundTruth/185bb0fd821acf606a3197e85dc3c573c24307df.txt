@@ -1,0 +1,2 @@
+cn/thinkjoy/utils4s/hive/json/JSONSerDe/parseMap(java.lang.Object,org.apache.hadoop.hive.serde2.typeinfo.MapTypeInfo)#java/util/Map/entrySet()
+cn/thinkjoy/utils4s/hive/json/JSONSerDe/parseMap(java.lang.Object,org.apache.hadoop.hive.serde2.typeinfo.MapTypeInfo)#java/util/Map/put(K,V)

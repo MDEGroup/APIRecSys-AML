@@ -1,0 +1,4 @@
+helpers/TemporaryFilesMaker/getFile(java.lang.String,java.lang.String)#java/lang/Throwable/printStackTrace()
+helpers/TemporaryFilesMaker/getFile(java.lang.String,java.lang.String)#java/io/InputStream/read(byte[])
+helpers/TemporaryFilesMaker/getFile(java.lang.String,java.lang.String)#java/lang/ClassLoader/getResourceAsStream(java.lang.String)
+helpers/TemporaryFilesMaker/getFile(java.lang.String,java.lang.String)#java/io/OutputStream/write(byte[],int,int)

@@ -1,0 +1,1 @@
+agenda/rest/GrupoREST/deleteContato(java.lang.String)#agenda/dao/SessionManager/rollBack()

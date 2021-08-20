@@ -1,0 +1,4 @@
+org/ng12306/web/system/service/account/AccountServiceTest/deleteUser()#org/ng12306/web/system/service/account/AccountService/deleteUser(java.lang.Long)
+org/ng12306/web/system/service/account/AccountServiceTest/deleteUser()#org/mockito/Mockito/verify(T,org.mockito.verification.VerificationMode)
+org/ng12306/web/system/service/account/AccountServiceTest/deleteUser()#org/mockito/Mockito/never()
+org/ng12306/web/system/service/account/AccountServiceTest/deleteUser()#org/springframework/data/repository/CrudRepository/delete(ID)

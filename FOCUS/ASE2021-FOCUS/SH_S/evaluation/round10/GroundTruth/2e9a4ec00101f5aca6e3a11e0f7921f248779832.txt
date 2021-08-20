@@ -1,0 +1,7 @@
+main/java/com/netty/EchoClient/main(java.lang.String[])#io/netty/bootstrap/AbstractBootstrap/channel(java.lang.Class)
+main/java/com/netty/EchoClient/main(java.lang.String[])#io/netty/util/concurrent/EventExecutorGroup/shutdownGracefully()
+main/java/com/netty/EchoClient/main(java.lang.String[])#io/netty/channel/nio/NioEventLoopGroup/NioEventLoopGroup()
+main/java/com/netty/EchoClient/main(java.lang.String[])#io/netty/bootstrap/Bootstrap/Bootstrap()
+main/java/com/netty/EchoClient/main(java.lang.String[])#io/netty/channel/Channel/closeFuture()
+main/java/com/netty/EchoClient/main(java.lang.String[])#io/netty/bootstrap/AbstractBootstrap/group(io.netty.channel.EventLoopGroup)
+main/java/com/netty/EchoClient/main(java.lang.String[])#main/java/com/netty/EchoClient/main(java/lang/String[])/$anonymous1/()

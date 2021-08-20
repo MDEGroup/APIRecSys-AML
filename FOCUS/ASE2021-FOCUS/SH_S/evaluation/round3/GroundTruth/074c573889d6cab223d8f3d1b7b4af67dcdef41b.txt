@@ -1,0 +1,1 @@
+org/drools/agent/KnowledgeAgentFactory/loadProvider()#java/lang/RuntimeException/RuntimeException(java.lang.String)

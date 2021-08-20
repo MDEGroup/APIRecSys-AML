@@ -1,0 +1,4 @@
+cn/lcf/entity/LetterFrequency/generateData()#java/util/ArrayList/ArrayList()
+cn/lcf/entity/LetterFrequency/generateData()#cn/lcf/entity/LetterFrequency/setFrequency(double)
+cn/lcf/entity/LetterFrequency/generateData()#java/util/Random/Random()
+cn/lcf/entity/LetterFrequency/generateData()#java/util/List/add(E)

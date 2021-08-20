@@ -1,0 +1,4 @@
+net/sf/jpam/jaas/JpamLoginModule/login()#net/sf/jpam/Pam/authenticate(java.lang.String,java.lang.String)
+net/sf/jpam/jaas/JpamLoginModule/login()#javax/security/auth/login/AccountExpiredException/AccountExpiredException(java.lang.String)
+net/sf/jpam/jaas/JpamLoginModule/login()#java/lang/String/copyValueOf(char[])
+net/sf/jpam/jaas/JpamLoginModule/login()#java/lang/Throwable/getMessage()

@@ -1,0 +1,1 @@
+ungp/sampleng/test/veiculo/VeiculoResourceTest/test_findAll()#ungp/sampleng/backend/entity/Veiculo/getProprietario()

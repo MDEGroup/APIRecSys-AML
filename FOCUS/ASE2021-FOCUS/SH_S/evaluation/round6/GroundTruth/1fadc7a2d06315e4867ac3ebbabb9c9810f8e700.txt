@@ -1,0 +1,1 @@
+com/mytest/myproject/functional/QuickStartServer/main(java.lang.String[])#java/io/InputStream/read()

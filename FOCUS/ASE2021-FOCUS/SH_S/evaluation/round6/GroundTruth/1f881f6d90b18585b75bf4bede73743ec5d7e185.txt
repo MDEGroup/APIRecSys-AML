@@ -1,0 +1,1 @@
+com/guillaumecl/caskdays/Main/configureUnirest(com.guillaumecl.caskdays.Config)#java/lang/Runtime/addShutdownHook(java.lang.Thread)

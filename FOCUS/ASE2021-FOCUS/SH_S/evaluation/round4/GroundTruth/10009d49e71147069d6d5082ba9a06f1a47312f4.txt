@@ -1,0 +1,2 @@
+com/lucidworks/pig/GenKeys/exec(org.apache.pig.data.Tuple)#org/apache/pig/data/Tuple/get(int)
+com/lucidworks/pig/GenKeys/exec(org.apache.pig.data.Tuple)#org/apache/pig/data/Tuple/set(int,java.lang.Object)

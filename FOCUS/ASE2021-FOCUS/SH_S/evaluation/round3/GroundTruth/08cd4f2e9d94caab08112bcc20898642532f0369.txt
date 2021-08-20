@@ -1,0 +1,1 @@
+org/salarymaster/DAO/SalaryDAOMongo/getSalaryByTitleByMongo(java.lang.String)#com/mongodb/BasicDBObject/BasicDBObject(java.lang.String,java.lang.Object)

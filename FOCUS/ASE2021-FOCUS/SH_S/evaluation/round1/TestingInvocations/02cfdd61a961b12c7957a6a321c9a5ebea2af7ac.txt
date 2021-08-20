@@ -1,0 +1,4 @@
+org/springside/examples/quickstart/functional/BaseFunctionalTestCase/buildDataSourceOnce()#java/lang/Class/forName(java.lang.String)
+org/springside/examples/quickstart/functional/BaseFunctionalTestCase/buildDataSourceOnce()#org/springframework/jdbc/datasource/AbstractDriverBasedDataSource/setUrl(java.lang.String)
+org/springside/examples/quickstart/functional/BaseFunctionalTestCase/buildDataSourceOnce()#org/springframework/jdbc/datasource/SimpleDriverDataSource/setDriverClass(java.lang.Class)
+org/springside/examples/quickstart/functional/BaseFunctionalTestCase/buildDataSourceOnce()#org/springframework/jdbc/datasource/AbstractDriverBasedDataSource/setUsername(java.lang.String)

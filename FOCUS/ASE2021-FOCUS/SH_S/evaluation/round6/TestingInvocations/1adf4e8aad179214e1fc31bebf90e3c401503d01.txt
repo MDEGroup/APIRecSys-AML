@@ -1,0 +1,4 @@
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)#org/okbqa/rocknrole/graph/Edge/getDependent()
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)#org/okbqa/rocknrole/graph/Node/setForm(java.lang.String)
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)#org/okbqa/rocknrole/graph/Graph/renameNode(int,int)
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)#org/okbqa/rocknrole/graph/Graph/getNode(int)

@@ -1,0 +1,4 @@
+io/swagger/sample/data/UserData/removeUser(java.lang.String)#java/util/List/remove(int)
+io/swagger/sample/data/UserData/removeUser(java.lang.String)#java/util/List/size()
+io/swagger/sample/data/UserData/removeUser(java.lang.String)#java/lang/String/equals(java.lang.Object)
+io/swagger/sample/data/UserData/removeUser(java.lang.String)#java/util/List/get(int)

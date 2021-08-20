@@ -1,0 +1,4 @@
+org/apache/servicemix/examples/camel/rest/client/Client/getPerson(int)#java/net/HttpURLConnection/getResponseMessage()
+org/apache/servicemix/examples/camel/rest/client/Client/getPerson(int)#java/net/HttpURLConnection/getResponseCode()
+org/apache/servicemix/examples/camel/rest/client/Client/getPerson(int)#java/net/HttpURLConnection/getErrorStream()
+org/apache/servicemix/examples/camel/rest/client/Client/getPerson(int)#java/io/PrintStream/println(char[])

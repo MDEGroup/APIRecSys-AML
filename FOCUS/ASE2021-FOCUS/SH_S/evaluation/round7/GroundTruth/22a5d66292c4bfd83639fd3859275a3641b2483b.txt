@@ -1,0 +1,2 @@
+com/adm/sparkserver/models/EffectiveQuery/toString()#java/util/stream/Collectors/toList()
+com/adm/sparkserver/models/EffectiveQuery/toString()#java/util/Collection/stream()

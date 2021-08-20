@@ -1,0 +1,4 @@
+ungp/sampleng/test/veiculo/VeiculoResourceTest/test_findAll()#java/util/List/isEmpty()
+ungp/sampleng/test/veiculo/VeiculoResourceTest/test_findAll()#ungp/sampleng/backend/entity/Condutor/getNome()
+ungp/sampleng/test/veiculo/VeiculoResourceTest/test_findAll()#ungp/sampleng/test/BaseTest/getWebTarget()
+ungp/sampleng/test/veiculo/VeiculoResourceTest/test_findAll()#java/util/List/get(int)

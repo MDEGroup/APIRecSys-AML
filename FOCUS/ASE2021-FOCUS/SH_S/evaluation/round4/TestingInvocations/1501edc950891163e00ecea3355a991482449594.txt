@@ -1,0 +1,4 @@
+com/harishkannarao/angularjs/service/AuthService/isAuthorized(java.lang.String,java.lang.String,java.util.Set)#com/harishkannarao/angularjs/service/UserSessionService/findByUsernameAndAuthToken(java.lang.String,java.lang.String)
+com/harishkannarao/angularjs/service/AuthService/isAuthorized(java.lang.String,java.lang.String,java.util.Set)#java/util/Optional/get()
+com/harishkannarao/angularjs/service/AuthService/isAuthorized(java.lang.String,java.lang.String,java.util.Set)#java/util/stream/Stream/count()
+com/harishkannarao/angularjs/service/AuthService/isAuthorized(java.lang.String,java.lang.String,java.util.Set)#com/harishkannarao/angularjs/service/UserService/getUser(java.lang.String)

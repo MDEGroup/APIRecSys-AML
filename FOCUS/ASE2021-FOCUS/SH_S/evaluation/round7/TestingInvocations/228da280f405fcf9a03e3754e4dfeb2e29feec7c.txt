@@ -1,0 +1,4 @@
+com/jakubstas/swagger/rest/ProductsEndpoint/deleteProduct(java.lang.String)#javax/ws/rs/core/Link/Builder/build(java.lang.Object[])
+com/jakubstas/swagger/rest/ProductsEndpoint/deleteProduct(java.lang.String)#javax/ws/rs/core/Response/ResponseBuilder/entity(java.lang.Object)
+com/jakubstas/swagger/rest/ProductsEndpoint/deleteProduct(java.lang.String)#com/jakubstas/swagger/service/ProductService/deleteProduct(java.lang.String)
+com/jakubstas/swagger/rest/ProductsEndpoint/deleteProduct(java.lang.String)#javax/ws/rs/core/Response/status(javax.ws.rs.core.Response.Status)

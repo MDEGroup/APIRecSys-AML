@@ -1,0 +1,4 @@
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#au/com/ibm/bluecoin/model/relational/AppUser/setLogin(java.lang.String)
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#au/com/ibm/bluecoin/model/relational/AppUser/getPassword()
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#au/com/ibm/bluecoin/model/relational/AppUser/addRole(java.lang.String)
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#au/com/ibm/bluecoin/model/relational/AppUser/setPassword(java.lang.String)

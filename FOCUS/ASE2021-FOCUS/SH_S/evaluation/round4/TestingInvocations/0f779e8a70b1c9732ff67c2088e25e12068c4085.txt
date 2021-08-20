@@ -1,0 +1,4 @@
+com/flavien/service/impl/UserServiceImpl/loadUserByUsername(java.lang.String)#org/springframework/security/core/userdetails/UsernameNotFoundException/UsernameNotFoundException(java.lang.String)
+com/flavien/service/impl/UserServiceImpl/loadUserByUsername(java.lang.String)#com/flavien/models/User/getPassword()
+com/flavien/service/impl/UserServiceImpl/loadUserByUsername(java.lang.String)#org/springframework/data/repository/CrudRepository/findOne(ID)
+com/flavien/service/impl/UserServiceImpl/loadUserByUsername(java.lang.String)#org/springframework/security/core/userdetails/User/User(java.lang.String,java.lang.String,boolean,boolean,boolean,boolean,java.util.Collection)

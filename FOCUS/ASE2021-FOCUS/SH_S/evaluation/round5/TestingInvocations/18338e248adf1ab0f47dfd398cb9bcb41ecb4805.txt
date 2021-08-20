@@ -1,0 +1,4 @@
+com/bj58/oceanus/client/orm/OceanusSqlBuilder/pagination(com.mdeng.oceanusex.dal.Pagination)#java/lang/StringBuilder/append(java.lang.String)
+com/bj58/oceanus/client/orm/OceanusSqlBuilder/pagination(com.mdeng.oceanusex.dal.Pagination)#com/mdeng/oceanusex/dal/Pagination/getOrderBy()
+com/bj58/oceanus/client/orm/OceanusSqlBuilder/pagination(com.mdeng.oceanusex.dal.Pagination)#com/mdeng/oceanusex/dal/Pagination/getOrder()
+com/bj58/oceanus/client/orm/OceanusSqlBuilder/pagination(com.mdeng.oceanusex.dal.Pagination)#java/lang/StringBuilder/append(char)

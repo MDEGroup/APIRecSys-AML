@@ -1,0 +1,7 @@
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#au/com/ibm/bluecoin/model/relational/AppUser/getLogin()
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#org/springframework/data/repository/CrudRepository/findOne(ID)
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#au/com/ibm/bluecoin/utils/Role/value()
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#java/lang/String/contains(java.lang.CharSequence)
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#org/springframework/data/repository/CrudRepository/save(S)
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#au/com/ibm/bluecoin/model/relational/AppUser/AppUser()
+au/com/ibm/bluecoin/dao/relational/UserDaoTest/test()#au/com/ibm/bluecoin/model/relational/AppUser/getRoles()

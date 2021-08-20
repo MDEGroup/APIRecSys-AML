@@ -1,0 +1,4 @@
+org/zkybase/web/controller/region/RegionCrudController/getDetailsAsJit(java.lang.Long)#org/zkybase/web/view/JitNode/setId(java.lang.String)
+org/zkybase/web/controller/region/RegionCrudController/getDetailsAsJit(java.lang.Long)#org/zkybase/web/view/JitNode/setChildren(java.util.Set)
+org/zkybase/web/controller/region/RegionCrudController/getDetailsAsJit(java.lang.Long)#java/util/Set/add(E)
+org/zkybase/web/controller/region/RegionCrudController/getDetailsAsJit(java.lang.Long)#org/zkybase/web/view/JitNode/JitNode()

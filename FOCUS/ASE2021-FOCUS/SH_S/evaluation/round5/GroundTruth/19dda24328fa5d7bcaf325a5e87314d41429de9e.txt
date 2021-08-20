@@ -1,0 +1,1 @@
+com/mycompany/fileupload/AbstractFileUploadResource/newResourceResponse(com.mycompany.fileupload.Attributes)#java/lang/Object/Object()

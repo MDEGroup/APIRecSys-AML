@@ -1,0 +1,4 @@
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#org/restlet/resource/ServerResource/setStatus(org.restlet.data.Status)
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#org/restlet/ext/json/JsonRepresentation/getJsonObject()
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#com/kijes/ela/server/BaseResource/createUser(com.kijes.ela.common.ElaUser)
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#org/restlet/ext/json/JsonRepresentation/JsonRepresentation(org.json.JSONObject)

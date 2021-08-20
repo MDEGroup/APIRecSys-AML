@@ -1,0 +1,4 @@
+com/sonal/flashcardapp/dao/jdbc/FcCardDaoJdbcImpl/getCardParamMap(com.sonal.flashcardapp.domain.FcCard)#org/springframework/jdbc/core/namedparam/MapSqlParameterSource/MapSqlParameterSource(java.lang.String,java.lang.Object)
+com/sonal/flashcardapp/dao/jdbc/FcCardDaoJdbcImpl/getCardParamMap(com.sonal.flashcardapp.domain.FcCard)#com/sonal/flashcardapp/domain/FcCard/toString()
+com/sonal/flashcardapp/dao/jdbc/FcCardDaoJdbcImpl/getCardParamMap(com.sonal.flashcardapp.domain.FcCard)#org/springframework/jdbc/core/namedparam/MapSqlParameterSource/addValue(java.lang.String,java.lang.Object)
+com/sonal/flashcardapp/dao/jdbc/FcCardDaoJdbcImpl/getCardParamMap(com.sonal.flashcardapp.domain.FcCard)#org/slf4j/Logger/info(java.lang.String)

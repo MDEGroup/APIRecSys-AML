@@ -1,0 +1,4 @@
+org/commonjava/web/fd/live/rest/WorkspaceResourcesLiveTest/storeFileWithWorkspaceAndRetrieveInfo()#org/commonjava/web/fd/model/WorkspaceFile/getContentLength()
+org/commonjava/web/fd/live/rest/WorkspaceResourcesLiveTest/storeFileWithWorkspaceAndRetrieveInfo()#java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])
+org/commonjava/web/fd/live/rest/WorkspaceResourcesLiveTest/storeFileWithWorkspaceAndRetrieveInfo()#org/commonjava/web/fd/model/WorkspaceFile/getContentType()
+org/commonjava/web/fd/live/rest/WorkspaceResourcesLiveTest/storeFileWithWorkspaceAndRetrieveInfo()#java/lang/String/getBytes(java.lang.String)

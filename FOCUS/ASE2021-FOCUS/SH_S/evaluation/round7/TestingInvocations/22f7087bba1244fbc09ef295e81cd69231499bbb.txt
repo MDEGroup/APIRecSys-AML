@@ -1,0 +1,4 @@
+com/trier/exam/shopping/model/Item/equals(java.lang.Object)#java/lang/Boolean/equals(java.lang.Object)
+com/trier/exam/shopping/model/Item/equals(java.lang.Object)#java/lang/Long/equals(java.lang.Object)
+com/trier/exam/shopping/model/Item/equals(java.lang.Object)#com/trier/exam/shopping/model/Product/equals(java.lang.Object)
+com/trier/exam/shopping/model/Item/equals(java.lang.Object)#java/lang/Double/equals(java.lang.Object)

@@ -1,0 +1,4 @@
+org/salarymaster/DAO/SalaryDAOMongo/getSalaryByTitleByMongo(java.lang.String)#com/mongodb/client/MongoCollection/find(org.bson.conversions.Bson)
+org/salarymaster/DAO/SalaryDAOMongo/getSalaryByTitleByMongo(java.lang.String)#org/salarymaster/DAO/SalaryDAOMongo/iterToList(com.mongodb.client.FindIterable)
+org/salarymaster/DAO/SalaryDAOMongo/getSalaryByTitleByMongo(java.lang.String)#com/mongodb/client/MongoDatabase/getCollection(java.lang.String)
+org/salarymaster/DAO/SalaryDAOMongo/getSalaryByTitleByMongo(java.lang.String)#org/apache/log4j/Category/info(java.lang.Object)

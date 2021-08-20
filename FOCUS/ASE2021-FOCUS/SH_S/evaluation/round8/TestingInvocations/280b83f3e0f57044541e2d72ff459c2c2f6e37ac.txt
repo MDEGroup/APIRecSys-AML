@@ -1,0 +1,4 @@
+bb/rackmesa/research/authorization/CryptoFunctions/hashSHA512(java.lang.String)#java/security/MessageDigest/digest()
+bb/rackmesa/research/authorization/CryptoFunctions/hashSHA512(java.lang.String)#java/lang/Throwable/getMessage()
+bb/rackmesa/research/authorization/CryptoFunctions/hashSHA512(java.lang.String)#bb/rackmesa/research/authorization/CryptoFunctions/convertByteToHex(byte[])
+bb/rackmesa/research/authorization/CryptoFunctions/hashSHA512(java.lang.String)#java/lang/String/getBytes()

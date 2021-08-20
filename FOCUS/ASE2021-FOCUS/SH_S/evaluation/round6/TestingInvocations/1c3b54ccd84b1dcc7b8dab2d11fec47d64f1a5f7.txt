@@ -1,0 +1,4 @@
+HBaseIA/GIS/WithinQuery/getCoords(ch.hsr.geohash.GeoHash)#ch/hsr/geohash/BoundingBox/getMaxLat()
+HBaseIA/GIS/WithinQuery/getCoords(ch.hsr.geohash.GeoHash)#java/util/HashSet/HashSet(int)
+HBaseIA/GIS/WithinQuery/getCoords(ch.hsr.geohash.GeoHash)#ch/hsr/geohash/BoundingBox/getMaxLon()
+HBaseIA/GIS/WithinQuery/getCoords(ch.hsr.geohash.GeoHash)#java/util/Set/add(E)

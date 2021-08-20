@@ -1,0 +1,4 @@
+com/sldg/erp/repository/Produtos/pesquisaProdutos(com.sldg.erp.model.Produto)#com/sldg/erp/model/Produto/getMarcaProduto()
+com/sldg/erp/repository/Produtos/pesquisaProdutos(com.sldg.erp.model.Produto)#org/hibernate/Criteria/list()
+com/sldg/erp/repository/Produtos/pesquisaProdutos(com.sldg.erp.model.Produto)#org/hibernate/Criteria/add(org.hibernate.criterion.Criterion)
+com/sldg/erp/repository/Produtos/pesquisaProdutos(com.sldg.erp.model.Produto)#com/sldg/erp/model/Produto/getNomeProduto()

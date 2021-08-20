@@ -1,0 +1,3 @@
+org/linkeddata/triplegeo/TripleGeoTest/testDbToRdf()#org/linkeddata/triplegeo/Configuration/setDbPassword(java.lang.String)
+org/linkeddata/triplegeo/TripleGeoTest/testDbToRdf()#org/linkeddata/triplegeo/Configuration/setDbUserName(java.lang.String)
+org/linkeddata/triplegeo/TripleGeoTest/testDbToRdf()#org/linkeddata/triplegeo/Configuration/setDbType(java.lang.String)

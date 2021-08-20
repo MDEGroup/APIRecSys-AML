@@ -1,0 +1,4 @@
+org/neo4j/examples/socnet/SocnetTest/multipleStatusesComeOutInTheRightOrder()#org/neo4j/examples/socnet/StatusUpdate/getStatusText()
+org/neo4j/examples/socnet/SocnetTest/multipleStatusesComeOutInTheRightOrder()#java/util/ArrayList/get(int)
+org/neo4j/examples/socnet/SocnetTest/multipleStatusesComeOutInTheRightOrder()#java/util/ArrayList/size()
+org/neo4j/examples/socnet/SocnetTest/multipleStatusesComeOutInTheRightOrder()#java/util/ArrayList/add(E)

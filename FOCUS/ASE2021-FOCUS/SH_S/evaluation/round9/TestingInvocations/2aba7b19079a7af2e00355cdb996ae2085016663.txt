@@ -1,0 +1,4 @@
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)#java/sql/Statement/close()
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)#java/sql/Statement/executeUpdate(java.lang.String)
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)#org/slf4j/Logger/info(java.lang.String)
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)#java/lang/Throwable/getMessage()

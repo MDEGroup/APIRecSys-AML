@@ -1,0 +1,7 @@
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#com/kijes/ela/common/ElaStatus/ElaStatus(com.kijes.ela.common.ElaStatusCode,java.lang.String)
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#java/lang/Throwable/getMessage()
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#org/json/JSONObject/toString()
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#org/restlet/ext/json/JsonRepresentation/JsonRepresentation(org.restlet.representation.Representation)
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#com/kijes/ela/common/JSONSerializers/statusToJson(com.kijes.ela.common.ElaStatus)
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#com/kijes/ela/common/JSONSerializers/userFromJson(org.json.JSONObject)
+com/kijes/ela/server/UserResource/storeUser(org.restlet.representation.Representation)#com/kijes/ela/server/BaseResource/updateUser(com.kijes.ela.common.ElaUser)

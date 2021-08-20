@@ -1,0 +1,6 @@
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)#org/okbqa/rocknrole/graph/Graph/deleteNode(org.okbqa.rocknrole.graph.Node)
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)#org/okbqa/rocknrole/graph/Graph/deleteEdge(org.okbqa.rocknrole.graph.Edge)
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)#org/okbqa/rocknrole/graph/Node/getId()
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)#org/okbqa/rocknrole/graph/Node/getForm()
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)#java/util/HashSet/HashSet(java.util.Collection)
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)#org/okbqa/rocknrole/graph/Edge/getHead()

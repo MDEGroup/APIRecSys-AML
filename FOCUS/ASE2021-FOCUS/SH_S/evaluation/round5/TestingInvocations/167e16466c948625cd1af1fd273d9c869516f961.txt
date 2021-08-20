@@ -1,0 +1,4 @@
+org/isisaddons/wicket/svg/cpt/applib/InteractiveMapTest/testReplaceFill()#org/isisaddons/wicket/svg/cpt/applib/InteractiveMapElement/addAttribute(org.isisaddons.wicket.svg.cpt.applib.InteractiveMapAttribute)
+org/isisaddons/wicket/svg/cpt/applib/InteractiveMapTest/testReplaceFill()#org/isisaddons/wicket/svg/cpt/applib/InteractiveMap/parse()
+org/isisaddons/wicket/svg/cpt/applib/InteractiveMapTest/testReplaceFill()#org/isisaddons/wicket/svg/cpt/applib/InteractiveMap/addElement(org.isisaddons.wicket.svg.cpt.applib.InteractiveMapElement)
+org/isisaddons/wicket/svg/cpt/applib/InteractiveMapTest/testReplaceFill()#org/junit/Assert/assertTrue(boolean)

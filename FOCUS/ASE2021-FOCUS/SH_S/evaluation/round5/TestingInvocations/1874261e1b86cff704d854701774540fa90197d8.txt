@@ -1,0 +1,4 @@
+zx/soft/api/controller/OauthController/deleteOauthUsers(java.lang.String,java.lang.String)#java/lang/String/equalsIgnoreCase(java.lang.String)
+zx/soft/api/controller/OauthController/deleteOauthUsers(java.lang.String,java.lang.String)#java/lang/String/split(java.lang.String)
+zx/soft/api/controller/OauthController/deleteOauthUsers(java.lang.String,java.lang.String)#zx/soft/api/service/CurdService/deleteOauthUserFB(java.lang.String)
+zx/soft/api/controller/OauthController/deleteOauthUsers(java.lang.String,java.lang.String)#zx/soft/api/domain/ErrorResponse/Builder/build()

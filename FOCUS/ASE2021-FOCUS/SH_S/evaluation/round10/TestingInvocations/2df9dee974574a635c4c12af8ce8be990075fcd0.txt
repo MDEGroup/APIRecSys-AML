@@ -1,0 +1,4 @@
+org/wltea/analyzer/core/Lexeme/toString()#org/wltea/analyzer/core/Lexeme/getBeginPosition()
+org/wltea/analyzer/core/Lexeme/toString()#org/wltea/analyzer/core/Lexeme/getLexemeTypeString()
+org/wltea/analyzer/core/Lexeme/toString()#java/lang/StringBuffer/toString()
+org/wltea/analyzer/core/Lexeme/toString()#org/wltea/analyzer/core/Lexeme/getEndPosition()

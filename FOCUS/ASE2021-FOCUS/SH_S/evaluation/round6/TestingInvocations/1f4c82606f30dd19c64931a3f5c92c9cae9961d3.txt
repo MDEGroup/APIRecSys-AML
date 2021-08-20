@@ -1,0 +1,4 @@
+com/example/restapp/DummyBeanTest/testAddAsBean()#com/example/restapp/business/DummyBean/DummyBean()
+com/example/restapp/DummyBeanTest/testAddAsBean()#javax/ws/rs/client/WebTarget/request()
+com/example/restapp/DummyBeanTest/testAddAsBean()#javax/ws/rs/client/Entity/json(T)
+com/example/restapp/DummyBeanTest/testAddAsBean()#com/example/restapp/business/DummyBean/getId()

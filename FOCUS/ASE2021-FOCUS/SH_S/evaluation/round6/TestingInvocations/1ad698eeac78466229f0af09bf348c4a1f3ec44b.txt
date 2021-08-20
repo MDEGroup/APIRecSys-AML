@@ -1,0 +1,4 @@
+br/com/tecsinapse/camel/repository/SocialRepository/arriveTweet(twitter4j.Status)#twitter4j/Status/getUser()
+br/com/tecsinapse/camel/repository/SocialRepository/arriveTweet(twitter4j.Status)#java/lang/String/toLowerCase()
+br/com/tecsinapse/camel/repository/SocialRepository/arriveTweet(twitter4j.Status)#twitter4j/User/getScreenName()
+br/com/tecsinapse/camel/repository/SocialRepository/arriveTweet(twitter4j.Status)#org/slf4j/Logger/info(java.lang.String,java.lang.Object)

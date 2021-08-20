@@ -1,0 +1,7 @@
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/domain/openehr/model/Diagnoses/setDescription(java.lang.String)
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/domain/openehr/model/Diagnoses/setDateOfOnset(java.util.Date)
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/esb/rest/domain/AqlResult/getProblemDiagnosis()
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/domain/openehr/model/Diagnoses/Diagnoses()
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/esb/rest/domain/AqlResult/getDescription()
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/esb/rest/domain/AqlResult/getUid()
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/domain/openehr/model/Diagnoses/setProblemDiagnosis(java.lang.String)

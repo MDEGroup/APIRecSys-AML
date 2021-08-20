@@ -1,0 +1,4 @@
+framework/ClientMessageHandler/channelActive(com.jiang.framework.socket.ChannelHandlerContext)#com/jiang/framework/socket/MessageObj/MessageObj(int,byte[])
+framework/ClientMessageHandler/channelActive(com.jiang.framework.socket.ChannelHandlerContext)#com/jiang/framework/message/UserProto/C_USER_LOGIN/Builder/build()
+framework/ClientMessageHandler/channelActive(com.jiang.framework.socket.ChannelHandlerContext)#com/jiang/framework/socket/MessageObj/getBuffData()
+framework/ClientMessageHandler/channelActive(com.jiang.framework.socket.ChannelHandlerContext)#com/jiang/framework/message/UserProto/C_USER_LOGIN/Builder/setUsername(java.lang.String)

@@ -1,0 +1,4 @@
+com/github/jakz/nit/merger/Merger/checkExistingArchiveStatus(java.nio.file.Path,com.github.jakz.nit.merger.ArchiveInfo)#java/io/RandomAccessFile/RandomAccessFile(java.io.File,java.lang.String)
+com/github/jakz/nit/merger/Merger/checkExistingArchiveStatus(java.nio.file.Path,com.github.jakz.nit.merger.ArchiveInfo)#net/sf/sevenzipjbinding/IInArchive/getNumberOfItems()
+com/github/jakz/nit/merger/Merger/checkExistingArchiveStatus(java.nio.file.Path,com.github.jakz.nit.merger.ArchiveInfo)#net/sf/sevenzipjbinding/SevenZip/openInArchive(net.sf.sevenzipjbinding.ArchiveFormat,net.sf.sevenzipjbinding.IInStream)
+com/github/jakz/nit/merger/Merger/checkExistingArchiveStatus(java.nio.file.Path,com.github.jakz.nit.merger.ArchiveInfo)#java/util/stream/Stream/forEach(java.util.function.Consumer)

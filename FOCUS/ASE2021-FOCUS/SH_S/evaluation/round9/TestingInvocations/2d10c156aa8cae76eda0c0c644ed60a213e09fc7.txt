@@ -1,0 +1,4 @@
+vaeke/restcountries/v1/rest/CountryRest/getByCallingCode(java.lang.String)#vaeke/restcountries/v1/rest/CountryService/getInstance()
+vaeke/restcountries/v1/rest/CountryRest/getByCallingCode(java.lang.String)#org/apache/log4j/Category/error(java.lang.Object,java.lang.Throwable)
+vaeke/restcountries/v1/rest/CountryRest/getByCallingCode(java.lang.String)#java/util/List/isEmpty()
+vaeke/restcountries/v1/rest/CountryRest/getByCallingCode(java.lang.String)#java/lang/Throwable/getMessage()

@@ -1,0 +1,4 @@
+demo/api/v1/CatalogServiceV1/getCatalog()#demo/catalog/CatalogInfo/getCatalogId()
+demo/api/v1/CatalogServiceV1/getCatalog()#java/util/stream/Collectors/toSet()
+demo/api/v1/CatalogServiceV1/getCatalog()#java/lang/String/format(java.lang.String,java.lang.Object[])
+demo/api/v1/CatalogServiceV1/getCatalog()#demo/catalog/Catalog/getId()

@@ -1,0 +1,4 @@
+com/trigram/dao/TrigramDaoTest/testConstructor()#java/lang/Class/getResource(java.lang.String)
+com/trigram/dao/TrigramDaoTest/testConstructor()#com/trigram/dao/TrigramDao/TrigramDao(java.lang.String)
+com/trigram/dao/TrigramDaoTest/testConstructor()#java/net/URL/getPath()
+com/trigram/dao/TrigramDaoTest/testConstructor()#com/trigram/dao/TrigramDao/hasData()

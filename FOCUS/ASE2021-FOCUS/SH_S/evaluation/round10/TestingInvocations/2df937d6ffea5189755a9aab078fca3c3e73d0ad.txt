@@ -1,0 +1,4 @@
+dao/LocationDAOImpl/deleteLocation(model.Location)#java/sql/Statement/close()
+dao/LocationDAOImpl/deleteLocation(model.Location)#java/sql/PreparedStatement/executeUpdate()
+dao/LocationDAOImpl/deleteLocation(model.Location)#model/Location/getId()
+dao/LocationDAOImpl/deleteLocation(model.Location)#java/sql/Connection/prepareStatement(java.lang.String)

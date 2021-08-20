@@ -1,0 +1,4 @@
+com/sonal/flashcardapp/dao/jdbc/FcCardDaoJdbcImpl/getCardParamMap(com.sonal.flashcardapp.domain.FcCard)#com/sonal/flashcardapp/domain/FcCard/getAnswer()
+com/sonal/flashcardapp/dao/jdbc/FcCardDaoJdbcImpl/getCardParamMap(com.sonal.flashcardapp.domain.FcCard)#com/sonal/flashcardapp/domain/FcCard/getDeckid()
+com/sonal/flashcardapp/dao/jdbc/FcCardDaoJdbcImpl/getCardParamMap(com.sonal.flashcardapp.domain.FcCard)#com/sonal/flashcardapp/domain/FcCard/getQuestion()
+com/sonal/flashcardapp/dao/jdbc/FcCardDaoJdbcImpl/getCardParamMap(com.sonal.flashcardapp.domain.FcCard)#com/sonal/flashcardapp/domain/FcCard/getCardId()

@@ -1,0 +1,1 @@
+org/springside/examples/miniweb/functional/BaseFunctionalTestCase/startAll()#org/springside/examples/miniweb/functional/BaseFunctionalTestCase/loadDefaultData()

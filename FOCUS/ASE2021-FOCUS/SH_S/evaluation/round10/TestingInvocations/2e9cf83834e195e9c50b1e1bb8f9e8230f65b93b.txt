@@ -1,0 +1,4 @@
+jp/ac/shinshu/u/ealps/portal/bean/RelationCourseBean/getOpInfoValue()#jp/ac/shinshu/u/ealps/portal/entity/OpInfo/getOpHour()
+jp/ac/shinshu/u/ealps/portal/bean/RelationCourseBean/getOpInfoValue()#jp/ac/shinshu/u/ealps/portal/entity/OpInfo/getOpWday()
+jp/ac/shinshu/u/ealps/portal/bean/RelationCourseBean/getOpInfoValue()#jp/ac/shinshu/u/ealps/portal/entity/OpInfo/getOpLec()
+jp/ac/shinshu/u/ealps/portal/bean/RelationCourseBean/getOpInfoValue()#jp/ac/shinshu/u/common/definition/WeekDayCode/valueOf(java.lang.String)

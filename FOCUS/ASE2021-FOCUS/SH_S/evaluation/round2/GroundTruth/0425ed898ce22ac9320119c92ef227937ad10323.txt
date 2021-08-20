@@ -1,0 +1,1 @@
+com/cathive/fx/apps/contacts/ContactsApp/start(com.cathive.fx.apps.contacts.Stage)#java/util/ResourceBundle/getString(java.lang.String)

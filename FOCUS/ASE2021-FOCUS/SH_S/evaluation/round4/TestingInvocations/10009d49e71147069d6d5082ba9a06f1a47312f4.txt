@@ -1,0 +1,4 @@
+com/lucidworks/pig/GenKeys/exec(org.apache.pig.data.Tuple)#org/apache/pig/data/BagFactory/newDefaultBag()
+com/lucidworks/pig/GenKeys/exec(org.apache.pig.data.Tuple)#java/util/Random/nextInt(int)
+com/lucidworks/pig/GenKeys/exec(org.apache.pig.data.Tuple)#org/apache/pig/data/DataBag/add(org.apache.pig.data.Tuple)
+com/lucidworks/pig/GenKeys/exec(org.apache.pig.data.Tuple)#org/apache/pig/data/TupleFactory/newTuple(int)

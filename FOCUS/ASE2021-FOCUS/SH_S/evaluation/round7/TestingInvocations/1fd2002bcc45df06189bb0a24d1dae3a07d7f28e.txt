@@ -1,0 +1,4 @@
+org/neo4j/examples/socnet/SocnetTest/multipleStatusesComeOutInTheRightOrder()#org/neo4j/examples/socnet/SocnetTest/getRandomPerson()
+org/neo4j/examples/socnet/SocnetTest/multipleStatusesComeOutInTheRightOrder()#java/util/ArrayList/ArrayList()
+org/neo4j/examples/socnet/SocnetTest/multipleStatusesComeOutInTheRightOrder()#org/neo4j/examples/socnet/Person/getStatus()
+org/neo4j/examples/socnet/SocnetTest/multipleStatusesComeOutInTheRightOrder()#org/neo4j/examples/socnet/Person/addStatus(java.lang.String)

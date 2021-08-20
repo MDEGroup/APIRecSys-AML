@@ -1,0 +1,4 @@
+net/spinetrak/gasguzzler/resources/LoginResource/login(net.spinetrak.gasguzzler.core.User)#net/spinetrak/gasguzzler/core/User/getUsername()
+net/spinetrak/gasguzzler/resources/LoginResource/login(net.spinetrak.gasguzzler.core.User)#java/lang/Object/Object()
+net/spinetrak/gasguzzler/resources/LoginResource/login(net.spinetrak.gasguzzler.core.User)#net/spinetrak/gasguzzler/security/Authenticator/validatePassword(java.lang.String,java.lang.String)
+net/spinetrak/gasguzzler/resources/LoginResource/login(net.spinetrak.gasguzzler.core.User)#net/spinetrak/gasguzzler/dao/UserDAO/select(java.lang.String)

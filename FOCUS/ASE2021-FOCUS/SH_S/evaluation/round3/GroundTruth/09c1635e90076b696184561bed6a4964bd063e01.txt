@@ -1,0 +1,7 @@
+org/feuyeux/jaxrs2/atup/cases/TestRunner/call()#java/util/Date/Date()
+org/feuyeux/jaxrs2/atup/cases/TestRunner/call()#java/util/Set/iterator()
+org/feuyeux/jaxrs2/atup/cases/TestRunner/call()#java/util/concurrent/ConcurrentHashMap/remove(java.lang.Object)
+org/feuyeux/jaxrs2/atup/cases/TestRunner/call()#java/lang/StringBuilder/toString()
+org/feuyeux/jaxrs2/atup/cases/TestRunner/call()#java/util/Map/Entry/getKey()
+org/feuyeux/jaxrs2/atup/cases/TestRunner/call()#java/util/concurrent/ConcurrentHashMap/entrySet()
+org/feuyeux/jaxrs2/atup/cases/TestRunner/call()#java/text/DateFormat/format(java.util.Date)

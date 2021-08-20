@@ -1,0 +1,4 @@
+org/apache/camel/component/esper/EsperProducer/process(org.apache.camel.component.db4o.Exchange)#java/util/HashMap/HashMap(java.util.Map)
+org/apache/camel/component/esper/EsperProducer/process(org.apache.camel.component.db4o.Exchange)#org/apache/camel/component/esper/EsperProducer/getEsperRuntime()
+org/apache/camel/component/esper/EsperProducer/process(org.apache.camel.component.db4o.Exchange)#org/apache/camel/component/esper/EsperEndpoint/getName()
+org/apache/camel/component/esper/EsperProducer/process(org.apache.camel.component.db4o.Exchange)#org/apache/camel/component/esper/EsperEndpoint/isMapEvents()

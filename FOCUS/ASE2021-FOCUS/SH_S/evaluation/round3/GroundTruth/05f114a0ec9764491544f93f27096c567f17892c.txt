@@ -1,0 +1,8 @@
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/util/List/addAll(java.util.Collection)
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/util/List/add(E)
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/util/List/get(int)
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/lang/StringBuilder/append(char)
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/lang/StringBuilder/toString()
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/lang/AbstractStringBuilder/length()
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/lang/Math/min(int,int)
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/lang/StringBuilder/StringBuilder()

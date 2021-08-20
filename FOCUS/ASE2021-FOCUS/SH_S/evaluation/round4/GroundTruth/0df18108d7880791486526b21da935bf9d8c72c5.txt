@@ -1,0 +1,8 @@
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/kie/api/runtime/manager/RuntimeEnvironmentBuilder/userGroupCallback(org.kie.api.task.UserGroupCallback)
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/jbpm/test/JBPMHelper/setupDataSource()
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/kie/api/runtime/manager/RuntimeEnvironmentBuilder/entityManagerFactory(java.lang.Object)
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/kie/api/runtime/manager/RuntimeEnvironmentBuilder/Factory/get()
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/kie/api/runtime/manager/RuntimeManagerFactory/newSingletonRuntimeManager(org.kie.api.runtime.manager.RuntimeEnvironment,java.lang.String)
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/kie/api/runtime/manager/RuntimeEnvironmentBuilder/knowledgeBase(org.kie.api.KieBase)
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/kie/api/runtime/manager/RuntimeEnvironmentBuilderFactory/newDefaultBuilder()
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/kie/api/runtime/manager/RuntimeManagerFactory/Factory/get()

@@ -1,0 +1,4 @@
+DAO/ProjetosDAO/hasPublicacao(int)#database/Conn/getConnection()
+DAO/ProjetosDAO/hasPublicacao(int)#java/sql/ResultSet/next()
+DAO/ProjetosDAO/hasPublicacao(int)#java/sql/Connection/createStatement()
+DAO/ProjetosDAO/hasPublicacao(int)#java/lang/Throwable/getMessage()

@@ -1,0 +1,6 @@
+br/com/geladaonline/services/CervejaService/recuperaImagem(java.lang.String)#java/io/InputStream/close()
+br/com/geladaonline/services/CervejaService/recuperaImagem(java.lang.String)#javax/ws/rs/WebApplicationException/WebApplicationException(javax.ws.rs.core.Response.Status)
+br/com/geladaonline/services/CervejaService/recuperaImagem(java.lang.String)#javax/ws/rs/core/Response/ok(java.lang.Object)
+br/com/geladaonline/services/CervejaService/recuperaImagem(java.lang.String)#javax/ws/rs/core/Response/ResponseBuilder/type(java.lang.String)
+br/com/geladaonline/services/CervejaService/recuperaImagem(java.lang.String)#javax/ws/rs/core/Response/ResponseBuilder/tag(java.lang.String)
+br/com/geladaonline/services/CervejaService/recuperaImagem(java.lang.String)#javax/ws/rs/core/Response/ResponseBuilder/build()

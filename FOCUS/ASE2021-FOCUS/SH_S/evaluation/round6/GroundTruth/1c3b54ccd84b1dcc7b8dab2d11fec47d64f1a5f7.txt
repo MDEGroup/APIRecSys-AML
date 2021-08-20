@@ -1,0 +1,4 @@
+HBaseIA/GIS/WithinQuery/getCoords(ch.hsr.geohash.GeoHash)#ch/hsr/geohash/BoundingBox/getMinLat()
+HBaseIA/GIS/WithinQuery/getCoords(ch.hsr.geohash.GeoHash)#ch/hsr/geohash/BoundingBox/getMinLon()
+HBaseIA/GIS/WithinQuery/getCoords(ch.hsr.geohash.GeoHash)#com/vividsolutions/jts/geom/Coordinate/Coordinate(double,double)
+HBaseIA/GIS/WithinQuery/getCoords(ch.hsr.geohash.GeoHash)#ch/hsr/geohash/GeoHash/getBoundingBox()

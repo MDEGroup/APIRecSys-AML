@@ -1,0 +1,4 @@
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#java/util/Date/toString()
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#dk/statsbiblioteket/scape/arcunpacker/ArcRecord/getHttpReturnCode()
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#dk/statsbiblioteket/scape/arcunpacker/ArcRecord/getLength()
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#java/lang/String/indexOf(java.lang.String)

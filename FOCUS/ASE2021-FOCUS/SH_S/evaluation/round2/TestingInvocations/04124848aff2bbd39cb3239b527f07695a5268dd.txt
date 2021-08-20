@@ -1,0 +1,4 @@
+zinchenko/test/TestMain/main(java.lang.String[])#zinchenko/test/Member/Member(java.lang.Long,java.lang.String)
+zinchenko/test/TestMain/main(java.lang.String[])#java/lang/Thread/sleep(long)
+zinchenko/test/TestMain/main(java.lang.String[])#java/io/PrintStream/println(java.lang.String)
+zinchenko/test/TestMain/main(java.lang.String[])#java/util/List/add(E)

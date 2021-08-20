@@ -1,0 +1,2 @@
+org/dyrda/javabrains/client/InvocationDemo/getMessagesByYear(int)#javax/ws/rs/client/ClientBuilder/newClient()
+org/dyrda/javabrains/client/InvocationDemo/getMessagesByYear(int)#javax/ws/rs/client/WebTarget/path(java.lang.String)

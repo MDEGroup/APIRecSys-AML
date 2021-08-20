@@ -1,0 +1,4 @@
+org/sifarish/util/FieldExtractor/findMatch(java.lang.String)#java/util/regex/Matcher/group(int)
+org/sifarish/util/FieldExtractor/findMatch(java.lang.String)#java/lang/String/trim()
+org/sifarish/util/FieldExtractor/findMatch(java.lang.String)#java/util/regex/Matcher/groupCount()
+org/sifarish/util/FieldExtractor/findMatch(java.lang.String)#java/util/regex/Matcher/find()

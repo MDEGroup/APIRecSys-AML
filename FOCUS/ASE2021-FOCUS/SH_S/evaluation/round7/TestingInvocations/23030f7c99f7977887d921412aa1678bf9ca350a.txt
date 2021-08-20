@@ -1,0 +1,4 @@
+au/edu/anu/orcid/process/retrieve/ObtainPublicationInformation/save(java.util.List)#au/edu/anu/orcid/db/dao/GenericDAO/delete(PK)
+au/edu/anu/orcid/process/retrieve/ObtainPublicationInformation/save(java.util.List)#java/util/List/removeAll(java.util.Collection)
+au/edu/anu/orcid/process/retrieve/ObtainPublicationInformation/save(java.util.List)#au/edu/anu/orcid/db/model/Publication/getIssn()
+au/edu/anu/orcid/process/retrieve/ObtainPublicationInformation/save(java.util.List)#java/util/List/size()

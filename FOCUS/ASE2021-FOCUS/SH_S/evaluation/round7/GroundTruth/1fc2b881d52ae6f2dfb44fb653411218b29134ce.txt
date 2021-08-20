@@ -1,0 +1,5 @@
+jclustering/Utils/expand(ij.ImagePlus,int)#ij/ImagePlus/getStackIndex(int,int,int)
+jclustering/Utils/expand(ij.ImagePlus,int)#ij/ImagePlus/getStack()
+jclustering/Utils/expand(ij.ImagePlus,int)#ij/IJ/createImage(java.lang.String,java.lang.String,int,int,int)
+jclustering/Utils/expand(ij.ImagePlus,int)#ij/ImagePlus/getDimensions()
+jclustering/Utils/expand(ij.ImagePlus,int)#ij/ImageStack/getVoxel(int,int,int)

@@ -1,0 +1,4 @@
+com/nulli/openam/plugins/NeoUniversalConditionTest/neoQueryNullParams()#com/nulli/openam/plugins/MockConnection/MockConnection()
+com/nulli/openam/plugins/NeoUniversalConditionTest/neoQueryNullParams()#com/nulli/openam/plugins/MockConnection/setDBConnection(com.nulli.openam.plugins.NeoUniversalCondition)
+com/nulli/openam/plugins/NeoUniversalConditionTest/neoQueryNullParams()#com/nulli/openam/plugins/MockConnection/setSubject(javax.security.auth.Subject)
+com/nulli/openam/plugins/NeoUniversalConditionTest/neoQueryNullParams()#com/nulli/openam/plugins/NeoUniversalCondition/setCypherQuery(java.lang.String)

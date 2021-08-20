@@ -1,0 +1,4 @@
+org/springside/examples/miniweb/functional/BaseFunctionalTestCase/startAll()#org/springside/examples/miniweb/functional/BaseFunctionalTestCase/loginAsAdmin()
+org/springside/examples/miniweb/functional/BaseFunctionalTestCase/startAll()#org/springside/examples/miniweb/functional/BaseFunctionalTestCase/fetchDataSource()
+org/springside/examples/miniweb/functional/BaseFunctionalTestCase/startAll()#org/springside/examples/miniweb/functional/BaseFunctionalTestCase/createWebDriver()
+org/springside/examples/miniweb/functional/BaseFunctionalTestCase/startAll()#org/springside/examples/miniweb/functional/BaseFunctionalTestCase/startJetty()

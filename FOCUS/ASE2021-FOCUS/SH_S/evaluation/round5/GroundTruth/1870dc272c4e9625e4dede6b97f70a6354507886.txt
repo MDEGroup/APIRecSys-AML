@@ -1,0 +1,1 @@
+io/swagger/sample/data/UserData/removeUser(java.lang.String)#io/swagger/sample/model/User/getUsername()

@@ -1,0 +1,3 @@
+vsu/amm/SparkComputing/topRatedFilmsGender()#org/apache/hadoop/conf/Configuration/set(java.lang.String,java.lang.String)
+vsu/amm/SparkComputing/topRatedFilmsGender()#org/apache/spark/api/java/AbstractJavaRDDLike/mapToPair(org.apache.spark.api.java.function.PairFunction)
+vsu/amm/SparkComputing/topRatedFilmsGender()#org/apache/spark/api/java/JavaPairRDD/filter(org.apache.spark.api.java.function.Function)

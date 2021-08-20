@@ -1,0 +1,8 @@
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#dk/statsbiblioteket/scape/arcunpacker/ArcRecord/getMimeType()
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#dk/statsbiblioteket/scape/arcunpacker/ArcRecord/getUrl()
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/content2String(java.io.InputStream)
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#dk/statsbiblioteket/scape/arcunpacker/mapreduce/ArcInputFormat/createRecordReader(dk.statsbiblioteket.scape.arcunpacker.mapred.InputSplit,dk.statsbiblioteket.scape.arcunpacker.mapreduce.TaskAttemptContext)
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#dk/statsbiblioteket/scape/arcunpacker/ArcRecord/getContents()
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#java/io/PrintStream/println(char[])
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#dk/statsbiblioteket/scape/arcunpacker/ArcRecord/getType()
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/WARCTest/testNextKeyValue()#dk/statsbiblioteket/scape/arcunpacker/ArcRecord/getDate()

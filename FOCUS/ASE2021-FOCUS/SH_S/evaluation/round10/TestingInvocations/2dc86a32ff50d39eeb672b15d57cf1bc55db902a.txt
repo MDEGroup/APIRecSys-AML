@@ -1,0 +1,4 @@
+com/springapp/mvc/MController/blog(com.springapp.mvc.bean.User,org.springframework.ui.ModelMap,javax.servlet.http.HttpSession)#com/springapp/mvc/bean/Blog/setGood_num(int)
+com/springapp/mvc/MController/blog(com.springapp.mvc.bean.User,org.springframework.ui.ModelMap,javax.servlet.http.HttpSession)#com/springapp/mvc/bean/User/getEmail()
+com/springapp/mvc/MController/blog(com.springapp.mvc.bean.User,org.springframework.ui.ModelMap,javax.servlet.http.HttpSession)#com/springapp/mvc/bean/Blog/setId(java.lang.String)
+com/springapp/mvc/MController/blog(com.springapp.mvc.bean.User,org.springframework.ui.ModelMap,javax.servlet.http.HttpSession)#com/springapp/mvc/bean/Blog/Blog()

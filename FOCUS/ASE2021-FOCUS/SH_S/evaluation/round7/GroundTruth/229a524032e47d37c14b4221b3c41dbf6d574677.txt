@@ -1,0 +1,2 @@
+demo/api/v1/CatalogServiceV1/getCatalog()#demo/catalog/CatalogInfoRepository/findCatalogByActive(java.lang.Boolean)
+demo/api/v1/CatalogServiceV1/getCatalog()#demo/catalog/Catalog/setProducts(java.util.Set)

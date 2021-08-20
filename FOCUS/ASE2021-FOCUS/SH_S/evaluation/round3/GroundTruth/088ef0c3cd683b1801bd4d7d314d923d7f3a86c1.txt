@@ -1,0 +1,1 @@
+com/exercise/socialconnection/repository/GraphPersonRepository/findAll()#java/lang/Iterable/spliterator()

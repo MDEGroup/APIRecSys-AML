@@ -1,0 +1,1 @@
+br/com/tecsinapse/camel/repository/SocialRepository/arriveTweet(twitter4j.Status)#br/com/tecsinapse/camel/repository/SocialRepository/arrive(K,V,java.util.Map,java.util.Comparator)

@@ -1,0 +1,4 @@
+freenet/winterface/web/FetchErrorPage/addRelatedOptions(boolean)#java/util/Map/Entry/getValue()
+freenet/winterface/web/FetchErrorPage/addRelatedOptions(boolean)#freenet/winterface/web/WinterPage/getFreenetNode()
+freenet/winterface/web/FetchErrorPage/addRelatedOptions(boolean)#java/util/Map/isEmpty()
+freenet/winterface/web/FetchErrorPage/addRelatedOptions(boolean)#java/util/Map/size()

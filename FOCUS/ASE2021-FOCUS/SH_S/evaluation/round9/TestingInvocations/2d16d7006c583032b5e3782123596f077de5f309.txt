@@ -1,0 +1,4 @@
+com/nzannino/web/controller/QueryTest/testJoin()#org/jooq/impl/DSL/countDistinct(org.jooq.Field)
+com/nzannino/web/controller/QueryTest/testJoin()#java/util/List/size()
+com/nzannino/web/controller/QueryTest/testJoin()#org/jooq/Result/getValue(int,org.jooq.Field)
+com/nzannino/web/controller/QueryTest/testJoin()#java/lang/Integer/valueOf(int)

@@ -1,0 +1,4 @@
+coin/util/StringUtil/readToString(java.lang.String)#java/io/PrintStream/println(java.lang.String)
+coin/util/StringUtil/readToString(java.lang.String)#java/lang/String/String(byte[],java.lang.String)
+coin/util/StringUtil/readToString(java.lang.String)#java/io/File/File(java.lang.String)
+coin/util/StringUtil/readToString(java.lang.String)#java/io/FileInputStream/close()

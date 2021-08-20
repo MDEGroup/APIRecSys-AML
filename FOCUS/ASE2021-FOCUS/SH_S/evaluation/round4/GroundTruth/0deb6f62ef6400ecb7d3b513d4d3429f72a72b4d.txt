@@ -1,0 +1,7 @@
+info/xiaohei/www/mr/peoplerank/AdjacencyMatrix/AdjacencyReducer/reduce(info.xiaohei.www.mr.kpi.Text,java.lang.Iterable,info.xiaohei.www.mr.kpi.Context)#java/lang/StringBuilder/append(java.lang.Object)
+info/xiaohei/www/mr/peoplerank/AdjacencyMatrix/AdjacencyReducer/reduce(info.xiaohei.www.mr.kpi.Text,java.lang.Iterable,info.xiaohei.www.mr.kpi.Context)#java/lang/StringBuilder/append(float)
+info/xiaohei/www/mr/peoplerank/AdjacencyMatrix/AdjacencyReducer/reduce(info.xiaohei.www.mr.kpi.Text,java.lang.Iterable,info.xiaohei.www.mr.kpi.Context)#java/lang/Integer/parseInt(java.lang.String)
+info/xiaohei/www/mr/peoplerank/AdjacencyMatrix/AdjacencyReducer/reduce(info.xiaohei.www.mr.kpi.Text,java.lang.Iterable,info.xiaohei.www.mr.kpi.Context)#java/io/PrintStream/println(java.lang.String)
+info/xiaohei/www/mr/peoplerank/AdjacencyMatrix/AdjacencyReducer/reduce(info.xiaohei.www.mr.kpi.Text,java.lang.Iterable,info.xiaohei.www.mr.kpi.Context)#java/lang/String/replaceFirst(java.lang.String,java.lang.String)
+info/xiaohei/www/mr/peoplerank/AdjacencyMatrix/AdjacencyReducer/reduce(info.xiaohei.www.mr.kpi.Text,java.lang.Iterable,info.xiaohei.www.mr.kpi.Context)#java/lang/StringBuilder/toString()
+info/xiaohei/www/mr/peoplerank/AdjacencyMatrix/AdjacencyReducer/reduce(info.xiaohei.www.mr.kpi.Text,java.lang.Iterable,info.xiaohei.www.mr.kpi.Context)#java/lang/StringBuilder/append(java.lang.String)

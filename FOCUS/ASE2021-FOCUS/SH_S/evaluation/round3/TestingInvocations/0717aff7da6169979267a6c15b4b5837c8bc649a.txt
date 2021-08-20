@@ -1,0 +1,4 @@
+camelinaction/FileCopier/copyFile(java.io.File,java.io.File)#java/io/OutputStream/close()
+camelinaction/FileCopier/copyFile(java.io.File,java.io.File)#java/io/FileInputStream/read(byte[])
+camelinaction/FileCopier/copyFile(java.io.File,java.io.File)#java/io/FileInputStream/close()
+camelinaction/FileCopier/copyFile(java.io.File,java.io.File)#java/io/File/length()

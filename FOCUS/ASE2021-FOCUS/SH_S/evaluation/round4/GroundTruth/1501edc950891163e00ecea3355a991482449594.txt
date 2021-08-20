@@ -1,0 +1,3 @@
+com/harishkannarao/angularjs/service/AuthService/isAuthorized(java.lang.String,java.lang.String,java.util.Set)#java/util/Optional/isPresent()
+com/harishkannarao/angularjs/service/AuthService/isAuthorized(java.lang.String,java.lang.String,java.util.Set)#java/util/Collection/stream()
+com/harishkannarao/angularjs/service/AuthService/isAuthorized(java.lang.String,java.lang.String,java.util.Set)#java/util/stream/Stream/filter(java.util.function.Predicate)

@@ -1,0 +1,8 @@
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#java/lang/StringBuffer/StringBuffer()
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#java/lang/StringBuffer/append(int)
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#java/lang/StringBuffer/append(java.lang.String)
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#org/wicketstuff/calendarviews/model/BasicCategorizedEvent/BasicCategorizedEvent()
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#org/wicketstuff/calendarviews/model/BasicEvent/setAllDayEvent(boolean)
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#java/text/DateFormat/format(java.util.Date)
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#java/lang/StringBuffer/toString()
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#org/wicketstuff/calendarviews/model/BasicEvent/setTitle(java.lang.String)

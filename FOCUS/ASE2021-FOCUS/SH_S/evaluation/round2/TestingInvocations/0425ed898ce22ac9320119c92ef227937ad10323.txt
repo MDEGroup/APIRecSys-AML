@@ -1,0 +1,4 @@
+com/cathive/fx/apps/contacts/ContactsApp/start(com.cathive.fx.apps.contacts.Stage)#java/lang/Class/getResourceAsStream(java.lang.String)
+com/cathive/fx/apps/contacts/ContactsApp/start(com.cathive.fx.apps.contacts.Stage)#java/net/URL/toExternalForm()
+com/cathive/fx/apps/contacts/ContactsApp/start(com.cathive.fx.apps.contacts.Stage)#java/lang/Class/getResource(java.lang.String)
+com/cathive/fx/apps/contacts/ContactsApp/start(com.cathive.fx.apps.contacts.Stage)#java/lang/Object/getClass()

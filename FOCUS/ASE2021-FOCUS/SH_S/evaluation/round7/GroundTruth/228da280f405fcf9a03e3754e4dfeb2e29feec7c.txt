@@ -1,0 +1,5 @@
+com/jakubstas/swagger/rest/ProductsEndpoint/deleteProduct(java.lang.String)#javax/ws/rs/core/Link/Builder/type(java.lang.String)
+com/jakubstas/swagger/rest/ProductsEndpoint/deleteProduct(java.lang.String)#javax/ws/rs/core/Link/Builder/rel(java.lang.String)
+com/jakubstas/swagger/rest/ProductsEndpoint/deleteProduct(java.lang.String)#javax/ws/rs/core/Link/fromUri(java.lang.String)
+com/jakubstas/swagger/rest/ProductsEndpoint/deleteProduct(java.lang.String)#javax/ws/rs/core/Response/ResponseBuilder/links(javax.ws.rs.core.Link[])
+com/jakubstas/swagger/rest/ProductsEndpoint/deleteProduct(java.lang.String)#javax/ws/rs/core/Response/ResponseBuilder/build()

@@ -1,0 +1,4 @@
+org/dyrda/javabrains/client/InvocationDemo/getMessagesByYear(int)#javax/ws/rs/client/Invocation/Builder/buildGet()
+org/dyrda/javabrains/client/InvocationDemo/getMessagesByYear(int)#javax/ws/rs/client/Client/target(java.lang.String)
+org/dyrda/javabrains/client/InvocationDemo/getMessagesByYear(int)#javax/ws/rs/client/WebTarget/queryParam(java.lang.String,java.lang.Object[])
+org/dyrda/javabrains/client/InvocationDemo/getMessagesByYear(int)#javax/ws/rs/client/WebTarget/request()

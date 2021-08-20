@@ -1,0 +1,3 @@
+storm/cookbook/tfidf/functions/TermFilter/prepare(java.util.Map,storm.cookbook.tfidf.functions.TridentOperationContext)#java/io/File/File(java.lang.String)
+storm/cookbook/tfidf/functions/TermFilter/prepare(java.util.Map,storm.cookbook.tfidf.functions.TridentOperationContext)#java/lang/System/getProperty(java.lang.String)
+storm/cookbook/tfidf/functions/TermFilter/prepare(java.util.Map,storm.cookbook.tfidf.functions.TridentOperationContext)#java/lang/Object/Object()

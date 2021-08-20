@@ -1,0 +1,3 @@
+org/apache/cordova/camera/CameraLauncher/writeUncompressedImage(de.appplant.cordova.plugin.localnotification.Uri)#java/io/OutputStream/write(byte[],int,int)
+org/apache/cordova/camera/CameraLauncher/writeUncompressedImage(de.appplant.cordova.plugin.localnotification.Uri)#java/io/FileInputStream/close()
+org/apache/cordova/camera/CameraLauncher/writeUncompressedImage(de.appplant.cordova.plugin.localnotification.Uri)#org/apache/cordova/camera/FileHelper/stripFileProtocol(java.lang.String)

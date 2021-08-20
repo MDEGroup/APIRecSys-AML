@@ -1,0 +1,4 @@
+study/services/UsersService/register(java.lang.String,java.lang.String,java.lang.String,study.models.User.Permissions)#org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder/BCryptPasswordEncoder()
+study/services/UsersService/register(java.lang.String,java.lang.String,java.lang.String,study.models.User.Permissions)#java/lang/String/toLowerCase()
+study/services/UsersService/register(java.lang.String,java.lang.String,java.lang.String,study.models.User.Permissions)#study/models/User/User(java.lang.String,java.lang.String,java.lang.String)
+study/services/UsersService/register(java.lang.String,java.lang.String,java.lang.String,study.models.User.Permissions)#study/models/User/setPermission(study.models.User.Permissions)

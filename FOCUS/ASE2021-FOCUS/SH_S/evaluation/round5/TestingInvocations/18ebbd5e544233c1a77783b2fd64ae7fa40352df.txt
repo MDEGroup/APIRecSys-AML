@@ -1,0 +1,4 @@
+com/ibm/taste/example/movie/model/MovieList/toJSON()#java/util/Map/Entry/getValue()
+com/ibm/taste/example/movie/model/MovieList/toJSON()#com/ibm/taste/example/movie/model/Movie/toJSON()
+com/ibm/taste/example/movie/model/MovieList/toJSON()#java/lang/StringBuilder/append(java.lang.String)
+com/ibm/taste/example/movie/model/MovieList/toJSON()#java/util/Map/Entry/getKey()

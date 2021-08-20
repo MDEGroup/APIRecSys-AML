@@ -1,0 +1,4 @@
+com/hortonworks/example/UnitTest/test_2()#java/lang/ClassLoader/getResource(java.lang.String)
+com/hortonworks/example/UnitTest/test_2()#org/apache/hadoop/fs/FSDataOutputStream/close()
+com/hortonworks/example/UnitTest/test_2()#java/net/URL/toURI()
+com/hortonworks/example/UnitTest/test_2()#java/net/URI/getPath()

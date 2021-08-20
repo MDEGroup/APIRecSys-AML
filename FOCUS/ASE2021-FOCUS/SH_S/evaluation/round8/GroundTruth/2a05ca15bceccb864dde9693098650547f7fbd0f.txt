@@ -1,0 +1,3 @@
+org/slurry/cache4guice/cache/util/Cache4GuiceHelperImpl/getCache(java.lang.String)#org/slurry/cache4guice/aop/CacheInterceptor/getUuidMap()
+org/slurry/cache4guice/cache/util/Cache4GuiceHelperImpl/getCache(java.lang.String)#java/util/Map/entrySet()
+org/slurry/cache4guice/cache/util/Cache4GuiceHelperImpl/getCache(java.lang.String)#java/util/UUID/toString()

@@ -1,0 +1,6 @@
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)#com/gs/model/PagePOJO/getContent()
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)#com/gs/model/PagePOJO/getTitle()
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)#com/gs/model/PagePOJO/getId()
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)#java/sql/Connection/createStatement()
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)#com/gs/model/PagePOJO/getUrl()
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)#org/slf4j/Logger/error(java.lang.String)

@@ -1,0 +1,2 @@
+org/planningpoker/wicket/pages/PlanningPage/addPlanningRoundResultTable(org.apache.wicket.model.IModel)#org/planningpoker/wicket/pages/PlanningPage/addPlanningRoundResultTable(org/apache/wicket/model/IModel)/$anonymous1/(java.lang.String,org.apache.wicket.model.IModel)
+org/planningpoker/wicket/pages/PlanningPage/addPlanningRoundResultTable(org.apache.wicket.model.IModel)#org/apache/wicket/MarkupContainer/add(org.apache.wicket.Component[])

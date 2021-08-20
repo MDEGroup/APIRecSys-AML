@@ -1,0 +1,4 @@
+org/apache/cordova/camera/CameraLauncher/writeUncompressedImage(de.appplant.cordova.plugin.localnotification.Uri)#java/io/OutputStream/close()
+org/apache/cordova/camera/CameraLauncher/writeUncompressedImage(de.appplant.cordova.plugin.localnotification.Uri)#java/io/FileInputStream/read(byte[])
+org/apache/cordova/camera/CameraLauncher/writeUncompressedImage(de.appplant.cordova.plugin.localnotification.Uri)#java/io/OutputStream/flush()
+org/apache/cordova/camera/CameraLauncher/writeUncompressedImage(de.appplant.cordova.plugin.localnotification.Uri)#java/io/FileInputStream/FileInputStream(java.lang.String)

@@ -1,0 +1,4 @@
+com/kyip/api/buildstartportal/external/resource/StartupResourceImpl/listProjects()#com/kyip/api/buildstartportal/external/datatype/StartProject/setStarted(boolean)
+com/kyip/api/buildstartportal/external/resource/StartupResourceImpl/listProjects()#com/kyip/api/buildstartportal/external/datatype/SingleProject/getPath()
+com/kyip/api/buildstartportal/external/resource/StartupResourceImpl/listProjects()#com/kyip/api/buildstartportal/external/datatype/StartProject/getPort()
+com/kyip/api/buildstartportal/external/resource/StartupResourceImpl/listProjects()#com/kyip/api/buildstartportal/external/ListStartProjectsResponse/setProjects(java.util.List)

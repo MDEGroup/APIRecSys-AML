@@ -1,0 +1,4 @@
+net/lr/tutorial/karaf/db/service/DbAccess/query(java.lang.String)#net/lr/tutorial/karaf/db/service/DbAccess/printResult(java.sql.ResultSet)
+net/lr/tutorial/karaf/db/service/DbAccess/query(java.lang.String)#java/sql/Statement/close()
+net/lr/tutorial/karaf/db/service/DbAccess/query(java.lang.String)#java/sql/Connection/createStatement()
+net/lr/tutorial/karaf/db/service/DbAccess/query(java.lang.String)#java/sql/Statement/executeQuery(java.lang.String)

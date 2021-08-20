@@ -1,0 +1,4 @@
+be/rhok/ejc/service/metadata/ZemantaService/mapToMetaDataContainer(be.rhok.ejc.service.metadata.ZemantaResult)#be/rhok/ejc/common/util/KeywordComparator/KeywordComparator()
+be/rhok/ejc/service/metadata/ZemantaService/mapToMetaDataContainer(be.rhok.ejc.service.metadata.ZemantaResult)#be/rhok/ejc/common/model/metadata/MetaDataContainer/getKeywords()
+be/rhok/ejc/service/metadata/ZemantaService/mapToMetaDataContainer(be.rhok.ejc.service.metadata.ZemantaResult)#be/rhok/ejc/common/model/metadata/Keyword/setRelevance(double)
+be/rhok/ejc/service/metadata/ZemantaService/mapToMetaDataContainer(be.rhok.ejc.service.metadata.ZemantaResult)#be/rhok/ejc/common/model/metadata/MetaDataContainer/addKeyword(be.rhok.ejc.common.model.metadata.Keyword)

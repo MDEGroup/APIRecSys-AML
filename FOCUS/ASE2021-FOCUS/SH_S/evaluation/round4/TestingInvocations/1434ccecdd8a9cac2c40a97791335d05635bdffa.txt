@@ -1,0 +1,4 @@
+org/iamfamily/email/SendNewsletter/main(java.lang.String[])#java/util/ArrayList/ArrayList()
+org/iamfamily/email/SendNewsletter/main(java.lang.String[])#java/lang/Throwable/printStackTrace()
+org/iamfamily/email/SendNewsletter/main(java.lang.String[])#java/lang/Thread/sleep(long)
+org/iamfamily/email/SendNewsletter/main(java.lang.String[])#java/nio/file/Files/readAllBytes(java.nio.file.Path)

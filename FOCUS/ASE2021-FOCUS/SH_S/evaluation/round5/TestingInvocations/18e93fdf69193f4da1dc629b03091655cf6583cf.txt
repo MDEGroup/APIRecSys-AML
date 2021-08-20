@@ -1,0 +1,4 @@
+me/kafeitu/demo/activiti/service/oa/leave/LeaveWorkflowService/startWorkflow(me.kafeitu.demo.activiti.entity.oa.Leave,java.util.Map)#java/lang/Long/toString()
+me/kafeitu/demo/activiti/service/oa/leave/LeaveWorkflowService/startWorkflow(me.kafeitu.demo.activiti.entity.oa.Leave,java.util.Map)#me/kafeitu/demo/activiti/service/oa/leave/LeaveManager/saveLeave(me.kafeitu.demo.activiti.entity.oa.Leave)
+me/kafeitu/demo/activiti/service/oa/leave/LeaveWorkflowService/startWorkflow(me.kafeitu.demo.activiti.entity.oa.Leave,java.util.Map)#me/kafeitu/demo/activiti/entity/IdEntity/getId()
+me/kafeitu/demo/activiti/service/oa/leave/LeaveWorkflowService/startWorkflow(me.kafeitu.demo.activiti.entity.oa.Leave,java.util.Map)#me/kafeitu/demo/activiti/entity/oa/Leave/setProcessInstanceId(java.lang.String)

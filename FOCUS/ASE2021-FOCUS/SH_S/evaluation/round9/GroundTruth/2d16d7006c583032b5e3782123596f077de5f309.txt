@@ -1,0 +1,3 @@
+com/nzannino/web/controller/QueryTest/testJoin()#org/junit/Assert/assertEquals(java.lang.Object,java.lang.Object)
+com/nzannino/web/controller/QueryTest/testJoin()#org/junit/Assert/assertEquals(long,long)
+com/nzannino/web/controller/QueryTest/testJoin()#org/jooq/DSLContext/select(org.jooq.Field,org.jooq.Field,org.jooq.Field)

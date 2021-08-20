@@ -1,0 +1,4 @@
+net/spinetrak/gasguzzler/resources/LoginResource/login(net.spinetrak.gasguzzler.core.User)#net/spinetrak/gasguzzler/security/Authenticator/generateJWTToken(java.lang.String)
+net/spinetrak/gasguzzler/resources/LoginResource/login(net.spinetrak.gasguzzler.core.User)#net/spinetrak/gasguzzler/core/User/setToken(java.lang.String)
+net/spinetrak/gasguzzler/resources/LoginResource/login(net.spinetrak.gasguzzler.core.User)#net/spinetrak/gasguzzler/core/User/getPassword()
+net/spinetrak/gasguzzler/resources/LoginResource/login(net.spinetrak.gasguzzler.core.User)#net/spinetrak/gasguzzler/core/User/setPassword(java.lang.String)

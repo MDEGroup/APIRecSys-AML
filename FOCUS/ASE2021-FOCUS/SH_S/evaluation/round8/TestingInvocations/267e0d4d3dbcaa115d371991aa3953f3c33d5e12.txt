@@ -1,0 +1,4 @@
+vsu/amm/SparkComputing/topRatedFilmsGender()#org/apache/spark/api/java/JavaPairRDD/reduceByKey(org.apache.spark.api.java.function.Function2)
+vsu/amm/SparkComputing/topRatedFilmsGender()#org/apache/hadoop/conf/Configuration/Configuration()
+vsu/amm/SparkComputing/topRatedFilmsGender()#org/apache/spark/api/java/JavaPairRDD/join(org.apache.spark.api.java.JavaPairRDD)
+vsu/amm/SparkComputing/topRatedFilmsGender()#org/apache/spark/api/java/JavaPairRDD/saveAsNewAPIHadoopFile(java.lang.String,java.lang.Class,java.lang.Class,java.lang.Class,org.apache.hadoop.conf.Configuration)

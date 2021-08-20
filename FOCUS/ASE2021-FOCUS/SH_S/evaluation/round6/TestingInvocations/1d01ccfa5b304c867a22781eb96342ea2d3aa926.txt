@@ -1,0 +1,4 @@
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/domain/openehr/model/Diagnoses/setId(java.lang.String)
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/esb/rest/domain/AqlResult/getSeverity()
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/domain/openehr/model/Diagnoses/setSeverity(java.lang.String)
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.esb.rest.domain.AqlResult)#net/nhs/esb/rest/domain/AqlResult/getDateOfOnset()

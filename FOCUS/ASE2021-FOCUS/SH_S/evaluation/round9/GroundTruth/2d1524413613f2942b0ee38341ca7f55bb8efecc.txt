@@ -1,0 +1,1 @@
+com/trigram/dao/TrigramDaoTest/testConstructor()#java/lang/Object/getClass()

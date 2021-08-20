@@ -1,0 +1,2 @@
+bb/rackmesa/research/authorization/CryptoFunctions/hashSHA512(java.lang.String)#java/security/MessageDigest/getInstance(java.lang.String)
+bb/rackmesa/research/authorization/CryptoFunctions/hashSHA512(java.lang.String)#java/security/MessageDigest/update(byte[])

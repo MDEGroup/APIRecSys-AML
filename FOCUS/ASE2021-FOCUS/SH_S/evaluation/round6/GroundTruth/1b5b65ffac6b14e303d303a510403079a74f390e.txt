@@ -1,0 +1,1 @@
+org/apache/camel/component/esper/EsperProducer/process(org.apache.camel.component.db4o.Exchange)#java/util/Map/put(K,V)

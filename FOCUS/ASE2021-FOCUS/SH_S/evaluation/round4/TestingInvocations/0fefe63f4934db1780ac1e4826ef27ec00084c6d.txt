@@ -1,0 +1,4 @@
+org/objetdirect/wickext/core/commons/WickextPluginInstantiationListener/manageUi(org.apache.wicket.Component,org.objetdirect.wickext.core.commons.WickextPlugin)#org/apache/wicket/Component/add(org.apache.wicket.behavior.IBehavior[])
+org/objetdirect/wickext/core/commons/WickextPluginInstantiationListener/manageUi(org.apache.wicket.Component,org.objetdirect.wickext.core.commons.WickextPlugin)#java/lang/Class/getAnnotation(java.lang.Class)
+org/objetdirect/wickext/core/commons/WickextPluginInstantiationListener/manageUi(org.apache.wicket.Component,org.objetdirect.wickext.core.commons.WickextPlugin)#org/objetdirect/wickext/core/commons/WickextPluginInstantiationListener/manageUi(org/apache/wicket/Component,org/objetdirect/wickext/core/commons/WickextPlugin)/$anonymous2/()
+org/objetdirect/wickext/core/commons/WickextPluginInstantiationListener/manageUi(org.apache.wicket.Component,org.objetdirect.wickext.core.commons.WickextPlugin)#java/lang/Object/getClass()

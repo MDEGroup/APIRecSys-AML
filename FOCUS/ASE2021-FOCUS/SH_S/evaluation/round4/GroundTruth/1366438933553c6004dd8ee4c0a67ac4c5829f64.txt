@@ -1,0 +1,5 @@
+de/l3s/warc/reader/ext/HtmlUtils/exec(java.lang.String)#java/lang/String/toString()
+de/l3s/warc/reader/ext/HtmlUtils/exec(java.lang.String)#org/jsoup/nodes/Element/select(java.lang.String)
+de/l3s/warc/reader/ext/HtmlUtils/exec(java.lang.String)#java/util/HashMap/keySet()
+de/l3s/warc/reader/ext/HtmlUtils/exec(java.lang.String)#java/lang/String/contains(java.lang.CharSequence)
+de/l3s/warc/reader/ext/HtmlUtils/exec(java.lang.String)#org/jsoup/nodes/Node/attr(java.lang.String)

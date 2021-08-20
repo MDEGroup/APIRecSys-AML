@@ -1,0 +1,1 @@
+com/howtodoinjava/jersey/client/JerseyClientExamples/main(java.lang.String[])#com/howtodoinjava/jersey/client/JerseyClientExamples/httpGETEntityExample()

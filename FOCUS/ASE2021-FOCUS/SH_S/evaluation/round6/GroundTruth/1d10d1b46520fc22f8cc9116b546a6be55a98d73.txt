@@ -1,0 +1,6 @@
+webService/clent/Test/main(java.lang.String[])#webService/clent/Hello/Hello()
+webService/clent/Test/main(java.lang.String[])#java/io/PrintStream/println(int)
+webService/clent/Test/main(java.lang.String[])#webService/clent/SayHiServiceImpService/getSayHiServiceImpPort()
+webService/clent/Test/main(java.lang.String[])#webService/clent/Hello/setUsername(java.lang.String)
+webService/clent/Test/main(java.lang.String[])#webService/clent/SayHiServiceImpService/SayHiServiceImpService()
+webService/clent/Test/main(java.lang.String[])#webService/clent/Hello/getAge()

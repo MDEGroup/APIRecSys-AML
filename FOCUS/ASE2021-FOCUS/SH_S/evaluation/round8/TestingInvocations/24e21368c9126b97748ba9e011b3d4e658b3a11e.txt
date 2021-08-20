@@ -1,0 +1,4 @@
+eu/scape_project/archiventory/identifiers/DroidIdentificationTest/testIdentify()#eu/scape_project/archiventory/identifiers/Identification/setTool(java.lang.String)
+eu/scape_project/archiventory/identifiers/DroidIdentificationTest/testIdentify()#java/io/PrintStream/println(java.lang.String)
+eu/scape_project/archiventory/identifiers/DroidIdentificationTest/testIdentify()#eu/scape_project/archiventory/identifiers/ArcFilesTestMap/getTmpTestFile()
+eu/scape_project/archiventory/identifiers/DroidIdentificationTest/testIdentify()#eu/scape_project/archiventory/identifiers/Identification/setOutputKeyFormat(java.lang.String)

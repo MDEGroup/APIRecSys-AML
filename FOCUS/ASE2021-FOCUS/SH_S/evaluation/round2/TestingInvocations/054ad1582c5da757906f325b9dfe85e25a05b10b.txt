@@ -1,0 +1,4 @@
+com/wordnik/swagger/sample/data/PetData/findPetByStatus(java.lang.String)#java/util/ArrayList/ArrayList()
+com/wordnik/swagger/sample/data/PetData/findPetByStatus(java.lang.String)#com/wordnik/swagger/sample/model/Pet/getStatus()
+com/wordnik/swagger/sample/data/PetData/findPetByStatus(java.lang.String)#java/lang/String/split(java.lang.String)
+com/wordnik/swagger/sample/data/PetData/findPetByStatus(java.lang.String)#java/lang/String/equals(java.lang.Object)

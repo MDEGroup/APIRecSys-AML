@@ -1,0 +1,5 @@
+com/maxmind/geoip/LookupService/getDatabaseInfo()#java/lang/String/String(byte[])
+com/maxmind/geoip/LookupService/getDatabaseInfo()#java/io/RandomAccessFile/readFully(byte[])
+com/maxmind/geoip/LookupService/getDatabaseInfo()#java/io/RandomAccessFile/length()
+com/maxmind/geoip/LookupService/getDatabaseInfo()#java/io/RandomAccessFile/read(byte[])
+com/maxmind/geoip/LookupService/getDatabaseInfo()#java/io/RandomAccessFile/getFilePointer()

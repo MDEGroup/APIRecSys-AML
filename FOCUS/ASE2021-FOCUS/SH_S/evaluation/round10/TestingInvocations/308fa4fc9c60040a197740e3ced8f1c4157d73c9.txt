@@ -1,0 +1,4 @@
+agenda/rest/GrupoREST/deleteContato(java.lang.String)#agenda/business/ContatoBusiness/deleteById(java.lang.String)
+agenda/rest/GrupoREST/deleteContato(java.lang.String)#agenda/rest/exceptions/CustomWebApplicationException/CustomWebApplicationException(java.lang.Throwable)
+agenda/rest/GrupoREST/deleteContato(java.lang.String)#agenda/dao/SessionManager/commit()
+agenda/rest/GrupoREST/deleteContato(java.lang.String)#agenda/dao/SessionManager/begin()

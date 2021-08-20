@@ -1,0 +1,4 @@
+org/recipesearch/web/beans/UserBeanTest/testValidUserBean()#org/lambico/test/spring/EnhancedTestCase/assertSize(int,java.util.Collection)
+org/recipesearch/web/beans/UserBeanTest/testValidUserBean()#javax/validation/Validator/validate(T,java.lang.Class<?>[])
+org/recipesearch/web/beans/UserBeanTest/testValidUserBean()#javax/validation/Validation/buildDefaultValidatorFactory()
+org/recipesearch/web/beans/UserBeanTest/testValidUserBean()#org/recipesearch/web/beans/UserBeanTest/buildValidUserBean()

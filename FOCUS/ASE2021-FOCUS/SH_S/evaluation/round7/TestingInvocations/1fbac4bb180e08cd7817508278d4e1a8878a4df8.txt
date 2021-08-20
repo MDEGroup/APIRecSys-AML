@@ -1,0 +1,4 @@
+com/done/analytics/domain/VoteResult/hashCode()#java/lang/String/hashCode()
+com/done/analytics/domain/VoteResult/hashCode()#com/done/analytics/domain/VoteResult/getTopicOwner()
+com/done/analytics/domain/VoteResult/hashCode()#com/done/analytics/domain/VoteResult/getPresenter()
+com/done/analytics/domain/VoteResult/hashCode()#com/done/analytics/domain/VoteResult/getPercentage()

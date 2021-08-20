@@ -1,0 +1,4 @@
+be/rhok/ejc/service/metadata/ZemantaService/mapToMetaDataContainer(be.rhok.ejc.service.metadata.ZemantaResult)#be/rhok/ejc/common/model/metadata/MetaDataContainer/MetaDataContainer()
+be/rhok/ejc/service/metadata/ZemantaService/mapToMetaDataContainer(be.rhok.ejc.service.metadata.ZemantaResult)#be/rhok/ejc/common/model/metadata/Keyword/Keyword()
+be/rhok/ejc/service/metadata/ZemantaService/mapToMetaDataContainer(be.rhok.ejc.service.metadata.ZemantaResult)#java/util/Collections/sort(java.util.List,java.util.Comparator)
+be/rhok/ejc/service/metadata/ZemantaService/mapToMetaDataContainer(be.rhok.ejc.service.metadata.ZemantaResult)#be/rhok/ejc/common/model/metadata/Keyword/setKeyword(java.lang.String)

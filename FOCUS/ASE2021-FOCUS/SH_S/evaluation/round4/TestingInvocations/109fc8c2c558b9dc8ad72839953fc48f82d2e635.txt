@@ -1,0 +1,4 @@
+at/ac/tuwien/service/impl/TemplateServiceImpl/createTestSuiteZip(java.util.List)#at/ac/tuwien/service/impl/TemplateServiceImpl/fileRemover(java.lang.String)
+at/ac/tuwien/service/impl/TemplateServiceImpl/createTestSuiteZip(java.util.List)#java/io/File/getName()
+at/ac/tuwien/service/impl/TemplateServiceImpl/createTestSuiteZip(java.util.List)#java/util/zip/ZipOutputStream/putNextEntry(java.util.zip.ZipEntry)
+at/ac/tuwien/service/impl/TemplateServiceImpl/createTestSuiteZip(java.util.List)#java/util/zip/ZipOutputStream/ZipOutputStream(java.io.OutputStream)

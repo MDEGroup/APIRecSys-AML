@@ -1,0 +1,4 @@
+com/aspigrow/portel/resources/QuesProcessLineItemResource/save(com.aspigrow.portel.model.QuesProcessLineItemModel)#com/aspigrow/portel/exception/CommonRuntimeException/CommonRuntimeException(java.lang.String)
+com/aspigrow/portel/resources/QuesProcessLineItemResource/save(com.aspigrow.portel.model.QuesProcessLineItemModel)#com/aspigrow/portel/model/ErrorResponseWrapper/ErrorResponseWrapper(com.aspigrow.portel.model.ErrorResponse)
+com/aspigrow/portel/resources/QuesProcessLineItemResource/save(com.aspigrow.portel.model.QuesProcessLineItemModel)#com/aspigrow/portel/service/QuesProcessLineItemService/save(com.aspigrow.portel.model.QuesProcessLineItemModel)
+com/aspigrow/portel/resources/QuesProcessLineItemResource/save(com.aspigrow.portel.model.QuesProcessLineItemModel)#com/aspigrow/portel/model/QuesProcessLineItemModel/getExternalId()

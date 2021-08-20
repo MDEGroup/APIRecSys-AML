@@ -1,0 +1,4 @@
+collabstream/streaming/RatingsSource/nextTuple()#backtype/storm/tuple/Values/Values(java.lang.Object[])
+collabstream/streaming/RatingsSource/nextTuple()#java/io/BufferedReader/close()
+collabstream/streaming/RatingsSource/nextTuple()#org/apache/commons/lang/StringUtils/split(java.lang.String,char)
+collabstream/streaming/RatingsSource/nextTuple()#java/io/PrintStream/println(java.lang.String)

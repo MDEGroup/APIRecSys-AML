@@ -1,0 +1,4 @@
+org/linkeddata/triplegeo/TripleGeoTest/testDbToRdf()#org/linkeddata/triplegeo/Configuration/setDbPort(java.lang.String)
+org/linkeddata/triplegeo/TripleGeoTest/testDbToRdf()#org/linkeddata/triplegeo/Configuration/Configuration()
+org/linkeddata/triplegeo/TripleGeoTest/testDbToRdf()#org/linkeddata/triplegeo/Configuration/setDbHost(java.lang.String)
+org/linkeddata/triplegeo/TripleGeoTest/testDbToRdf()#org/linkeddata/triplegeo/Configuration/setDbName(java.lang.String)

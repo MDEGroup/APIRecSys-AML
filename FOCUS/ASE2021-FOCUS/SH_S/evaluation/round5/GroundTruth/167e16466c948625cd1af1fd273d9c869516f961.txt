@@ -1,0 +1,4 @@
+org/isisaddons/wicket/svg/cpt/applib/InteractiveMapTest/testReplaceFill()#org/isisaddons/wicket/svg/cpt/applib/InteractiveMap/InteractiveMap(java.lang.String)
+org/isisaddons/wicket/svg/cpt/applib/InteractiveMapTest/testReplaceFill()#java/lang/String/contains(java.lang.CharSequence)
+org/isisaddons/wicket/svg/cpt/applib/InteractiveMapTest/testReplaceFill()#org/isisaddons/wicket/svg/cpt/applib/InteractiveMapAttribute/InteractiveMapAttribute(java.lang.String,java.lang.String)
+org/isisaddons/wicket/svg/cpt/applib/InteractiveMapTest/testReplaceFill()#org/isisaddons/wicket/svg/cpt/applib/InteractiveMapElement/InteractiveMapElement(java.lang.String,java.lang.String)

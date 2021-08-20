@@ -1,0 +1,1 @@
+dao/LocationDAOImpl/deleteLocation(model.Location)#java/sql/PreparedStatement/setInt(int,int)

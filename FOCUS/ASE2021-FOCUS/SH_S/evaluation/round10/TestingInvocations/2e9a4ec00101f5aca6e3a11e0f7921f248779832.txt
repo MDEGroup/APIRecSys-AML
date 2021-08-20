@@ -1,0 +1,4 @@
+main/java/com/netty/EchoClient/main(java.lang.String[])#io/netty/channel/ChannelFuture/sync()
+main/java/com/netty/EchoClient/main(java.lang.String[])#io/netty/bootstrap/Bootstrap/connect(java.lang.String,int)
+main/java/com/netty/EchoClient/main(java.lang.String[])#io/netty/channel/ChannelFuture/channel()
+main/java/com/netty/EchoClient/main(java.lang.String[])#io/netty/bootstrap/AbstractBootstrap/handler(io.netty.channel.ChannelHandler)

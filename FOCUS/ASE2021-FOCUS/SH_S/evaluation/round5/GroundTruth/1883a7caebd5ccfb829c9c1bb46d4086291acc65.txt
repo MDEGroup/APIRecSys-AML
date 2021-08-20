@@ -1,0 +1,5 @@
+$/Environment/dumpConstantDeclarations(java.lang.Class)#java/lang/Class/getName()
+$/Environment/dumpConstantDeclarations(java.lang.Class)#java/lang/reflect/Field/getType()
+$/Environment/dumpConstantDeclarations(java.lang.Class)#java/lang/reflect/Modifier/isStatic(int)
+$/Environment/dumpConstantDeclarations(java.lang.Class)#java/io/PrintStream/println(java.lang.String)
+$/Environment/dumpConstantDeclarations(java.lang.Class)#java/lang/reflect/Field/getModifiers()

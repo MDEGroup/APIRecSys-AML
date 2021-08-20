@@ -1,0 +1,4 @@
+org/planningpoker/wicket/pages/PlanningPage/addPlanningRoundResultTable(org.apache.wicket.model.IModel)#org/planningpoker/wicket/behaviours/ajax/timer/compound/AjaxCompoundUpdatingTimerBehavior/add(org.planningpoker.wicket.behaviours.ajax.timer.compound.AjaxCompoundUpdatingTimerBehavior.IUpdatingListener)
+org/planningpoker/wicket/pages/PlanningPage/addPlanningRoundResultTable(org.apache.wicket.model.IModel)#org/apache/wicket/model/PropertyModel/PropertyModel(java.lang.Object,java.lang.String)
+org/planningpoker/wicket/pages/PlanningPage/addPlanningRoundResultTable(org.apache.wicket.model.IModel)#org/apache/wicket/Component/setOutputMarkupPlaceholderTag(boolean)
+org/planningpoker/wicket/pages/PlanningPage/addPlanningRoundResultTable(org.apache.wicket.model.IModel)#org/planningpoker/wicket/behaviours/ajax/timer/compound/ComponentUpdatingListener/ComponentUpdatingListener(T)

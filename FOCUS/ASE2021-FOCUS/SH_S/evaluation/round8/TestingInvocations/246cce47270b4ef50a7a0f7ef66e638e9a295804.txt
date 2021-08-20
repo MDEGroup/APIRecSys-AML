@@ -1,0 +1,4 @@
+storm/cookbook/tfidf/functions/TermFilter/prepare(java.util.Map,storm.cookbook.tfidf.functions.TridentOperationContext)#java/io/File/File(java.net.URI)
+storm/cookbook/tfidf/functions/TermFilter/prepare(java.util.Map,storm.cookbook.tfidf.functions.TridentOperationContext)#java/lang/Throwable/toString()
+storm/cookbook/tfidf/functions/TermFilter/prepare(java.util.Map,storm.cookbook.tfidf.functions.TridentOperationContext)#java/net/URL/toURI()
+storm/cookbook/tfidf/functions/TermFilter/prepare(java.util.Map,storm.cookbook.tfidf.functions.TridentOperationContext)#java/lang/Class/getResource(java.lang.String)

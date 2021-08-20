@@ -1,0 +1,4 @@
+cn/thinkjoy/utils4s/hive/json/JSONSerDe/parseMap(java.lang.Object,org.apache.hadoop.hive.serde2.typeinfo.MapTypeInfo)#cn/thinkjoy/utils4s/hive/json/JSONSerDe/parseField(java.lang.Object,org.apache.hadoop.hive.serde2.typeinfo.TypeInfo)
+cn/thinkjoy/utils4s/hive/json/JSONSerDe/parseMap(java.lang.Object,org.apache.hadoop.hive.serde2.typeinfo.MapTypeInfo)#java/util/Map/Entry/getValue()
+cn/thinkjoy/utils4s/hive/json/JSONSerDe/parseMap(java.lang.Object,org.apache.hadoop.hive.serde2.typeinfo.MapTypeInfo)#org/apache/hadoop/hive/serde2/typeinfo/MapTypeInfo/getMapValueTypeInfo()
+cn/thinkjoy/utils4s/hive/json/JSONSerDe/parseMap(java.lang.Object,org.apache.hadoop.hive.serde2.typeinfo.MapTypeInfo)#java/util/Map/Entry/getKey()

@@ -1,0 +1,4 @@
+org/wso2/rnd/nosql/GetConfigurations/parseDocument()#org/wso2/rnd/nosql/GetConfigurations/setClusterHost(java.lang.String)
+org/wso2/rnd/nosql/GetConfigurations/parseDocument()#org/wso2/rnd/nosql/GetConfigurations/getTextValue(org.w3c.dom.Element,java.lang.String)
+org/wso2/rnd/nosql/GetConfigurations/parseDocument()#org/wso2/rnd/nosql/GetConfigurations/setUsername(java.lang.String)
+org/wso2/rnd/nosql/GetConfigurations/parseDocument()#org/wso2/rnd/nosql/GetConfigurations/setClusterName(java.lang.String)

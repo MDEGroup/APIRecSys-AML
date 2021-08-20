@@ -1,0 +1,4 @@
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/util/ArrayList/ArrayList()
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/util/ArrayList/ArrayList(int)
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/lang/StringBuilder/append(java.lang.String)
+com/tchepannou/kiosk/core/text/Fragment/extractKeywords(int)#java/util/List/size()

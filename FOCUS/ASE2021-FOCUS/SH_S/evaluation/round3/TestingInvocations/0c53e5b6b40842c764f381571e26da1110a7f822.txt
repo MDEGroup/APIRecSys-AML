@@ -1,0 +1,4 @@
+com/example/client/common/PerformanceLog/getMemory()#com/sun/management/OperatingSystemMXBean/getTotalSwapSpaceSize()
+com/example/client/common/PerformanceLog/getMemory()#java/lang/Runtime/getRuntime()
+com/example/client/common/PerformanceLog/getMemory()#java/lang/management/ManagementFactory/getOperatingSystemMXBean()
+com/example/client/common/PerformanceLog/getMemory()#java/lang/Runtime/freeMemory()

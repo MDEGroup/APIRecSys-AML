@@ -1,0 +1,5 @@
+com/example/restapp/DummyBeanTest/testAddAsBean()#org/junit/Assert/assertNotNull(java.lang.Object)
+com/example/restapp/DummyBeanTest/testAddAsBean()#org/junit/Assert/assertEquals(long,long)
+com/example/restapp/DummyBeanTest/testAddAsBean()#com/example/restapp/business/DummyBean/setName(java.lang.String)
+com/example/restapp/DummyBeanTest/testAddAsBean()#javax/ws/rs/client/SyncInvoker/post(javax.ws.rs.client.Entity,java.lang.Class)
+com/example/restapp/DummyBeanTest/testAddAsBean()#org/glassfish/jersey/test/JerseyTest/target(java.lang.String)

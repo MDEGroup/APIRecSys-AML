@@ -1,0 +1,4 @@
+net/vvakame/vvakame10js/service/TwitterTokenService/getTwitterInstance(com.google.appengine.api.datastore.Key)#twitter4j/conf/ConfigurationBuilder/setOAuthAccessTokenSecret(java.lang.String)
+net/vvakame/vvakame10js/service/TwitterTokenService/getTwitterInstance(com.google.appengine.api.datastore.Key)#twitter4j/conf/ConfigurationBuilder/build()
+net/vvakame/vvakame10js/service/TwitterTokenService/getTwitterInstance(com.google.appengine.api.datastore.Key)#twitter4j/conf/ConfigurationBuilder/setOAuthConsumerKey(java.lang.String)
+net/vvakame/vvakame10js/service/TwitterTokenService/getTwitterInstance(com.google.appengine.api.datastore.Key)#net/vvakame/vvakame10js/model/TwitterToken/getTokenSecret()

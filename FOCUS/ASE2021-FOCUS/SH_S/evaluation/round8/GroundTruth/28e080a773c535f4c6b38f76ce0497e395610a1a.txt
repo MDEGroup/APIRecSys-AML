@@ -1,0 +1,2 @@
+com/ds/utils/ImgFontByte/getFont(int)#com/ds/utils/ImgFontByte/hex2byte(java.lang.String)
+com/ds/utils/ImgFontByte/getFont(int)#java/awt/Font/deriveFont(int,float)

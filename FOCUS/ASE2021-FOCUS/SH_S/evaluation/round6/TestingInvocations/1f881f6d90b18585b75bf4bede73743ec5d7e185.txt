@@ -1,0 +1,4 @@
+com/guillaumecl/caskdays/Main/configureUnirest(com.guillaumecl.caskdays.Config)#java/lang/Runtime/getRuntime()
+com/guillaumecl/caskdays/Main/configureUnirest(com.guillaumecl.caskdays.Config)#com/mashape/unirest/http/Unirest/setObjectMapper(com.mashape.unirest.http.ObjectMapper)
+com/guillaumecl/caskdays/Main/configureUnirest(com.guillaumecl.caskdays.Config)#com/guillaumecl/caskdays/Main/configureUnirest(com/guillaumecl/caskdays/Config)/$anonymous1/()
+com/guillaumecl/caskdays/Main/configureUnirest(com.guillaumecl.caskdays.Config)#java/lang/Thread/Thread(java.lang.Runnable)

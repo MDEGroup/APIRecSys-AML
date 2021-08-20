@@ -1,0 +1,4 @@
+kafka/New/Producer/run()#java/lang/Throwable/printStackTrace()
+kafka/New/Producer/run()#java/lang/Thread/sleep(long)
+kafka/New/Producer/run()#java/io/PrintStream/println(java.lang.String)
+kafka/New/Producer/run()#kafka/New/Producer/DemoCallBack/DemoCallBack(long,int,java.lang.String)

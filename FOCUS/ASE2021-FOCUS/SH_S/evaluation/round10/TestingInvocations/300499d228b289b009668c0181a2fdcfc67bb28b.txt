@@ -1,0 +1,4 @@
+com/nikolas/wicketsecurity/ui/pages/dashboard/Dashboard/onConfigure()#org/apache/wicket/Component/onConfigure()
+com/nikolas/wicketsecurity/ui/pages/dashboard/Dashboard/onConfigure()#org/apache/wicket/Application/get()
+com/nikolas/wicketsecurity/ui/pages/dashboard/Dashboard/onConfigure()#org/apache/wicket/authroles/authentication/AuthenticatedWebSession/get()
+com/nikolas/wicketsecurity/ui/pages/dashboard/Dashboard/onConfigure()#org/apache/wicket/authroles/authentication/AuthenticatedWebSession/isSignedIn()

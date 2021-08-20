@@ -1,0 +1,4 @@
+de/l3s/warc/reader/ext/HtmlUtils/exec(java.lang.String)#org/jsoup/Jsoup/parse(java.lang.String)
+de/l3s/warc/reader/ext/HtmlUtils/exec(java.lang.String)#java/io/IOException/IOException(java.lang.String,java.lang.Throwable)
+de/l3s/warc/reader/ext/HtmlUtils/exec(java.lang.String)#java/util/HashMap/put(K,V)
+de/l3s/warc/reader/ext/HtmlUtils/exec(java.lang.String)#java/lang/String/length()

@@ -1,0 +1,4 @@
+org/ircclient/controller/ChatBean/onJoin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)#org/ircclient/controller/ChatBean/getMessagesSubtopic()
+org/ircclient/controller/ChatBean/onJoin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)#java/text/DateFormat/getInstance()
+org/ircclient/controller/ChatBean/onJoin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)#java/util/Date/Date()
+org/ircclient/controller/ChatBean/onJoin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)#org/ircclient/controller/ChatBean/getListSubtopic()

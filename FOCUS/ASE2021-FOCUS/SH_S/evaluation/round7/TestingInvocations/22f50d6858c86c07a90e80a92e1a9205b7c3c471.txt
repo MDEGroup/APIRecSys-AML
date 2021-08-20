@@ -1,0 +1,4 @@
+com/novthir/security/service/impl/OrganizationServiceImpl/makeTree(java.util.List)#java/util/ArrayList/ArrayList()
+com/novthir/security/service/impl/OrganizationServiceImpl/makeTree(java.util.List)#java/util/ArrayList/ArrayList(int)
+com/novthir/security/service/impl/OrganizationServiceImpl/makeTree(java.util.List)#com/novthir/security/entity/Organization/getParent()
+com/novthir/security/service/impl/OrganizationServiceImpl/makeTree(java.util.List)#java/util/List/removeAll(java.util.Collection)

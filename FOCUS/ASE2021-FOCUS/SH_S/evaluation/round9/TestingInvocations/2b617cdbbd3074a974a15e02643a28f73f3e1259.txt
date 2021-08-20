@@ -1,0 +1,4 @@
+org/apache/servicemix/examples/camel/rest/client/Client/getPerson(int)#java/net/URLConnection/setDoInput(boolean)
+org/apache/servicemix/examples/camel/rest/client/Client/getPerson(int)#java/io/PrintStream/println(java.lang.String)
+org/apache/servicemix/examples/camel/rest/client/Client/getPerson(int)#java/net/URLConnection/getInputStream()
+org/apache/servicemix/examples/camel/rest/client/Client/getPerson(int)#org/apache/servicemix/examples/camel/rest/client/Client/connect(java.lang.String)

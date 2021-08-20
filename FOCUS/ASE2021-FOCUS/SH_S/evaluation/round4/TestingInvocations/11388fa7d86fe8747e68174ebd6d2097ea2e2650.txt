@@ -1,0 +1,4 @@
+fr/grislain/math/tensor/Tensors/toString(fr.grislain.math.tensor.Tensor)#fr/grislain/math/tensor/Tensor/forEach(java.util.function.Consumer,java.util.function.Consumer,java.util.function.Consumer,java.util.function.Consumer)
+fr/grislain/math/tensor/Tensors/toString(fr.grislain.math.tensor.Tensor)#java/lang/StringBuilder/StringBuilder()
+fr/grislain/math/tensor/Tensors/toString(fr.grislain.math.tensor.Tensor)#fr/grislain/math/tensor/Tensor/dim()
+fr/grislain/math/tensor/Tensors/toString(fr.grislain.math.tensor.Tensor)#java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

@@ -1,0 +1,2 @@
+com/example/client/common/PerformanceLog/getMemory()#com/sun/management/OperatingSystemMXBean/getFreePhysicalMemorySize()
+com/example/client/common/PerformanceLog/getMemory()#java/lang/Runtime/totalMemory()

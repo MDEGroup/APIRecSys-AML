@@ -1,0 +1,4 @@
+com/howtodoinjava/jersey/client/JerseyClientExamples/main(java.lang.String[])#com/howtodoinjava/jersey/client/JerseyClientExamples/httpGETCollectionExample()
+com/howtodoinjava/jersey/client/JerseyClientExamples/main(java.lang.String[])#com/howtodoinjava/jersey/client/JerseyClientExamples/httpPUTMethodExample()
+com/howtodoinjava/jersey/client/JerseyClientExamples/main(java.lang.String[])#com/howtodoinjava/jersey/client/JerseyClientExamples/httpDELETEMethodExample()
+com/howtodoinjava/jersey/client/JerseyClientExamples/main(java.lang.String[])#com/howtodoinjava/jersey/client/JerseyClientExamples/httpPOSTMethodExample()

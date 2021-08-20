@@ -1,0 +1,4 @@
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/kie/api/runtime/manager/RuntimeEnvironmentBuilder/get()
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/jbpm/services/task/identity/JBossUserGroupCallbackImpl/JBossUserGroupCallbackImpl(java.lang.String)
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#javax/persistence/Persistence/createEntityManagerFactory(java.lang.String)
+org/jbpm/demo/evaluation/ProcessMain/createRuntimeManager(org.kie.api.KieBase)#org/jbpm/test/JBPMHelper/startH2Server()

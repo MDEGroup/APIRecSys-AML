@@ -1,0 +1,4 @@
+br/com/geladaonline/services/CervejaService/recuperaImagem(java.lang.String)#java/lang/Class/getResourceAsStream(java.lang.String)
+br/com/geladaonline/services/CervejaService/recuperaImagem(java.lang.String)#java/io/InputStream/available()
+br/com/geladaonline/services/CervejaService/recuperaImagem(java.lang.String)#java/io/InputStream/read(byte[])
+br/com/geladaonline/services/CervejaService/recuperaImagem(java.lang.String)#br/com/geladaonline/util/Hash/hash(java.lang.Object)

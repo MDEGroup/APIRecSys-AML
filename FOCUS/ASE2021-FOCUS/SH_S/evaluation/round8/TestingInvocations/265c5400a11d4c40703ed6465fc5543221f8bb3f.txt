@@ -1,0 +1,4 @@
+com/example/sdn4rc2/service/CustomerService/convertToEntity(com.example.sdn4rc2.web.CustomerForm)#com/example/sdn4rc2/web/CustomerForm/getCity()
+com/example/sdn4rc2/service/CustomerService/convertToEntity(com.example.sdn4rc2.web.CustomerForm)#com/example/sdn4rc2/web/CustomerForm/getRegion()
+com/example/sdn4rc2/service/CustomerService/convertToEntity(com.example.sdn4rc2.web.CustomerForm)#com/example/sdn4rc2/web/CustomerForm/getCustomerID()
+com/example/sdn4rc2/service/CustomerService/convertToEntity(com.example.sdn4rc2.web.CustomerForm)#com/example/sdn4rc2/web/CustomerForm/getId()

@@ -1,0 +1,4 @@
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#org/wicketstuff/calendarviews/model/BasicEvent/setEndTime(java.util.Date)
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#org/wicketstuff/calendarviews/model/BasicEvent/setStartTime(java.util.Date)
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#org/wicketstuff/calendarviews/model/BasicCategorizedEvent/setCssClassForCategory(java.lang.String)
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)#java/util/Random/nextInt(int)

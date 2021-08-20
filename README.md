@@ -345,8 +345,8 @@ on the injected input data:
 $ git clone git@github.com:mast-group/api-mining.git APIRecSys-AML/UPMiner_PAM/
 $ cd APIRecSys-AML/UPMiner_PAM/
 $ mvn package
-$ for f in <injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar apimining.pam.main.PAM -f $f; done
-$ for f in <injected_dataset> *; do java -jar api-mining/target/api-mining-1.0.jar pimining.upminer.UPMiner -f $f; done
+$ for f in <injected_dataset>/*; do java -cp api-mining/target/api-mining-1.0.jar apimining.pam.main.PAM -f $f -o <outputfile>; done
+$ for f in <injected_dataset>/*; do java -cp api-mining/target/api-mining-1.0.jar apimining.upminer.UPMiner -f $f -o <outputfolder>; done
 ```
 
 where is the path of the dataset injected by fake APIs.

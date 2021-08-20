@@ -1,0 +1,2 @@
+study/services/UsersService/register(java.lang.String,java.lang.String,java.lang.String,study.models.User.Permissions)#org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder/encode(java.lang.CharSequence)
+study/services/UsersService/register(java.lang.String,java.lang.String,java.lang.String,study.models.User.Permissions)#org/springframework/data/repository/CrudRepository/save(S)

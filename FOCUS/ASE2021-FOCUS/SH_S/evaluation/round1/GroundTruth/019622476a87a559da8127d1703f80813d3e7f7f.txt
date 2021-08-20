@@ -1,0 +1,3 @@
+cn/lcf/entity/LetterFrequency/generateData()#cn/lcf/entity/LetterFrequency/setLetter(char)
+cn/lcf/entity/LetterFrequency/generateData()#cn/lcf/entity/LetterFrequency/LetterFrequency()
+cn/lcf/entity/LetterFrequency/generateData()#java/util/Random/nextInt(int)

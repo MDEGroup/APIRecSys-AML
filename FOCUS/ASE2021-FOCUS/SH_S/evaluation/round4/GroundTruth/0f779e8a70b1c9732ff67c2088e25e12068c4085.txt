@@ -1,0 +1,5 @@
+com/flavien/service/impl/UserServiceImpl/loadUserByUsername(java.lang.String)#com/flavien/models/User/getUsername()
+com/flavien/service/impl/UserServiceImpl/loadUserByUsername(java.lang.String)#org/springframework/security/core/authority/SimpleGrantedAuthority/SimpleGrantedAuthority(java.lang.String)
+com/flavien/service/impl/UserServiceImpl/loadUserByUsername(java.lang.String)#java/util/List/add(E)
+com/flavien/service/impl/UserServiceImpl/loadUserByUsername(java.lang.String)#com/flavien/models/User/getRole()
+com/flavien/service/impl/UserServiceImpl/loadUserByUsername(java.lang.String)#java/util/ArrayList/ArrayList()

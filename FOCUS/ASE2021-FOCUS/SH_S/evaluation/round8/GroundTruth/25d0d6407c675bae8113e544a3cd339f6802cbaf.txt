@@ -1,0 +1,2 @@
+com/egnore/cmhelper/CMExecutor/settingsToXML(com.egnore.common.StringPairs)#java/lang/StringBuilder/toString()
+com/egnore/cmhelper/CMExecutor/settingsToXML(com.egnore.common.StringPairs)#java/lang/StringBuilder/StringBuilder()

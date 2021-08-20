@@ -1,0 +1,4 @@
+app/util/HtmlSpecialChars/replaceChars(java.lang.String)#java/lang/String/length()
+app/util/HtmlSpecialChars/replaceChars(java.lang.String)#java/lang/StringBuilder/StringBuilder()
+app/util/HtmlSpecialChars/replaceChars(java.lang.String)#java/lang/StringBuilder/append(char)
+app/util/HtmlSpecialChars/replaceChars(java.lang.String)#java/lang/StringBuilder/toString()

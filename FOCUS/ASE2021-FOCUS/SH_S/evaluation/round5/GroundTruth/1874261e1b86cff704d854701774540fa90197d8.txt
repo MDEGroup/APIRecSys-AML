@@ -1,0 +1,3 @@
+zx/soft/api/controller/OauthController/deleteOauthUsers(java.lang.String,java.lang.String)#zx/soft/api/service/CurdService/deleteOauthUserTW(java.lang.String)
+zx/soft/api/controller/OauthController/deleteOauthUsers(java.lang.String,java.lang.String)#zx/soft/api/domain/ErrorResponse/Builder/Builder(int,java.lang.String)
+zx/soft/api/controller/OauthController/deleteOauthUsers(java.lang.String,java.lang.String)#zx/soft/api/service/CurdService/deleteOauthUserGP(java.lang.String)
