@@ -79,12 +79,12 @@ it comes to populating artificial projects with fake APIs.
 We opted for the following sets of parameters:
 \alpha={5%,10%,15%,20%}, \beta={40%,50%,60%},
 \Omega={1,2}. The rationale behind the selection of these values
-is as follows. Concerning $\alpha$, though having popular APIs is
+is as follows. Concerning \alpha, though having popular APIs is
 commonplace, it is difficult to rack up projects with malicious APIs,
 thus \alpha is set to the following thresholds
 \alpha={5%,10%,15%,20%}. In contrast, within a project,
 attackers have more freedom to embed APIs to declarations, therefore
-$\beta$ is varied from 40%, 50%, to 60%. Finally, the number of fake
+\beta is varied from 40%, 50%, to 60%. Finally, the number of fake
 APIs should be kept low to make attacks more feasible,
 i.e., \Omega={1,2}. We study how the calibration of the parameters
 affects the final efficiency, aiming to anticipate the extent to which
@@ -99,7 +99,7 @@ experiments. The software and hardware configurations for the testing platform a
 
 | System                                    | Working mechanism                                                                                                                                                                                                                                                                       | Potential risks                                                                                                                                                                                                                        |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| UP-Mine                        | UP-Miner works on the basis of clustering, is dependent on the similarity among API sequences. It computing. In other words, UP-Miner computes similarity at the sequence level, \ie APIs that are usually found together using BIDE. Finally, it clusters to group frequent sequences into patterns. | Similar to MAPO, as UP-Miner depends on BIDE, an attacker can inject malicious code in the training in projects disguised as similar to trick \UM. In this way, it may recommend to developers harmful snippets.                                     |
+| UP-Miner                        | UP-Miner works on the basis of clustering, is dependent on the similarity among API sequences. It computing. In other words, UP-Miner computes similarity at the sequence level, \ie APIs that are usually found together using BIDE. Finally, it clusters to group frequent sequences into patterns. | Similar to MAPO, as UP-Miner depends on BIDE, an attacker can inject malicious code in the training in projects disguised as similar to trick \UM. In this way, it may recommend to developers harmful snippets.                                     |
 | PAM          | PAM defines a distribution over all possible API patterns in client code, based on a set of patterns. It uses a generative model to infer the most probable patterns. The system generates candidates by relying on the highest support first rule.                                              | The system recommends API calls that commonly appear in different code snippets. Thus, push and nuke attacks could modify the final ranking obtained by the tool, \ie operating on terms' occurrences to favor or defame a certain API pattern. |
 | FOCUS  | FOCUS suggests APIs by encoding projects in a tensor and using a collaborative-filtering technique to deliver the list of APIs. Eventually, it mines APIs and snippets from similar projects with a graph representation.                                                                          | Due to the internal design, the system is susceptible to poisoning attacks, \ie an adversary can create fake similar projects containing toxic APIs and pose them as legitimate to deceiving FOCUS into recommending these calls/snippets.   
 
@@ -349,7 +349,7 @@ $ for f in <injected_dataset>/*; do java -cp api-mining/target/api-mining-1.0.ja
 $ for f in <injected_dataset>/*; do java -cp api-mining/target/api-mining-1.0.jar apimining.upminer.UPMiner -f $f -o <outputfolder>; done
 ```
 
-where is the path of the dataset injected by fake APIs.
+where `<injected_dataset>` is the path where the dataset being injected by fake APIs is stored.
 
 # How to cite
 If you find our work useful for your research, please cite the papers using the following BibTex entries:
