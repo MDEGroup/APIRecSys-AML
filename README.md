@@ -1,6 +1,6 @@
 # Abstract
 
-This document provides instructions on how to get the datasets, to
+The README.MD file provides instructions on how to get the datasets, to
 obtain, install, as well as to execute the tools for replicating the
 experiments described in our paper entitled *"Adversarial Attacks to API
 Recommender Systems: Time to Wake Up and Smell the Coffee?"* accepted in
