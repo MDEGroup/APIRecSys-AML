@@ -349,16 +349,15 @@ where `<injected_dataset>` is the path where the dataset being injected by fake 
 If you find our work useful for your research, please cite the paper and the artifacts using the following BibTex entries:
 
 ```
-@inproceedings{Nguyen:2019:FRS:3339505.3339636,
- author = {Nguyen, Phuong T. and Di Sipio, Claudio and Di Rocco, Juri and Di Penta, Massimiliano and Di Ruscio, Davide},
- title = {{Adversarial Attacks to API Recommender Systems: Time to Wake Up and Smell the Coffee?}},
- booktitle = {Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering},
- series = {ASE '21},
- year = {2021},
- location = {Melbourne, Australia}, 
- publisher = {IEEE Press},
- address = {Piscataway, NJ, USA},
-} 
+@INPROCEEDINGS{9678946,
+  author={Nguyen, Phuong T. and {Di Sipio}, Claudio and {Di Rocco}, Juri and {Di Penta}, Massimiliano and {Di Ruscio}, Davide},
+  booktitle={2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)}, 
+  title={Adversarial Attacks to API Recommender Systems: Time to Wake Up and Smell the Coffee?}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={253-265},
+  doi={10.1109/ASE51524.2021.9678946}}
 
 ```
 and
